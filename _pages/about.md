@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! I'm Fengming Lin
+Hello there! I'm Fengming Lin (林枫茗).
+
 As a PhD student at the [School of Computing, University of Leeds](https://eps.leeds.ac.uk/computing), I'm fortunate to be mentored by [Prof. Alejandro Frangi](https://research.manchester.ac.uk/en/persons/alejandro-frangi), alongside [Dr. Nishant Ravikumar](https://eps.leeds.ac.uk/computing/staff/1846/dr-nishant-ravikumar) and [Dr. Yan Xia](https://www.yannxia.com/). My research is at the exciting crossroads of Machine Learning, Computer Vision, and Medical Image Analysis.  This journey in academia began at [Shandong University](https://www.en.sdu.edu.cn/) (China, Project 985, Project 211), where I received my B.S. in Communication Engineering and M.S. in Electronics and Communication Engineering, focusing on signals and systems, and the application of deep learning in medical image analysis.
 
 A data-driven personal website
