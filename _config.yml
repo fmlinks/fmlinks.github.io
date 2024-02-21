@@ -12,7 +12,7 @@ title                    : "Fengming Lin"
 title_separator          : "-"
 name                     : &name "Fengming Lin"
 description              : &description "Hello there"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fmlinks.github.io # the base hostname & protocol for your site e.g. "https://fmlinks.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fmlinks/fmlinks.github.io"
 
@@ -36,15 +36,15 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=2zWejroAAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-8944-6890"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Fengming-Lin-3"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "fmlinks"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
