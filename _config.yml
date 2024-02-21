@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Fengming Lin / Site Title"
+title                    : "Fengming Lin"
 title_separator          : "-"
 name                     : &name "Fengming Lin"
 description              : &description "Hello there"
@@ -21,7 +21,7 @@ repository               : "fmlinks/fmlinks.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "portrait.png"
   name             : "Fengming Lin"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student"
