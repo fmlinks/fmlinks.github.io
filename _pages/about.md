@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Fengming Lin"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello there! I'm Fengming Lin
+As a PhD student at the [School of Computing, University of Leeds](https://eps.leeds.ac.uk/computing), I'm fortunate to be mentored by [Prof. Alejandro Frangi](https://research.manchester.ac.uk/en/persons/alejandro-frangi), alongside [Dr. Nishant Ravikumar](https://eps.leeds.ac.uk/computing/staff/1846/dr-nishant-ravikumar) and [Dr. Yan Xia](https://www.yannxia.com/). My research is at the exciting crossroads of Machine Learning, Computer Vision, and Medical Image Analysis.  This journey in academia began at [Shandong University](https://www.en.sdu.edu.cn/) (China, Project 985, Project 211), where I received my B.S. in Communication Engineering and M.S. in Electronics and Communication Engineering, focusing on signals and systems, and the application of deep learning in medical image analysis.
 
 A data-driven personal website
 ======
