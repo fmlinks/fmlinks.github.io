@@ -16,7 +16,7 @@ I received my B.S. and M.S. degree in [School of Information Science and Enginee
 
 Research
 ======
-My research area is in artificial intelligence (AI) for Medical Image Analysis. Specifically, I focus on developing automatic pipeline for in-silico clinical trials (e.g., segmentation/domain adaptation/domain generalization/physics-informed neural networks, PINNs).
+My research area is in artificial intelligence (AI) for Medical Image Analysis. Specifically, I focus on developing automatic pipeline for in-silico clinical trials. e.g., segmentation/domain adaptation/domain generalization/physics-informed neural networks (PINNs).
 
 News
 ======
