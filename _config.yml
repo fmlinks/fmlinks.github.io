@@ -10,10 +10,8 @@
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Fengming Lin"
-description              : &description "Hello there! I'm Fengming Lin (林枫茗)
-As a PhD student at the School of Computing, University of Leeds, I'm fortunate to be mentored by Prof. Alejandro Frangi, alongside Dr. Nishant Ravikumar and Dr. Yan Xia
-My research is at the exciting crossroads of Machine Learning, Computer Vision, and Medical Image Analysis.  This journey in academia began at Shandong University (China, Project 985, Project 211), where I received my B.S. in Communication Engineering and M.S. in Electronics and Communication Engineering, focusing on signals and systems, and the application of deep learning in medical image analysis."
+name                     : &name "Your Name"
+description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
