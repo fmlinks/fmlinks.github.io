@@ -18,8 +18,6 @@ Research
 ======
 My research area is in artificial intelligence (AI) for Medical Image Analysis. Specifically, I focus on developing automatic pipeline for in-silico clinical trials (e.g., segmentation/domain adaptation/domain generalization/physics-informed neural networks, PINNs).
 
-I am looking for a Postdoctoral position in the later half of 2024; please feel free to contact me if you are interested!
-
 News
 ======
 A
