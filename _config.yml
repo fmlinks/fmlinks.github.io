@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "portrait.png"
   name             : "Fengming Lin"
-  pronouns         : he/his# example: "she/her"  
+  pronouns         : # example: "he/his"  
   bio              : "Ph.D. student"
   location         : "U.K."
   employer         : "University of Leeds"
