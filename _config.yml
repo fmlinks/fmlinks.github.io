@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Fengming Lin / Site Title"
 title_separator          : "-"
 name                     : &name "Fengming Lin"
 description              : &description "Hello there! I'm Fengming Lin
@@ -16,7 +16,7 @@ As a PhD student at the School of Computing, University of Leeds, I'm fortunate 
 My research is at the exciting crossroads of Machine Learning, Computer Vision, and Medical Image Analysis.  This journey in academia began at Shandong University (China, Project 985, Project 211), where I received my B.S. in Communication Engineering and M.S. in Electronics and Communication Engineering, focusing on signals and systems, and the application of deep learning in medical image analysis."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "fmlinks/fmlinks.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
