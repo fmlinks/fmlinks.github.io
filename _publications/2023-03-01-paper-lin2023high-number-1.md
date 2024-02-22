@@ -15,4 +15,8 @@ Methods:We propose a novel multi-class convolutional neural network to tackle th
 
 Results:On the internal clinical dataset, our method consistently outperformed several state-of-the-art approaches for vessel and aneurysm segmentation, achieving an average Dice score of 0.81 (0.15 higher than nnUNet) and an average surface-to-surface error of 0.20 mm (less than the in-plane resolution (0.35 mm/pixel)) for aneurysm segmentation; and an average Dice score of 0.91 and average surface-to-surface error of 0.25 mm for vessel segmentation. In 223 cases of a clinical dataset, our method accurately segmented 190 aneurysm cases.
 
+
+![Editing a markdown file for a talk](/images/editing-talk.png)
+
+
 Conclusions:The proposed approach can help address class imbalance problems and inter-class interference problems in multi-class segmentation. Besides, this method performs consistently on clinical datasets from four different sources and the generated results are qualified for hemodynamic simulation. Code available at [https://github.com/cistib/vessel-aneurysm-segmentation](https://github.com/cistib/vessel-aneurysm-segmentation).
