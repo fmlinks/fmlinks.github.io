@@ -4,7 +4,7 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/ima
 collection: portfolio
 ---
 
-On the internal clinical dataset, our method consistently outperformed several state-of-the-art approaches for vessel and aneurysm segmentation, achieving an average Dice score of 0.81 (0.15 higher than nnUNet) and an average surface-to-surface error of 0.20 mm (less than the in-plane resolution (0.35 mm/pixel)) for aneurysm segmentation; and an average Dice score of 0.91 and average surface-to-surface error of 0.25 mm for vessel segmentation. In 223 cases of a clinical dataset, our method accurately segmented 190 aneurysm cases.
+This work aims to alleviate class imbalance and inter-class interference, which are common and challenging problems in cerebrovascular and aneurysm segmentation. The deliberately designed network architectures such as the cascaded transformer, multi-view block, and wide block as well as the proposed post-processing strategies of the majority voting and self-refinement contribute positively to mining vascular and aneurysm features through the proposed end-to-end trainable network. The aforementioned issues are also present in brain MRA and CTA when it comes to cerebrovascular and aneurysm segmentation. The proposed model is generic and can be applied to mitigate the issues of class imbalance and inter-class interference in brain MRA and CTA, promising to facilitate accurate clinical analyses. The systematic evaluation of the model performance on other modalities would be the scope of future work.
 
 
 ### Introduction
@@ -21,6 +21,8 @@ Cropped vessels share similarities in topology and appearance with aneurysms nea
 
 ![Editing a markdown file for a talk](/images/image_lin2023high_2.png)
 3D renderings of obtained segmentations after different steps.
+
+On the internal clinical dataset, our method consistently outperformed several state-of-the-art approaches for vessel and aneurysm segmentation, achieving an average Dice score of 0.81 (0.15 higher than nnUNet) and an average surface-to-surface error of 0.20 mm (less than the in-plane resolution (0.35 mm/pixel)) for aneurysm segmentation; and an average Dice score of 0.91 and average surface-to-surface error of 0.25 mm for vessel segmentation. In 223 cases of a clinical dataset, our method accurately segmented 190 aneurysm cases.
 
 
 
