@@ -24,7 +24,7 @@ Cropped vessels share similarities in topology and appearance with aneurysms nea
 
 On the internal clinical dataset, our method consistently outperformed several state-of-the-art approaches for vessel and aneurysm segmentation, achieving an average Dice score of 0.81 (0.15 higher than nnUNet) and an average surface-to-surface error of 0.20 mm (less than the in-plane resolution (0.35 mm/pixel)) for aneurysm segmentation; and an average Dice score of 0.91 and average surface-to-surface error of 0.25 mm for vessel segmentation. In 223 cases of a clinical dataset, our method accurately segmented 190 aneurysm cases.
 
-
+![Editing a markdown file for a talk](/images/image_lin2023high_table3.png)
 
 
 
