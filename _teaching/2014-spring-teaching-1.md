@@ -10,7 +10,7 @@ location: "Leeds, UK"
 
 Teaching Assistant for Centre for Satellite Data in Environmental Science, University of Leeds
 
-Designing lesson plans
+Lesson Plans Designment
 ======
 Design segmentation code applicable to atmospheric data in the Faculty of Environment.
 
