@@ -1,10 +1,10 @@
 ---
 title: "Aneurysm Segmentation"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/image_lin2023high_1.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/image_lin2023high_2.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+On the internal clinical dataset, our method consistently outperformed several state-of-the-art approaches for vessel and aneurysm segmentation, achieving an average Dice score of 0.81 (0.15 higher than nnUNet) and an average surface-to-surface error of 0.20 mm (less than the in-plane resolution (0.35 mm/pixel)) for aneurysm segmentation; and an average Dice score of 0.91 and average surface-to-surface error of 0.25 mm for vessel segmentation. In 223 cases of a clinical dataset, our method accurately segmented 190 aneurysm cases.
 
 
 ### Introduction
