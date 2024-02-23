@@ -1,6 +1,6 @@
 ---
 title: "Brain Tumor Segmentation"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Brain Tumor Segmentation with three different methods.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
