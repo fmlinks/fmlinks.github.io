@@ -12,34 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in School of Computing, University of Leeds, 2024 (expected)
-* M.S. in School of , Shandong University, 2014
-* B.S. in GitHub, Shandong University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* M.S. in School of Information Science and Engineering, Shandong University, 2017-2020
+* B.S. in School of Information Science and Engineering, Shandong University, Shandong University, 2013-2017
 
 Publications
 ======
@@ -47,10 +21,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Projects
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+  <ul>{% for post in site.portfolio reversed %}
+    {% include archive-single-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
@@ -60,5 +34,7 @@ Teaching
   {% endfor %}</ul>
   
 Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Vice-President of the Student Union, 2016
+* Head of the Student Union Planning Department, 2015
+* Head of Science, Technology and Academic Department, Student Union, 2014
+* Nursing Home Volunteer, 2014
