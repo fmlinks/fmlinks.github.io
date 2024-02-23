@@ -35,9 +35,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=2zWejroAAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : "http://orcid.org/0000-0001-8944-6890"
+  orcid            : # "http://orcid.org/0000-0001-8944-6890"
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Fengming-Lin-3"
+  researchgate     : # "https://www.researchgate.net/profile/Fengming-Lin-3"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
