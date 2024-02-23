@@ -11,5 +11,5 @@ citation: 'Lin F, Wu Q, Liu J, et al. Path aggregation U-Net model for brain tum
 
 The deep neural network has been widely used in semantic segmentation, especially in tumor image segmentation. The segmentation performance of traditional methods cannot meet the high standard of clinical application. In this paper, we propose a new neural network model called path aggregation U-Net (PAU-Net) model for brain tumor segmentation with multi-modality magnetic resonance imaging (MRI). Specifically, we shorten the distance between output layers and deep features by bottom-up path aggregation encoder (PA), reducing the introduction of noises. We present the enhanced decoder (ED) to reserve more intact information. The efficient feature pyramid (EFP) is used to improve mask prediction further, using fewer resources to complete the feature pyramid effect. Finally, experiments in BraTS2017 and BraTS2018 datasets are performed. The results show that the proposed method outperforms state-of-the-art methods.
 
-Example: editing a markdown file for a talk
+Main structure of PAU-Net
 ![Main structure](/images/image_lin2021path_main.png)
