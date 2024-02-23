@@ -2,7 +2,7 @@
 title: "FMNet: feature mining networks for brain tumor segmentation"
 collection: IEEE
 permalink: /publication/2019-11-04-paper-lin2019fmnet
-excerpt: 'Brain tumor segmentation'
+excerpt: 'Brain Tumor Segmentation'
 date: 2019-11-04
 venue: '2019 IEEE 31st International Conference on Tools with Artificial Intelligence (ICTAI)'
 paperurl: 'http://fmlinks.github.io/files/paper_lin2019fmnet.pdf'
