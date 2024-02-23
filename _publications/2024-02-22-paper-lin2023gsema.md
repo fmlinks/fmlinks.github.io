@@ -2,7 +2,7 @@
 title: "GS-EMA: Integrating Gradient Surgery Exponential Moving Average with Boundary-Aware Contrastive Learning for Enhanced Domain Generalization in Aneurysm Segmentation"
 collection: IEEE
 permalink: /publication/2024-02-22-paper-lin2023gsema
-excerpt: 'Domain Generalization, Gradient Surgery, Contrastive Learning, Aneurysm Segmentation'
+excerpt: 'Domain Generalization, Gradient Surgery, Contrastive Learning'
 date: 2024-02-22
 venue: 'ISBI'
 paperurl: 'http://fmlinks.github.io/files/paper_lin2023gsema.pdf'
