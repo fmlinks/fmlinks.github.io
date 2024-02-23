@@ -2,7 +2,7 @@
 title: "Path aggregation U-Net model for brain tumor segmentation"
 collection: Springer
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about brain tumor segmentation.'
+excerpt: 'Brain tumor segmentation.'
 date: 2020-03-19
 venue: 'Multimedia Tools and Applications'
 paperurl: 'http://fmlinks.github.io/files/paper_lin2021path.pdf'
