@@ -4,7 +4,7 @@ collection: IEEE
 permalink: /publication/2024-02-22-paper-lin2023gsema
 excerpt: 'Domain Generalization, Gradient Surgery, Contrastive Learning, Aneurysm Segmentation'
 date: 2024-02-22
-venue: 'ISBI 2024'
+venue: 'ISBI'
 paperurl: 'http://fmlinks.github.io/files/paper_lin2023gsema.pdf'
 # citation: 'Fengming Lin*, Yan Xia*, Michael MacRaild, Yash Deo, Haoran Dou, Qiongyao Liu, Nina Cheng, Nishant Ravikumar**, Alejandro F. Frangi**'
 ---
