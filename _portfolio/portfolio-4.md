@@ -1,6 +1,6 @@
 ---
 title: "Aneurysm Segmentation"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/image_lin2023high_2.png'>"
+excerpt: "This work aims to alleviate class imbalance and inter-class interference.<br/><img src='/images/image_lin2023high_2.png'>"
 collection: portfolio
 ---
 
