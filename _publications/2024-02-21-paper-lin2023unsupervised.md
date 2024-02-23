@@ -4,7 +4,7 @@ collection: IEEE
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Domain Adaptation, Vessel Segmentation'
 date: 2024-02-21
-venue: 'ISBI 2024'
+venue: 'ISBI'
 paperurl: 'http://fmlinks.github.io/files/paper_lin2023unsupervised.pdf'
 citation: 'Fengming Lin*, Yan Xia*, Michael MacRaild, Yash Deo, Haoran Dou, Qiongyao Liu, Kun Wu, Nishant Ravikumar**, Alejandro F. Frangi**'
 ---
