@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Ph.D. first year course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Leeds, [SENSE – Centre for Satellite Data in Environmental Science](https://eo-cdt.org/)"
+date: 2023-03
+location: "Leeds, UK"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Designing lesson plans
 ======
+Design segmentation code applicable to atmospheric data in the Faculty of Environment.
 
-Heading 2
+Q&A Session
 ======
-
-Heading 3
-======
+Answers to code problems encountered by students. Mentoring outstanding students in extensible directions.
