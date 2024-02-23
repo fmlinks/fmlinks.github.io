@@ -12,7 +12,7 @@ Brain vasculature segmentation in 3DRA and MRA modalities continues to be an ope
 
 #### 3DRA Modality 
 
-Joint <span style="color: red;">1st</span> place in [ISBI 2023 SHINY Challenge Top5 Leaderboard](https://www.synapse.org/#!Synapse:syn45774070/wiki/621710). Our team name is FunPixel.
+<span style="color: red;">Joint  1st</span> place in [ISBI 2023 SHINY Challenge Top5 Leaderboard](https://www.synapse.org/#!Synapse:syn45774070/wiki/621710). Our team name is FunPixel.
 
 ![Editing a markdown file for a talk](/images/gif_shiny-icarus.gif)
 
