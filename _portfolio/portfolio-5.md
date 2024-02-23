@@ -1,6 +1,6 @@
 ---
 title: "Segmentation with Ambiguous/Partial Label"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/image_lin2023Adaptive_main.png'>"
 collection: portfolio
 ---
 
