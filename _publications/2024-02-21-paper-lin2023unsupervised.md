@@ -2,7 +2,7 @@
 title: "Unsupervised Domain Adaptation for Brain Vessel Segmentation through Transwarp Contrastive Learning"
 collection: IEEE
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'Domain Adaptation'
+excerpt: 'Domain Adaptation, Vessel Segmentation'
 date: 2024-02-21
 venue: 'ISBI 2024'
 paperurl: 'http://fmlinks.github.io/files/paper_lin2023unsupervised.pdf'
