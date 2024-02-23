@@ -2,7 +2,7 @@
 title: "Adaptive Semi-Supervised Segmentation of Brain Vessels with Ambiguous Labels"
 collection: Springer
 permalink: /publication/2023-08-07-paper-lin2023adaptive
-excerpt: 'Semi-Supervised Learning, Vessel Segmentation'
+excerpt: 'Semi-Supervised Learning'
 date: 2023-08-07
 venue: 'MICCAI DALI'
 paperurl: 'http://fmlinks.github.io/files/paper_lin2023adaptive.pdf'
