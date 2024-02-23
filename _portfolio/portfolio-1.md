@@ -9,7 +9,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 ### 3DRA Modality 
 
-Joint 1st place of [ISBI 2023 SHINY challenge](https://www.synapse.org/shiny_icarus). 
+Joint 1st place of [ISBI 2023 SHINY challenge](https://www.synapse.org/#!Synapse:syn45774070/wiki/621710). Team name FunPixel.
 
 
 
