@@ -1,7 +1,7 @@
 ---
 title: "Adaptive Semi-Supervised Segmentation of Brain Vessels with Ambiguous Labels"
 collection: Springer
-permalink: /publication/2023-08-07-paper-lin2023adaptive-number-2
+permalink: /publication/2023-08-07-paper-lin2023adaptive
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023-08-07
 venue: 'MICCAI 2023 DALI'
