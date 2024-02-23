@@ -8,7 +8,7 @@ date: 2023-03
 location: "Leeds, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching Assistant for Centre for Satellite Data in Environmental Science, University of Leeds
 
 Designing lesson plans
 ======
