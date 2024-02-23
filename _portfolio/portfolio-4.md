@@ -4,7 +4,7 @@ excerpt: "This work aims to alleviate class imbalance and inter-class interferen
 collection: portfolio
 ---
 
-This work aims to alleviate class imbalance and inter-class interference, which are common and challenging problems in cerebrovascular and aneurysm segmentation. The deliberately designed network architectures such as the cascaded transformer, multi-view block, and wide block as well as the proposed post-processing strategies of the majority voting and self-refinement contribute positively to mining vascular and aneurysm features through the proposed end-to-end trainable network. The aforementioned issues are also present in brain MRA and CTA when it comes to cerebrovascular and aneurysm segmentation. The proposed model is generic and can be applied to mitigate the issues of class imbalance and inter-class interference in brain MRA and CTA, promising to facilitate accurate clinical analyses. The systematic evaluation of the model performance on other modalities would be the scope of future work.
+
 
 
 ### Introduction
@@ -26,7 +26,8 @@ On the internal clinical dataset, our method consistently outperformed several s
 
 ![Editing a markdown file for a talk](/images/image_lin2023high_table3.png)
 
+### Conclusion
 
-
+This work aims to alleviate class imbalance and inter-class interference, which are common and challenging problems in cerebrovascular and aneurysm segmentation. The deliberately designed network architectures such as the cascaded transformer, multi-view block, and wide block as well as the proposed post-processing strategies of the majority voting and self-refinement contribute positively to mining vascular and aneurysm features through the proposed end-to-end trainable network. The aforementioned issues are also present in brain MRA and CTA when it comes to cerebrovascular and aneurysm segmentation. The proposed model is generic and can be applied to mitigate the issues of class imbalance and inter-class interference in brain MRA and CTA, promising to facilitate accurate clinical analyses. The systematic evaluation of the model performance on other modalities would be the scope of future work.
 
 
