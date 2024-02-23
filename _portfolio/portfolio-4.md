@@ -12,6 +12,7 @@ On the internal clinical dataset, our method consistently outperformed several s
 The assessment of aneurysm rupture risk assists with pre-operative treatment planning and enables in-silico investigation of cerebral hemodynamics within and in the vicinity of aneurysms. However, ensuring precise and robust segmentation of cerebral vessels and aneurysms in neuroimaging modalities such as three-dimensional rotational angiography (3DRA) is challenging. The aneurysm constitutes a small proportion of the image volume, resulting in a large class imbalance (relative to surrounding brain tissue). Additionally, aneurysms and vessels have similar image/appearance characteristics, making it challenging to distinguish the aneurysm sac from the vessel lumen.
 
 ![Editing a markdown file for a talk](/images/image_lin2023high_21.png)
+From left to right: 2D slice from a reconstructed 3DRA image; the maximum intensity projection (MIP) of the 3DRA image; and a 3D simulation-ready mesh of a cerebral aneurysm (blue) and the major vessels (white) in its vicinity reconstructed from its corresponding main vessel segmentation.
 
 ### Result
 
