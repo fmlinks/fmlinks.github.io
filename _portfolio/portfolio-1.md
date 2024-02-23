@@ -4,8 +4,9 @@ excerpt: "Cerebral Vasculature Segmentation on 3DRA and MRA modelity<br/><img sr
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+### Introduction
 
+Brain vasculature segmentation in 3DRA and MRA modalities continues to be an open problem in the field of biomedical imaging, and there is still no standard solution. In this work, we proposed a vessel segmentation method based on the Swin transformer architecture with a composite loss function and dedicated pre and post-processing pipeline. We evaluated our method on the SHINY-ICARUS (3DRA) and SMILE-UHURA (MRA) dataset and showed that it achieves state-of-the-art performance in terms of common segmentation evaluation metrics such as Dice and JAC. Our method has the potential to significantly improve the efficiency and accuracy of vasculature segmentation in clinical practice.
 
 ### Result
 
