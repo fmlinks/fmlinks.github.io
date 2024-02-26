@@ -34,7 +34,7 @@ Teaching
   {% endfor %}</ul>
   
 Service and leadership
-* Vice-President of the Student Union, 2016
-* Head of the Student Union Planning Department, 2015
+* Vice-President, Student Union, 2016
+* Head of Planning Department, Student Union, 2015
 * Head of Science, Technology and Academic Department, Student Union, 2014
 * Nursing Home Volunteer, 2014
