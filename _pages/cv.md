@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in School of Computing, University of Leeds, 2020-now
+* Ph.D in School of Computing, University of Leeds, 2020-2024
 * M.S. in School of Information Science and Engineering, Shandong University, 2017-2020
 * B.S. in School of Information Science and Engineering, Shandong University, Shandong University, 2013-2017
 
