@@ -6,7 +6,7 @@ excerpt: 'Domain Generalization, Gradient Surgery, Contrastive Learning'
 date: 2024-02-22
 venue: 'ISBI'
 paperurl: 'http://fmlinks.github.io/files/paper_lin2023gsema.pdf'
-citation: '<span style="color: red;">Fengming Lin</span>, et al. GS-EMA: Integrating Gradient Surgery Exponential Moving Average with Boundary-Aware Contrastive Learning for Enhanced Domain Generalization in Aneurysm Segmentation//2024 IEEE 21th International Symposium on Biomedical Imaging (ISBI). IEEE, 2024.'
+citation: '<span style="color: red;">Fengming Lin</span>, et al. GS-EMA: Integrating Gradient Surgery Exponential Moving Average with Boundary-Aware Contrastive Learning for Enhanced Domain Generalization in Aneurysm Segmentation[C]//2024 IEEE 21th International Symposium on Biomedical Imaging (ISBI). IEEE, 2024.'
 ---
 
 
