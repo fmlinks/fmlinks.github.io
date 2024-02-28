@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 [My CV can be downloaded here](http://fmlinks.github.io/files/FengmingLin_CV.pdf)'
-paperurl: 'http://fmlinks.github.io/files/paper_lin2019fmnet.pdf'
+
+![Structure of FMNet](/images/FengmingLin_CV.png)
 
 Education
 ======
