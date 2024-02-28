@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[My CV can be downloaded here](http://fmlinks.github.io/files/FengmingLin_CV.pdf)'
+
 Education
 ======
 * Ph.D in School of Computing, University of Leeds, 2020-2024
