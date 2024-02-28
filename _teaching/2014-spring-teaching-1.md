@@ -3,7 +3,7 @@ title: "Teaching Assistant"
 collection: teaching
 type: "Ph.D. first year course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University of Leeds, [SENSE – Centre for Satellite Data in Environmental Science](https://eo-cdt.org/)"
+venue: "University of Leeds, SENSE – Centre for Satellite Data in Environmental Science"
 date: 2023-03
 location: "Leeds, UK"
 ---
