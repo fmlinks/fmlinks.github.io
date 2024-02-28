@@ -1,6 +1,6 @@
 ---
 title: "Aneurysm Segmentation"
-excerpt: "This work aims to alleviate class imbalance and inter-class interference.<br/><img src='/images/image_lin2023high_2.png'>"
+excerpt: "This work aims to alleviate class imbalance and inter-class interference.<br/><img src='/images/simulation3.gif'>"
 collection: portfolio
 ---
 
