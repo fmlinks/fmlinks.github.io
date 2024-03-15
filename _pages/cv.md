@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![My CV can be downloaded here](http://fmlinks.github.io/files/FengmingLin_CV.pdf)
+![My CV can be downloaded here](/files/FengmingLin_CV.pdf)
 
 ![FengmingLin_CV](/files/FengmingLin_CV.png)
 
