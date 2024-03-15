@@ -11,7 +11,7 @@ redirect_from:
 
 [My CV can be downloaded here](http://fmlinks.github.io/files/FengmingLin_CV.pdf)
 
-![FengmingLin_CV](/images/FengmingLin_CV.png)
+![FengmingLin_CV](/files/FengmingLin_CV.png)
 
 Education
 ======
