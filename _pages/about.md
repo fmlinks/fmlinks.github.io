@@ -18,6 +18,7 @@ My research area is in artificial intelligence (AI) for Medical Image Analysis. 
 News
 ======
 [02/2024] Four papers were accepted by ISBI 2024.
+
 [05/2023] Joint 1st place in [SHINY-ICARUS challenge](https://www.synapse.org/#!Synapse:syn45774070/wiki/619953) in ISBI 2023.
 
 Presentation
