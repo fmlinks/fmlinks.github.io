@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-![My CV can be downloaded here](/files/FengmingLinCV.pdf)
-
 ![FengmingLin_CV](/files/FengmingLin_CV.png)
 
 Education
