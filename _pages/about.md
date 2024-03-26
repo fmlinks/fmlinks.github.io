@@ -13,7 +13,7 @@ As a PhD student in [CISTIB](https://www.cistib.org/members) at School of Comput
 
 Research
 ======
-My research area is in artificial intelligence (AI) for Medical Image Analysis. Specifically, I focus on developing automatic pipeline for in-silico clinical trials. e.g., fully/semi supervised segmentation, domain adaptation/generalization, physics-informed neural networks (PINNs).
+My research area is in artificial intelligence (AI) for Medical Image Analysis. Specifically, I focus on developing automatic pipeline for in-silico clinical trials. e.g., attention model, class imbalanced learning, semi-supervised learning, domain adaptation, domain generalization, multi-modality learning, and physics-informed neural networks (PINNs).
 
 News
 ======
