@@ -18,7 +18,7 @@ redirect_from:
 
 新闻动态
 ======
-[02/2024]  四篇论文被 IEEE-ISBI 2024接受。
+[02/2024]  四篇论文被 IEEE-ISBI 2024 接受。
 
 [05/2023] 获得[SHINY-ICARUS](https://www.synapse.org/#!Synapse:syn45774070/wiki/619953)竞赛第一名。
 
