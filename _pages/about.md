@@ -21,6 +21,11 @@ News
 
 [05/2023] Joint 1st place in [SHINY-ICARUS challenge](https://www.synapse.org/#!Synapse:syn45774070/wiki/619953) in ISBI 2023.
 
+
+Google Scholar
+======
+![PPT01](/images/lfmgooglescholar.png)
+
 Presentation
 ======
 ![PPT01](/images/PPT01.png)
