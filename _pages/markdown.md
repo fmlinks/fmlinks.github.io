@@ -9,7 +9,7 @@ redirect_from:
 
 您好! 我是林枫茗。
 
-我是一名博士研究生，在QS全球排名75的[利兹大学](https://www.leeds.ac.uk/)计算机学院。我的导师是[Alejandro Frangi](https://research.manchester.ac.uk/en/persons/alejandro-frangi)教授（英国皇家工程院院士）, [Nishant Ravikumar](https://eps.leeds.ac.uk/computing/staff/1846/dr-nishant-ravikumar)博士和[夏彦](https://www.yannxia.com/)博士。在此之前，我本科与硕士均毕业于山东大学信息科学与工程学院，师从[刘琚](https://brain.sdu.edu.cn/en/info/1090/1163.htm)教授与[吴强](https://brain.sdu.edu.cn/en/info/1090/1115.htm)教授。
+我是一名博士研究生，来自QS全球排名75的[利兹大学](https://www.leeds.ac.uk/)计算机学院。我的导师是[Alejandro Frangi](https://research.manchester.ac.uk/en/persons/alejandro-frangi)教授（英国皇家工程院院士）, [Nishant Ravikumar](https://eps.leeds.ac.uk/computing/staff/1846/dr-nishant-ravikumar)博士和[夏彦](https://www.yannxia.com/)博士。在此之前，我本科与硕士均毕业于山东大学 (985，211) 信息科学与工程学院，师从[刘琚](https://brain.sdu.edu.cn/en/info/1090/1163.htm)教授与[吴强](https://brain.sdu.edu.cn/en/info/1090/1115.htm)教授。
 
 
 研究方向
