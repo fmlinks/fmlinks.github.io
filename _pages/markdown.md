@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "林枫茗"
+title: "个人简介"
 author_profile: true
 redirect_from: 
   - /md/
@@ -36,7 +36,15 @@ redirect_from:
 ![PPT05](/images/PPT05.png)
 ![PPT06](/images/PPT06.png)
 
+荣誉奖项
+======
+[2020] 山东省优秀毕业生
+[2020] 山东大学优秀硕士毕业论文（两篇每届每学院）
+[2017] 山东大学优秀本科毕业论文（两篇每届每学院）
+[2016] 山东大学优秀学生干部
+[2016] 山东大学信息学院学生会副主席
+[2015] 山东大学学生会策划部部长
+[2014] 山东大学信息学院学生会科技学术部部长
+[2013] 山东大学大爱光学奖学金
 
-### Variable Tag
 
-This allows you to denote <var>variables</var>.
