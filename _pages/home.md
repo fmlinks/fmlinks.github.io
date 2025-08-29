@@ -3,19 +3,17 @@ layout: about
 title: home
 permalink: /
 subtitle: >
-  Bicentenary Turing Chair in Computational Medicine | 
-  Royal Academy of Engineering Chair in Emerging Technologies |
-  Director, The Christabel Pankhurst Institute |
-  Lead, NIHR Manchester Biomedical Research Centre, Digital Infrastructure
+  Postdoctoral Research Associate | 
+  Computational Medicine & Generative AI |
+  School of Computer Science |
+  The University of Manchester
 
 profile:
   align: right
   image: profile.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Rm G530, Stopford Building, Oxford Road, University of Manchester, M13 9PL Manchester</p>
-    <p></p>
-    <p>Rm G21, Kilburn Building, Oxford Road, University of Manchester, M13 9PL Manchester</p>
+    <p>Christabel Pankhurst Institute, Oxford Road, University of Manchester, M13 9PL Manchester</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -23,12 +21,34 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Professor **Alejandro Frangi** *FREng FIEEE*, and I hold the **Bicentenary Turing Chair in Computational Medicine** at the [University of Manchester](https://www.manchester.ac.uk/). In my role as Director of the [Christabel Pankhurst Institute](https://www.pankhurst.manchester.ac.uk), I work to support health tech innovation translation in Greater Manchester. 
+I am **Fengming Lin (林枫茗)**, a Postdoctoral Research Associate at the [University of Manchester](https://www.manchester.ac.uk/), working in the field of **Computational Medicine and Generative Artificial Intelligence**.  
 
-I have the privilege of leading the [UK CEiRSI Centre of Excellence on in-Silico Regulatory Science and Innovation](https://www.linkedin.com/showcase/105821448/), which seeks to advance in silico medicine across the UK. My research centres on *AI and in silico technologies*, and I endeavour to foster collaboration between academia, industry, and regulators to support healthcare innovation. I work at the intersection of *computational modelling* and *medical science*, with the goal of contributing to improved patient care through innovative technologies and interdisciplinary collaboration. 
+I received my **PhD in Computer Science** from the [University of Leeds](https://www.leeds.ac.uk/), supervised by Prof. [Alejandro F. Frangi](https://www.research.manchester.ac.uk/portal/alejandro.frangi.html), FREng, FIEEE. My doctoral research focused on *artificial intelligence for vascular segmentation and modality-generalized aneurysm detection*. Prior to that, I obtained my **Master’s** and **Bachelor’s degrees** from [Shandong University](https://www.sdu.edu.cn/), working on *deep learning for medical image analysis*.  
 
-I am also committed to sharing the potential benefits of in silico technologies with broader audiences through my recently launched podcast, [In Silico 
-Trials, Real Impacts!](https://insilicouk.podbean.com)
+My research interests lie at the intersection of **AI, medical image analysis, and computational modeling**, with applications to:
+- Image segmentation, registration, and generative modeling  
+- Digital twin and virtual population construction
+- In-silico trials for cerebral vascular and cardiovascular devices  
+- Multi-modal and domain-generalizable deep learning methods  
 
-My **research interests focus** on the intersection of *medical image analysis* and *modelling*, with particular emphasis on *machine learning* (phenomenological models) and *computational physiology* (mechanistic models). I am especially interested in *statistical methods applied to 
-population imaging and in silico clinical trials*. My interdisciplinary work has found applications across cardiovascular, musculoskeletal, and neuroscience domains.
+I have published **17 papers** in international journals and conferences such as *Computer Methods and Programs in Biomedicine (CMPB)*, *MICCAI*, and *IEEE ISBI*, with more than **2700 citations** on [Google Scholar](https://scholar.google.com/citations?user=2zWejroAAAAJ&hl=en).  
+
+I am actively involved in **international collaborations** on fluid dynamics modeling, generative models, and large language models for medical applications. Beyond research, I also serve as a reviewer for leading journals such as *Medical Image Analysis*, *IEEE TMI*, *IEEE TNNLS*, *IEEE TAI*, and *PR*. 
+
+My long-term goal is to advance the development of **AI-driven digital twins and in-silico clinical trials**, bridging computational science and healthcare innovation.  
+
+[//]: # ()
+[//]: # (I am Professor **Alejandro Frangi** *FREng FIEEE*, and I hold the **Bicentenary Turing Chair in Computational Medicine** at the [University of Manchester]&#40;https://www.manchester.ac.uk/&#41;. In my role as Director of the [Christabel Pankhurst Institute]&#40;https://www.pankhurst.manchester.ac.uk&#41;, I work to support health tech innovation translation in Greater Manchester. )
+
+[//]: # ()
+[//]: # (I have the privilege of leading the [UK CEiRSI Centre of Excellence on in-Silico Regulatory Science and Innovation]&#40;https://www.linkedin.com/showcase/105821448/&#41;, which seeks to advance in silico medicine across the UK. My research centres on *AI and in silico technologies*, and I endeavour to foster collaboration between academia, industry, and regulators to support healthcare innovation. I work at the intersection of *computational modelling* and *medical science*, with the goal of contributing to improved patient care through innovative technologies and interdisciplinary collaboration. )
+
+[//]: # ()
+[//]: # (I am also committed to sharing the potential benefits of in silico technologies with broader audiences through my recently launched podcast, [In Silico )
+
+[//]: # (Trials, Real Impacts!]&#40;https://insilicouk.podbean.com&#41;)
+
+[//]: # ()
+[//]: # (My **research interests focus** on the intersection of *medical image analysis* and *modelling*, with particular emphasis on *machine learning* &#40;phenomenological models&#41; and *computational physiology* &#40;mechanistic models&#41;. I am especially interested in *statistical methods applied to )
+
+[//]: # (population imaging and in silico clinical trials*. My interdisciplinary work has found applications across cardiovascular, musculoskeletal, and neuroscience domains.)
