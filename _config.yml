@@ -3,26 +3,26 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Alejandro
-middle_name: F.
-last_name: Frangi
-email: a.frangi@manchester.ac.uk
+first_name: Fengming
+middle_name:
+last_name: Lin
+email: fengming.lin@manchester.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal Webpage of Alejandro F. Frangi, FREng FIEEE.
+  Personal Webpage of Fengming Lin.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>
   with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: >
-  Alejandro Frangi, FREng, FIEEE, University of Manchester, Manchester,
+  Fengming Lin, University of Manchester, Manchester,
   Computational Medicine, Christabel Pankhurst, in-silico medicine,
   Health Technology.
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🎓️
 
-url: https://affrangi.github.io # the base hostname & protocol for your site
+url: https://fmlinks.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
