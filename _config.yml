@@ -79,41 +79,41 @@ og_image: assets/img/profile.jpg
 
 acm_id: # your dl.acm.org/profile/id
 blogger_url: # your blogger URL
-bluesky_url: afrangi.bsky.social # your bluesky URL
+bluesky_url: # afrangi.bsky.social # your bluesky URL
 dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 #facebook_id: affrangi # your facebook id
 flickr_id: # your flickr id
-github_username: affrangi # your GitHub user name
+github_username: fmlinks # your GitHub user name
 gitlab_username: # your GitLab user name
-ieee_id: 37273295500 # your ieeexplore.ieee.org/author/id
+ieee_id: # 37273295500 # your ieeexplore.ieee.org/author/id
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: alejandro-frangi # your LinkedIn user name
+linkedin_username: fengming-lin # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: 0000-0002-2675-528X # your ORCID ID
+orcid_id: 0000-0001-8944-6890 # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
-research_gate_profile: Alejandro-Frangi # your profile on ResearchGate
-scholar_userid: 9fGrB0sAAAAJ # your Google Scholar ID
-scopus_id: 7005249248 # your profile on Scopus
+research_gate_profile: # Alejandro-Frangi # your profile on ResearchGate
+scholar_userid: 2zWejroAAAAJ # your Google Scholar ID
+scopus_id: # 7005249248 # your profile on Scopus
 #semanticscholar_id: Alejandro-F-Frangi/1681129 # your Semantic Scholar ID
 spotify_id: # your spotify id
 stackoverflow_id: # your stackoverflow id
 telegram_username: # your Telegram user name
 unsplash_id: # your unsplash id
-wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+wechat_qr: wechat-qr.png # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
-x_username: affrangi # your X handle
+x_username: # affrangi # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
@@ -170,7 +170,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: # al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -322,16 +322,10 @@ display_categories: [ "external-services" ] # these categories will be displayed
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [ "Frangi" ]
+  last_name: [ "Lin" ]
   first_name: [
-    "A. F.", 
-    "Alejandro Federico", 
-    "Alejandro F.", 
-    "Alejandro F", 
-    "Alejandro", 
-    "A F", 
-    "A.", 
-    "A", 
+    "F.",
+    "Fengming",
   ] 
   # Note: the first entries in these lists `last_name` and
   # `first_name` are the ones that will be used to display
