@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Website launch announcement: the [new website](https://affrangi.github.io) is now live!
+Website launch announcement: the [new website](https://fmlinks.github.io) is now live!
