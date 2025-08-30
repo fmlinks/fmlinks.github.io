@@ -6,9 +6,7 @@ description: Publications by categories in reversed chronological order.
 nav: true
 nav_order: 3
 tabs: true
-#categories: [journals, books, chapters, reports, patents, outreach, preprints, conferences]
-categories: [all, journals, books, chapters, reports, patents, outreach, preprints, conferences]
-
+categories: [journals, books, chapters, reports, patents, outreach, preprints, conferences]
 ---
 
 <!-- _pages/publications.md -->
@@ -18,8 +16,8 @@ categories: [all, journals, books, chapters, reports, patents, outreach, preprin
 <!-- Bibsearch Feature -->
 {% include bib_search.liquid %}
 
-[//]: # ({% bibliography %})
-{% bibliography --query @* %}
+{% bibliography %}
+
 
 </div>
 
