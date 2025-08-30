@@ -7,36 +7,43 @@ nav_order: 2
 description: Overview of my academic and professional background.
 ---
 
+
+
 ## overview
 
-**Professor Alejandro Frangi FREng FIEEE** holds the Bicentenary Turing Chair in Computational Medicine at the University of Manchester. In his role as Director of the Christabel Pankhurst Institute, he works to support health tech innovation translation in Greater Manchester.
+**Dr. Fengming Lin** is a Postdoctoral Research Associate in the Department of Computer Science at the University of Manchester, working at the intersection of **medical imaging, artificial intelligence, and in-silico trials**. His research aims to advance the development of **computational models and digital twins** that can accelerate innovation in cardiovascular medicine.  
 
-He has the privilege of leading the UK CEiRSI Centre of Excellence on in-Silico Regulatory Science and Innovation, which seeks to advance in silico medicine across the UK. His research centres on AI and in silico technologies, and he endeavours to foster collaboration between academia, industry, and regulators to support healthcare innovation. He works at the intersection of computational modelling and medical science, with the goal of contributing to improved patient care through innovative technologies and interdisciplinary collaboration.
+He has contributed to methods for **vascular segmentation, image registration, and image-to-mesh reconstruction**, integrating deep learning with biomechanical modeling to enable **simulation-ready patient-specific models**. His work supports the vision of applying **generative AI and virtual populations** to regulatory science and healthcare translation.  
 
-He is also committed to sharing the potential benefits of in silico technologies with broader audiences through his recently launched podcast, **In Silico Trials, Real Impacts!**
+Dr. Lin is committed to fostering interdisciplinary collaboration between computer science, medicine, and engineering, and has co-authored over 17 publications in leading journals and conferences. Beyond his core research, he actively reviews for top-tier journals and explores the broader application of AI, including **large language models for healthcare and decision support**.  
+
 
 ## education
 
-<b>BSc/MSc Telecommunications Engineering</b>, <em>Universitat Politecnica de Catalunya</em>, 1996, <em>Barcelona, Spain</em>.  
-<b>PhD Imaging Sciences</b>, <em>Utrecht University</em>, 2001, <em>Utrecht, The Netherlands</em>.  
+- **PhD in Computer Science**, University of Leeds, UK, 2020.10 – 2025.3  
+  *Thesis: Vessel Tree Segmentation and Modality Agnostic Aneurysm Detection*  
+- **MSc in Electronic and Communication Engineering**, Shandong University, China, 2017.10 – 2020.7  
+  *Thesis: Deep Learning-Based Brain Tumor Segmentation*  
+- **BEng in Communication Engineering**, Shandong University, China, 2013.10 – 2017.7  
+  *Thesis: Deep Learning-Based Image Classification*  
+- **High School Diploma**, Yantai No.1 High School (Elite Experimental Class), China, 2010.9 – 2013.6  
+
+## professional experience
+
+- **Postdoctoral Research Associate**, University of Manchester, UK (2024.9 – Present)  
+  *Project: Generative AI for Cardiovascular In-silico Trials*  
+
+## selected projects
+
+- **NVIDIA Academic Grant (Co-PI)**: High-fidelity cardiac mesh reconstruction using Gaussian volume rendering   
+- **Intelligent Fundraising & Investment Collaboration Platform (PI)**: GPT-powered automation for startup financing  
+- **Legal Document Analysis System (PI)**: Local LLaMA-based solution for contract generation and risk assessment  
+- **Financial Report Analysis System (Co-I)**: Local LLM for report summarization, attribution, and risk detection   
 
 ## awards and honours
 
-**Distinguished Visiting Scholar Award**, 2024, Chinese Academy of Science
-• **ELLIS Fellow**, 2024, European Laboratory for Learning and Intelligent Systems
-• **RAEng Fellow**, 2023, Royal Academy of Engineering
-• **AAIA-AI Fellow**, 2021, Association for the Advancement of Artificial Intelligence
-• **MICCAI Fellow**, 2021, Medical Image Computing and Computer-Assisted Interventions Society
-• **ATI Fellow**, 2021, Alan Turing Institute
-• **IEEE Technical Achievement Award**, 2021, IEEE Engineering in Medicine and Biology Society
-• **SPIE Fellow**, 2020, SPIE (International Society for Optics and Photonics)
-• **President's International Initiative Award** as Visiting Scholar, 2019, Chinese Academy of Science
-• **IEEE Fellow**, 2014, Institute of Electrical and Electronics Engineers
-• **EAMBES Fellow**, 2013, European Alliance for Medical and Biological Engineering & Science
-• **Universitat Pompeu Fabra Medal**, 2011, Universitat Pompeu Fabra
-• **Teaching Excellence Prize**, 2010, Social Council of the Universitat Pompeu Fabra
-• **ICT Knowledge Transfer Prize**, 2008, Social Council of the Universitat Pompeu Fabra
-• **ICREA-Academia Prize**, 2008, Institució Catalana de Recerca i Estudis Avançats
-• **Teaching Excellence Prize**, 2008, Social Council of the Universitat Pompeu Fabra
-• **IEEE Early Career Award**, 2006, IEEE Engineering in Medicine and Biology Society
+- **Shandong Province Outstanding Graduate**, 2020  
+- **Excellent Master Thesis Award**, Shandong University, 2020  
+- **Excellent Undergraduate Thesis Award**, Shandong University, 2017  
+- **Outstanding Student Leader**, Shandong University, 2015  
 
