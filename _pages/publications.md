@@ -6,7 +6,7 @@ description: Publications by categories in reversed chronological order.
 nav: true
 nav_order: 3
 tabs: true
-categories: [journals, conferences, preprints, patents]
+categories: [journals, conferences, preprints, patents, challenges]
 ---
 
 <!-- _pages/publications.md -->
