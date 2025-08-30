@@ -1,7 +1,7 @@
 {
     "funding": [
         {
-            "subtitle": "NVIDIA Academic Grant Program — Co-Investigator",
+            "subtitle": "Co-Investigator",
             "title": "NVIDIA Academic Grant Program: Generative AI / Simulation & Modeling",
             "institution": "NVIDIA Academic Grant Program, United Kingdom",
             "startDate": "2025-07",
@@ -16,7 +16,7 @@
             "url": "https://www.nvidia.com/en-gb/industries/higher-education-research/academic-grant-program/"
         },
         {
-            "subtitle": "UK RIN Implementation Phase: Human Health (CERSIs), Contributor to Pilot 3",
+            "subtitle": "Contributor to Pilot 3",
             "title": "UK CEiRSI— The UK's Centre of Excellence on In-silico Regulatory Science and Innovation - Pilot Phase (10139527)",
             "institution": "MRC-InnovateUK, United Kingdom",
             "startDate": "2025-02",
@@ -31,7 +31,7 @@
             "url": ""
         },
         {
-            "subtitle": "RAEng Chair in Emerging Technologies, Contributor",
+            "subtitle": "Contributor",
             "title": "INSILEX: Precision Computational Medicine for <em>in silico</em> Trials of Medical Devices (CiET1819/19)",
             "institution": "Royal Academy of Engineering, United Kingdom",
             "startDate": "2019-05",
