@@ -34,10 +34,10 @@ Dr. Lin is committed to fostering interdisciplinary collaboration between comput
 
 ## selected projects
 
-- **NVIDIA Academic Grant (Co-PI)**: High-fidelity cardiac mesh reconstruction using Graph Gaussian Splatting   
-- **Intelligent Fundraising & Investment Collaboration Platform (PI)**: GPT-powered automation for startup financing  
-- **Legal Document Analysis System (PI)**: Local LLaMA-based solution for law document generation and risk assessment  
-- **Financial Report Analysis System (Co-I)**: Local LLM for report summarization, attribution, and risk detection   
+- **NVIDIA Academic Grant (Co-I)**: High-fidelity cardiac mesh reconstruction using Graph Gaussian Splatting
+- **Intelligent Fundraising & Investment Collaboration Platform (PI)**: GPT-powered automation for startup financing
+- **Legal Document Analysis System (PI)**: Local LLaMA-based solution for law document generation and risk assessment
+- **Financial Report Analysis System (Co-I)**: Local LLM for report summarization, attribution, and risk detection
 
 ## awards and honours
 
