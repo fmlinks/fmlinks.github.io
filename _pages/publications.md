@@ -16,7 +16,9 @@ categories: [journals, conferences, preprints, patents, challenges]
 <!-- Bibsearch Feature -->
 {% include bib_search.liquid %}
 
-{% bibliography %}
+
+{% bibliography --query @* %}
+
 
 
 </div>
