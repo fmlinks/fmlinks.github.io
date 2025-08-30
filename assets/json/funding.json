@@ -8,7 +8,7 @@
             "endDate": "2025-12",
             "description": [
               "Selected for the NVIDIA Academic Grant Program, which provides world-class computing resources (cloud, hardware, and/or software) to advance academic research in generative AI and simulation & modeling.",
-              "The grant supports research on cardiac whole-volume mesh reconstruction and generation based on Graph Gaussian Splatting (GGS), aiming to enhance the high-fidelity modeling of cardiac anatomical structures in simulation-ready volumetric mesh format.",
+              "The grant supports research on cardiac whole-heart volumetric mesh reconstruction and generation based on Graph Gaussian Splatting (GGS), aiming to enhance the high-fidelity modeling of cardiac anatomical structures in simulation-ready format.",
               "Funding: £50k."
             ],
             "img": "",
@@ -26,7 +26,7 @@
                 "The University of Manchester, University of Oxford, University College London, Queen Mary University of London, University of Birmingham, University of Edinburgh, University of Liverpool, University of Sheffield, University of Strathclyde, Swansea University, University of York. The partnership extends to key industry stakeholders, including ANSYS UK, the Association of British HealthTech Industries, BioNow, Edwards Lifesciences, Health Innovation Research Alliance, Health Innovation Manchester, Medtronic, NAFEMS, NHS England, NPL, The British Standards Institution, and The Organisation for Professionals in Regulatory Affairs.",
                 "Funding: £1m."
             ],
-            "img": "ukceirsi.jpeg",
+            "img": "",
             "logo": "mrc-innovateuk.png",
             "url": ""
         },
