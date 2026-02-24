@@ -1,6 +1,6 @@
 ---
 layout: page
-title: From Pixels to Polygons A Survey of Deep Learning Approaches for Medical Image-to-Mesh Reconstruction
+title: "From Pixels to Polygons: A Survey of Deep Learning Approaches for Medical Image-to-Mesh Reconstruction"
 description: with background image
 img: assets/img/publication_preview/lin2025pixels.png
 importance: 1
