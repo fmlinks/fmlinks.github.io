@@ -1,3 +1,103 @@
+
+
+## Interactive visual comparisons
+
+<div class="hvm-note">
+  This section reproduces the <strong>draggable comparison</strong> feel you liked from the Neuralangelo page.
+  To activate the three sliders below, export the matched-view PNG pairs listed in the asset checklist and place them in
+  <code>assets/img/paper/lin2026heartvolmesh/</code>.
+</div>
+
+<!-- Expected slider assets:
+  slider_case1_heartdeformnet.png
+  slider_case1_heartvolmesh.png
+  slider_case2_ours3p1.png
+  slider_case2_ours3p6.png
+  slider_case3_pseudogt.png
+  slider_case3_heartvolmesh.png
+-->
+
+<div class="hvm-compare-grid">
+  <div class="hvm-compare-card">
+    <div class="hvm-compare-title">Case 1 · HeartDeformNet vs HeartVolMesh</div>
+    <div class="hvm-compare" style="--position: 62%;">
+      <img
+        class="hvm-compare-base"
+        src="{{ '/assets/img/paper/lin2026heartvolmesh/slider_case1_heartdeformnet.png' | relative_url }}"
+        alt="HeartDeformNet result for interactive comparison case 1">
+      <div class="hvm-compare-overlay">
+        <img
+          src="{{ '/assets/img/paper/lin2026heartvolmesh/slider_case1_heartvolmesh.png' | relative_url }}"
+          alt="HeartVolMesh result for interactive comparison case 1">
+      </div>
+      <div class="hvm-compare-divider"></div>
+      <span class="hvm-compare-label hvm-left">Baseline</span>
+      <span class="hvm-compare-label hvm-right">HeartVolMesh</span>
+      <label class="hvm-sr-only" for="hvm-slider-1">Comparison slider for case 1</label>
+      <input id="hvm-slider-1" class="hvm-compare-range" type="range" min="0" max="100" value="62" aria-label="Comparison slider for case 1">
+    </div>
+    <p class="hvm-compare-caption">
+      Suggested content: a difficult multi-structure junction where the baseline shows blur, leakage, or overlap,
+      while HeartVolMesh gives a cleaner boundary.
+    </p>
+  </div>
+
+  <div class="hvm-compare-card">
+    <div class="hvm-compare-title">Case 2 · Ours 3p1 vs Ours 3p6</div>
+    <div class="hvm-compare" style="--position: 58%;">
+      <img
+        class="hvm-compare-base"
+        src="{{ '/assets/img/paper/lin2026heartvolmesh/slider_case2_ours3p1.png' | relative_url }}"
+        alt="Ours 3p1 result for interactive comparison case 2">
+      <div class="hvm-compare-overlay">
+        <img
+          src="{{ '/assets/img/paper/lin2026heartvolmesh/slider_case2_ours3p6.png' | relative_url }}"
+          alt="Ours 3p6 result for interactive comparison case 2">
+      </div>
+      <div class="hvm-compare-divider"></div>
+      <span class="hvm-compare-label hvm-left">Ours 3p1</span>
+      <span class="hvm-compare-label hvm-right">Ours 3p6</span>
+      <label class="hvm-sr-only" for="hvm-slider-2">Comparison slider for case 2</label>
+      <input id="hvm-slider-2" class="hvm-compare-range" type="range" min="0" max="100" value="58" aria-label="Comparison slider for case 2">
+    </div>
+    <p class="hvm-compare-caption">
+      Suggested content: a view that highlights the gain from anisotropic covariance modelling,
+      especially around sharp curvature or thin-wall anatomy.
+    </p>
+  </div>
+
+  <div class="hvm-compare-card">
+    <div class="hvm-compare-title">Case 3 · Pseudo-GT vs HeartVolMesh</div>
+    <div class="hvm-compare" style="--position: 50%;">
+      <img
+        class="hvm-compare-base"
+        src="{{ '/assets/img/paper/lin2026heartvolmesh/slider_case3_pseudogt.png' | relative_url }}"
+        alt="Pseudo ground truth result for interactive comparison case 3">
+      <div class="hvm-compare-overlay">
+        <img
+          src="{{ '/assets/img/paper/lin2026heartvolmesh/slider_case3_heartvolmesh.png' | relative_url }}"
+          alt="HeartVolMesh result for interactive comparison case 3">
+      </div>
+      <div class="hvm-compare-divider"></div>
+      <span class="hvm-compare-label hvm-left">Pseudo-GT</span>
+      <span class="hvm-compare-label hvm-right">Prediction</span>
+      <label class="hvm-sr-only" for="hvm-slider-3">Comparison slider for case 3</label>
+      <input id="hvm-slider-3" class="hvm-compare-range" type="range" min="0" max="100" value="50" aria-label="Comparison slider for case 3">
+    </div>
+    <p class="hvm-compare-caption">
+      Suggested content: a matched-view visual sanity check showing that the predicted volumetric boundary
+      remains close to the target anatomy while preserving template structure.
+    </p>
+  </div>
+</div>
+
+
+
+
+
+
+
+
 ---
 layout: page
 title: project 2
