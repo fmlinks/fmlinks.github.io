@@ -364,7 +364,7 @@ related_publications: true
 </style>
 
 <div class="hvm-hero">
-  <div class="hvm-kicker">MICCAI 2026 · Review Version</div>
+  <div class="hvm-kicker">Preprint · Review Version</div>
   <p class="hvm-tagline">
     From 3D CTA volumes to simulation-ready tetrahedral heart meshes:
     <strong>HeartVolMesh</strong> combines covariance-guided graph deformation with
