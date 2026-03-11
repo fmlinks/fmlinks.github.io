@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: projects
 permalink: /projects/
 description: Research projects including ongoing and past projects. Each project includes a brief description, the technologies used, and links to relevant resources such as GitHub repositories or publications.
 nav: true
