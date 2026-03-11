@@ -577,7 +577,7 @@ Accurate patient-specific tetrahedral cardiac meshes are essential for in-silico
 <div class="hvm-bib"><code>@inproceedings{heartvolmesh2026,
   title     = {HeartVolMesh: Cardiac Volumetric Mesh Reconstruction via Covariance-Guided Graph Deformation},
   author    = {Anonymous},
-  booktitle = {Medical Image Computing and Computer Assisted Intervention (MICCAI)},
+  booktitle = {preprint},
   year      = {2026},
   note      = {Review version; replace with final metadata after de-anonymization}
 }</code></div>
