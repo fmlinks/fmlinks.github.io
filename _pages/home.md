@@ -29,7 +29,7 @@ My research interests lie at the intersection of **AI, medical image analysis, a
 - Digital twins reconstruction and virtual population generation
 - In-silico trials on cerebrovascular and cardiovascular devices
 
-I published a few papers in journals and conferences such as *Computer Methods and Programs in Biomedicine (CMPB)* and *IEEE ISBI* on [Google Scholar](https://scholar.google.com/citations?user=2zWejroAAAAJ&hl=en).
+I published a few papers in medical image analysis related journals and conferences [Google Scholar](https://scholar.google.com/citations?user=2zWejroAAAAJ&hl=en).
 
 I am actively involved in **international collaborations** on fluid dynamics modeling, generative models, and large language models for medical applications. Beyond research, I also serve as a reviewer for journals (such as *Medical Image Analysis*, *IEEE TMI*, *IEEE TNNLS*, *IEEE TAI*, and *PR*) and conferences (such as*IEEE ISBI*, *MICCAI*, and *CVPR*). 
 
