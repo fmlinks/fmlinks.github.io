@@ -381,8 +381,8 @@ related_publications: true
 </div>
 
 <div class="hvm-note">
-  <strong>Note.</strong> This page is written against the anonymized MICCAI 2026 review PDF.
-  After de-anonymization, replace the review note with the final author list and add paper/code/data links.
+  <strong>Note.</strong> This page is written against the anonymized review PDF.
+  After de-anonymization, we will replace the review note with the final author list and add paper/code/data links.
 </div>
 
 <div class="row align-items-center">
