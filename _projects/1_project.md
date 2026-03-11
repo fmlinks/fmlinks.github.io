@@ -665,8 +665,8 @@ Implementation notes
 <div class="px-grid-2">
   <div class="px-card">
     <img
-      src="{{ '/assets/img/paper/lin2025pixels/Deformation%20Model%201.png' | relative_url }}"
-      alt="Conditioned deformation template model schematic"
+      src="{{ '/assets/img/paper/lin2025pixels/Deformation%20Model%1.png' | relative_url }}"
+      alt="Conditioned deformation model schematic"
       loading="lazy"
     />
     <p class="px-card-caption">
@@ -677,7 +677,7 @@ Implementation notes
 
   <div class="px-card">
     <img
-      src="{{ '/assets/img/paper/lin2025pixels/Deformation%20Model%204.png' | relative_url }}"
+      src="{{ '/assets/img/paper/lin2025pixels/Deformation%20Model%4.png' | relative_url }}"
       alt="Template based registration schematic"
       loading="lazy"
     />
@@ -688,7 +688,7 @@ Implementation notes
   </div>
 </div>
 
-<div class="px-grid-3" style="margin-top: 1.15rem;">
+<div class="px-grid-2" style="margin-top: 1.15rem;">
   <div class="px-card">
     <img
       src="{{ '/assets/img/paper/lin2025pixels/SSM1.png' | relative_url }}"
@@ -697,31 +697,120 @@ Implementation notes
     />
     <p class="px-card-caption">
       <strong>Linear SSM.</strong>
-      A deep encoder predicts coefficients in a low-dimensional statistical basis, turning image evidence into a structured shape prior.
+      A PCA/SVD block predicts coefficients in a low-dimensional statistical basis, turning image evidence into a structured shape prior.
     </p>
   </div>
 
   <div class="px-card">
     <img
-      src="{{ '/assets/img/paper/lin2025pixels/Generative%20Model%203.png' | relative_url }}"
-      alt="Generative completion based mesh reconstruction schematic"
+      src="{{ '/assets/img/paper/lin2025pixels/SSM2.png' | relative_url }}"
+      alt="Non-Linear statistical shape model schematic"
+      loading="lazy"
+    />
+    <p class="px-card-caption">
+      <strong>Non-Linear SSM.</strong>
+      A deep encoder predicts coefficients in a low-dimensional statistical basis, turning image evidence into a structured shape prior.
+    </p>
+  </div>
+</div>
+
+<div class="px-grid-4" style="margin-top: 1.15rem;">
+  <div class="px-card">
+    <img
+      src="{{ '/assets/img/paper/lin2025pixels/Generative%20Model%1.png' | relative_url }}"
+      alt="Schematic representation of a variational autoencoder (VAE)-based model for mesh generation"
+      loading="lazy"
+    />
+    <p class="px-card-caption">
+      <strong>VAE-based generative model.</strong>
+      The input image is processed by the encoder to compute the mean and variance, which are used to sample a latent vector. The latent vector is then passed through the decoder to generate a point cloud, which is subsequently converted into a mesh.
+    </p>
+  </div>
+
+  <div class="px-card">
+    <img
+      src="{{ '/assets/img/paper/lin2025pixels/Generative%20Model%2.png' | relative_url }}"
+      alt="Schematic representation of a generative adversarial network (GAN)-based model for mesh generation"
+      loading="lazy"
+    />
+    <p class="px-card-caption">
+      <strong>GAN-based generative model.</strong>
+      The input image is processed by the encoder to produce a latent vector. The latent vector is then passed to the generator, which outputs a point cloud. The generated point cloud is subsequently evaluated by a discriminator and converted into a mesh.
+    </p>
+  </div>
+
+  <div class="px-card">
+    <img
+      src="{{ '/assets/img/paper/lin2025pixels/Generative%20Model%3.png' | relative_url }}"
+      alt="Schematic representation of a completion-based method for mesh generation"
       loading="lazy"
     />
     <p class="px-card-caption">
       <strong>Completion-based generative model.</strong>
-      Sparse contours or points are densified into complete point clouds before meshing, making generative completion central to reconstruction.
+      The input image is processed by a CNN to generate a sparse point cloud. This sparse point cloud is then refined by a completion network to produce a dense point cloud, which is subsequently converted into a mesh.
     </p>
   </div>
 
   <div class="px-card">
     <img
-      src="{{ '/assets/img/paper/lin2025pixels/Implicit%202.png' | relative_url }}"
-      alt="Neural ODE based implicit reconstruction schematic"
+      src="{{ '/assets/img/paper/lin2025pixels/Generative%20Model%4.png' | relative_url }}"
+      alt="Schematic representation of a diffusion model for medical surface reconstruction."
       loading="lazy"
     />
     <p class="px-card-caption">
-      <strong>Implicit flow / Neural ODE.</strong>
-      Continuous deformation dynamics provide smooth trajectories and strong geometric regularity for complex anatomical surfaces.
+      <strong>Diffusion-based generative model.</strong>
+      Conditioned diffusion for mesh reconstruction: the model iteratively refines a noisy point cloud towards the target anatomy, guided by image features and learned shape priors.
+    </p>
+  </div>
+</div>
+
+
+<div class="px-grid-4" style="margin-top: 1.15rem;">
+  <div class="px-card">
+    <img
+      src="{{ '/assets/img/paper/lin2025pixels/Implicit%2.png' | relative_url }}"
+      alt="Schematic of Neural ODE-based methods"
+      loading="lazy"
+    />
+    <p class="px-card-caption">
+      <strong>Neural ODE-based implicit model.</strong>
+      In Neural ODEs, x represents a point in 3D space, t is the time parameter that controls the dynamic evolution, V(x,t) denotes the state of the point x at time t (such as its deformation during surface reconstruction), and f(x,t) describes the dynamic system governing how the state evolves over time.
+    </p>
+  </div>
+
+  <div class="px-card">
+    <img
+      src="{{ '/assets/img/paper/lin2025pixels/Implicit%1.png' | relative_url }}"
+      alt="Schematic of SDF methods"
+      loading="lazy"
+    />
+    <p class="px-card-caption">
+      <strong>SDF-based implicit model.</strong>
+      In the signed distance function, x represents a point in 3D space, d(x) is the distance from x to the target surface, and g(x) indicates whether x is inside (negative sign) or outside (positive sign) the surface. The g(x) is often determined based on the gradient of the distance function. Together, these elements describe the signed distance value of the point x with respect to the surface.
+    </p>
+  </div>
+
+  <div class="px-card">
+    <img
+      src="{{ '/assets/img/paper/lin2025pixels/Implicit%4.png' | relative_url }}"
+      alt="Schematic of NeRF methods"
+      loading="lazy"
+    />
+    <p class="px-card-caption">
+      <strong>NeRF-based implicit model.</strong>
+      In neural radiance fields, x is a point in 3D space, and d is the viewing direction. The density sigma represents the likelihood of the point x being part of the object’s surface, and the colour c (in RGB) provides information about the appearance of the surface at x. For surface reconstruction, the surface geometry can be extracted as the iso-surface where the density sigma exceeds a threshold.
+    </p>
+  </div>
+
+  <div class="px-card">
+    <img
+      src="{{ '/assets/img/paper/lin2025pixels/Implicit%3.png' | relative_url }}"
+      alt="Schematic of occupancy field methods"
+      loading="lazy"
+    />
+    <p class="px-card-caption">
+      <strong>Occupancy field-based implicit model.</strong>
+      In the occupancy function, x is a point in 3D space, and f(x) outputs a binary value indicating whether x is inside or outside a target object. If f(x)=1 , the point is inside the object; if f(x)=0, the point is outside.
     </p>
   </div>
 </div>
