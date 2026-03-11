@@ -10,7 +10,7 @@ subtitle: >
 
 profile:
   align: right
-  image: profile.jpg
+  image: profile001.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Christabel Pankhurst Institute, Oxford Road, University of Manchester, M13 9PL Manchester</p>
