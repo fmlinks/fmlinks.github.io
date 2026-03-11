@@ -385,38 +385,41 @@ related_publications: true
   After de-anonymization, we will replace the review note with the final author list and add paper/code/data links.
 </div>
 
+
 <div class="row align-items-center">
   <div class="col-sm-7 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/paper/lin2026heartvolmesh/GGS_MICCAI30.png" title="HeartVolMesh overview" class="img-fluid rounded z-depth-1" %}
+    <video class="img-fluid rounded z-depth-1" autoplay muted loop playsinline preload="metadata">
+      <source src="{{ '/assets/video/lin2026heartvolmesh/GGS_MICCAI30.mp4' | relative_url }}" type="video/mp4">
+    </video>
   </div>
   <div class="col-sm-5 mt-3 mt-md-0">
     <div class="hvm-card">
       <h3>Why this matters</h3>
       <p>
         In-silico cardiovascular studies need more than a surface boundary.
-        They need a patient-specific <strong>volumetric mesh</strong> that can be consumed by FEM/CFD solvers,
-        while keeping geometry faithful enough for thin walls and multi-structure junctions.
+        They need a patient-specific <strong>volumetric mesh</strong> that can be used by FEM/CFD solvers,
+        while remaining faithful around thin walls and multi-structure junctions.
       </p>
     </div>
     <div class="hvm-card">
-      <h3>What is new</h3>
+      <h3>Core idea</h3>
       <p>
         HeartVolMesh lifts each template vertex from a deterministic point to an
-        <strong>anisotropic Gaussian kernel</strong>, predicts both displacements and covariances from the image,
+        <strong>anisotropic Gaussian kernel</strong>, predicts both displacement and covariance,
         and then warps a tetrahedral template to the reconstructed target surface.
       </p>
     </div>
     <div class="hvm-card">
-      <h3>What you get</h3>
+      <h3>What this gives</h3>
       <p>
         A topology-consistent surface plus a correspondence-preserving tetrahedral mesh,
-        with resolution controlled by the chosen template rather than by unstable per-case tetrahedralization.
+        with resolution controlled by the chosen template instead of per-case tetrahedralization.
       </p>
     </div>
   </div>
 </div>
 <div class="caption">
-  Overview of the full pipeline. A covariance-guided image-to-surface module predicts a target boundary,
+  Overview of the full pipeline. A covariance-guided image-to-surface module predicts the target boundary,
   and a template-driven volume-to-surface registration stage converts it into a patient-specific tetrahedral mesh.
 </div>
 
