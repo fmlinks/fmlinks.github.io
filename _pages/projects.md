@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: Research projects that I am involved in, including ongoing and past projects. Each project includes a brief description, the technologies used, and links to relevant resources such as GitHub repositories or publications.
+description: Research projects including ongoing and past projects. Each project includes a brief description, the technologies used, and links to relevant resources such as GitHub repositories or publications.
 nav: true
 nav_order: 3
 display_categories: [ongoing, past]
