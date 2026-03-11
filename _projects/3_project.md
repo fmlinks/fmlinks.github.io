@@ -245,9 +245,12 @@ related_publications: false
   After de-anonymization, replace the review note with the final author list and add paper/code/data links.
 </div>
 
+
 <div class="row align-items-center">
   <div class="col-sm-7 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/paper/lin2026heartvolmesh/GGS_MICCAI30.png" title="HeartVolMesh overview" class="img-fluid rounded z-depth-1" %}
+    <video class="img-fluid rounded z-depth-1" autoplay muted loop playsinline preload="metadata">
+      <source src="{{ '/assets/video/lin2026heartvolmesh/GGS_MICCAI30.mp4' | relative_url }}" type="video/mp4">
+    </video>
   </div>
   <div class="col-sm-5 mt-3 mt-md-0">
     <div class="hvm-card">
