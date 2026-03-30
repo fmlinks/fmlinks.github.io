@@ -660,33 +660,6 @@ Accurate patient-specific tetrahedral cardiac meshes are essential for in-silico
   </div>
 </div>
 
-## Optional teaser assets
-
-<div class="hvm-optional">
-  The page already works with the paper figures and slider PNG pairs above.
-  If you want an even richer landing experience, the prompt appendix includes an optional teaser still and short teaser video.
-  You can later uncomment a video block or replace the hero image with those assets.
-</div>
-
-<!-- Optional teaser video block. Uncomment after generating the files below.
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    <video
-      class="img-fluid rounded z-depth-1"
-      controls
-      muted
-      loop
-      playsinline
-      poster="{{ '/assets/img/paper/lin2026heartvolmesh/heartvolmesh_teaser_still.png' | relative_url }}">
-      <source src="{{ '/assets/video/lin2026heartvolmesh/heartvolmesh_teaser.mp4' | relative_url }}" type="video/mp4">
-    </video>
-  </div>
-</div>
-<div class="caption">
-  Optional teaser video for the project page hero section.
-</div>
--->
-
 ## Citation
 
 ```bibtex
