@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Website launch announcement: the [new website](https://fmlinks.github.io) is now live!
+
+[2026/2] 1 paper accepted by *Medical Image Analysis* (minor revision).
+[2026/2] 1 paper accepted by *IEEE ISBI* (oral presentation).
