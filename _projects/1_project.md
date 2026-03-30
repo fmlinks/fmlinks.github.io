@@ -708,7 +708,7 @@ Implementation notes
       loading="lazy"
     />
     <p class="px-card-caption">
-      <strong>Linear SSM.</strong>
+      <strong>Non-Linear SSM.</strong>
       A deep encoder predicts coefficients in a low-dimensional statistical basis, turning image evidence into a structured shape prior.
     </p>
   </div>
