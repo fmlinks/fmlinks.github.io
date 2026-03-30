@@ -861,7 +861,7 @@ Accurate patient-specific tetrahedral cardiac meshes are essential for in-silico
   </div>
   <div class="hvm-support-foot">
     <span class="hvm-support-foot-label">Grant acknowledgement</span>
-    <p>NVIDIA-supported academic compute helped accelerate development, experimentation, and validation for this work.<p>
+    <span>NVIDIA-supported academic compute helped accelerate development, experimentation, and validation for this work.</span>
   </div>
 </div>
 
