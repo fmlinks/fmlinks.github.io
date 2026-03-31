@@ -617,9 +617,9 @@ related_publications: true
     <div class="hvm-video-kicker">Project video</div>
     <h2>Watch the HeartVolMesh introduction</h2>
     <p>
-      The player starts with the English version by default. Use the buttons below to
+      The player opens with the English version selected by default. Use the buttons below to
       switch between English and Chinese while keeping the native playback controls for
-      seeking, pausing, volume, and fullscreen.
+      seeking, pausing, volume, and fullscreen. This version does not start muted.
     </p>
     <div class="hvm-video-switch" role="group" aria-label="Select introduction video language">
       <button
@@ -651,7 +651,6 @@ related_publications: true
       class="img-fluid rounded z-depth-1 hvm-video-player"
       controls
       autoplay
-      muted
       playsinline
       preload="metadata"
       poster="{{ '/assets/img/paper/lin2026heartvolmesh/GGS_MICCAI30.png' | relative_url }}">
@@ -663,7 +662,7 @@ related_publications: true
     </video>
     <div class="hvm-video-meta">
       <span id="hvmIntroVideoStatus" class="hvm-video-badge" aria-live="polite">Now playing: English introduction</span>
-      <span class="hvm-video-hint">Autoplay starts muted. Drag the timeline in the native controls to seek through the video.</span>
+      <span id="hvmIntroVideoHint" class="hvm-video-hint">Drag the timeline in the native controls to seek through the video. If autoplay with sound is blocked by the browser, click play once to start audio.</span>
     </div>
   </div>
 </div>
@@ -673,6 +672,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const video = document.getElementById('hvmIntroVideo');
   const source = document.getElementById('hvmIntroVideoSource');
   const status = document.getElementById('hvmIntroVideoStatus');
+  const hint = document.getElementById('hvmIntroVideoHint');
   const buttons = Array.from(document.querySelectorAll('.hvm-video-tab'));
   let pendingRestore = null;
 
@@ -693,6 +693,31 @@ document.addEventListener('DOMContentLoaded', function () {
       status.textContent = 'Now playing: ' + label;
     }
   }
+
+  function updateHint(message) {
+    if (hint) {
+      hint.textContent = message;
+    }
+  }
+
+  function tryPlayVideo(onBlockedMessage) {
+    const playPromise = video.play();
+
+    if (playPromise && typeof playPromise.then === 'function') {
+      playPromise.then(function () {
+        updateHint('Drag the timeline in the native controls to seek through the video.');
+      }).catch(function () {
+        updateHint(onBlockedMessage || 'Autoplay with sound was blocked by the browser. Click play once to start audio.');
+      });
+    }
+  }
+
+  video.defaultMuted = false;
+  video.muted = false;
+
+  video.addEventListener('play', function () {
+    updateHint('Drag the timeline in the native controls to seek through the video.');
+  });
 
   buttons.forEach(function (button) {
     button.addEventListener('click', function () {
@@ -740,10 +765,7 @@ document.addEventListener('DOMContentLoaded', function () {
         updateStatus(nextLabel);
 
         if (!wasPaused) {
-          const playPromise = video.play();
-          if (playPromise && typeof playPromise.catch === 'function') {
-            playPromise.catch(function () {});
-          }
+          tryPlayVideo('Autoplay with sound may be blocked after switching language. Click play to continue with audio.');
         }
 
         video.removeEventListener('loadedmetadata', restoreState);
@@ -763,11 +785,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
   updateButtons(defaultButton);
   updateStatus(defaultButton.getAttribute('data-video-label') || defaultButton.textContent.trim());
+  updateHint('Drag the timeline in the native controls to seek through the video. If autoplay with sound is blocked by the browser, click play once to start audio.');
 
-  const autoplayPromise = video.play();
-  if (autoplayPromise && typeof autoplayPromise.catch === 'function') {
-    autoplayPromise.catch(function () {});
-  }
+  tryPlayVideo('Autoplay with sound was blocked by the browser. Click play once to start audio.');
 });
 </script>
 
