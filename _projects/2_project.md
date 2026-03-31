@@ -475,6 +475,126 @@ related_publications: true
 }
 
 
+
+.hvm-video-showcase {
+  display: grid;
+  grid-template-columns: minmax(0, 320px) minmax(0, 1fr);
+  gap: 1.15rem;
+  align-items: center;
+  margin: 0 0 1.75rem 0;
+  padding: 1.35rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 24px;
+  background:
+    radial-gradient(circle at 100% 0%, rgba(99, 102, 241, 0.12), transparent 30%),
+    radial-gradient(circle at 0% 100%, rgba(14, 165, 233, 0.08), transparent 28%),
+    var(--global-card-bg-color);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.06);
+}
+
+.hvm-video-copy {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+}
+
+.hvm-video-kicker {
+  margin-bottom: 0;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--global-theme-color);
+}
+
+.hvm-video-copy h2 {
+  margin: 0;
+  font-size: 1.65rem;
+  line-height: 1.2;
+}
+
+.hvm-video-copy p {
+  margin: 0;
+  color: var(--global-text-color-light);
+}
+
+.hvm-video-switch {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-top: 0.15rem;
+}
+
+.hvm-video-tab {
+  appearance: none;
+  -webkit-appearance: none;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 999px;
+  padding: 0.58rem 0.92rem;
+  background: rgba(127, 127, 127, 0.08);
+  color: var(--global-text-color);
+  font-weight: 700;
+  line-height: 1;
+  cursor: pointer;
+  transition:
+    transform 0.18s ease,
+    border-color 0.18s ease,
+    background 0.18s ease,
+    box-shadow 0.18s ease,
+    color 0.18s ease;
+}
+
+.hvm-video-tab:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.08);
+}
+
+.hvm-video-tab.is-active {
+  border-color: var(--global-theme-color);
+  background: rgba(99, 102, 241, 0.12);
+  color: var(--global-theme-color);
+}
+
+.hvm-video-frame {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.hvm-video-player {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 18px;
+  border: 1px solid var(--global-divider-color);
+  background: #000;
+  box-shadow: 0 12px 26px rgba(0, 0, 0, 0.08);
+}
+
+.hvm-video-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem 0.85rem;
+}
+
+.hvm-video-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.34rem 0.72rem;
+  border-radius: 999px;
+  background: rgba(99, 102, 241, 0.12);
+  color: var(--global-theme-color);
+  font-size: 0.84rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.hvm-video-hint {
+  font-size: 0.92rem;
+  color: var(--global-text-color-light);
+}
+
 @media (max-width: 1080px) {
   .hvm-grid-3,
   .hvm-metrics,
@@ -485,11 +605,171 @@ related_publications: true
 
 @media (max-width: 820px) {
   .hvm-grid-2,
-  .hvm-support-grid {
+  .hvm-support-grid,
+  .hvm-video-showcase {
     grid-template-columns: 1fr;
   }
 }
 </style>
+
+<div class="hvm-video-showcase">
+  <div class="hvm-video-copy">
+    <div class="hvm-video-kicker">Project video</div>
+    <h2>Watch the HeartVolMesh introduction</h2>
+    <p>
+      The player starts with the English version by default. Use the buttons below to
+      switch between English and Chinese while keeping the native playback controls for
+      seeking, pausing, volume, and fullscreen.
+    </p>
+    <div class="hvm-video-switch" role="group" aria-label="Select introduction video language">
+      <button
+        type="button"
+        class="hvm-video-tab is-active"
+        aria-controls="hvmIntroVideo"
+        aria-pressed="true"
+        data-video-lang="en"
+        data-video-label="English introduction"
+        data-video-src="{{ '/assets/video/lin2026heartvolmesh/HeartVolMeshEN.mp4' | relative_url }}">
+        English
+      </button>
+      <button
+        type="button"
+        class="hvm-video-tab"
+        aria-controls="hvmIntroVideo"
+        aria-pressed="false"
+        data-video-lang="cn"
+        data-video-label="中文介绍"
+        data-video-src="{{ '/assets/video/lin2026heartvolmesh/HeartVolMeshCN.mp4' | relative_url }}">
+        中文
+      </button>
+    </div>
+  </div>
+
+  <div class="hvm-video-frame">
+    <video
+      id="hvmIntroVideo"
+      class="img-fluid rounded z-depth-1 hvm-video-player"
+      controls
+      autoplay
+      muted
+      playsinline
+      preload="metadata"
+      poster="{{ '/assets/img/paper/lin2026heartvolmesh/GGS_MICCAI30.png' | relative_url }}">
+      <source
+        id="hvmIntroVideoSource"
+        src="{{ '/assets/video/lin2026heartvolmesh/HeartVolMeshEN.mp4' | relative_url }}"
+        type="video/mp4">
+      Your browser does not support embedded videos.
+    </video>
+    <div class="hvm-video-meta">
+      <span id="hvmIntroVideoStatus" class="hvm-video-badge" aria-live="polite">Now playing: English introduction</span>
+      <span class="hvm-video-hint">Autoplay starts muted. Drag the timeline in the native controls to seek through the video.</span>
+    </div>
+  </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const video = document.getElementById('hvmIntroVideo');
+  const source = document.getElementById('hvmIntroVideoSource');
+  const status = document.getElementById('hvmIntroVideoStatus');
+  const buttons = Array.from(document.querySelectorAll('.hvm-video-tab'));
+  let pendingRestore = null;
+
+  if (!video || !source || buttons.length === 0) {
+    return;
+  }
+
+  function updateButtons(activeButton) {
+    buttons.forEach(function (button) {
+      const isActive = button === activeButton;
+      button.classList.toggle('is-active', isActive);
+      button.setAttribute('aria-pressed', isActive ? 'true' : 'false');
+    });
+  }
+
+  function updateStatus(label) {
+    if (status) {
+      status.textContent = 'Now playing: ' + label;
+    }
+  }
+
+  buttons.forEach(function (button) {
+    button.addEventListener('click', function () {
+      const nextSrc = button.getAttribute('data-video-src');
+      const nextLabel = button.getAttribute('data-video-label') || button.textContent.trim();
+
+      if (!nextSrc) {
+        return;
+      }
+
+      updateButtons(button);
+
+      if (source.getAttribute('src') === nextSrc) {
+        updateStatus(nextLabel);
+        return;
+      }
+
+      const currentTime = video.currentTime || 0;
+      const wasPaused = video.paused;
+      const currentMuted = video.muted;
+      const currentVolume = video.volume;
+      const currentRate = video.playbackRate;
+
+      if (pendingRestore) {
+        video.removeEventListener('loadedmetadata', pendingRestore);
+        pendingRestore = null;
+      }
+
+      function restoreState() {
+        let safeTime = currentTime;
+
+        if (Number.isFinite(video.duration) && video.duration > 0) {
+          safeTime = Math.min(currentTime, Math.max(video.duration - 0.05, 0));
+        }
+
+        if (safeTime > 0) {
+          try {
+            video.currentTime = safeTime;
+          } catch (error) {}
+        }
+
+        video.muted = currentMuted;
+        video.volume = currentVolume;
+        video.playbackRate = currentRate;
+        updateStatus(nextLabel);
+
+        if (!wasPaused) {
+          const playPromise = video.play();
+          if (playPromise && typeof playPromise.catch === 'function') {
+            playPromise.catch(function () {});
+          }
+        }
+
+        video.removeEventListener('loadedmetadata', restoreState);
+        pendingRestore = null;
+      }
+
+      pendingRestore = restoreState;
+      video.addEventListener('loadedmetadata', restoreState);
+      source.setAttribute('src', nextSrc);
+      video.load();
+    });
+  });
+
+  const defaultButton = buttons.find(function (button) {
+    return button.getAttribute('data-video-lang') === 'en';
+  }) || buttons[0];
+
+  updateButtons(defaultButton);
+  updateStatus(defaultButton.getAttribute('data-video-label') || defaultButton.textContent.trim());
+
+  const autoplayPromise = video.play();
+  if (autoplayPromise && typeof autoplayPromise.catch === 'function') {
+    autoplayPromise.catch(function () {});
+  }
+});
+</script>
 
 <div class="hvm-hero">
   <div class="hvm-kicker">Preprint · Review Version</div>
