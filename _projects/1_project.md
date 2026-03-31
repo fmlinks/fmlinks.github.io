@@ -524,7 +524,7 @@ Implementation notes
       </p>
       <p class="px-authors">
         Fengming Lin, Arezoo Zakeri, Yidan Xue, Michael MacRaild, Haoran Dou, Zherui Zhou,
-        Ziwei Zou, Ali Sarrami-Foroushani, Jinming Duan, Alejandro F. Frangi
+        Ziwei Zou, Ali Sarrami-Foroushani, Jinming Duan, Alejandro F. Frangi*
       </p>
 
       <div class="px-button-row">
