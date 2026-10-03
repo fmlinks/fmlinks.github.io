@@ -1,0 +1,94 @@
+---
+layout: null
+title: HeartVolMesh 2
+description: From cardiac CTA to a labelled volumetric heart mesh. Original V23 and joint TPS 600, with an installable agent skill.
+permalink: /projects/heartvolmesh2/
+img: assets/heartvolmesh2/reprise3_heartbeat.jpg
+importance: 0
+category: ongoing
+related_publications: false
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HeartVolMesh — From CTA to a volumetric heart</title>
+  <meta name="description" content="Explore real beating-heart, tetrahedral cutaway and external CTA reconstructions. Install HeartVolMesh as code or an agent skill.">
+  <meta property="og:title" content="HeartVolMesh | From CTA to a volumetric heart">
+  <meta property="og:image" content="https://fmlinks.github.io/assets/heartvolmesh2/reprise3_heartbeat.jpg">
+  <link rel="stylesheet" href="/assets/heartvolmesh2/page.css">
+  <script defer src="/assets/heartvolmesh2/page.js"></script>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<canvas id="flow" aria-hidden="true"></canvas>
+<div class="launch-glow" aria-hidden="true"><div></div><div></div></div>
+<nav class="floating-nav" aria-label="Main navigation">
+  <a class="wordmark" href="#top"><span class="brand-icon" aria-hidden="true">♥</span> HeartVolMesh<span class="version">02</span></a>
+  <div class="nav-links"><a href="#motion">Motion</a><a href="#inside">Inside the mesh</a><a href="#external">External CTA</a></div>
+  <a class="nav-code" href="https://github.com/fmlinks/HeartVolMesh">GitHub <span aria-hidden="true">↗</span></a>
+</nav>
+<main id="main">
+<section class="hero" id="top">
+  <div class="hero-copy reveal">
+    <p class="eyebrow"><span class="live-dot"></span> ORIGINAL V23 · JOINT TPS 600</p>
+    <h1>From CTA.<br>To a <em>volumetric</em><br>heart.</h1>
+    <p class="intro">A three-dimensional image becomes a labelled tetrahedral mesh. One surface network. One shared deformation. Ready to explore.</p>
+    <div class="actions"><a class="button primary" href="https://github.com/fmlinks/HeartVolMesh">Get the code <span>↗</span></a><a class="button secondary" href="#install">Install the skill <span>↓</span></a></div>
+    <div class="hero-spec"><span><b>9</b> predicted surfaces</span><span><b>24</b> template parts</span><span><b>1.52M</b> tetrahedra</span></div>
+  </div>
+  <div class="hero-media reveal" data-tilt>
+    <div class="video-frame mockup-frame">
+      <div class="frame-top"><span class="live-dot"></span><span>REPRISE3 / ACQUIRED CARDIAC PHASES</span><span>V23</span></div>
+      <video id="hero-video" class="auto-video" autoplay loop muted playsinline preload="metadata" poster="/assets/heartvolmesh2/reprise3_heartbeat.jpg" aria-label="Volumetric reconstruction across twenty real REPRISE3 cardiac phases"><source src="/assets/heartvolmesh2/reprise3_heartbeat.mp4" type="video/mp4"></video>
+      <div class="frame-bottom"><span>20 acquired phases · fixed camera</span><button type="button" class="play-toggle" data-video="hero-video" aria-label="Pause cardiac animation">Pause Ⅱ</button></div>
+    </div>
+    <span class="floating-tag tag-one">SURFACE → VOLUME</span><span class="floating-tag tag-two">Connectivity preserved</span>
+  </div>
+  <a class="scroll-cue" href="#motion">SCROLL TO EXPLORE <span>↓</span></a>
+</section>
+<div class="ticker" aria-hidden="true"><div>CTA TO TETRAHEDRA <span>✳</span> ORIGINAL V23 <span>✳</span> JOINT TPS 600 <span>✳</span> INSTALLABLE AGENT SKILL <span>✳</span> CTA TO TETRAHEDRA <span>✳</span> ORIGINAL V23 <span>✳</span> JOINT TPS 600 <span>✳</span> INSTALLABLE AGENT SKILL <span>✳</span></div></div>
+
+<section class="section motion-section" id="motion">
+  <div class="section-heading reveal"><p class="eyebrow">01 / THE HEART IN MOTION</p><h2>Geometry that<br><em>moves with the heart.</em></h2><p>A complete 20-phase sequence, reconstructed with the released inference pipeline. Each phase starts with its own CTA image.</p></div>
+  <div class="motion-grid">
+    <div class="large-video reveal"><video id="motion-video" class="auto-video" loop muted playsinline controls preload="metadata" poster="/assets/heartvolmesh2/reprise3_heartbeat.jpg"><source src="/assets/heartvolmesh2/reprise3_heartbeat.mp4" type="video/mp4"></video></div>
+    <div class="motion-notes reveal"><span class="pill">REAL INFERENCE OUTPUT</span><h3>Follow the full cycle.</h3><p>We screened three complete sequences and selected one with a clear contraction pattern. The animation shows the 20 exported volumetric meshes in acquisition order.</p><div class="line-stat"><b>20 / 20</b><span>phases reconstructed</span></div><div class="line-stat"><b>0</b><span>nonpositive tetrahedra in these exports</span></div><p class="caption">Independent single-phase V23 inference; no temporal filter or interpolated mesh geometry. Playback speed is illustrative.</p></div>
+  </div>
+</section>
+
+<section class="pipeline-section section" id="pipeline">
+  <div class="section-heading reveal"><p class="eyebrow">02 / IMAGE → SURFACE → VOLUME</p><h2>A shared field.<br><em>A coherent whole.</em></h2></div>
+  <div class="pipeline-grid">
+    <article class="step reveal"><span class="step-num">01</span><h3>Prepare the CTA</h3><p>Normalize orientation and resolution, localize the heart, then crop a 128³ input with the REPRISE-compatible intensity protocol.</p><span class="step-chip">Original image stays local</span></article>
+    <article class="step reveal"><span class="step-num">02</span><h3>Predict the surface</h3><p>The original V23 network and frozen weights predict nine cardiac surfaces, including the Aorta and pulmonary artery.</p><span class="step-chip">No default retraining</span></article>
+    <article class="step reveal"><span class="step-num">03</span><h3>Deform the volume</h3><p>Geometric correspondences drive one joint TPS field across all template parts, with Aorta continuation and a tetrahedron determinant guard.</p><span class="step-chip">One shared deformation</span></article>
+  </div>
+</section>
+
+<section class="section inside-section" id="inside">
+  <div class="inside-copy reveal"><p class="eyebrow">03 / LOOK BENEATH THE SURFACE</p><h2>Not just a boundary.<br><em>An interior.</em></h2><p>Move through the cutaway to see the original tetrahedral elements inside the heart walls. The camera orbits and moves closer; the mesh itself is unchanged.</p><div class="legend"><span style="--swatch:#9f9ac4">LV wall</span><span style="--swatch:#ea3b2c">RV wall</span><span style="--swatch:#4392c4">LA wall</span><span style="--swatch:#f08c44">RA wall</span><span style="--swatch:#a2d59b">Aorta</span><span style="--swatch:#68559d">PA</span></div><p class="caption">MMWHS example. The cut removes complete tetrahedra behind a moving plane; no remeshing or display smoothing.</p></div>
+  <div class="cutaway-media reveal"><video id="cutaway-video" class="auto-video" loop muted playsinline controls preload="metadata" poster="/assets/heartvolmesh2/tetrahedral_cutaway.jpg"><source src="/assets/heartvolmesh2/tetrahedral_cutaway.mp4" type="video/mp4"></video><details class="quality-details"><summary>Inspect the scaled Jacobian map <span>+</span></summary><img loading="lazy" src="/assets/heartvolmesh2/tetrahedron_quality.png" alt="Original tetrahedra coloured by scaled Jacobian, fixed range zero to one"><p class="caption">Fengming Turbo-64 · common range [0, 1]. Element quality alone does not establish anatomical or simulation validity.</p></details></div>
+</section>
+
+<section class="section external-section" id="external">
+  <div class="section-heading reveal"><p class="eyebrow">04 / BEYOND THE DEVELOPMENT DATA</p><h2>New CTA.<br><em>The same frozen model.</em></h2><p>Explore reconstruction examples from MMWHS and ImageCAS with dataset-aware preprocessing and the same released V23 weights.</p></div>
+  <div class="external-tabs reveal" role="tablist" aria-label="External dataset"><button id="tab-mmwhs" role="tab" aria-selected="true" aria-controls="panel-mmwhs" data-panel="panel-mmwhs">MMWHS <span>01</span></button><button id="tab-imagecas" role="tab" aria-selected="false" aria-controls="panel-imagecas" data-panel="panel-imagecas" tabindex="-1">ImageCAS <span>02</span></button></div>
+  <div id="panel-mmwhs" class="external-panel reveal" role="tabpanel" aria-labelledby="tab-mmwhs"><video class="auto-video" loop muted playsinline controls preload="metadata" poster="/assets/heartvolmesh2/mmwhs_orbit.jpg"><source src="/assets/heartvolmesh2/mmwhs_orbit.mp4" type="video/mp4"></video><div><span class="pill">EXTERNAL CTA / MMWHS</span><h3>One template,<br>new anatomy.</h3><p>A labelled whole-heart reconstruction viewed from changing angles. No MMWHS fine-tuning was used for this example.</p><dl><div><dt>Surface predictor</dt><dd>Original V23</dd></div><div><dt>Registration</dt><dd>Joint TPS 600</dd></div><div><dt>Nonpositive tetrahedra</dt><dd>0</dd></div></dl></div></div>
+  <div id="panel-imagecas" class="external-panel" role="tabpanel" aria-labelledby="tab-imagecas" hidden><video class="auto-video" loop muted playsinline controls preload="metadata" poster="/assets/heartvolmesh2/imagecas_orbit.jpg"><source src="/assets/heartvolmesh2/imagecas_orbit.mp4" type="video/mp4"></video><div><span class="pill">EXTERNAL CTA / IMAGECAS</span><h3>Local data.<br>A portable pipeline.</h3><p>Native-image preprocessing followed by the original V23 model and shared volumetric deformation. No ImageCAS fine-tuning was used for this example.</p><dl><div><dt>Surface predictor</dt><dd>Original V23</dd></div><div><dt>Registration</dt><dd>Joint TPS 600</dd></div><div><dt>Nonpositive tetrahedra</dt><dd>0</dd></div></dl></div></div>
+  <p class="caption external-caption">These are selected qualitative development examples. The separate 10 MMWHS + 10 ImageCAS surface evaluation is documented in the repository; it is not a 20-case final-volume validation.</p>
+</section>
+
+<section class="section install-section" id="install">
+  <div class="beam" aria-hidden="true"></div><div class="section-heading reveal"><p class="eyebrow">05 / MAKE IT YOURS</p><h2>Your image.<br><em>Your volumetric heart.</em></h2><p>Run the code directly, or give your coding agent the HeartVolMesh skill. Installation creates an isolated environment and verifies the model and runtime downloads.</p></div>
+  <div class="install-grid"><a class="install-card reveal" href="https://github.com/fmlinks/HeartVolMesh"><span class="install-icon">⌘</span><h3>For people</h3><p>Readable source, preprocessing, mesh export, quality reports and visualization scripts.</p><span class="install-link">Explore the GitHub repository ↗</span></a><a class="install-card reveal" href="https://github.com/fmlinks/HeartVolMesh/tree/main/skills/heartvolmesh"><span class="install-icon">✳</span><h3>For agents</h3><p>A GPU-aware bootstrap and an inference workflow for your own local CTA files.</p><span class="install-link">Install heartvolmesh ↗</span></a></div>
+  <div class="terminal reveal"><div><span></span><span></span><span></span><b>heartvolmesh / quick start</b></div><pre><code>git clone https://github.com/fmlinks/HeartVolMesh.git
+cd HeartVolMesh
+python bootstrap.py --workspace ./workspace
+python run_inference.py --workspace ./workspace \
+  --image ./CTA.nii.gz --output ./result</code></pre><a href="https://github.com/fmlinks/HeartVolMesh/releases/tag/v1.0.0">Download the release bundles ↗</a></div>
+  <p class="caption">Windows RTX 5090 was tested in a fresh environment. The installer provides a driver-aware RTX 3090 route; that hardware has not been directly tested. Review heart coverage and native CT overlays for each new dataset. This is a research release.</p>
+</section>
+</main>
+<footer><a class="wordmark" href="https://fmlinks.github.io/">Fengming Lin ↗</a><p>HeartVolMesh · Original V23 + Joint TPS 600<br>Supported by the NVIDIA Academic Grant Program.</p><div><a href="https://github.com/fmlinks/HeartVolMesh">Code</a><a href="/projects/heartvolmesh/">Original project</a><a href="/assets/heartvolmesh2/THIRD_PARTY_NOTICES.txt">Template credits</a><button id="motion-control" type="button" aria-pressed="false">Reduce motion</button></div></footer>
+</body></html>
