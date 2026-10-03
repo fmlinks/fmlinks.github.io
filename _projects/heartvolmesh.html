@@ -1,9 +1,9 @@
 ---
 layout: null
-title: HeartVolMesh 2
-description: From cardiac CTA to a labelled volumetric heart mesh. Original V23 and joint TPS 600, with an installable agent skill.
-permalink: /projects/heartvolmesh2/
-img: assets/heartvolmesh2/reprise3_phase_grid.jpg
+title: HeartVolMesh
+description: From cardiac CTA to a labelled volumetric heart mesh. Covariance-guided mesh and joint TPS 600, with an installable agent skill.
+permalink: /projects/heartvolmesh/
+img: assets/heartvolmesh/reprise3_phase_grid_edges.jpg
 importance: 0
 category: ongoing
 related_publications: false
@@ -14,80 +14,107 @@ related_publications: false
   <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
   <title>HeartVolMesh — From CTA to a volumetric heart</title>
   <meta name="description" content="Explore fixed cardiac phases, tetrahedral cutaways, external CTA reconstructions and a downstream EP simulation example. Install HeartVolMesh as code or an agent skill.">
+  <link rel="canonical" href="https://fmlinks.github.io/projects/heartvolmesh/">
+  <meta property="og:url" content="https://fmlinks.github.io/projects/heartvolmesh/">
   <meta property="og:title" content="HeartVolMesh | From CTA to a volumetric heart">
-  <meta property="og:image" content="https://fmlinks.github.io/assets/heartvolmesh2/reprise3_phase_grid.jpg">
-  <link rel="stylesheet" href="/assets/heartvolmesh2/page.css">
-  <script defer src="/assets/heartvolmesh2/page.js"></script>
+  <meta property="og:image" content="https://fmlinks.github.io/assets/heartvolmesh/reprise3_phase_grid_edges.jpg">
+  <link rel="stylesheet" href="/assets/heartvolmesh/page.css">
+  <script defer src="/assets/heartvolmesh/page.js"></script>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
 <canvas id="flow" aria-hidden="true"></canvas>
 <div class="launch-glow" aria-hidden="true"><div></div><div></div></div>
 <nav class="floating-nav" aria-label="Main navigation">
-  <a class="wordmark" href="#top"><span class="brand-icon" aria-hidden="true">♥</span> HeartVolMesh<span class="version">02</span></a>
-  <div class="nav-links"><a href="#motion">Cardiac phases</a><a href="#inside">Inside the mesh</a><a href="#external">External CTA</a><a href="#ep">EP simulation</a></div>
+  <a class="wordmark" href="#top"><span class="brand-icon" aria-hidden="true">♥</span> HeartVolMesh</a>
+  <div class="nav-links"><a href="#motion">Cardiac phases</a><a href="#inside">Inside the mesh</a><a href="#external">External CTA</a><a href="#paper">Method</a></div>
   <a class="nav-code" href="https://github.com/fmlinks/HeartVolMesh">GitHub <span aria-hidden="true">↗</span></a>
 </nav>
 <main id="main">
 <section class="hero" id="top">
   <div class="hero-copy reveal">
-    <p class="eyebrow"><span class="live-dot"></span> ORIGINAL V23 · JOINT TPS 600</p>
+    <p class="eyebrow"><span class="live-dot"></span> Covariance-guided mesh · JOINT TPS 600</p>
     <h1>From CTA.<br>To a <em>volumetric</em><br>heart.</h1>
-    <div class="hero-description"><p class="intro">A three-dimensional image becomes a labelled tetrahedral mesh. One surface network. One shared deformation. Ready to explore.</p>
+    <div class="hero-description"><p class="intro">An installable agent skill turns your local CTA into a labelled tetrahedral heart mesh. Automatic environment setup. Dataset-aware preprocessing. One shared deformation.</p>
     <div class="actions"><a class="button primary" href="https://github.com/fmlinks/HeartVolMesh">Get the code <span>↗</span></a><a class="button secondary" href="#install">Install the skill <span>↓</span></a></div>
     <div class="hero-spec"><span><b>9</b> predicted surfaces</span><span><b>24</b> template parts</span><span><b>1.52M</b> tetrahedra</span></div></div>
   </div>
   <div class="hero-media reveal" data-tilt>
     <div class="video-frame mockup-frame phase-grid-media">
-      <div class="frame-top"><span class="live-dot"></span><span>REPRISE3 / ACQUIRED CARDIAC PHASES</span><span>V23</span></div>
-      <video id="hero-video" class="auto-video" autoplay loop muted playsinline preload="metadata" poster="/assets/heartvolmesh2/reprise3_phase_grid.jpg" aria-label="Two rows of five fixed acquired REPRISE3 phases, each heart rotating in its own panel"><source src="/assets/heartvolmesh2/reprise3_phase_grid.mp4" type="video/mp4"></video>
-      <div class="frame-bottom"><span>10 fixed phases · 2 × 5 · individual rotation</span><button type="button" class="play-toggle" data-video="hero-video" aria-label="Pause phase rotation">Pause Ⅱ</button></div>
+      <div class="frame-top"><span class="live-dot"></span><span>REPRISE3 / ACQUIRED CARDIAC PHASES</span><span>MICCAI 2026</span></div>
+      <video id="hero-video" class="auto-video" autoplay loop muted playsinline preload="metadata" poster="/assets/heartvolmesh/reprise3_phase_grid_edges.jpg" aria-label="Two rows of five fixed acquired REPRISE3 phases, each heart rotating in its own panel"><source src="/assets/heartvolmesh/reprise3_phase_grid_edges.mp4" type="video/mp4"></video>
+      <div class="frame-bottom"><span>10 fixed phases · 2 × 5 · mesh edges · individual rotation</span><button type="button" class="play-toggle" data-video="hero-video" aria-label="Pause phase rotation">Pause Ⅱ</button></div>
     </div>
   </div>
   <a class="scroll-cue" href="#motion">SCROLL TO EXPLORE <span>↓</span></a>
 </section>
-<div class="ticker" aria-hidden="true"><div>CTA TO TETRAHEDRA <span>✳</span> ORIGINAL V23 <span>✳</span> JOINT TPS 600 <span>✳</span> INSTALLABLE AGENT SKILL <span>✳</span> CTA TO TETRAHEDRA <span>✳</span> ORIGINAL V23 <span>✳</span> JOINT TPS 600 <span>✳</span> INSTALLABLE AGENT SKILL <span>✳</span></div></div>
+<div class="ticker" aria-hidden="true"><div>CTA TO TETRAHEDRA <span>✳</span> Covariance-guided mesh <span>✳</span> JOINT TPS 600 <span>✳</span> INSTALLABLE AGENT SKILL <span>✳</span> CTA TO TETRAHEDRA <span>✳</span> Covariance-guided mesh <span>✳</span> JOINT TPS 600 <span>✳</span> INSTALLABLE AGENT SKILL <span>✳</span></div></div>
 
 <section class="section motion-section" id="motion">
-  <div class="section-heading reveal"><p class="eyebrow">01 / TEN PHASES, SIDE BY SIDE</p><h2>One cycle.<br><em>Ten fixed perspectives.</em></h2><p>Ten evenly spaced acquired phases from the same REPRISE3 series, arranged in two rows of five. Each heart retains its phase-specific shape and rotates in its own panel.</p></div>
+  <div class="section-heading reveal"><p class="eyebrow">TEN PHASES, SIDE BY SIDE</p><h2>One cycle.<br><em>Ten fixed perspectives.</em></h2><p>Ten evenly spaced acquired phases from the same REPRISE3 series, arranged in two rows of five. Each heart retains its phase-specific shape and rotates in its own panel.</p></div>
   <div class="motion-grid phase-grid-layout">
-    <div class="large-video phase-grid-media reveal"><video id="motion-video" class="auto-video" loop muted playsinline controls preload="metadata" poster="/assets/heartvolmesh2/reprise3_phase_grid.jpg"><source src="/assets/heartvolmesh2/reprise3_phase_grid.mp4" type="video/mp4"></video></div>
+    <div class="large-video phase-grid-media reveal"><video id="motion-video" class="auto-video" loop muted playsinline controls preload="metadata" poster="/assets/heartvolmesh/reprise3_phase_grid_edges.jpg"><source src="/assets/heartvolmesh/reprise3_phase_grid_edges.mp4" type="video/mp4"></video></div>
     <div class="motion-notes phase-grid-notes reveal"><div><span class="pill">REAL INFERENCE OUTPUT</span><h3>Compare the acquired phases.</h3><p>We screened three complete sequences and reconstructed all twenty phases. This gallery displays phases 0%, 10%, …, 90% with a shared camera scale and the same viewing angle in every panel.</p></div><div><div class="line-stat"><b>10 / 20</b><span>acquired phases displayed / reconstructed</span></div><div class="line-stat"><b>0</b><span>nonpositive tetrahedra in these exports</span></div></div></div>
   </div>
-  <p class="caption">Independent single-phase V23 inference and joint TPS 600. Surface views of the actual volumetric meshes; geometry stays fixed within each panel. Only the cameras rotate. No temporal interpolation, remeshing or geometry smoothing.</p>
+  <p class="caption">Independent single-phase Covariance-guided mesh inference and joint TPS 600. Surface views of the actual volumetric meshes; geometry stays fixed within each panel. The actual boundary-triangle edges are visible. Only the cameras rotate. No temporal interpolation, remeshing or geometry smoothing.</p>
+</section>
+
+
+<section class="section inside-section" id="inside">
+  <div class="inside-copy reveal"><p class="eyebrow">LOOK BENEATH THE SURFACE</p><h2>Not just a boundary.<br><em>An interior.</em></h2><p>Move through the cutaway to see the original tetrahedral elements inside the heart walls. The camera orbits and moves closer; the mesh itself is unchanged.</p><div class="legend"><span style="--swatch:#9f9ac4">LV wall</span><span style="--swatch:#ea3b2c">RV wall</span><span style="--swatch:#4392c4">LA wall</span><span style="--swatch:#f08c44">RA wall</span><span style="--swatch:#a2d59b">Aorta</span><span style="--swatch:#68559d">PA</span></div><p class="caption">MMWHS example. The cut removes complete tetrahedra behind a moving plane; no remeshing or display smoothing.</p></div>
+  <div class="cutaway-media reveal"><video id="cutaway-video" class="auto-video" loop muted playsinline controls preload="metadata" poster="/assets/heartvolmesh/volumetric_mesh_cutaway.jpg"><source src="/assets/heartvolmesh/volumetric_mesh_cutaway.mp4" type="video/mp4"></video><details class="quality-details"><summary>Inspect the scaled Jacobian map <span>+</span></summary><img loading="lazy" src="/assets/heartvolmesh/tetrahedron_quality_covariance.png" alt="Original tetrahedra coloured by scaled Jacobian, fixed range zero to one"><p class="caption">Fengming Turbo-64 · common range [0, 1]. Element quality alone does not establish anatomical or simulation validity.</p></details></div>
+</section>
+
+<section class="section external-section" id="external">
+  <div class="section-heading reveal"><p class="eyebrow">BEYOND THE DEVELOPMENT DATA</p><h2>New CTA.<br><em>The same frozen model.</em></h2><p>Explore reconstruction examples from MMWHS and ImageCAS with dataset-aware preprocessing and the same released Covariance-guided mesh weights.</p></div>
+  <div class="external-tabs reveal" role="tablist" aria-label="External dataset"><button id="tab-mmwhs" role="tab" aria-selected="true" aria-controls="panel-mmwhs" data-panel="panel-mmwhs">MMWHS <span>01</span></button><button id="tab-imagecas" role="tab" aria-selected="false" aria-controls="panel-imagecas" data-panel="panel-imagecas" tabindex="-1">ImageCAS <span>02</span></button></div>
+  <div id="panel-mmwhs" class="external-panel reveal" role="tabpanel" aria-labelledby="tab-mmwhs"><video class="auto-video" loop muted playsinline controls preload="metadata" poster="/assets/heartvolmesh/mmwhs_covariance_orbit.jpg"><source src="/assets/heartvolmesh/mmwhs_covariance_orbit.mp4" type="video/mp4"></video><div><span class="pill">EXTERNAL CTA / MMWHS</span><h3>One template,<br>new anatomy.</h3><p>A labelled whole-heart reconstruction viewed from changing angles. No MMWHS fine-tuning was used for this example.</p><dl><div><dt>Surface predictor</dt><dd>Covariance-guided mesh</dd></div><div><dt>Registration</dt><dd>Joint TPS 600</dd></div><div><dt>Nonpositive tetrahedra</dt><dd>0</dd></div></dl></div></div>
+  <div id="panel-imagecas" class="external-panel" role="tabpanel" aria-labelledby="tab-imagecas" hidden><video class="auto-video" loop muted playsinline controls preload="metadata" poster="/assets/heartvolmesh/imagecas_covariance_orbit.jpg"><source src="/assets/heartvolmesh/imagecas_covariance_orbit.mp4" type="video/mp4"></video><div><span class="pill">EXTERNAL CTA / IMAGECAS</span><h3>Local data.<br>A portable pipeline.</h3><p>Native-image preprocessing followed by the Covariance-guided mesh model and shared volumetric deformation. No ImageCAS fine-tuning was used for this example.</p><dl><div><dt>Surface predictor</dt><dd>Covariance-guided mesh</dd></div><div><dt>Registration</dt><dd>Joint TPS 600</dd></div><div><dt>Nonpositive tetrahedra</dt><dd>0</dd></div></dl></div></div>
+  <p class="caption external-caption">These are selected qualitative development examples. The separate 10 MMWHS + 10 ImageCAS surface evaluation is documented in the repository; it is not a 20-case final-volume validation.</p>
+</section>
+
+<!-- WEBSITE_ONLY_OVERLAY_START -->
+<section class="section overlay-section" id="alignment">
+  <div class="section-heading reveal"><p class="eyebrow">RETURN TO THE IMAGE</p><h2>Inspect the fit.<br><em>In native CTA space.</em></h2><p>The final tetrahedral boundaries are intersected with the original image planes. Compare each unmodified CTA slice with its mesh-contour overlay.</p></div>
+  <figure class="paper-figure reveal"><a href="/assets/heartvolmesh/cta_volumetric_contours.png" target="_blank" rel="noopener"><img loading="lazy" src="/assets/heartvolmesh/cta_volumetric_contours.png" alt="Paired native axial, coronal and sagittal MMWHS CTA slices, with the final volumetric mesh boundaries shown as coloured contours"></a><figcaption>MMWHS example · Covariance-guided mesh + joint TPS 600. Lines come from the actual tetrahedral boundary surfaces, including inner and outer walls. The stored preprocessing affine maps the mesh back to native image coordinates; no display fitting or smoothing is applied. This is a qualitative alignment inspection, not a ground-truth accuracy score. Click to inspect the full-resolution figure.</figcaption></figure>
+</section>
+<!-- WEBSITE_ONLY_OVERLAY_END -->
+
+<section class="section ep-section" id="ep">
+  <div class="section-heading reveal"><p class="eyebrow">DOWNSTREAM ELECTROPHYSIOLOGY</p><h2>From geometry.<br><em>To electrical dynamics.</em></h2><p>An openCARP continuous-current simulation on the anatomical volumetric template illustrates a downstream application of cardiac volume meshes.</p></div>
+  <div class="large-video ep-media reveal"><video id="ep-video" class="auto-video" loop muted playsinline controls preload="metadata" poster="/assets/heartvolmesh/ep_simulation.jpg" aria-label="Saved membrane voltage evolving on an anatomical template, with atrial and conduction-cable view, myocardial tetrahedral cutaway and preserved voltage colourbar"><source src="/assets/heartvolmesh/ep_simulation.mp4" type="video/mp4"></video></div>
+  <div class="ep-notes reveal"><p><b>Atria &amp; conduction cable</b><br>The left view shows saved atrial and cable membrane voltage.</p><p><b>Myocardial tetrahedral cutaway</b><br>The right view reveals electrical propagation within the volume mesh.</p><p><b>One preserved voltage scale</b><br>Vm in mV, displayed from −100 to +40. The grey-to-colour mapping is retained from the source video.</p></div>
+  <p class="caption">Supplied anatomical-template diagnostic: right-atrial stimulation, native samples from 0 to 360 ms, fixed geometry, no temporal interpolation. Re-rendered without annotation actors; the original colourbar is cropped and moved below the two views. This example is separate from the Covariance-guided mesh / TPS patient reconstructions above; anatomical connections and physiological validity remain unverified.</p>
 </section>
 
 <section class="pipeline-section section" id="pipeline">
-  <div class="section-heading reveal"><p class="eyebrow">02 / IMAGE → SURFACE → VOLUME</p><h2>A shared field.<br><em>A coherent whole.</em></h2></div>
+  <div class="section-heading reveal"><p class="eyebrow">IMAGE → SURFACE → VOLUME</p><h2>A shared field.<br><em>A coherent whole.</em></h2></div>
   <div class="pipeline-grid">
     <article class="step reveal"><span class="step-num">01</span><h3>Prepare the CTA</h3><p>Normalize orientation and resolution, localize the heart, then crop a 128³ input with the REPRISE-compatible intensity protocol.</p><span class="step-chip">Original image stays local</span></article>
-    <article class="step reveal"><span class="step-num">02</span><h3>Predict the surface</h3><p>The original V23 network and frozen weights predict nine cardiac surfaces, including the Aorta and pulmonary artery.</p><span class="step-chip">No default retraining</span></article>
+    <article class="step reveal"><span class="step-num">02</span><h3>Predict the surface</h3><p>The Covariance-guided mesh network and frozen weights predict nine cardiac surfaces, including the Aorta and pulmonary artery.</p><span class="step-chip">No default retraining</span></article>
     <article class="step reveal"><span class="step-num">03</span><h3>Deform the volume</h3><p>Geometric correspondences drive one joint TPS field across all template parts, with Aorta continuation and a tetrahedron determinant guard.</p><span class="step-chip">One shared deformation</span></article>
   </div>
 </section>
 
-<section class="section inside-section" id="inside">
-  <div class="inside-copy reveal"><p class="eyebrow">03 / LOOK BENEATH THE SURFACE</p><h2>Not just a boundary.<br><em>An interior.</em></h2><p>Move through the cutaway to see the original tetrahedral elements inside the heart walls. The camera orbits and moves closer; the mesh itself is unchanged.</p><div class="legend"><span style="--swatch:#9f9ac4">LV wall</span><span style="--swatch:#ea3b2c">RV wall</span><span style="--swatch:#4392c4">LA wall</span><span style="--swatch:#f08c44">RA wall</span><span style="--swatch:#a2d59b">Aorta</span><span style="--swatch:#68559d">PA</span></div><p class="caption">MMWHS example. The cut removes complete tetrahedra behind a moving plane; no remeshing or display smoothing.</p></div>
-  <div class="cutaway-media reveal"><video id="cutaway-video" class="auto-video" loop muted playsinline controls preload="metadata" poster="/assets/heartvolmesh2/tetrahedral_cutaway.jpg"><source src="/assets/heartvolmesh2/tetrahedral_cutaway.mp4" type="video/mp4"></video><details class="quality-details"><summary>Inspect the scaled Jacobian map <span>+</span></summary><img loading="lazy" src="/assets/heartvolmesh2/tetrahedron_quality.png" alt="Original tetrahedra coloured by scaled Jacobian, fixed range zero to one"><p class="caption">Fengming Turbo-64 · common range [0, 1]. Element quality alone does not establish anatomical or simulation validity.</p></details></div>
+<section class="section paper-section" id="paper">
+  <div class="section-heading reveal"><p class="eyebrow">MICCAI 2026 / THE METHOD</p><h2>Covariance-guided.<br><em>Template-connected.</em></h2><p>HeartVolMesh reconstructs a topology-consistent cardiac surface from CTA, then warps a fixed tetrahedral template while retaining its connectivity and vertex correspondence.</p></div>
+  <div class="paper-grid reveal"><article><h3>Why a volume mesh?</h3><p>In-silico cardiac studies need an interior discretization as well as a surface. Thin walls and multi-structure junctions make faithful geometry and consistent connectivity especially valuable.</p></article><article><h3>The core idea</h3><p>Represent every template vertex as an anisotropic Gaussian kernel. Image-conditioned graph deformation predicts displacement and Cholesky-parameterized covariance, followed by template-driven volumetric registration.</p></article></div>
+  <figure class="paper-figure reveal"><video id="paper-video" class="auto-video" loop muted playsinline controls preload="metadata" poster="/assets/heartvolmesh/pipeline_overview.png"><source src="/assets/video/lin2026heartvolmesh/GGS_MICCAI30.mp4" type="video/mp4"></video><figcaption>The original paper's animated pipeline overview, retained from the previous project page. Covariance-guided image-to-surface reconstruction followed by template-driven surface-to-volume propagation.</figcaption></figure>
+  <div class="paper-grid representation-grid reveal"><figure class="paper-figure"><img loading="lazy" src="/assets/img/paper/lin2026heartvolmesh/GGS_MICCAI32.png" alt="Original comparison of point sets, classical meshes and covariance-guided mesh representation"></figure><article><h3>Beyond isolated coordinates</h3><p>Each vertex stores [x, y, z] plus six covariance parameters. The graph retains topology while learned anisotropy expresses spatially varying, direction-dependent geometric support.</p><h3>Covariance-guided matching</h3><p>The paper's surface-learning objective uses a covariance-aware negative log-likelihood with edge, Laplacian and normal regularization:</p><div class="equation">ℓ(x, y; Σ) = ½ (x − y)ᵀ Σ⁻¹ (x − y) + β log det Σ</div><p class="caption">This describes the paper's learning objective. The distributed agent skill uses frozen inference weights and does not train by default.</p></article></div>
+  <div class="pipeline-grid paper-stages reveal"><article class="step"><span class="step-num">IMAGE FEATURES</span><h3>Volume → graph</h3><p>A 3D CNN extracts multi-scale features. Sampling at the current vertex positions brings image information into a GNN over the mesh graph.</p></article><article class="step"><span class="step-num">SURFACE LEARNING</span><h3>Coarse → fine</h3><p>Progressive graph refinement predicts vertex displacements and Cholesky parameters for anisotropic covariance.</p></article><article class="step"><span class="step-num">VOLUME PROPAGATION</span><h3>Boundary → interior</h3><p>The fitted surface motion is propagated to every tetrahedral-template vertex, preserving the fixed connectivity. The public pipeline uses one shared joint TPS field.</p></article></div>
 </section>
-
-<section class="section external-section" id="external">
-  <div class="section-heading reveal"><p class="eyebrow">04 / BEYOND THE DEVELOPMENT DATA</p><h2>New CTA.<br><em>The same frozen model.</em></h2><p>Explore reconstruction examples from MMWHS and ImageCAS with dataset-aware preprocessing and the same released V23 weights.</p></div>
-  <div class="external-tabs reveal" role="tablist" aria-label="External dataset"><button id="tab-mmwhs" role="tab" aria-selected="true" aria-controls="panel-mmwhs" data-panel="panel-mmwhs">MMWHS <span>01</span></button><button id="tab-imagecas" role="tab" aria-selected="false" aria-controls="panel-imagecas" data-panel="panel-imagecas" tabindex="-1">ImageCAS <span>02</span></button></div>
-  <div id="panel-mmwhs" class="external-panel reveal" role="tabpanel" aria-labelledby="tab-mmwhs"><video class="auto-video" loop muted playsinline controls preload="metadata" poster="/assets/heartvolmesh2/mmwhs_orbit.jpg"><source src="/assets/heartvolmesh2/mmwhs_orbit.mp4" type="video/mp4"></video><div><span class="pill">EXTERNAL CTA / MMWHS</span><h3>One template,<br>new anatomy.</h3><p>A labelled whole-heart reconstruction viewed from changing angles. No MMWHS fine-tuning was used for this example.</p><dl><div><dt>Surface predictor</dt><dd>Original V23</dd></div><div><dt>Registration</dt><dd>Joint TPS 600</dd></div><div><dt>Nonpositive tetrahedra</dt><dd>0</dd></div></dl></div></div>
-  <div id="panel-imagecas" class="external-panel" role="tabpanel" aria-labelledby="tab-imagecas" hidden><video class="auto-video" loop muted playsinline controls preload="metadata" poster="/assets/heartvolmesh2/imagecas_orbit.jpg"><source src="/assets/heartvolmesh2/imagecas_orbit.mp4" type="video/mp4"></video><div><span class="pill">EXTERNAL CTA / IMAGECAS</span><h3>Local data.<br>A portable pipeline.</h3><p>Native-image preprocessing followed by the original V23 model and shared volumetric deformation. No ImageCAS fine-tuning was used for this example.</p><dl><div><dt>Surface predictor</dt><dd>Original V23</dd></div><div><dt>Registration</dt><dd>Joint TPS 600</dd></div><div><dt>Nonpositive tetrahedra</dt><dd>0</dd></div></dl></div></div>
-  <p class="caption external-caption">These are selected qualitative development examples. The separate 10 MMWHS + 10 ImageCAS surface evaluation is documented in the repository; it is not a 20-case final-volume validation.</p>
-</section>
-
-<section class="section ep-section" id="ep">
-  <div class="section-heading reveal"><p class="eyebrow">05 / DOWNSTREAM ELECTROPHYSIOLOGY</p><h2>From geometry.<br><em>To electrical dynamics.</em></h2><p>An openCARP continuous-current simulation on the anatomical volumetric template illustrates a downstream application of cardiac volume meshes.</p></div>
-  <div class="large-video ep-media reveal"><video id="ep-video" class="auto-video" loop muted playsinline controls preload="metadata" poster="/assets/heartvolmesh2/ep_simulation.jpg" aria-label="Saved membrane voltage evolving on an anatomical template, with atrial and conduction-cable view, myocardial tetrahedral cutaway and preserved voltage colourbar"><source src="/assets/heartvolmesh2/ep_simulation.mp4" type="video/mp4"></video></div>
-  <div class="ep-notes reveal"><p><b>Atria &amp; conduction cable</b><br>The left view shows saved atrial and cable membrane voltage.</p><p><b>Myocardial tetrahedral cutaway</b><br>The right view reveals electrical propagation within the volume mesh.</p><p><b>One preserved voltage scale</b><br>Vm in mV, displayed from −100 to +40. The grey-to-colour mapping is retained from the source video.</p></div>
-  <p class="caption">Supplied anatomical-template diagnostic: right-atrial stimulation, native samples from 0 to 360 ms, fixed geometry, no temporal interpolation. Re-rendered without annotation actors; the original colourbar is cropped and moved below the two views. This example is separate from the V23/TPS patient reconstructions above; anatomical connections and physiological validity remain unverified.</p>
+<section class="section paper-section" id="paper-results">
+  <div class="section-heading reveal"><p class="eyebrow">THE PAPER / COMPARISONS &amp; EVALUATION</p><h2>Geometry.<br><em>Measured and compared.</em></h2><p>The original project page's scientific figures and reported cohort results are preserved below. These paper experiments are separate from the selected reconstruction and EP examples above.</p></div>
+  <div class="paper-grid reveal"><article><h3>Dataset &amp; training</h3><p>Multi-centre in-house data: <b>900 patients / 4,000 temporal instances</b>. Patient-level split: 800 patients / 3,600 training instances and 100 patients / 400 validation instances.</p><p>Paper configuration: NVIDIA A100 80GB, Adam, 100 epochs, batch size 1, 128³ input crop and 300³ deformation-field resolution.</p></article><article><h3>Evaluation protocol</h3><p>Surface structures: LA, LV, RA, RV and LV myocardium. Volumetric boundaries: LA, LV, RA and RV myocardium.</p><p>Symmetric Chamfer distance (CD), HD95 and normal consistency (NC), plus inverted elements, minimum scaled Jacobian and minimum dihedral angle.</p></article></div>
+  <figure class="paper-figure reveal"><img loading="lazy" src="/assets/img/paper/lin2026heartvolmesh/GGS_MICCAI50.png" alt="Original qualitative volumetric-boundary comparisons with baseline methods"><figcaption>Original paper comparison of surfaces extracted from reconstructed tetrahedral meshes. HeartVolMesh (Ours 3p6) improves boundary localization, including thin anatomy and inter-structure junctions.</figcaption></figure>
+  <figure class="paper-figure reveal"><img loading="lazy" src="/assets/img/paper/lin2026heartvolmesh/GGS_MICCAI44.png" alt="Original normalized radar plots for 24 volumetric parts and boxplots for five surface structures"><figcaption>Original quantitative comparison: normalized radar plots over 24 volumetric parts and boxplots over five surface structures. Figure content and reported values are retained from the paper.</figcaption></figure>
+  <div class="paper-stats reveal"><div><b>0.0%</b><span>inverted elements across 400 validation instances</span></div><div><b>0.0416 ± 0.0152</b><span>minimum scaled Jacobian</span></div><div><b>5.56° ± 1.41°</b><span>minimum dihedral angle</span></div></div>
+  <div class="paper-grid tables-grid reveal"><article><h3>Surface meshes · Ours 3p6</h3><table><thead><tr><th>Structure</th><th>CD ↓</th><th>HD95 ↓</th><th>NC ↑</th></tr></thead><tbody><tr><td>LA</td><td>2.5</td><td>2.2</td><td>89.5%</td></tr><tr><td>LV</td><td>3.0</td><td>2.8</td><td>88.7%</td></tr><tr><td>Myo</td><td>4.0</td><td>3.6</td><td>87.6%</td></tr><tr><td>RA</td><td>2.9</td><td>2.8</td><td>88.3%</td></tr><tr><td>RV</td><td>3.3</td><td>3.1</td><td>87.3%</td></tr></tbody></table></article><article><h3>Volumetric boundaries · Ours 3p6</h3><table><thead><tr><th>Structure</th><th>CD ↓</th><th>HD95 ↓</th><th>NC ↑</th></tr></thead><tbody><tr><td>LVMyo</td><td>3.6</td><td>3.2</td><td>95.3%</td></tr><tr><td>RVMyo</td><td>3.1</td><td>2.8</td><td>94.2%</td></tr><tr><td>LAMyo</td><td>3.0</td><td>3.0</td><td>87.7%</td></tr><tr><td>RAMyo</td><td>3.0</td><td>2.9</td><td>92.2%</td></tr></tbody></table></article></div>
+  <div class="pipeline-grid paper-stages reveal"><article class="step"><h3>Boundary localization</h3><p>Covariance-guided supervision improves tolerance around ambiguous and thin anatomical regions.</p></article><article class="step"><h3>Mesh correspondence</h3><p>Deforming a fixed template retains connectivity and supports cross-case vertex correspondence by construction.</p></article><article class="step"><h3>Template flexibility</h3><p>The chosen template controls resolution and element specification for downstream FEM/CFD research. Application-specific validity still needs assessment.</p></article></div>
 </section>
 
 <section class="section install-section" id="install">
-  <div class="beam" aria-hidden="true"></div><div class="section-heading reveal"><p class="eyebrow">06 / MAKE IT YOURS</p><h2>Your image.<br><em>Your volumetric heart.</em></h2><p>Run the code directly, or give your coding agent the HeartVolMesh skill. Installation creates an isolated environment and verifies the model and runtime downloads.</p></div>
+  <div class="beam" aria-hidden="true"></div><div class="section-heading reveal"><p class="eyebrow">MAKE IT YOURS</p><h2>Your image.<br><em>Your volumetric heart.</em></h2><p>Give Codex or Claude Code the HeartVolMesh skill URL, or run the code directly. Installation creates an isolated environment and verifies the model and runtime downloads.</p></div>
   <div class="install-grid"><a class="install-card reveal" href="https://github.com/fmlinks/HeartVolMesh"><span class="install-icon">⌘</span><h3>For people</h3><p>Readable source, preprocessing, mesh export, quality reports and visualization scripts.</p><span class="install-link">Explore the GitHub repository ↗</span></a><a class="install-card reveal" href="https://github.com/fmlinks/HeartVolMesh/tree/main/skills/heartvolmesh"><span class="install-icon">✳</span><h3>For agents</h3><p>A GPU-aware bootstrap and an inference workflow for your own local CTA files.</p><span class="install-link">Install heartvolmesh ↗</span></a></div>
   <div class="terminal reveal"><div><span></span><span></span><span></span><b>heartvolmesh / quick start</b></div><pre><code>git clone https://github.com/fmlinks/HeartVolMesh.git
 cd HeartVolMesh
@@ -101,5 +128,5 @@ python run_inference.py --workspace ./workspace \
   <p>Lin, Fengming, et al. &quot;HeartVolMesh: Cardiac Volumetric Mesh Reconstruction via Covariance-Guided Graph Deformation.&quot; <em>International Conference on Medical Image Computing and Computer-Assisted Intervention</em>. Cham: Springer International Publishing, 2026.</p>
 </section>
 </main>
-<footer><a class="wordmark" href="https://fmlinks.github.io/">Fengming Lin ↗</a><p>HeartVolMesh · Original V23 + Joint TPS 600<br>Supported by the NVIDIA Academic Grant Program.</p><div><a href="https://github.com/fmlinks/HeartVolMesh">Code</a><a href="/projects/heartvolmesh/">Original project</a><a href="/assets/heartvolmesh2/THIRD_PARTY_NOTICES.txt">Template credits</a><button id="motion-control" type="button" aria-pressed="false">Reduce motion</button></div></footer>
+<footer><a class="wordmark" href="https://fmlinks.github.io/">Fengming Lin ↗</a><p>HeartVolMesh · Covariance-guided mesh + Joint TPS 600<br>Supported by the NVIDIA Academic Grant Program.</p><div><a href="https://github.com/fmlinks/HeartVolMesh">Code</a><a href="#paper">Method &amp; paper</a><a href="/assets/heartvolmesh/THIRD_PARTY_NOTICES.txt">Template credits</a><button id="motion-control" type="button" aria-pressed="false">Reduce motion</button></div></footer>
 </body></html>
