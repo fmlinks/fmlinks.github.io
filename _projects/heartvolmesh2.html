@@ -3,7 +3,7 @@ layout: null
 title: HeartVolMesh 2
 description: From cardiac CTA to a labelled volumetric heart mesh. Original V23 and joint TPS 600, with an installable agent skill.
 permalink: /projects/heartvolmesh2/
-img: assets/heartvolmesh2/reprise3_heartbeat.jpg
+img: assets/heartvolmesh2/reprise3_phase_grid.jpg
 importance: 0
 category: ongoing
 related_publications: false
@@ -13,9 +13,9 @@ related_publications: false
 <head>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
   <title>HeartVolMesh — From CTA to a volumetric heart</title>
-  <meta name="description" content="Explore real beating-heart, tetrahedral cutaway and external CTA reconstructions. Install HeartVolMesh as code or an agent skill.">
+  <meta name="description" content="Explore fixed cardiac phases, tetrahedral cutaways, external CTA reconstructions and a downstream EP simulation example. Install HeartVolMesh as code or an agent skill.">
   <meta property="og:title" content="HeartVolMesh | From CTA to a volumetric heart">
-  <meta property="og:image" content="https://fmlinks.github.io/assets/heartvolmesh2/reprise3_heartbeat.jpg">
+  <meta property="og:image" content="https://fmlinks.github.io/assets/heartvolmesh2/reprise3_phase_grid.jpg">
   <link rel="stylesheet" href="/assets/heartvolmesh2/page.css">
   <script defer src="/assets/heartvolmesh2/page.js"></script>
 </head>
@@ -25,7 +25,7 @@ related_publications: false
 <div class="launch-glow" aria-hidden="true"><div></div><div></div></div>
 <nav class="floating-nav" aria-label="Main navigation">
   <a class="wordmark" href="#top"><span class="brand-icon" aria-hidden="true">♥</span> HeartVolMesh<span class="version">02</span></a>
-  <div class="nav-links"><a href="#motion">Motion</a><a href="#inside">Inside the mesh</a><a href="#external">External CTA</a></div>
+  <div class="nav-links"><a href="#motion">Cardiac phases</a><a href="#inside">Inside the mesh</a><a href="#external">External CTA</a><a href="#ep">EP simulation</a></div>
   <a class="nav-code" href="https://github.com/fmlinks/HeartVolMesh">GitHub <span aria-hidden="true">↗</span></a>
 </nav>
 <main id="main">
@@ -33,28 +33,28 @@ related_publications: false
   <div class="hero-copy reveal">
     <p class="eyebrow"><span class="live-dot"></span> ORIGINAL V23 · JOINT TPS 600</p>
     <h1>From CTA.<br>To a <em>volumetric</em><br>heart.</h1>
-    <p class="intro">A three-dimensional image becomes a labelled tetrahedral mesh. One surface network. One shared deformation. Ready to explore.</p>
+    <div class="hero-description"><p class="intro">A three-dimensional image becomes a labelled tetrahedral mesh. One surface network. One shared deformation. Ready to explore.</p>
     <div class="actions"><a class="button primary" href="https://github.com/fmlinks/HeartVolMesh">Get the code <span>↗</span></a><a class="button secondary" href="#install">Install the skill <span>↓</span></a></div>
-    <div class="hero-spec"><span><b>9</b> predicted surfaces</span><span><b>24</b> template parts</span><span><b>1.52M</b> tetrahedra</span></div>
+    <div class="hero-spec"><span><b>9</b> predicted surfaces</span><span><b>24</b> template parts</span><span><b>1.52M</b> tetrahedra</span></div></div>
   </div>
   <div class="hero-media reveal" data-tilt>
-    <div class="video-frame mockup-frame">
+    <div class="video-frame mockup-frame phase-grid-media">
       <div class="frame-top"><span class="live-dot"></span><span>REPRISE3 / ACQUIRED CARDIAC PHASES</span><span>V23</span></div>
-      <video id="hero-video" class="auto-video" autoplay loop muted playsinline preload="metadata" poster="/assets/heartvolmesh2/reprise3_heartbeat.jpg" aria-label="Volumetric reconstruction across twenty real REPRISE3 cardiac phases"><source src="/assets/heartvolmesh2/reprise3_heartbeat.mp4" type="video/mp4"></video>
-      <div class="frame-bottom"><span>20 acquired phases · fixed camera</span><button type="button" class="play-toggle" data-video="hero-video" aria-label="Pause cardiac animation">Pause Ⅱ</button></div>
+      <video id="hero-video" class="auto-video" autoplay loop muted playsinline preload="metadata" poster="/assets/heartvolmesh2/reprise3_phase_grid.jpg" aria-label="Two rows of five fixed acquired REPRISE3 phases, each heart rotating in its own panel"><source src="/assets/heartvolmesh2/reprise3_phase_grid.mp4" type="video/mp4"></video>
+      <div class="frame-bottom"><span>10 fixed phases · 2 × 5 · individual rotation</span><button type="button" class="play-toggle" data-video="hero-video" aria-label="Pause phase rotation">Pause Ⅱ</button></div>
     </div>
-    <span class="floating-tag tag-one">SURFACE → VOLUME</span><span class="floating-tag tag-two">Connectivity preserved</span>
   </div>
   <a class="scroll-cue" href="#motion">SCROLL TO EXPLORE <span>↓</span></a>
 </section>
 <div class="ticker" aria-hidden="true"><div>CTA TO TETRAHEDRA <span>✳</span> ORIGINAL V23 <span>✳</span> JOINT TPS 600 <span>✳</span> INSTALLABLE AGENT SKILL <span>✳</span> CTA TO TETRAHEDRA <span>✳</span> ORIGINAL V23 <span>✳</span> JOINT TPS 600 <span>✳</span> INSTALLABLE AGENT SKILL <span>✳</span></div></div>
 
 <section class="section motion-section" id="motion">
-  <div class="section-heading reveal"><p class="eyebrow">01 / THE HEART IN MOTION</p><h2>Geometry that<br><em>moves with the heart.</em></h2><p>A complete 20-phase sequence, reconstructed with the released inference pipeline. Each phase starts with its own CTA image.</p></div>
-  <div class="motion-grid">
-    <div class="large-video reveal"><video id="motion-video" class="auto-video" loop muted playsinline controls preload="metadata" poster="/assets/heartvolmesh2/reprise3_heartbeat.jpg"><source src="/assets/heartvolmesh2/reprise3_heartbeat.mp4" type="video/mp4"></video></div>
-    <div class="motion-notes reveal"><span class="pill">REAL INFERENCE OUTPUT</span><h3>Follow the full cycle.</h3><p>We screened three complete sequences and selected one with a clear contraction pattern. The animation shows the 20 exported volumetric meshes in acquisition order.</p><div class="line-stat"><b>20 / 20</b><span>phases reconstructed</span></div><div class="line-stat"><b>0</b><span>nonpositive tetrahedra in these exports</span></div><p class="caption">Independent single-phase V23 inference; no temporal filter or interpolated mesh geometry. Playback speed is illustrative.</p></div>
+  <div class="section-heading reveal"><p class="eyebrow">01 / TEN PHASES, SIDE BY SIDE</p><h2>One cycle.<br><em>Ten fixed perspectives.</em></h2><p>Ten evenly spaced acquired phases from the same REPRISE3 series, arranged in two rows of five. Each heart retains its phase-specific shape and rotates in its own panel.</p></div>
+  <div class="motion-grid phase-grid-layout">
+    <div class="large-video phase-grid-media reveal"><video id="motion-video" class="auto-video" loop muted playsinline controls preload="metadata" poster="/assets/heartvolmesh2/reprise3_phase_grid.jpg"><source src="/assets/heartvolmesh2/reprise3_phase_grid.mp4" type="video/mp4"></video></div>
+    <div class="motion-notes phase-grid-notes reveal"><div><span class="pill">REAL INFERENCE OUTPUT</span><h3>Compare the acquired phases.</h3><p>We screened three complete sequences and reconstructed all twenty phases. This gallery displays phases 0%, 10%, …, 90% with a shared camera scale and the same viewing angle in every panel.</p></div><div><div class="line-stat"><b>10 / 20</b><span>acquired phases displayed / reconstructed</span></div><div class="line-stat"><b>0</b><span>nonpositive tetrahedra in these exports</span></div></div></div>
   </div>
+  <p class="caption">Independent single-phase V23 inference and joint TPS 600. Surface views of the actual volumetric meshes; geometry stays fixed within each panel. Only the cameras rotate. No temporal interpolation, remeshing or geometry smoothing.</p>
 </section>
 
 <section class="pipeline-section section" id="pipeline">
@@ -79,8 +79,15 @@ related_publications: false
   <p class="caption external-caption">These are selected qualitative development examples. The separate 10 MMWHS + 10 ImageCAS surface evaluation is documented in the repository; it is not a 20-case final-volume validation.</p>
 </section>
 
+<section class="section ep-section" id="ep">
+  <div class="section-heading reveal"><p class="eyebrow">05 / DOWNSTREAM ELECTROPHYSIOLOGY</p><h2>From geometry.<br><em>To electrical dynamics.</em></h2><p>An openCARP continuous-current simulation on the anatomical volumetric template illustrates a downstream application of cardiac volume meshes.</p></div>
+  <div class="large-video ep-media reveal"><video id="ep-video" class="auto-video" loop muted playsinline controls preload="metadata" poster="/assets/heartvolmesh2/ep_simulation.jpg" aria-label="Saved membrane voltage evolving on an anatomical template, with atrial and conduction-cable view, myocardial tetrahedral cutaway and preserved voltage colourbar"><source src="/assets/heartvolmesh2/ep_simulation.mp4" type="video/mp4"></video></div>
+  <div class="ep-notes reveal"><p><b>Atria &amp; conduction cable</b><br>The left view shows saved atrial and cable membrane voltage.</p><p><b>Myocardial tetrahedral cutaway</b><br>The right view reveals electrical propagation within the volume mesh.</p><p><b>One preserved voltage scale</b><br>Vm in mV, displayed from −100 to +40. The grey-to-colour mapping is retained from the source video.</p></div>
+  <p class="caption">Supplied anatomical-template diagnostic: right-atrial stimulation, native samples from 0 to 360 ms, fixed geometry, no temporal interpolation. Re-rendered without annotation actors; the original colourbar is cropped and moved below the two views. This example is separate from the V23/TPS patient reconstructions above; anatomical connections and physiological validity remain unverified.</p>
+</section>
+
 <section class="section install-section" id="install">
-  <div class="beam" aria-hidden="true"></div><div class="section-heading reveal"><p class="eyebrow">05 / MAKE IT YOURS</p><h2>Your image.<br><em>Your volumetric heart.</em></h2><p>Run the code directly, or give your coding agent the HeartVolMesh skill. Installation creates an isolated environment and verifies the model and runtime downloads.</p></div>
+  <div class="beam" aria-hidden="true"></div><div class="section-heading reveal"><p class="eyebrow">06 / MAKE IT YOURS</p><h2>Your image.<br><em>Your volumetric heart.</em></h2><p>Run the code directly, or give your coding agent the HeartVolMesh skill. Installation creates an isolated environment and verifies the model and runtime downloads.</p></div>
   <div class="install-grid"><a class="install-card reveal" href="https://github.com/fmlinks/HeartVolMesh"><span class="install-icon">⌘</span><h3>For people</h3><p>Readable source, preprocessing, mesh export, quality reports and visualization scripts.</p><span class="install-link">Explore the GitHub repository ↗</span></a><a class="install-card reveal" href="https://github.com/fmlinks/HeartVolMesh/tree/main/skills/heartvolmesh"><span class="install-icon">✳</span><h3>For agents</h3><p>A GPU-aware bootstrap and an inference workflow for your own local CTA files.</p><span class="install-link">Install heartvolmesh ↗</span></a></div>
   <div class="terminal reveal"><div><span></span><span></span><span></span><b>heartvolmesh / quick start</b></div><pre><code>git clone https://github.com/fmlinks/HeartVolMesh.git
 cd HeartVolMesh
@@ -88,6 +95,10 @@ python bootstrap.py --workspace ./workspace
 python run_inference.py --workspace ./workspace \
   --image ./CTA.nii.gz --output ./result</code></pre><a href="https://github.com/fmlinks/HeartVolMesh/releases/tag/v1.0.0">Download the release bundles ↗</a></div>
   <p class="caption">Windows RTX 5090 was tested in a fresh environment. The installer provides a driver-aware RTX 3090 route; that hardware has not been directly tested. Review heart coverage and native CT overlays for each new dataset. This is a research release.</p>
+</section>
+<section class="section citation-section" id="citation">
+  <p class="eyebrow">MICCAI 2026 / CITE THIS WORK</p>
+  <p>Lin, Fengming, et al. &quot;HeartVolMesh: Cardiac Volumetric Mesh Reconstruction via Covariance-Guided Graph Deformation.&quot; <em>International Conference on Medical Image Computing and Computer-Assisted Intervention</em>. Cham: Springer International Publishing, 2026.</p>
 </section>
 </main>
 <footer><a class="wordmark" href="https://fmlinks.github.io/">Fengming Lin ↗</a><p>HeartVolMesh · Original V23 + Joint TPS 600<br>Supported by the NVIDIA Academic Grant Program.</p><div><a href="https://github.com/fmlinks/HeartVolMesh">Code</a><a href="/projects/heartvolmesh/">Original project</a><a href="/assets/heartvolmesh2/THIRD_PARTY_NOTICES.txt">Template credits</a><button id="motion-control" type="button" aria-pressed="false">Reduce motion</button></div></footer>

@@ -12,3 +12,10 @@ body.reduced-motion *,body.reduced-motion *:before,body.reduced-motion *:after{a
 .launch-glow{top:0;height:1200px;overflow:hidden}.launch-glow>div{top:200px}
 html{overflow-x:clip}.launch-glow,.ticker,.terminal pre{contain:paint}.terminal pre code{display:block;width:max-content}.nav-code{white-space:nowrap}
 @media(max-width:700px){.floating-nav{gap:10px}.wordmark{gap:6px;font-size:14px}.brand-icon{font-size:20px}.nav-code{padding:9px 10px;font-size:12px}.version{display:none}}
+
+/* Fixed-phase gallery and the supplied EP diagnostic. */
+.hero{grid-template-columns:1fr;height:auto;min-height:0;max-height:none;gap:48px;padding-top:145px;padding-bottom:110px}
+.hero-copy{display:grid;grid-template-columns:1fr 1fr;gap:10px 60px;align-items:center}.hero-copy>.eyebrow{grid-column:1/-1;margin-bottom:12px}.hero-description .intro{margin-top:0;max-width:470px}.hero-media{width:100%;max-width:none;transform:none}.hero h1{font-size:clamp(54px,6vw,82px)}
+.phase-grid-media video{aspect-ratio:11/5;object-fit:contain}.phase-grid-layout{grid-template-columns:1fr;gap:36px}.phase-grid-notes{display:grid;grid-template-columns:1.2fr 1fr;gap:75px}.phase-grid-notes h3{margin:20px 0 15px}.phase-grid-notes .line-stat:first-child{padding-top:0}
+.ep-section{border-top:1px solid var(--line)}.ep-media{margin-top:50px}.ep-media video{aspect-ratio:45/19;object-fit:contain}.ep-notes{display:grid;grid-template-columns:repeat(3,1fr);gap:35px;margin-top:32px}.ep-notes p{font-size:14px}.ep-notes b{color:var(--text);font-weight:500}.citation-section{padding-block:55px;border-top:1px solid var(--line)}.citation-section>p:last-child{max-width:1000px;font-size:16px}.citation-section em{font-style:italic;color:var(--text)}
+@media(max-width:700px){.hero{gap:36px;padding-top:135px;padding-bottom:75px}.hero-copy,.phase-grid-notes,.ep-notes{grid-template-columns:1fr;gap:25px}.hero-copy>.eyebrow{grid-column:auto}.hero-description .intro{margin-top:10px}.hero-media{width:100%;max-width:none}.frame-bottom{font-size:9px}.frame-top{font-size:8px}.ep-media{margin-top:30px}.citation-section{padding-block:40px}}

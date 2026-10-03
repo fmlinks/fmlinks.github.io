@@ -1,4 +1,4 @@
-/* No external runtime dependencies. All scientific media are real mesh exports. */
+/* No external runtime dependencies. Scientific media use real mesh exports and saved native EP voltages. */
 (() => {
   const reducedQuery=matchMedia('(prefers-reduced-motion: reduce)');
   let reduce=reducedQuery.matches, manualPause=new Set();
@@ -13,7 +13,7 @@
   document.querySelectorAll('.reveal').forEach(el=>reveal.observe(el));
   const videoObserver=new IntersectionObserver(syncVideos,{threshold:[0,.1,.5]});videos.forEach(v=>videoObserver.observe(v));
   document.addEventListener('visibilitychange',syncVideos);
-  document.querySelectorAll('.play-toggle').forEach(button=>{const video=document.getElementById(button.dataset.video);button.addEventListener('click',()=>{if(video.paused){manualPause.delete(video);video.play().catch(()=>{});}else{manualPause.add(video);video.pause();}});const update=()=>{button.textContent=video.paused?'Play ▷':'Pause Ⅱ';button.setAttribute('aria-label',video.paused?'Play cardiac animation':'Pause cardiac animation');};video.addEventListener('play',update);video.addEventListener('pause',update);});
+  document.querySelectorAll('.play-toggle').forEach(button=>{const video=document.getElementById(button.dataset.video);button.addEventListener('click',()=>{if(video.paused){manualPause.delete(video);video.play().catch(()=>{});}else{manualPause.add(video);video.pause();}});const update=()=>{button.textContent=video.paused?'Play ▷':'Pause Ⅱ';button.setAttribute('aria-label',video.paused?'Play phase rotation':'Pause phase rotation');};video.addEventListener('play',update);video.addEventListener('pause',update);});
   const tabs=[...document.querySelectorAll('[role=tab]')];
   function selectTab(tab){tabs.forEach(t=>{const selected=t===tab;t.setAttribute('aria-selected',String(selected));t.tabIndex=selected?0:-1;const panel=document.getElementById(t.dataset.panel);panel.hidden=!selected;if(selected)panel.classList.add('visible');});syncVideos();}
   tabs.forEach((tab,index)=>{tab.addEventListener('click',()=>selectTab(tab));tab.addEventListener('keydown',event=>{let next;if(event.key==='ArrowRight')next=tabs[(index+1)%tabs.length];if(event.key==='ArrowLeft')next=tabs[(index+tabs.length-1)%tabs.length];if(event.key==='Home')next=tabs[0];if(event.key==='End')next=tabs[tabs.length-1];if(next){event.preventDefault();selectTab(next);next.focus();}});});
