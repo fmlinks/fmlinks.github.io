@@ -37,3 +37,6 @@ footer>.code-release{grid-column:1/-1;width:100%;border-top:1px solid var(--line
 .code-release .eyebrow{margin-bottom:18px}
 .code-placeholder{display:inline-flex;gap:35px;align-items:center;margin-bottom:18px;color:var(--brand)}
 .code-release>p:last-child{max-width:860px;font-size:14px;line-height:1.8}
+
+/* Preserve the complete three-panel cardiac-cycle frame in the hero. */
+.cardiac-cycle-media video{aspect-ratio:16/9;object-fit:contain}
