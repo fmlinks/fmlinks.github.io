@@ -29,13 +29,16 @@ html{overflow-x:clip}.launch-glow,.ticker,.terminal pre{contain:paint}.terminal 
 .research-support-logo{display:flex;align-items:center;justify-content:center;background:#fff;border:1px solid rgba(255,255,255,.14);border-radius:14px;padding:22px 20px}
 .research-support-logo img{display:block;width:100%;height:auto}
 .research-support .eyebrow{margin-bottom:14px}
-.research-support-statement{font-size:clamp(18px,2vw,24px);line-height:1.55;color:var(--text)}
+.research-support-statement{font-size:16px;line-height:1.6;color:var(--text)}
 @media(max-width:700px){.research-support{grid-template-columns:1fr;gap:26px;padding-block:36px 44px}.research-support-logo{width:240px;max-width:100%}}
 
 /* Code availability is the final page content while IP protection is in progress. */
 footer>.code-release{grid-column:1/-1;width:100%;border-top:1px solid var(--line);margin-top:16px;padding-top:34px}
 .code-release .eyebrow{margin-bottom:18px}
-.code-placeholder{display:inline-flex;gap:35px;align-items:center;margin-bottom:18px;color:var(--brand)}
+.resource-actions{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;max-width:620px;margin-bottom:18px}
+.resource-actions .button{align-items:center;gap:16px;min-width:0}
+.code-placeholder{color:var(--brand)}
+.code-placeholder[aria-disabled="true"]{opacity:.65;cursor:not-allowed}
 .code-release>p:last-child{max-width:860px;font-size:14px;line-height:1.8}
 
 /* Preserve the complete three-panel cardiac-cycle frame in the hero. */
