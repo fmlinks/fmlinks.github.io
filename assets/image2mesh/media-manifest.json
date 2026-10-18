@@ -626,16 +626,6 @@
       "conversion": "None; byte-identical source PDF copy"
     }
   ],
-  "editorial_illustration": {
-    "path": "assets/image2mesh/hero-illustration.webp",
-    "sha256": "f8bc06ef741625633191cd223f122170e3589ee5de49e25fa410544466c82799",
-    "dimensions": [
-      1600,
-      800
-    ],
-    "provenance": "AI-generated conceptual editorial illustration; explicitly labelled; not scientific evidence",
-    "generation_brief": "Medical image slices to wireframe anatomy to anatomical shape variation to simulated flow; precise editorial illustration on white, ink/teal/lavender palette, no text."
-  },
   "video_poster": {
     "path": "assets/image2mesh/video-poster.jpg",
     "sha256": "89a98bc259a86356e34951b7b48730b0e4c1c546efeccaccd85463bd86489da9",

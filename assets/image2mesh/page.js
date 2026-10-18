@@ -110,20 +110,6 @@
   video.addEventListener('error', () => { videoError.hidden = false; });
   video.querySelector('source').addEventListener('error', () => { videoError.hidden = false; });
 
-  const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
-  const motion = document.querySelector('.motion-toggle');
-  let userPaused = false;
-  const updateMotion = () => {
-    const paused = userPaused || reducedMotion.matches;
-    document.body.classList.toggle('motion-paused', paused);
-    motion.setAttribute('aria-pressed', String(paused));
-    motion.textContent = paused ? 'Resume motion' : 'Pause motion';
-    motion.hidden = reducedMotion.matches;
-  };
-  motion.addEventListener('click', () => { userPaused = !userPaused; updateMotion(); });
-  reducedMotion.addEventListener('change', updateMotion);
-  updateMotion();
-
   const progress = document.querySelector('.reading-progress');
   let pending = false;
   const updateProgress = () => {

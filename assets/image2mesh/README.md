@@ -10,14 +10,13 @@ Independent project route: `/projects/image2mesh/`, listed as **Image2Mesh**. Th
 - Evidence uses `result_brain5.jpg` and `result_heart5.jpg`, referenced by the supplied manuscript. These are heterogeneous study-level summaries, not controlled head-to-head comparisons.
 - All twelve original-page figures are accessible in the original figure collection, using the exact existing originals. Earlier brain/cardiac charts and the old generative completion figure are explicitly retained. The old completion PNG and newer interpolation PDF are distinct.
 - The original H264/AAC overview video remains at `/assets/video/lin2025pixels/From_Pixels_to_Polygons.mp4` without modification or duplication. `video-poster.jpg` is its frame at 45 seconds. The source video has no caption track.
-- `hero-illustration.webp` is AI-generated conceptual editorial artwork, labelled as such, rather than a reconstruction result or quantitative evidence. Its visual brief is medical image slices → wireframe anatomy → anatomical shape variation → simulated flow, on white, matching the page's ink/teal/lavender palette.
 - The ZIP's `mainTemplatePDF.pdf` is an unrelated old LaTeX template and is intentionally not published. `taxonomy-source.pdf` is only the verified source taxonomy figure.
 
 ## Design and implementation
 
 The design follows the media-led clarity of the [Nerfies project-page reference](https://github.com/nerfies/nerfies.github.io) without copying its code or assets. Video loading follows [web.dev's native-video guidance](https://web.dev/articles/lazy-loading-video). This page uses original HTML, CSS and small vanilla JavaScript, with no third-party runtime, font or animation dependencies.
 
-White background, deep teal actions, ink typography, thin rules, open editorial sections, an interactive four-family/twelve-subcategory explorer, separate evidence tabs, source-figure dialogs, a native video player and BibTeX copy controls. The hero's four-stage motion and panel transitions respect reduced-motion preferences; optional motion can also be paused. Panels remain readable without JavaScript. Figure links open the source directly when dialogs are unsupported or JavaScript is unavailable.
+White background, deep teal actions, ink typography, thin rules, an editorial text-only introduction, an interactive four-family/twelve-subcategory explorer, separate evidence tabs, source-figure dialogs, a native video player and BibTeX copy controls. Panel transitions respect reduced-motion preferences. Panels remain readable without JavaScript. Figure links open the source directly when dialogs are unsupported or JavaScript is unavailable.
 
 ## Validation
 
