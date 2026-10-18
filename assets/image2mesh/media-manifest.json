@@ -1,0 +1,646 @@
+{
+  "schema_version": 1,
+  "generated_at_utc": "2026-10-18T16:12:36.765618+00:00",
+  "source_archive": {
+    "bytes": 17562599,
+    "sha256": "826095f7bae0d15f94be8383414a42f7bbfb1cdfeab4d535a97a1e960e6bbd55",
+    "filename": "Deep_Learning_Based_Medical_Image_To_Mesh_Reconstruction__A_Survey.zip"
+  },
+  "images": [
+    {
+      "path": "assets/image2mesh/pipeline.webp",
+      "source_archive_path": "fig/IST_pipeline4.png",
+      "source_sha256": "262ff00511ba69b2a44d5bb16e51e40850209626150d1c0954faf641f938f191",
+      "source_bytes": 2164899,
+      "source_raster_dimensions": [
+        3058,
+        1586
+      ],
+      "output_dimensions": [
+        2000,
+        1037
+      ],
+      "output_bytes": 179850,
+      "output_sha256": "78d29eca7078ee5959cd3598a611345029503bdad01f2bb4e7626e21bffb2499",
+      "conversion": [
+        "Original raster composited onto opaque white, RGB",
+        "Lanczos downsample to maximum width 2000px; aspect ratio preserved",
+        "WebP quality 92, method 6; no crop"
+      ],
+      "description": "In-silico trial pipeline"
+    },
+    {
+      "path": "assets/image2mesh/taxonomy.webp",
+      "source_archive_path": "fig/content5.pdf",
+      "source_sha256": "25f1f7f2ca3ea6291ac09de68fbd6dc435018b2b223ca2cf8b818f92a74559e9",
+      "source_bytes": 213555,
+      "source_raster_dimensions": null,
+      "output_dimensions": [
+        2000,
+        2212
+      ],
+      "output_bytes": 318212,
+      "output_sha256": "a410a3940650a05bb09216f3591fcf76c5324d8f4a273568bf6d9076b6888459",
+      "conversion": [
+        "First PDF page rendered in RGB on white with PyMuPDF",
+        "WebP quality 92, method 6; no crop"
+      ],
+      "description": "Four methodological families and twelve subcategories"
+    },
+    {
+      "path": "assets/image2mesh/challenges.webp",
+      "source_archive_path": "fig/challenges.png",
+      "source_sha256": "e1b92e2cdfb11972702379d7205c7484746766f15b0abd3c526c6dbdd2c40fa2",
+      "source_bytes": 254200,
+      "source_raster_dimensions": [
+        1770,
+        828
+      ],
+      "output_dimensions": [
+        1770,
+        828
+      ],
+      "output_bytes": 90290,
+      "output_sha256": "e7f6b775765042ac03edd70b49f52a6e74af2c724f86c75a54f6280f89f8139b",
+      "conversion": [
+        "Original raster composited onto opaque white, RGB",
+        "WebP quality 92, method 6; no crop"
+      ],
+      "description": "Challenges and methodological objectives"
+    },
+    {
+      "path": "assets/image2mesh/brain-evidence.webp",
+      "source_archive_path": "fig/result_brain5.jpg",
+      "source_sha256": "ada9cf60bf35b9893076fb2dde6e986e8788089d67aa9d11e50164980bfe3ad9",
+      "source_bytes": 223571,
+      "source_raster_dimensions": [
+        2436,
+        1280
+      ],
+      "output_dimensions": [
+        2000,
+        1051
+      ],
+      "output_bytes": 129210,
+      "output_sha256": "0224f1049ffae7778efc7f2de7971db1ad138cfd01b95b1e74fed2a04a790692",
+      "conversion": [
+        "Original raster composited onto opaque white, RGB",
+        "Lanczos downsample to maximum width 2000px; aspect ratio preserved",
+        "WebP quality 92, method 6; no crop"
+      ],
+      "description": "Updated cortical MR cross-study synthesis"
+    },
+    {
+      "path": "assets/image2mesh/cardiac-evidence.webp",
+      "source_archive_path": "fig/result_heart5.jpg",
+      "source_sha256": "c195d5b3fe21ea4f57d6d30597182f1aae6901d387619daec21520f6d05e37cc",
+      "source_bytes": 206110,
+      "source_raster_dimensions": [
+        2496,
+        1280
+      ],
+      "output_dimensions": [
+        2000,
+        1026
+      ],
+      "output_bytes": 104306,
+      "output_sha256": "b8039574ece12bfdbe7088b28767e3441cc2a6923139290f4d508a25b6a11074",
+      "conversion": [
+        "Original raster composited onto opaque white, RGB",
+        "Lanczos downsample to maximum width 2000px; aspect ratio preserved",
+        "WebP quality 92, method 6; no crop"
+      ],
+      "description": "Updated cardiac MR cross-study synthesis"
+    },
+    {
+      "path": "assets/image2mesh/template-deformation.webp",
+      "source_archive_path": "fig/Deformation Model 1.png",
+      "source_sha256": "6a6744d24eb555b11d43c470691bb27900c45998677bdc71c90c745be4c703c5",
+      "source_bytes": 33043,
+      "source_raster_dimensions": [
+        1032,
+        278
+      ],
+      "output_dimensions": [
+        1032,
+        278
+      ],
+      "output_bytes": 18564,
+      "output_sha256": "235af276a8c877bce52a69ab7e5673d07001ecd54c86a8bdc73ef7c7616e971f",
+      "conversion": [
+        "Original raster composited onto opaque white, RGB",
+        "WebP quality 92, method 6; no crop"
+      ],
+      "description": "Conditioned template deformation"
+    },
+    {
+      "path": "assets/image2mesh/template-registration.webp",
+      "source_archive_path": "fig/Deformation Model 4.png",
+      "source_sha256": "3e6db7b5b35b03c0b494dd2e4ed1a962fca6986f3c4ce9ea30de84b3d7ce3788",
+      "source_bytes": 434300,
+      "source_raster_dimensions": [
+        4000,
+        1210
+      ],
+      "output_dimensions": [
+        2000,
+        605
+      ],
+      "output_bytes": 39084,
+      "output_sha256": "df56076676c1f0a4654a03eee18fa3edfbff5695f46a95c96015e43a6c903a07",
+      "conversion": [
+        "Original raster composited onto opaque white, RGB",
+        "Lanczos downsample to maximum width 2000px; aspect ratio preserved",
+        "WebP quality 92, method 6; no crop"
+      ],
+      "description": "Template registration"
+    },
+    {
+      "path": "assets/image2mesh/ssm-linear.webp",
+      "source_archive_path": "fig/SSM1.png",
+      "source_sha256": "62b8f8e0a3ed31dfc19bec72b5ccf3efd0abd95c9419409f16788d2f84b04cab",
+      "source_bytes": 43159,
+      "source_raster_dimensions": [
+        1412,
+        415
+      ],
+      "output_dimensions": [
+        1412,
+        415
+      ],
+      "output_bytes": 18758,
+      "output_sha256": "340058ef4efaeb3d6bae55412a176bcf9ae1f09170662459297949bf5ebe710c",
+      "conversion": [
+        "Original raster composited onto opaque white, RGB",
+        "WebP quality 92, method 6; no crop"
+      ],
+      "description": "Linear statistical shape model"
+    },
+    {
+      "path": "assets/image2mesh/ssm-nonlinear.webp",
+      "source_archive_path": "fig/SSM2.png",
+      "source_sha256": "8108b75e81602c340ea29d95a2b7ca8a42b934f638a0dab174ff2f7550561319",
+      "source_bytes": 97937,
+      "source_raster_dimensions": [
+        2080,
+        627
+      ],
+      "output_dimensions": [
+        2000,
+        603
+      ],
+      "output_bytes": 33102,
+      "output_sha256": "d30691a7231af087ecf2481130990a25cea57967eaced3df8b0bd4a0279f2559",
+      "conversion": [
+        "Original raster composited onto opaque white, RGB",
+        "Lanczos downsample to maximum width 2000px; aspect ratio preserved",
+        "WebP quality 92, method 6; no crop"
+      ],
+      "description": "Non-linear statistical shape model"
+    },
+    {
+      "path": "assets/image2mesh/generative-vae.webp",
+      "source_archive_path": "fig/Generative Model 1.pdf",
+      "source_sha256": "a65e23aa3ee65bbd9f62e56e7f71e39c598e2801e30393f878102eda971ace6b",
+      "source_bytes": 35673,
+      "source_raster_dimensions": null,
+      "output_dimensions": [
+        2000,
+        391
+      ],
+      "output_bytes": 22662,
+      "output_sha256": "3550ae1fb4bff8f98bac2624ae6ba15a2fed0297d15dd57a2851dc97064f2f6f",
+      "conversion": [
+        "First PDF page rendered in RGB on white with PyMuPDF",
+        "WebP quality 92, method 6; no crop"
+      ],
+      "description": "Variational autoencoder"
+    },
+    {
+      "path": "assets/image2mesh/generative-gan.webp",
+      "source_archive_path": "fig/Generative Model 2.pdf",
+      "source_sha256": "f9d06dc5e79a11a9f964b2c550e0b4cf38af96b583c05e9c095c00c17ee53bb6",
+      "source_bytes": 26345,
+      "source_raster_dimensions": null,
+      "output_dimensions": [
+        2000,
+        419
+      ],
+      "output_bytes": 25864,
+      "output_sha256": "00efbea6fed8ffb753daf79724688eb7d515d837297cc851d6632594a5a453e0",
+      "conversion": [
+        "First PDF page rendered in RGB on white with PyMuPDF",
+        "WebP quality 92, method 6; no crop"
+      ],
+      "description": "Generative adversarial network"
+    },
+    {
+      "path": "assets/image2mesh/generative-interpolation.webp",
+      "source_archive_path": "fig/Generative Model 3.pdf",
+      "source_sha256": "c570db8dc93ff8c6dd83f3c63e6b95c51d3827f840113cafb447d9410b644394",
+      "source_bytes": 26915,
+      "source_raster_dimensions": null,
+      "output_dimensions": [
+        2000,
+        436
+      ],
+      "output_bytes": 28784,
+      "output_sha256": "59e751e8324b5c4746ee35491abe42baf8d4f073cad506313d2fda8e34e75dcb",
+      "conversion": [
+        "First PDF page rendered in RGB on white with PyMuPDF",
+        "WebP quality 92, method 6; no crop"
+      ],
+      "description": "Interpolation-based model"
+    },
+    {
+      "path": "assets/image2mesh/generative-diffusion.webp",
+      "source_archive_path": "fig/Generative Model 4.pdf",
+      "source_sha256": "41ccc68505d7ec52ceb6ccd35d224befb5fa34bb3c70e172f3d15ea23c19ea04",
+      "source_bytes": 31910,
+      "source_raster_dimensions": null,
+      "output_dimensions": [
+        2000,
+        454
+      ],
+      "output_bytes": 29264,
+      "output_sha256": "6a7ea8187e73605dd18fc842b5b679e4400822fc01b558b7d55e5e33d4b246ff",
+      "conversion": [
+        "First PDF page rendered in RGB on white with PyMuPDF",
+        "WebP quality 92, method 6; no crop"
+      ],
+      "description": "Diffusion model"
+    },
+    {
+      "path": "assets/image2mesh/implicit-sdf.webp",
+      "source_archive_path": "fig/Implicit 1.png",
+      "source_sha256": "2563a567180583e2d9c0e56d7fe3f2f568ab48b90a0b0b380e55a89fd7c0c2fa",
+      "source_bytes": 28005,
+      "source_raster_dimensions": [
+        1281,
+        189
+      ],
+      "output_dimensions": [
+        1281,
+        189
+      ],
+      "output_bytes": 13572,
+      "output_sha256": "b64d03f10b6b376165f5223535d4b70d93e1bde5be97bc5fe01f21c912745e75",
+      "conversion": [
+        "Original raster composited onto opaque white, RGB",
+        "WebP quality 92, method 6; no crop"
+      ],
+      "description": "Signed distance function"
+    },
+    {
+      "path": "assets/image2mesh/implicit-ode.webp",
+      "source_archive_path": "fig/Implicit 2.png",
+      "source_sha256": "782bb38e9fb1b3f2f279fa403b5e801cdf1f7d4156490ce370b53427704cb5e7",
+      "source_bytes": 29731,
+      "source_raster_dimensions": [
+        1221,
+        277
+      ],
+      "output_dimensions": [
+        1221,
+        277
+      ],
+      "output_bytes": 13976,
+      "output_sha256": "bacf4e406ff92c3e9862a8a63d4c766657de677c703f237c844df802c61385fa",
+      "conversion": [
+        "Original raster composited onto opaque white, RGB",
+        "WebP quality 92, method 6; no crop"
+      ],
+      "description": "Neural ordinary differential equation"
+    },
+    {
+      "path": "assets/image2mesh/implicit-occupancy.webp",
+      "source_archive_path": "fig/Implicit 3.png",
+      "source_sha256": "b28b76da5cf0b88667f6f8bb0e1a72ce2248e7ca292bb92322f485c4a71316ab",
+      "source_bytes": 25511,
+      "source_raster_dimensions": [
+        1281,
+        189
+      ],
+      "output_dimensions": [
+        1281,
+        189
+      ],
+      "output_bytes": 12218,
+      "output_sha256": "deafa7ebad60d7b8644f1607ca9cc21140200981c7ca5b560fce10f8e1cc1833",
+      "conversion": [
+        "Original raster composited onto opaque white, RGB",
+        "WebP quality 92, method 6; no crop"
+      ],
+      "description": "Occupancy function"
+    },
+    {
+      "path": "assets/image2mesh/implicit-nerf.webp",
+      "source_archive_path": "fig/Implicit 4.png",
+      "source_sha256": "7670880f551e2a74def894d370f751614715721f875b5dd223fd898115dd4020",
+      "source_bytes": 25434,
+      "source_raster_dimensions": [
+        1301,
+        191
+      ],
+      "output_dimensions": [
+        1301,
+        191
+      ],
+      "output_bytes": 13446,
+      "output_sha256": "a18f0cf1e350c5ffb7934f798b5ef61fc1a652f452898c4e108b50615d2e74a7",
+      "conversion": [
+        "Original raster composited onto opaque white, RGB",
+        "WebP quality 92, method 6; no crop"
+      ],
+      "description": "Neural radiance field"
+    },
+    {
+      "path": "assets/image2mesh/prisma.webp",
+      "source_archive_path": "fig/PRIMAv1.png",
+      "source_sha256": "c52d37ea651e9471d32de5f368831c652fa9afbe4300c996685104a063fbe782",
+      "source_bytes": 96697,
+      "source_raster_dimensions": [
+        1446,
+        1651
+      ],
+      "output_dimensions": [
+        1446,
+        1651
+      ],
+      "output_bytes": 130894,
+      "output_sha256": "00b09663709ae93b71c494d90b9f86262c5fe0e038541867487cd6546551ca55",
+      "conversion": [
+        "Original raster composited onto opaque white, RGB",
+        "WebP quality 92, method 6; no crop"
+      ],
+      "description": "PRISMA review flow diagram"
+    },
+    {
+      "path": "assets/image2mesh/brain-evidence-legacy.webp",
+      "source_archive_path": "fig/result_brain3.png",
+      "source_sha256": "710e009d0d713adb0de8f4b75d73a15b36079478c437dc2bc43c2507eaf240b8",
+      "source_bytes": 637660,
+      "source_raster_dimensions": [
+        3349,
+        1435
+      ],
+      "output_dimensions": [
+        2000,
+        857
+      ],
+      "output_bytes": 96816,
+      "output_sha256": "1679754297f1ed5d00bb1c51ddca044af19f435f939542b7d3952bbdd7024d64",
+      "conversion": [
+        "Original raster composited onto opaque white, RGB",
+        "Lanczos downsample to maximum width 2000px; aspect ratio preserved",
+        "WebP quality 92, method 6; no crop"
+      ],
+      "description": "Cortical evidence figure retained from the original project page"
+    },
+    {
+      "path": "assets/image2mesh/cardiac-evidence-legacy.webp",
+      "source_archive_path": "fig/result_heart2.png",
+      "source_sha256": "3e54eaf4cc4dcf746cb35fe1e22f18fea70b29e7dbf336083d74e8d9b785ce04",
+      "source_bytes": 393358,
+      "source_raster_dimensions": [
+        2925,
+        1079
+      ],
+      "output_dimensions": [
+        2000,
+        738
+      ],
+      "output_bytes": 82884,
+      "output_sha256": "d39f9a5ac5b4b03e30af3c9f69fe3d1c871c58c0ad5d2fc6cb2d42d2eb7d9cf0",
+      "conversion": [
+        "Original raster composited onto opaque white, RGB",
+        "Lanczos downsample to maximum width 2000px; aspect ratio preserved",
+        "WebP quality 92, method 6; no crop"
+      ],
+      "description": "Cardiac evidence figure retained from the original project page"
+    },
+    {
+      "path": "assets/image2mesh/generative-interpolation-legacy.webp",
+      "source_archive_path": "fig/Generative Model 3.png",
+      "source_sha256": "e809c1c0d8a607b4aeb8b4a2f4cda2c9b70314c60b5e60f0ef31570ad7406718",
+      "source_bytes": 1754488,
+      "source_raster_dimensions": [
+        9094,
+        2560
+      ],
+      "output_dimensions": [
+        2000,
+        563
+      ],
+      "output_bytes": 26962,
+      "output_sha256": "d05f4409a006bfa09382ea71c8f9cf3c23c29509af1f02a4056249ae1452bbc8",
+      "conversion": [
+        "Original raster composited onto opaque white, RGB",
+        "Lanczos downsample to maximum width 2000px; aspect ratio preserved",
+        "WebP quality 92, method 6; no crop"
+      ],
+      "description": "Generative interpolation figure retained from the original project page"
+    },
+    {
+      "path": "assets/image2mesh/thumbnail.webp",
+      "source_archive_path": "fig/IST_pipeline4.png",
+      "source_sha256": "262ff00511ba69b2a44d5bb16e51e40850209626150d1c0954faf641f938f191",
+      "source_bytes": 2164899,
+      "source_raster_dimensions": [
+        3058,
+        1586
+      ],
+      "output_dimensions": [
+        1200,
+        622
+      ],
+      "output_bytes": 88932,
+      "output_sha256": "55e1f1849a8ff7e49d81455569e5d202d14d867946efb6971285f6c140f02a4a",
+      "conversion": [
+        "Original raster composited onto opaque white, RGB",
+        "Lanczos downsample to maximum width 1200px; aspect ratio preserved",
+        "WebP quality 92, method 6; no crop"
+      ],
+      "description": "Survey project card thumbnail, full uncropped pipeline"
+    }
+  ],
+  "legacy_image_references": [
+    {
+      "path": "assets/img/paper/lin2025pixels/result_brain3.png",
+      "sha256": "710e009d0d713adb0de8f4b75d73a15b36079478c437dc2bc43c2507eaf240b8",
+      "bytes": 637660,
+      "dimensions": [
+        3349,
+        1435
+      ],
+      "preserved_in_place": true
+    },
+    {
+      "path": "assets/img/paper/lin2025pixels/result_heart2.png",
+      "sha256": "3e54eaf4cc4dcf746cb35fe1e22f18fea70b29e7dbf336083d74e8d9b785ce04",
+      "bytes": 393358,
+      "dimensions": [
+        2925,
+        1079
+      ],
+      "preserved_in_place": true
+    },
+    {
+      "path": "assets/img/paper/lin2025pixels/IST_pipeline4.png",
+      "sha256": "262ff00511ba69b2a44d5bb16e51e40850209626150d1c0954faf641f938f191",
+      "bytes": 2164899,
+      "dimensions": [
+        3058,
+        1586
+      ],
+      "preserved_in_place": true
+    },
+    {
+      "path": "assets/img/paper/lin2025pixels/content5.png",
+      "sha256": "b6253e3cd6e1f949a64d91e76ba112df716566aedeb70a3fa955f9dc81d1c0d9",
+      "bytes": 396865,
+      "dimensions": [
+        1717,
+        1901
+      ],
+      "preserved_in_place": true
+    },
+    {
+      "path": "assets/img/paper/lin2025pixels/Deformation Model 1.png",
+      "sha256": "6a6744d24eb555b11d43c470691bb27900c45998677bdc71c90c745be4c703c5",
+      "bytes": 33043,
+      "dimensions": [
+        1032,
+        278
+      ],
+      "preserved_in_place": true
+    },
+    {
+      "path": "assets/img/paper/lin2025pixels/Deformation Model 4.png",
+      "sha256": "3e6db7b5b35b03c0b494dd2e4ed1a962fca6986f3c4ce9ea30de84b3d7ce3788",
+      "bytes": 434300,
+      "dimensions": [
+        4000,
+        1210
+      ],
+      "preserved_in_place": true
+    },
+    {
+      "path": "assets/img/paper/lin2025pixels/SSM1.png",
+      "sha256": "62b8f8e0a3ed31dfc19bec72b5ccf3efd0abd95c9419409f16788d2f84b04cab",
+      "bytes": 43159,
+      "dimensions": [
+        1412,
+        415
+      ],
+      "preserved_in_place": true
+    },
+    {
+      "path": "assets/img/paper/lin2025pixels/SSM2.png",
+      "sha256": "8108b75e81602c340ea29d95a2b7ca8a42b934f638a0dab174ff2f7550561319",
+      "bytes": 97937,
+      "dimensions": [
+        2080,
+        627
+      ],
+      "preserved_in_place": true
+    },
+    {
+      "path": "assets/img/paper/lin2025pixels/Generative Model 3.png",
+      "sha256": "e809c1c0d8a607b4aeb8b4a2f4cda2c9b70314c60b5e60f0ef31570ad7406718",
+      "bytes": 1754488,
+      "dimensions": [
+        9094,
+        2560
+      ],
+      "preserved_in_place": true
+    },
+    {
+      "path": "assets/img/paper/lin2025pixels/Implicit 2.png",
+      "sha256": "782bb38e9fb1b3f2f279fa403b5e801cdf1f7d4156490ce370b53427704cb5e7",
+      "bytes": 29731,
+      "dimensions": [
+        1221,
+        277
+      ],
+      "preserved_in_place": true
+    },
+    {
+      "path": "assets/img/paper/lin2025pixels/PRIMAv1.png",
+      "sha256": "c52d37ea651e9471d32de5f368831c652fa9afbe4300c996685104a063fbe782",
+      "bytes": 96697,
+      "dimensions": [
+        1446,
+        1651
+      ],
+      "preserved_in_place": true
+    },
+    {
+      "path": "assets/img/paper/lin2025pixels/challenges.png",
+      "sha256": "e1b92e2cdfb11972702379d7205c7484746766f15b0abd3c526c6dbdd2c40fa2",
+      "bytes": 254200,
+      "dimensions": [
+        1770,
+        828
+      ],
+      "preserved_in_place": true
+    }
+  ],
+  "videos": [
+    {
+      "path": "assets/video/lin2025pixels/From_Pixels_to_Polygons.mp4",
+      "sha256": "f18799eaa9324973e0110ea77f6d59293880dd65c13afb2a2276a37f99e42b6c",
+      "bytes": 37672458,
+      "duration_seconds": 396.085986,
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "preserved_in_place": true,
+      "conversion": "None; original video referenced directly, no copy"
+    }
+  ],
+  "notes": [
+    "Figures derived from the author-provided survey archive. No scientific content was generated or reconstructed.",
+    "The archive mainTemplatePDF.pdf is an unrelated 2017 template and is deliberately excluded.",
+    "Latest result_brain5.jpg and result_heart5.jpg figures are preferred; legacy evidence and interpolation figures remain accessible.",
+    "Raster figures with transparency were composited onto white to preserve the visibility of black labels and lines."
+  ],
+  "downloadable_originals": [
+    {
+      "path": "assets/image2mesh/taxonomy-source.pdf",
+      "source_archive_path": "fig/content5.pdf",
+      "source_sha256": "25f1f7f2ca3ea6291ac09de68fbd6dc435018b2b223ca2cf8b818f92a74559e9",
+      "output_sha256": "25f1f7f2ca3ea6291ac09de68fbd6dc435018b2b223ca2cf8b818f92a74559e9",
+      "bytes": 213555,
+      "conversion": "None; byte-identical source PDF copy"
+    }
+  ],
+  "editorial_illustration": {
+    "path": "assets/image2mesh/hero-illustration.webp",
+    "sha256": "f8bc06ef741625633191cd223f122170e3589ee5de49e25fa410544466c82799",
+    "dimensions": [
+      1600,
+      800
+    ],
+    "provenance": "AI-generated conceptual editorial illustration; explicitly labelled; not scientific evidence",
+    "generation_brief": "Medical image slices to wireframe anatomy to anatomical shape variation to simulated flow; precise editorial illustration on white, ink/teal/lavender palette, no text."
+  },
+  "video_poster": {
+    "path": "assets/image2mesh/video-poster.jpg",
+    "sha256": "89a98bc259a86356e34951b7b48730b0e4c1c546efeccaccd85463bd86489da9",
+    "source": "assets/video/lin2025pixels/From_Pixels_to_Polygons.mp4",
+    "timestamp_seconds": 45,
+    "conversion": "Original decoded video frame to JPEG; no creative alteration"
+  }
+}

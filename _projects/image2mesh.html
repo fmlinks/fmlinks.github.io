@@ -1,0 +1,169 @@
+---
+layout: null
+title: "Image2Mesh · A visual survey"
+description: "From Pixels to Polygons: an interactive guide to medical image-to-mesh reconstruction."
+permalink: /projects/image2mesh/
+img: assets/image2mesh/thumbnail.webp
+importance: 2
+category: ongoing
+related_publications: false
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#075e61">
+  <title>From Pixels to Polygons | Medical Image-to-Mesh Survey</title>
+  <meta name="description" content="Explore four methodological families and twelve subcategories of deep learning for medical image-to-mesh reconstruction. Original figures, cross-study evidence and the full survey video.">
+  <link rel="canonical" href="https://fmlinks.github.io/projects/image2mesh/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="From Pixels to Polygons — A visual image-to-mesh survey">
+  <meta property="og:description" content="Four families. Twelve subcategories. A visual guide to learning anatomical geometry from medical images.">
+  <meta property="og:url" content="https://fmlinks.github.io/projects/image2mesh/">
+  <meta property="og:image" content="https://fmlinks.github.io/assets/image2mesh/thumbnail.webp">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="{{ '/assets/image2mesh/favicon.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="stylesheet" href="{{ '/assets/image2mesh/page.css' | relative_url }}">
+  <script defer src="{{ '/assets/image2mesh/page.js' | relative_url }}"></script>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<svg class="icon-definitions" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs>
+  <symbol id="arrow" viewBox="0 0 24 24"><path d="M4 12h15m-6-6 6 6-6 6"/></symbol>
+  <symbol id="play" viewBox="0 0 24 24"><path d="m9 5 11 7-11 7z"/></symbol>
+  <symbol id="expand" viewBox="0 0 24 24"><path d="M9 4H4v5m11-5h5v5M4 15v5h5m11-5v5h-5"/></symbol>
+  <symbol id="close" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"/></symbol>
+</defs></svg>
+<div class="reading-progress" aria-hidden="true"></div>
+<header class="site-header">
+  <nav class="shell header-inner" aria-label="Page navigation">
+    <a class="wordmark" href="{{ '/' | relative_url }}">Fengming Lin <span>/ Research</span></a>
+    <div class="nav-links"><a href="#overview">Overview</a><a href="#methods">Methods</a><a href="#evidence">Evidence</a><a href="#video">Video</a></div>
+    <a class="nav-paper" href="https://arxiv.org/abs/2505.03599" target="_blank" rel="noopener">Paper <svg class="icon"><use href="#arrow"/></svg></a>
+  </nav>
+</header>
+<main id="main">
+  <section class="shell hero" id="overview" aria-labelledby="hero-title">
+    <div class="hero-copy">
+      <h1 id="hero-title">From Pixels<br>to <span>Polygons</span></h1>
+      <p class="hero-subtitle">A survey of deep learning approaches for medical image-to-mesh reconstruction.</p>
+      <p class="authors"><a href="{{ '/' | relative_url }}">Fengming Lin</a>, Arezoo Zakeri, Yidan Xue, Michael MacRaild, Haoran Dou, Zherui Zhou, Ziwei Zou, Ali Sarrami-Foroushani, Jinming Duan &amp; Alejandro F. Frangi</p>
+      <p class="affiliations">The University of Manchester · KU Leuven</p>
+      <div class="actions">
+        <a class="button primary" href="https://arxiv.org/abs/2505.03599" target="_blank" rel="noopener">Read the paper <svg class="icon"><use href="#arrow"/></svg></a>
+        <a class="button" href="#video">Watch overview <svg class="icon play-icon"><use href="#play"/></svg></a>
+      </div>
+    </div>
+    <figure class="hero-visual">
+      <div class="process-labels" aria-hidden="true"><span>Image</span><span>Reconstruction</span><span>Generation</span><span>Simulation</span></div>
+      <img class="hero-art" src="{{ '/assets/image2mesh/hero-illustration.webp' | relative_url }}" width="1600" height="800" alt="Conceptual illustration: medical image slices, a wireframe anatomy, shape variations and simulated flow." fetchpriority="high">
+      <figcaption>From medical images to computational anatomy<span class="art-note">Conceptual illustration</span></figcaption>
+      <div class="process-track" aria-hidden="true"><span></span><span></span><span></span><span></span></div>
+    </figure>
+  </section>
+  <div class="shell survey-strip">
+    <p>One field. Four complementary perspectives.</p>
+    <div><a href="#methods" data-family-link="template">Template</a><a href="#methods" data-family-link="ssm">Statistical shape</a><a href="#methods" data-family-link="generative">Generative</a><a href="#methods" data-family-link="implicit">Implicit</a></div>
+  </div>
+
+  <section class="shell section" aria-labelledby="geometry-title">
+    <div class="section-heading"><div><h2 id="geometry-title">Why geometry matters.</h2><p>Medical images describe anatomy. Meshes make its geometry explicit.</p></div><span class="section-number" aria-hidden="true">01 / CONTEXT</span></div>
+    <p class="reading-copy">From patient-specific reconstruction to virtual populations and numerical simulation, anatomical geometry connects imaging with computational medicine. The survey maps the methods, data and evaluation choices behind this transition. A reconstructed surface alone does not establish simulation readiness or clinical benefit.</p>
+    <figure class="source-figure pipeline-figure">
+      <a href="{{ '/assets/image2mesh/pipeline.webp' | relative_url }}" data-zoom data-caption="Imaging, reconstruction, generation and simulation. Original figure from the survey manuscript." aria-label="Enlarge the imaging-to-simulation pipeline"><img src="{{ '/assets/image2mesh/pipeline.webp' | relative_url }}" width="2000" height="1037" alt="Two in-silico trial examples: cerebral aneurysm flow diversion and transcatheter aortic valve treatment, each spanning imaging, reconstruction, generation and simulation." loading="lazy" decoding="async"><span class="zoom-affordance"><svg class="icon"><use href="#expand"/></svg> Enlarge figure</span></a>
+      <figcaption><span>Imaging → Reconstruction → Generation → Simulation</span><a href="{{ '/assets/img/paper/lin2025pixels/IST_pipeline4.png' | relative_url }}" target="_blank" rel="noopener">Original figure <svg class="icon"><use href="#arrow"/></svg></a></figcaption>
+    </figure>
+  </section>
+
+  <section class="section method-section" id="methods" aria-labelledby="method-title">
+    <div class="shell">
+      <div class="section-heading"><div><h2 id="method-title">Four ways to learn anatomy.</h2><p>Explore the survey taxonomy: four families, twelve subcategories.</p></div><span class="section-number" aria-hidden="true">02 / METHODS</span></div>
+      <div class="method-explorer">
+        <div class="method-tabs" role="tablist" aria-label="Method families" aria-orientation="vertical">
+          <button role="tab" id="tab-template" aria-controls="panel-template" aria-selected="true" data-family="template"><span>01</span><span>Template<small>A reference shape, adapted.</small></span><svg class="icon"><use href="#arrow"/></svg></button>
+          <button role="tab" id="tab-ssm" aria-controls="panel-ssm" aria-selected="false" tabindex="-1" data-family="ssm"><span>02</span><span>Statistical shape<small>Anatomical variation, constrained.</small></span><svg class="icon"><use href="#arrow"/></svg></button>
+          <button role="tab" id="tab-generative" aria-controls="panel-generative" aria-selected="false" tabindex="-1" data-family="generative"><span>03</span><span>Generative<small>A distribution of plausible shapes.</small></span><svg class="icon"><use href="#arrow"/></svg></button>
+          <button role="tab" id="tab-implicit" aria-controls="panel-implicit" aria-selected="false" tabindex="-1" data-family="implicit"><span>04</span><span>Implicit<small>Geometry as a continuous function.</small></span><svg class="icon"><use href="#arrow"/></svg></button>
+        </div>
+        <div class="method-panels">
+          <article class="method-panel" id="panel-template" role="tabpanel" aria-labelledby="tab-template" tabindex="0">
+            <h3>Template models</h3><p>Deform or register a reference mesh to the target anatomy. Controlled connectivity and correspondence depend on the chosen template.</p>
+            <div class="subcategories" role="group" aria-label="Template subcategories"><button class="selected" aria-pressed="true" data-figure="template-deformation.webp" data-alt="Conditional deformation: image features guide deformation of a template mesh.">Conditional Deformation</button><button aria-pressed="false" data-figure="template-registration.webp" data-alt="Registration: alignment of a reference anatomy with the target image.">Registration</button></div>
+            <figure class="method-figure"><a href="{{ '/assets/image2mesh/template-deformation.webp' | relative_url }}" data-zoom data-caption="Template models — Conditional Deformation" aria-label="Enlarge selected template method figure"><img src="{{ '/assets/image2mesh/template-deformation.webp' | relative_url }}" width="1032" height="278" alt="Conditional deformation: image features guide deformation of a template mesh." loading="lazy"><span class="zoom-affordance"><svg class="icon"><use href="#expand"/></svg> Enlarge</span></a></figure>
+            <p class="method-tradeoff"><strong>The trade-off</strong> Stable mesh connectivity; limited flexibility when anatomy differs from the template.</p>
+          </article>
+          <article class="method-panel" id="panel-ssm" role="tabpanel" aria-labelledby="tab-ssm" tabindex="0">
+            <h3>Statistical shape models</h3><p>Learn anatomical variation through shape priors. Prior constraints can support consistent reconstruction while limiting fine detail.</p>
+            <div class="subcategories" role="group" aria-label="Statistical shape subcategories"><button class="selected" aria-pressed="true" data-figure="ssm-linear.webp" data-alt="Linear statistical shape model reconstruction pipeline.">Linear SSM</button><button aria-pressed="false" data-figure="ssm-nonlinear.webp" data-alt="Non-linear statistical shape model reconstruction pipeline.">Non-linear SSM</button></div>
+            <figure class="method-figure"><a href="{{ '/assets/image2mesh/ssm-linear.webp' | relative_url }}" data-zoom data-caption="Statistical shape models — Linear SSM" aria-label="Enlarge selected statistical shape model figure"><img src="{{ '/assets/image2mesh/ssm-linear.webp' | relative_url }}" width="1412" height="415" alt="Linear statistical shape model reconstruction pipeline." loading="lazy"><span class="zoom-affordance"><svg class="icon"><use href="#expand"/></svg> Enlarge</span></a></figure>
+            <p class="method-tradeoff"><strong>The trade-off</strong> Anatomical regularity; a balance between the learned prior and patient-specific variation.</p>
+          </article>
+          <article class="method-panel" id="panel-generative" role="tabpanel" aria-labelledby="tab-generative" tabindex="0">
+            <h3>Generative models</h3><p>Learn distributions of anatomical shape through latent representations, adversarial learning, interpolation or diffusion.</p>
+            <div class="subcategories" role="group" aria-label="Generative subcategories"><button class="selected" aria-pressed="true" data-figure="generative-vae.webp" data-alt="Variational autoencoder: encoding and decoding anatomical shape.">VAE</button><button aria-pressed="false" data-figure="generative-gan.webp" data-alt="Generative adversarial network pipeline for shape generation.">GAN</button><button aria-pressed="false" data-figure="generative-interpolation.webp" data-alt="Interpolation-based anatomical shape generation.">Interpolation</button><button aria-pressed="false" data-figure="generative-diffusion.webp" data-alt="Diffusion-based shape generation pipeline.">Diffusion</button></div>
+            <figure class="method-figure"><a href="{{ '/assets/image2mesh/generative-vae.webp' | relative_url }}" data-zoom data-caption="Generative models — VAE" aria-label="Enlarge selected generative model figure"><img src="{{ '/assets/image2mesh/generative-vae.webp' | relative_url }}" alt="Variational autoencoder: encoding and decoding anatomical shape." loading="lazy"><span class="zoom-affordance"><svg class="icon"><use href="#expand"/></svg> Enlarge</span></a></figure>
+            <p class="method-tradeoff"><strong>The trade-off</strong> Flexible shape synthesis; training stability, data needs and anatomical validity remain important.</p>
+          </article>
+          <article class="method-panel" id="panel-implicit" role="tabpanel" aria-labelledby="tab-implicit" tabindex="0">
+            <h3>Implicit models</h3><p>Represent geometry through continuous functions. Detailed surfaces emerge from distance fields, neural dynamics, occupancy or radiance representations.</p>
+            <div class="subcategories" role="group" aria-label="Implicit subcategories"><button class="selected" aria-pressed="true" data-figure="implicit-sdf.webp" data-alt="Signed distance function reconstruction pipeline.">SDF</button><button aria-pressed="false" data-figure="implicit-ode.webp" data-alt="Neural ordinary differential equation reconstruction pipeline.">Neural ODE</button><button aria-pressed="false" data-figure="implicit-occupancy.webp" data-alt="Occupancy function reconstruction pipeline.">Occupancy Function</button><button aria-pressed="false" data-figure="implicit-nerf.webp" data-alt="Neural radiance field reconstruction pipeline.">NeRF</button></div>
+            <figure class="method-figure"><a href="{{ '/assets/image2mesh/implicit-sdf.webp' | relative_url }}" data-zoom data-caption="Implicit models — SDF" aria-label="Enlarge selected implicit model figure"><img src="{{ '/assets/image2mesh/implicit-sdf.webp' | relative_url }}" width="1281" height="189" alt="Signed distance function reconstruction pipeline." loading="lazy"><span class="zoom-affordance"><svg class="icon"><use href="#expand"/></svg> Enlarge</span></a></figure>
+            <p class="method-tradeoff"><strong>The trade-off</strong> Flexible surface representation; optimisation, topology control and mesh extraction need care.</p>
+          </article>
+        </div>
+      </div>
+      <details class="figure-details"><summary>View the full taxonomy <span>4 families / 12 subcategories</span><svg class="icon"><use href="#expand"/></svg></summary><figure class="source-figure taxonomy-figure"><a href="{{ '/assets/image2mesh/taxonomy.webp' | relative_url }}" data-zoom data-caption="The survey taxonomy: four methodological families and twelve subcategories."><img src="{{ '/assets/image2mesh/taxonomy.webp' | relative_url }}" width="2000" height="2212" alt="Complete survey taxonomy linking template, statistical shape, generative and implicit models to input, output, features, losses and metrics." loading="lazy"></a><figcaption>Full taxonomy from the manuscript.<a href="{{ '/assets/image2mesh/taxonomy-source.pdf' | relative_url }}" target="_blank" rel="noopener">Vector PDF <svg class="icon"><use href="#arrow"/></svg></a></figcaption></figure></details>
+    </div>
+  </section>
+
+  <section class="shell section" id="evidence" aria-labelledby="evidence-title">
+    <div class="section-heading"><div><h2 id="evidence-title">Read the field,<br>not a leaderboard.</h2><p>A quantitative view of the literature, with the context kept in view.</p></div><span class="section-number" aria-hidden="true">03 / EVIDENCE</span></div>
+    <div class="evidence-tabs" role="tablist" aria-label="Cross-study evidence"><button role="tab" id="tab-brain" aria-selected="true" aria-controls="panel-brain">Brain MRI</button><button role="tab" id="tab-cardiac" aria-selected="false" aria-controls="panel-cardiac" tabindex="-1">Cardiac MRI</button></div>
+    <div class="evidence-panel" role="tabpanel" id="panel-brain" aria-labelledby="tab-brain" tabindex="0"><figure class="source-figure"><a href="{{ '/assets/image2mesh/brain-evidence.webp' | relative_url }}" data-zoom data-caption="Brain MRI: descriptive study-level summary from the supplied manuscript. Datasets and protocols vary."><img src="{{ '/assets/image2mesh/brain-evidence.webp' | relative_url }}" width="2000" height="1051" alt="Brain MRI cross-study summary of reconstruction accuracy, geometric validity and related evaluation measures." loading="lazy"><span class="zoom-affordance"><svg class="icon"><use href="#expand"/></svg> Inspect figure</span></a><figcaption>Brain MRI · manuscript cross-study synthesis</figcaption></figure></div>
+    <div class="evidence-panel" role="tabpanel" id="panel-cardiac" aria-labelledby="tab-cardiac" tabindex="0"><figure class="source-figure"><a href="{{ '/assets/image2mesh/cardiac-evidence.webp' | relative_url }}" data-zoom data-caption="Cardiac MRI: descriptive study-level summary from the supplied manuscript. Datasets and protocols vary."><img src="{{ '/assets/image2mesh/cardiac-evidence.webp' | relative_url }}" width="2000" height="1026" alt="Cardiac MRI cross-study summary of reported reconstruction accuracy and geometric evaluation." loading="lazy"><span class="zoom-affordance"><svg class="icon"><use href="#expand"/></svg> Inspect figure</span></a><figcaption>Cardiac MRI · manuscript cross-study synthesis</figcaption></figure></div>
+    <aside class="evidence-note"><strong>How to read these figures</strong><p>These are descriptive summaries of results reported by different studies. Datasets, target anatomies and experimental protocols vary. The plots indicate broad tendencies; they do not establish a head-to-head ranking or clinical benefit.</p></aside>
+    <details class="figure-details"><summary>How the literature was organised <span>Study selection</span><svg class="icon"><use href="#expand"/></svg></summary><figure class="source-figure prisma-figure"><a href="{{ '/assets/image2mesh/prisma.webp' | relative_url }}" data-zoom data-caption="Literature identification and selection as reported in the supplied survey manuscript."><img src="{{ '/assets/image2mesh/prisma.webp' | relative_url }}" width="1446" height="1651" alt="PRISMA-style flow diagram of literature identification, screening and inclusion reported by the survey." loading="lazy"></a><figcaption>Literature identification and selection, as reported in the manuscript.</figcaption></figure></details>
+  </section>
+
+  <section class="section video-section" id="video" aria-labelledby="video-title"><div class="shell">
+    <div class="section-heading"><div><h2 id="video-title">See the bigger picture.</h2><p>The full survey overview, from images to anatomical geometry.</p></div><span class="section-number" aria-hidden="true">04 / FILM</span></div>
+    <figure class="video-figure"><video id="survey-video" controls playsinline preload="none" poster="{{ '/assets/image2mesh/video-poster.jpg' | relative_url }}" aria-label="From Pixels to Polygons — full survey overview with audio"><source src="{{ '/assets/video/lin2025pixels/From_Pixels_to_Polygons.mp4' | relative_url }}" type="video/mp4">Your browser does not support embedded video. <a href="{{ '/assets/video/lin2025pixels/From_Pixels_to_Polygons.mp4' | relative_url }}">Open the overview video</a>.</video><figcaption><span>Survey overview <span class="muted">/ 6 min 36 sec</span></span><a href="{{ '/assets/video/lin2025pixels/From_Pixels_to_Polygons.mp4' | relative_url }}" target="_blank" rel="noopener">Open original video <svg class="icon"><use href="#arrow"/></svg></a></figcaption></figure>
+    <p class="video-error" hidden>The video could not be loaded. <a href="{{ '/assets/video/lin2025pixels/From_Pixels_to_Polygons.mp4' | relative_url }}">Open the original MP4</a>.</p>
+  </div></section>
+
+  <section class="shell section" aria-labelledby="future-title">
+    <div class="section-heading"><div><h2 id="future-title">What comes next?</h2><p>Better geometry is only part of the challenge.</p></div><span class="section-number" aria-hidden="true">05 / OPEN QUESTIONS</span></div>
+    <div class="questions"><article><span>01</span><h3>Geometry</h3><p>Topology, watertightness, manifold structure and fidelity in thin or highly curved anatomy.</p></article><article><span>02</span><h3>Robustness</h3><p>Reliable reconstruction from noisy, sparse, incomplete and multimodal observations.</p></article><article><span>03</span><h3>Simulation readiness</h3><p>Surface accuracy is a starting point. Volume meshing and downstream validation require their own checks.</p></article></div>
+    <figure class="source-figure challenge-figure"><a href="{{ '/assets/image2mesh/challenges.webp' | relative_url }}" data-zoom data-caption="Key challenges in medical image-to-mesh reconstruction, illustrated in the survey."><img src="{{ '/assets/image2mesh/challenges.webp' | relative_url }}" width="1770" height="828" alt="Survey illustration of the key challenges facing anatomical mesh reconstruction." loading="lazy"><span class="zoom-affordance"><svg class="icon"><use href="#expand"/></svg> Explore challenges</span></a></figure>
+    <details class="figure-details legacy-gallery"><summary>Original project figure collection <span>All 12 original figures, preserved</span><svg class="icon"><use href="#expand"/></svg></summary><p>The figures from the earlier project page remain available below, including its earlier cross-study chart versions. The evidence section above uses the updated charts referenced by the supplied manuscript.</p><div class="archive-grid">
+      <figure><a href="{{ '/assets/img/paper/lin2025pixels/IST_pipeline4.png' | relative_url }}" data-zoom data-caption="Original project figure: imaging-to-simulation pipeline."><img src="{{ '/assets/image2mesh/pipeline.webp' | relative_url }}" alt="Original imaging-to-simulation pipeline" loading="lazy"></a><figcaption>Imaging to simulation</figcaption></figure>
+      <figure><a href="{{ '/assets/img/paper/lin2025pixels/content5.png' | relative_url }}" data-zoom data-caption="Original project figure: survey taxonomy."><img src="{{ '/assets/img/paper/lin2025pixels/content5.png' | relative_url }}" alt="Original project taxonomy figure" loading="lazy"></a><figcaption>Survey taxonomy</figcaption></figure>
+      <figure><a href="{{ '/assets/img/paper/lin2025pixels/Deformation%20Model%201.png' | relative_url }}" data-zoom data-caption="Original project figure: conditional deformation."><img src="{{ '/assets/image2mesh/template-deformation.webp' | relative_url }}" alt="Original conditional deformation diagram" loading="lazy"></a><figcaption>Conditional deformation</figcaption></figure>
+      <figure><a href="{{ '/assets/img/paper/lin2025pixels/Deformation%20Model%204.png' | relative_url }}" data-zoom data-caption="Original project figure: registration."><img src="{{ '/assets/image2mesh/template-registration.webp' | relative_url }}" alt="Original registration diagram" loading="lazy"></a><figcaption>Registration</figcaption></figure>
+      <figure><a href="{{ '/assets/img/paper/lin2025pixels/SSM1.png' | relative_url }}" data-zoom data-caption="Original project figure: linear statistical shape model."><img src="{{ '/assets/image2mesh/ssm-linear.webp' | relative_url }}" alt="Original linear statistical shape model" loading="lazy"></a><figcaption>Linear SSM</figcaption></figure>
+      <figure><a href="{{ '/assets/img/paper/lin2025pixels/SSM2.png' | relative_url }}" data-zoom data-caption="Original project figure: non-linear statistical shape model."><img src="{{ '/assets/image2mesh/ssm-nonlinear.webp' | relative_url }}" alt="Original non-linear statistical shape model" loading="lazy"></a><figcaption>Non-linear SSM</figcaption></figure>
+      <figure><a href="{{ '/assets/img/paper/lin2025pixels/Generative%20Model%203.png' | relative_url }}" data-zoom data-caption="Original project figure: generative completion model."><img src="{{ '/assets/image2mesh/generative-interpolation-legacy.webp' | relative_url }}" alt="Original generative completion diagram" loading="lazy"></a><figcaption>Generative completion</figcaption></figure>
+      <figure><a href="{{ '/assets/img/paper/lin2025pixels/Implicit%202.png' | relative_url }}" data-zoom data-caption="Original project figure: neural ODE."><img src="{{ '/assets/image2mesh/implicit-ode.webp' | relative_url }}" alt="Original neural ODE model diagram" loading="lazy"></a><figcaption>Neural ODE</figcaption></figure>
+      <figure><a href="{{ '/assets/img/paper/lin2025pixels/result_brain3.png' | relative_url }}" data-zoom data-caption="Earlier brain MRI cross-study chart, preserved from the original page. Datasets and protocols vary."><img src="{{ '/assets/image2mesh/brain-evidence-legacy.webp' | relative_url }}" alt="Earlier brain MRI cross-study chart" loading="lazy"></a><figcaption>Brain MRI · earlier chart</figcaption></figure>
+      <figure><a href="{{ '/assets/img/paper/lin2025pixels/result_heart2.png' | relative_url }}" data-zoom data-caption="Earlier cardiac MRI cross-study chart, preserved from the original page. Datasets and protocols vary."><img src="{{ '/assets/image2mesh/cardiac-evidence-legacy.webp' | relative_url }}" alt="Earlier cardiac MRI cross-study chart" loading="lazy"></a><figcaption>Cardiac MRI · earlier chart</figcaption></figure>
+      <figure><a href="{{ '/assets/img/paper/lin2025pixels/PRIMAv1.png' | relative_url }}" data-zoom data-caption="Original project figure: literature selection flow."><img src="{{ '/assets/image2mesh/prisma.webp' | relative_url }}" alt="Original literature selection flow" loading="lazy"></a><figcaption>Study selection</figcaption></figure>
+      <figure><a href="{{ '/assets/img/paper/lin2025pixels/challenges.png' | relative_url }}" data-zoom data-caption="Original project figure: reconstruction challenges."><img src="{{ '/assets/image2mesh/challenges.webp' | relative_url }}" alt="Original reconstruction challenges figure" loading="lazy"></a><figcaption>Open challenges</figcaption></figure>
+    </div></details>
+  </section>
+
+  <section class="citation-section" id="citation" aria-labelledby="citation-title"><div class="shell citation-layout"><div><h2 id="citation-title">Build on this survey.</h2><p>Read the paper for the full taxonomy, datasets, losses, evaluation measures and study-level discussion.</p><div class="actions"><a class="button primary" href="https://arxiv.org/pdf/2505.03599" target="_blank" rel="noopener">Read the paper <svg class="icon"><use href="#arrow"/></svg></a><button class="button" id="copy-citation" hidden>Copy BibTeX</button></div><p class="copy-status" role="status" aria-live="polite"></p><a class="text-link" href="https://research.manchester.ac.uk/en/publications/from-pixels-to-polygons-a-survey-of-deep-learning-approaches-for-" target="_blank" rel="noopener">University research record <svg class="icon"><use href="#arrow"/></svg></a></div><pre tabindex="0" aria-label="BibTeX citation"><code id="bibtex">@misc{lin2025pixels,
+  title = {From Pixels to Polygons: A Survey of Deep Learning Approaches for Medical Image-to-Mesh Reconstruction},
+  author = {Fengming Lin and Arezoo Zakeri and Yidan Xue and Michael MacRaild and Haoran Dou and Zherui Zhou and Ziwei Zou and Ali Sarrami-Foroushani and Jinming Duan and Alejandro F. Frangi},
+  year = {2025},
+  eprint = {2505.03599},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.CV},
+  doi = {10.48550/arXiv.2505.03599},
+  url = {https://arxiv.org/abs/2505.03599}
+}</code></pre></div></section>
+</main>
+<footer class="shell site-footer"><a href="{{ '/' | relative_url }}">Fengming Lin</a><div><button class="motion-toggle" hidden aria-pressed="false">Pause motion</button><a href="{{ '/projects/' | relative_url }}">All projects <svg class="icon"><use href="#arrow"/></svg></a></div></footer>
+<dialog id="figure-dialog" aria-labelledby="dialog-caption"><div class="dialog-toolbar"><p id="dialog-caption"></p><a id="dialog-original" target="_blank" rel="noopener">Open image <svg class="icon"><use href="#arrow"/></svg></a><button class="close-dialog" aria-label="Close figure"><svg class="icon"><use href="#close"/></svg></button></div><div class="dialog-image"><img alt=""></div></dialog>
+</body>
+</html>
