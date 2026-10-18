@@ -642,5 +642,16 @@
     "source": "assets/video/lin2025pixels/From_Pixels_to_Polygons.mp4",
     "timestamp_seconds": 45,
     "conversion": "Original decoded video frame to JPEG; no creative alteration"
+  },
+  "user_supplied_taxonomy": {
+    "path": "assets/image2mesh/taxonomy-overview.png",
+    "source": "User-supplied taxonomy image, 18 October 2026",
+    "sha256": "29a5d604ecb84f65adabf55db97112dbe3cf7b1dca5d2afd3bfd92c50460eceb",
+    "dimensions": [
+      1717,
+      1901
+    ],
+    "bytes": 479116,
+    "conversion": "None; exact original PNG preserved"
   }
 }

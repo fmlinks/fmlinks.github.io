@@ -1,11 +1,12 @@
 # Image2Mesh survey page
 
-Independent project route: `/projects/image2mesh/`. The existing `/projects/1_project/` page and HeartVolMesh are preserved. Jekyll discovers `_projects/image2mesh.html` as the third project automatically.
+Independent project route: `/projects/image2mesh/`, listed as **Image2Mesh**. The earlier `/projects/1_project/` page is retired by renaming its source to `_projects/1_project.md.disabled`. HeartVolMesh and all original survey media remain available. Jekyll automatically lists HeartVolMesh and Image2Mesh as the two active projects.
 
 ## Content and media
 
 - Paper: [arXiv:2505.03599](https://arxiv.org/abs/2505.03599), first submitted 6 May 2025, `cs.CV`. The public record verified on 18 October 2026 does not supply a journal publication reference. The page cites the preprint.
 - Scientific figures come from the author-provided `Deep_Learning_Based_Medical_Image_To_Mesh_Reconstruction__A_Survey.zip`. `media-manifest.json` records sources, hashes, dimensions and conversions. Transparent figures are composited onto white for legibility; PDF figures are rasterised for the browser. Scientific figures are not generated artwork.
+- `taxonomy-overview.png` is the exact user-supplied PNG added on 18 October 2026. It is displayed directly beneath the interactive method explorer and can be enlarged or opened at its original resolution. No pixels were altered.
 - Evidence uses `result_brain5.jpg` and `result_heart5.jpg`, referenced by the supplied manuscript. These are heterogeneous study-level summaries, not controlled head-to-head comparisons.
 - All twelve original-page figures are accessible in the original figure collection, using the exact existing originals. Earlier brain/cardiac charts and the old generative completion figure are explicitly retained. The old completion PNG and newer interpolation PDF are distinct.
 - The original H264/AAC overview video remains at `/assets/video/lin2025pixels/From_Pixels_to_Polygons.mp4` without modification or duplication. `video-poster.jpg` is its frame at 45 seconds. The source video has no caption track.

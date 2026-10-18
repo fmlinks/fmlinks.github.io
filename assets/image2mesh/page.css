@@ -118,7 +118,8 @@ a:hover > .zoom-affordance, a:focus-visible > .zoom-affordance { opacity: 1; tra
 .figure-details summary > span { margin-left: auto; font-size: 11px; color: var(--muted); font-weight: 400; }
 .figure-details summary > .icon { width: 17px; }
 .figure-details[open] { padding-bottom: 28px; }
-.taxonomy-figure { max-width: 800px; margin: 0 auto; }
+.taxonomy-figure { max-width: 1000px; margin: 0 auto; }
+.taxonomy-overview { margin-top: 42px; }
 .prisma-figure { max-width: 640px; margin: 0 auto; }
 .evidence-tabs { display: flex; gap: 10px; margin-bottom: 22px; }
 .evidence-tabs button { border: 1px solid var(--line); color: var(--muted); background: #fff; border-radius: 4px; padding: 10px 26px; font-size: 13px; font-weight: 600; }
