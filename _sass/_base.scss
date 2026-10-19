@@ -707,6 +707,7 @@ footer.sticky-bottom {
 
     .bib-citation-txt {  
       font-size: 0.85rem; 
+      overflow-wrap: anywhere;
     } 
     
     li {
@@ -741,6 +742,18 @@ footer.sticky-bottom {
 
       .title {
         font-weight: bolder;
+      }
+
+      .publication-role {
+        display: inline-block;
+        margin: 0.4rem 0 0.55rem;
+        padding: 0.25rem 0.65rem;
+        border-left: 3px solid var(--global-theme-color);
+        border-radius: 0.2rem;
+        background-color: var(--global-code-bg-color);
+        color: var(--global-theme-color);
+        font-size: 0.8rem;
+        line-height: 1.5;
       }
 
       .author {

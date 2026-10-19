@@ -12,7 +12,7 @@
     <!-- End Article Title -->
 
     <!-- Journal Info -->
-    {% assign journal_info = entry.journal %}
+    {% assign journal_info = entry.journal | default: entry.booktitle %}
     {% if entry.volume %}
         {% assign journal_info = journal_info | append: ', ' | append: entry.volume %}
     {% endif %}

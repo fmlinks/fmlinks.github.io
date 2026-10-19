@@ -30,6 +30,7 @@
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
         {% else %}
           {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
+          {% assign entry_alt = entry.preview_alt | default: entry.title %}
           {%
             include figure.liquid
             loading="eager"
@@ -37,7 +38,7 @@
             sizes = "200px"
             class="preview z-depth-1 rounded"
             zoomable=true
-            alt=entry.preview
+            alt=entry_alt
           %}
         {% endif %}
       {% endif %}
@@ -59,6 +60,10 @@
       {% include bib_online_entry.liquid %}
     {% else %}
       {% include bib_article_entry.liquid %}
+    {% endif %}
+
+    {% if entry.author_role %}
+      <div class="publication-role"><strong>{{ entry.author_role | escape }}</strong></div>
     {% endif %}
 
     <!-- Links/Buttons -->

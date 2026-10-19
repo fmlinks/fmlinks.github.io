@@ -31,7 +31,7 @@ My research interests focus on **AI for Healthcare**, with applications to:
 
 I published a few papers in medical image analysis related journals and conferences [Google Scholar](https://scholar.google.com/citations?user=2zWejroAAAAJ&hl=en).
 
-I am actively involved in international collaborations on fluid dynamics modeling, and large language models for medical applications. Beyond research, I also serve as a reviewer for journals (such as *Medical Image Analysis*, *IEEE TPAMI*, *IEEE TMI*, *IEEE TNNLS*, *IEEE TAI*, and *PR*) and conferences (such as*ISBI*, *MICCAI*, and *CVPR*). 
+I serve as a reviewer for some journals (such as *Medical Image Analysis*, *TPAMI*, *TMI*, *TNNLS*, *TAI*, and *PR*) and conferences (such as *MICCAI*, *ISBI*, *AAAI*, and *CVPR*).
 
 My long-term goal is to advance the development of **Fully automated in-silico trials**, bridging AI and healthcare innovation. 
 
