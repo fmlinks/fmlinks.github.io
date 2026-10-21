@@ -1,6 +1,15 @@
 <div class="bib-citation-txt">
     <!-- Author(s) -->
-    {% include bib_author_list.liquid authors=entry.author_array %}
+    <span class="author">
+        {%- for author in entry.author_array -%}
+            {%- unless forloop.first -%}, {% endunless -%}
+            {%- if author.first == blank -%}
+                {{- author.last -}}
+            {%- else -%}
+                {{- author.first }} {{ author.last -}}
+            {%- endif -%}
+        {%- endfor -%}
+    </span>
     <!-- End Author(s) -->
     
     <!-- Year -->
@@ -16,7 +25,7 @@
     <!-- End Patent Title -->
     
     <!-- Patent Type and Number -->
-    <span>{{ entry.type }} {{ entry.number }}.</span>
+    <span>{{ entry.number }}.</span>
     <!-- End Patent Type and Number -->
 
     <!-- Organization Title -->
