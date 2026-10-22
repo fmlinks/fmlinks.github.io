@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="333.9648pt" viewBox="0 0 1008 333.9648" version="1.1" data-language="zh" lang="zh-CN">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T03:32:08.668841</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 333.9648  L 1008 333.9648  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="21.009375" transform="rotate(-0 15.84 21.009375)">21  动作 / 世界模型</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 48.797795 167.7024  Q 502.198724 167.7024 954.202111 167.7024  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 947.002111 164.1024  L 954.202111 167.7024  L 947.002111 171.3024  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="122.021053" y="326.512613" transform="rotate(-0 122.021053 326.512613)">2018</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="185.684211" y="326.512613" transform="rotate(-0 185.684211 326.512613)">2019</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="239.729211" y="326.512613" transform="rotate(-0 239.729211 326.512613)">2020</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="293.729211" y="326.512613" transform="rotate(-0 293.729211 326.512613)">2022</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="355.452632" y="326.512613" transform="rotate(-0 355.452632 326.512613)">2023</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="525.221053" y="326.512613" transform="rotate(-0 525.221053 326.512613)">2024</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="716.210526" y="326.512613" transform="rotate(-0 716.210526 326.512613)">2025</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="864.757895" y="326.512613" transform="rotate(-0 864.757895 326.512613)">2026*</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.8 167.7024  Q 100.8 174.9024 100.8 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 104 174.304858  L 100.8 180.704858  L 97.6 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_10" class="paper-node" data-paper="tl180310122" tabindex="0" role="button" aria-label="世界模型">
+    <rect class="paper-hit" x="29.205" y="186.78240000000005" width="143.19" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(33.203125 205.2899)">World Models</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(76.526562 226.888775)">[281]</text>
+   <title>世界模型</title></g>
+   <g id="patch_4">
+    <path d="M 143.242105 167.7024  Q 143.242105 160.5024 143.242105 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 140.042105 161.099942  L 143.242105 154.699942  L 146.442105 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_11" class="paper-node" data-paper="tl181104551" tabindex="0" role="button" aria-label="学习潜在动力学以从像素进行规划">
+    <rect class="paper-hit" x="107.4221052631579" y="99.7200000000001" width="71.64" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(111.406168 119.53165)">PlaNet</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(118.968668 141.130525)">[316]</text>
+   <title>学习潜在动力学以从像素进行规划</title></g>
+   <g id="patch_5">
+    <path d="M 185.684211 167.7024  Q 185.684211 208.0224 185.684211 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 188.884211 240.544858  L 185.684211 246.944858  L 182.484211 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_12" class="paper-node" data-paper="tl191201603" tabindex="0" role="button" aria-label="通过想象实现控制：利用潜在空间想象学习行为">
+    <rect class="paper-hit" x="140.36921052631578" y="253.02240000000006" width="90.63" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(144.321711 271.5299)">Dreamer</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(161.410773 293.128775)">[317]</text>
+   <title>通过想象实现控制：利用潜在空间想象学习行为</title></g>
+   <g id="patch_6">
+    <path d="M 228.126316 167.7024  Q 228.126316 127.3824 228.126316 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 224.926316 94.859942  L 228.126316 88.459942  L 231.326316 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_13" class="paper-node" data-paper="tl201002193" tabindex="0" role="button" aria-label="利用离散世界模型精通 Atari 游戏">
+    <rect class="paper-hit" x="170.21131578947364" y="33.480000000000125" width="115.83000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(174.137253 53.29165)">DreamerV2</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(203.852878 74.890525)">[318]</text>
+   <title>利用离散世界模型精通 Atari 游戏</title></g>
+   <g id="patch_7">
+    <path d="M 270.568421 167.7024  Q 270.568421 174.9024 270.568421 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 273.768421 174.304858  L 270.568421 180.704858  L 267.368421 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_14" class="paper-node" data-paper="tl220900588" tabindex="0" role="button" aria-label="Transformer 是样本高效的世界模型">
+    <rect class="paper-hit" x="242.30842105263156" y="186.78240000000005" width="56.52" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(252.390296 205.2899)">IRIS</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(246.294984 226.888775)">[319]</text>
+   <title>Transformer 是样本高效的世界模型</title></g>
+   <g id="patch_8">
+    <path d="M 313.010526 167.7024  Q 313.010526 160.5024 313.010526 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 309.810526 161.099942  L 313.010526 154.699942  L 316.210526 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_15" class="paper-node" data-paper="tl230104104" tabindex="0" role="button" aria-label="通过世界模型掌握多样化领域">
+    <rect class="paper-hit" x="255.09552631578944" y="99.7200000000001" width="115.83000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(259.021464 119.53165)">DreamerV3</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(288.737089 141.130525)">[320]</text>
+   <title>通过世界模型掌握多样化领域</title></g>
+   <g id="patch_9">
+    <path d="M 355.452632 167.7024  Q 355.452632 208.0224 355.452632 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 358.652632 240.544858  L 355.452632 246.944858  L 352.252632 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_16" class="paper-node" data-paper="tl230917080" tabindex="0" role="button" aria-label="GAIA-1：用于自动驾驶的生成式世界模型">
+    <rect class="paper-hit" x="316.8876315789473" y="253.02240000000006" width="77.13" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(320.815132 271.5299)">GAIA-1</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(331.179194 293.128775)">[321]</text>
+   <title>GAIA-1：用于自动驾驶的生成式世界模型</title></g>
+   <g id="patch_10">
+    <path d="M 397.894737 167.7024  Q 397.894737 127.3824 397.894737 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 394.694737 94.859942  L 397.894737 88.459942  L 401.094737 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_17" class="paper-node" data-paper="tl231006114" tabindex="0" role="button" aria-label="学习交互式真实世界模拟器">
+    <rect class="paper-hit" x="359.8697368421052" y="33.480000000000125" width="76.05000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(363.802549 53.29165)">UniSim</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(373.621299 74.890525)">[322]</text>
+   <title>学习交互式真实世界模拟器</title></g>
+   <g id="patch_11">
+    <path d="M 440.336842 167.7024  Q 440.336842 174.9024 440.336842 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 443.536842 174.304858  L 440.336842 180.704858  L 437.136842 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_18" class="paper-node" data-paper="genie" tabindex="0" role="button" aria-label="Genie：生成式交互环境">
+    <rect class="paper-hit" x="408.79184210526313" y="186.78240000000005" width="63.089999999999996" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(412.730592 205.2899)">Genie</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(421.927467 226.888775)">[22]</text>
+   <title>Genie：生成式交互环境</title></g>
+   <g id="patch_12">
+    <path d="M 482.778947 167.7024  Q 482.778947 160.5024 482.778947 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 479.578947 161.099942  L 482.778947 154.699942  L 485.978947 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_19" class="paper-node" data-paper="tl240512399" tabindex="0" role="button" aria-label="用于世界建模的扩散：Atari 中的视觉细节至关重要">
+    <rect class="paper-hit" x="427.473947368421" y="99.7200000000001" width="110.61000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(431.519572 119.53165)">DIAMOND</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(458.50551 141.130525)">[323]</text>
+   <title>用于世界建模的扩散：Atari 中的视觉细节至关重要</title></g>
+   <g id="patch_13">
+    <path d="M 525.221053 167.7024  Q 525.221053 208.0224 525.221053 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 528.421053 240.544858  L 525.221053 246.944858  L 522.021053 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_20" class="paper-node" data-paper="tl240515223" tabindex="0" role="button" aria-label="iVideoGPT：交互式 VideoGPT 是可扩展的世界模型">
+    <rect class="paper-hit" x="471.5360526315789" y="253.02240000000006" width="107.37000000000002" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(475.421053 271.5299)">iVideoGPT</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(500.947615 293.128775)">[324]</text>
+   <title>iVideoGPT：交互式 VideoGPT 是可扩展的世界模型</title></g>
+   <g id="patch_14">
+    <path d="M 567.663158 167.7024  Q 567.663158 127.3824 567.663158 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 564.463158 94.859942  L 567.663158 88.459942  L 570.863158 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_21" class="paper-node" data-paper="tl240609455" tabindex="0" role="button" aria-label="Pandora：迈向以自然语言为动作、以视频为状态的通用世界模型">
+    <rect class="paper-hit" x="524.2381578947368" y="33.480000000000125" width="86.85000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(528.10222 53.29165)">Pandora</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(543.38972 74.890525)">[325]</text>
+   <title>Pandora：迈向以自然语言为动作、以视频为状态的通用世界模型</title></g>
+   <g id="patch_15">
+    <path d="M 610.105263 167.7024  Q 610.105263 174.9024 610.105263 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 613.305263 174.304858  L 610.105263 180.704858  L 606.905263 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_22" class="paper-node" data-paper="tl240814837" tabindex="0" role="button" aria-label="扩散模型是实时游戏引擎">
+    <rect class="paper-hit" x="550.7952631578947" y="186.78240000000005" width="118.62000000000002" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(554.695888 205.2899)">GameNGen</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(585.831826 226.888775)">[282]</text>
+   <title>扩散模型是实时游戏引擎</title></g>
+   <g id="patch_16">
+    <path d="M 652.547368 167.7024  Q 652.547368 160.5024 652.547368 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 649.347368 161.099942  L 652.547368 154.699942  L 655.747368 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_23" class="paper-node" data-paper="tl250318938" tabindex="0" role="button" aria-label="AdaWorld：利用潜在动作学习可适配的世界模型">
+    <rect class="paper-hit" x="600.5273684210525" y="99.7200000000001" width="104.04" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(604.437993 119.53165)">AdaWorld</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(628.273931 141.130525)">[326]</text>
+   <title>AdaWorld：利用潜在动作学习可适配的世界模型</title></g>
+   <g id="patch_17">
+    <path d="M 694.989474 167.7024  Q 694.989474 208.0224 694.989474 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 698.189474 240.544858  L 694.989474 246.944858  L 691.789474 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_24" class="paper-node" data-paper="tl250320523" tabindex="0" role="button" aria-label="GAIA-2：用于自动驾驶的可控多视图生成式世界模型">
+    <rect class="paper-hit" x="656.4244736842105" y="253.02240000000006" width="77.13" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(660.351974 271.5299)">GAIA-2</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(670.716036 293.128775)">[327]</text>
+   <title>GAIA-2：用于自动驾驶的可控多视图生成式世界模型</title></g>
+   <g id="patch_18">
+    <path d="M 737.431579 167.7024  Q 737.431579 127.3824 737.431579 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 734.231579 94.859942  L 737.431579 88.459942  L 740.631579 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_25" class="paper-node" data-paper="tl250618701" tabindex="0" role="button" aria-label="Matrix-Game：交互式世界基础模型">
+    <rect class="paper-hit" x="670.6515789473685" y="33.480000000000125" width="133.56" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(674.525329 53.29165)">Matrix-Game</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(713.158141 74.890525)">[328]</text>
+   <title>Matrix-Game：交互式世界基础模型</title></g>
+   <g id="patch_19">
+    <path d="M 779.873684 167.7024  Q 779.873684 174.9024 779.873684 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 783.073684 174.304858  L 779.873684 180.704858  L 776.673684 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_26" class="paper-node" data-paper="tl250924527" tabindex="0" role="button" aria-label="在可扩展世界模型内部训练智能体">
+    <rect class="paper-hit" x="725.7386842105262" y="186.78240000000005" width="108.27000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(729.687747 205.2899)">Dreamer 4</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(755.600247 226.888775)">[329]</text>
+   <title>在可扩展世界模型内部训练智能体</title></g>
+   <g id="patch_20">
+    <path d="M 822.315789 167.7024  Q 822.315789 160.5024 822.315789 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 819.115789 161.099942  L 822.315789 154.699942  L 825.515789 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_27" class="paper-node" data-paper="tl260408995" tabindex="0" role="button" aria-label="Matrix-Game 3.0：具有长时程记忆的实时流式交互世界模型">
+    <rect class="paper-hit" x="755.5357894736842" y="77.45760000000008" width="133.56" height="71.1648" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(759.409539 97.932775)">Matrix-Game</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(808.179852 119.53165)">3.0</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(798.042352 141.130525)">[330]</text>
+   <title>Matrix-Game 3.0：具有长时程记忆的实时流式交互世界模型</title></g>
+   <g id="patch_21">
+    <path d="M 864.757895 167.7024  Q 864.757895 208.0224 864.757895 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 867.957895 240.544858  L 864.757895 246.944858  L 861.557895 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_28" class="paper-node" data-paper="tl260629501" tabindex="0" role="button" aria-label="从动作到世界建模：学习可迁移的动力学先验">
+    <rect class="paper-hit" x="818.7678947368421" y="253.02240000000006" width="91.98" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(822.709457 271.5299)">A2World</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(840.484457 293.128775)">[331]</text>
+   <title>从动作到世界建模：学习可迁移的动力学先验</title></g>
+   <g id="patch_22">
+    <path d="M 907.2 167.7024  Q 907.2 127.3824 907.2 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 904 94.859942  L 907.2 88.459942  L 910.4 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_29" class="paper-node" data-paper="sonoworld" tabindex="0" role="button" aria-label="SonoWorld：迈向可交互、姿态可控的超声世界模型">
+    <rect class="paper-hit" x="849.465" y="33.480000000000125" width="115.47" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(853.401562 53.29165)">SonoWorld</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(888.790625 74.890525)">[26]</text>
+   <title>SonoWorld：迈向可交互、姿态可控的超声世界模型</title></g>
+  </g>
+ </g>
+</svg>

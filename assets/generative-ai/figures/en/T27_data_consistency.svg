@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="322.362pt" viewBox="0 0 1008 322.362" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T02:43:40.425433</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 322.362  L 1008 322.362  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start" x="15.84" y="20.499375" transform="rotate(-0 15.84 20.499375)">27  Measurement consistency</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 48.797795 161.856  Q 502.198724 161.856 954.202111 161.856  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 947.002111 158.256  L 954.202111 161.856  L 947.002111 165.456  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="46.8" y="314.572312" transform="rotate(-0 46.8 314.572312)">2018</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="164.463158" y="314.572312" transform="rotate(-0 164.463158 314.572312)">2021</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="376.673684" y="314.572312" transform="rotate(-0 376.673684 314.572312)">2022</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="610.105263" y="314.572312" transform="rotate(-0 610.105263 314.572312)">2023</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="779.873684" y="314.572312" transform="rotate(-0 779.873684 314.572312)">2024</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="864.757895" y="314.572312" transform="rotate(-0 864.757895 314.572312)">2025</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="920.467895" y="314.572312" transform="rotate(-0 920.467895 314.572312)">2026*</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.8 161.856  Q 100.8 169.056 100.8 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 104 168.458458  L 100.8 174.858458  L 97.6 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_9" class="paper-node" data-paper="tl210514951" tabindex="0" role="button" aria-label="SNIPS: Solving Noisy Inverse Problems Stochastically">
+    <rect class="paper-hit" x="66.86999999999999" y="180.93599999999998" width="67.86" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(70.789062 197.771625)">SNIPS</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(78.560937 216.696625)">[400]</text>
+   <title>SNIPS: Solving Noisy Inverse Problems Stochastically</title></g>
+   <g id="patch_4">
+    <path d="M 143.242105 161.856  Q 143.242105 154.656 143.242105 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 140.042105 155.253542  L 143.242105 148.853542  L 146.442105 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_10" class="paper-node" data-paper="tl210801368" tabindex="0" role="button" aria-label="Robust Compressed Sensing MRI with Deep Generative Priors">
+    <rect class="paper-hit" x="87.62210526315789" y="99.72" width="111.24000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(91.58273 117.356)">CSGM-MRI</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(121.740543 136.281)">[114]</text>
+   <title>Robust Compressed Sensing MRI with Deep Generative Priors</title></g>
+   <g id="patch_5">
+    <path d="M 185.684211 161.856  Q 185.684211 202.176 185.684211 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 188.884211 234.698458  L 185.684211 241.098458  L 182.484211 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_11" class="paper-node" data-paper="tl211005243" tabindex="0" role="button" aria-label="Score-based diffusion models for accelerated MRI">
+    <rect class="paper-hit" x="134.02421052631576" y="247.176" width="103.32000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(137.902961 264.011625)">Score-MRI</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(164.182648 282.936625)">[115]</text>
+   <title>Score-based diffusion models for accelerated MRI</title></g>
+   <g id="patch_6">
+    <path d="M 228.126316 161.856  Q 228.126316 121.536 228.126316 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 224.926316 89.013542  L 228.126316 82.613542  L 231.326316 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_12" class="paper-node" data-paper="medicalinverse" tabindex="0" role="button" aria-label="Solving Inverse Problems in Medical Imaging with Score-Based Generative Models">
+    <rect class="paper-hit" x="144.65131578947364" y="33.47999999999997" width="166.95000000000002" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(148.652878 51.116)">Score Medical Inv</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(211.448191 70.041)">[20]</text>
+   <title>Solving Inverse Problems in Medical Imaging with Score-Based Generative Models</title></g>
+   <g id="patch_7">
+    <path d="M 270.568421 161.856  Q 270.568421 169.056 270.568421 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 273.768421 168.458458  L 270.568421 174.858458  L 267.368421 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_13" class="paper-node" data-paper="tl220109865" tabindex="0" role="button" aria-label="RePaint: Inpainting using Denoising Diffusion Probabilistic Models">
+    <rect class="paper-hit" x="231.05842105263156" y="180.93599999999998" width="79.02000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(234.993421 197.771625)">RePaint</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(248.329359 216.696625)">[100]</text>
+   <title>RePaint: Inpainting using Denoising Diffusion Probabilistic Models</title></g>
+   <g id="patch_8">
+    <path d="M 313.010526 161.856  Q 313.010526 154.656 313.010526 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 309.810526 155.253542  L 313.010526 148.853542  L 316.210526 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_14" class="paper-node" data-paper="ddrm" tabindex="0" role="button" aria-label="Denoising Diffusion Restoration Models">
+    <rect class="paper-hit" x="279.0355263157894" y="99.72" width="67.95" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(283.015214 117.356)">DDRM</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(296.332401 136.281)">[17]</text>
+   <title>Denoising Diffusion Restoration Models</title></g>
+   <g id="patch_9">
+    <path d="M 355.452632 161.856  Q 355.452632 202.176 355.452632 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 358.652632 234.698458  L 355.452632 241.098458  L 352.252632 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_15" class="paper-node" data-paper="tl220600941" tabindex="0" role="button" aria-label="Improving Diffusion Models for Inverse Problems using Manifold Constraints">
+    <rect class="paper-hit" x="328.1376315789473" y="247.176" width="54.63" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(332.122944 264.011625)">MCG</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(333.951069 282.936625)">[116]</text>
+   <title>Improving Diffusion Models for Inverse Problems using Manifold Constraints</title></g>
+   <g id="patch_10">
+    <path d="M 397.894737 161.856  Q 397.894737 121.536 397.894737 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 394.694737 89.013542  L 397.894737 82.613542  L 401.094737 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_16" class="paper-node" data-paper="dps" tabindex="0" role="button" aria-label="Diffusion Posterior Sampling for General Noisy Inverse Problems">
+    <rect class="paper-hit" x="373.3697368421052" y="33.47999999999997" width="49.050000000000004" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(377.332237 51.116)">DPS</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(381.216612 70.041)">[19]</text>
+   <title>Diffusion Posterior Sampling for General Noisy Inverse Problems</title></g>
+   <g id="patch_11">
+    <path d="M 440.336842 161.856  Q 440.336842 169.056 440.336842 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 443.536842 168.458458  L 440.336842 174.858458  L 437.136842 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_17" class="paper-node" data-paper="tl221110655" tabindex="0" role="button" aria-label="Solving 3D Inverse Problems using Pre-trained 2D Diffusion Models">
+    <rect class="paper-hit" x="372.56684210526305" y="180.93599999999998" width="135.54" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(376.607155 197.771625)">DiffusionMBIR</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(418.09778 216.696625)">[391]</text>
+   <title>Solving 3D Inverse Problems using Pre-trained 2D Diffusion Models</title></g>
+   <g id="patch_12">
+    <path d="M 482.778947 161.856  Q 482.778947 154.656 482.778947 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 479.578947 155.253542  L 482.778947 148.853542  L 485.978947 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_18" class="paper-node" data-paper="tl221200490" tabindex="0" role="button" aria-label="Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model">
+    <rect class="paper-hit" x="448.803947368421" y="99.72" width="67.95" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(452.783635 117.356)">DDNM</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(461.277385 136.281)">[117]</text>
+   <title>Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model</title></g>
+   <g id="patch_13">
+    <path d="M 525.221053 161.856  Q 525.221053 202.176 525.221053 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 528.421053 234.698458  L 525.221053 241.098458  L 522.021053 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_19" class="paper-node" data-paper="tl230508995" tabindex="0" role="button" aria-label="Denoising Diffusion Models for Plug-and-Play Image Restoration">
+    <rect class="paper-hit" x="489.71605263157886" y="247.176" width="71.00999999999999" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(493.72574 264.011625)">DiffPIR</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(502.98199 282.936625)">[401]</text>
+   <title>Denoising Diffusion Models for Plug-and-Play Image Restoration</title></g>
+   <g id="patch_14">
+    <path d="M 567.663158 161.856  Q 567.663158 121.536 567.663158 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 564.463158 89.013542  L 567.663158 82.613542  L 570.863158 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_20" class="paper-node" data-paper="tl230519809" tabindex="0" role="button" aria-label="Direct Diffusion Bridge using Data Consistency for Inverse Problems">
+    <rect class="paper-hit" x="535.3081578947368" y="33.47999999999997" width="64.71" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(539.32722 51.116)">CDDB</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(545.424095 70.041)">[402]</text>
+   <title>Direct Diffusion Bridge using Data Consistency for Inverse Problems</title></g>
+   <g id="patch_15">
+    <path d="M 610.105263 161.856  Q 610.105263 169.056 610.105263 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 613.305263 168.458458  L 610.105263 174.858458  L 606.905263 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_21" class="paper-node" data-paper="tl230708123" tabindex="0" role="button" aria-label="Solving Inverse Problems with Latent Diffusion Models via Hard Data Consistency">
+    <rect class="paper-hit" x="559.4802631578947" y="180.93599999999998" width="101.25" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(563.417763 198.015375)">ReSample</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(587.866201 216.940375)">[403]</text>
+   <title>Solving Inverse Problems with Latent Diffusion Models via Hard Data Consistency</title></g>
+   <g id="patch_16">
+    <path d="M 652.547368 161.856  Q 652.547368 154.656 652.547368 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 649.347368 155.253542  L 652.547368 148.853542  L 655.747368 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_22" class="paper-node" data-paper="tl230814190" tabindex="0" role="button" aria-label="Score-Based Generative Models for PET Image Reconstruction">
+    <rect class="paper-hit" x="599.8073684210526" y="99.72" width="105.48" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(603.647368 117.356)">Score-PET</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(630.308306 136.281)">[404]</text>
+   <title>Score-Based Generative Models for PET Image Reconstruction</title></g>
+   <g id="patch_17">
+    <path d="M 694.989474 161.856  Q 694.989474 202.176 694.989474 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 698.189474 234.698458  L 694.989474 241.098458  L 691.789474 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_23" class="paper-node" data-paper="tl231201464" tabindex="0" role="button" aria-label="CT Reconstruction using Diffusion Posterior Sampling conditioned on a Nonlinear Measurement Model">
+    <rect class="paper-hit" x="608.9044736842105" y="247.176" width="172.17" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(612.916036 264.011625)">Nonlinear CT DPS</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(672.750411 282.936625)">[121]</text>
+   <title>CT Reconstruction using Diffusion Posterior Sampling conditioned on a Nonlinear Measurement Model</title></g>
+   <g id="patch_18">
+    <path d="M 737.431579 161.856  Q 737.431579 121.536 737.431579 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 734.231579 89.013542  L 737.431579 82.613542  L 740.631579 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_24" class="paper-node" data-paper="tl240308728" tabindex="0" role="button" aria-label="Ambient Diffusion Posterior Sampling: Solving Inverse Problems with Diffusion Models Trained on Corrupted Data">
+    <rect class="paper-hit" x="673.4415789473685" y="33.47999999999997" width="127.98" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(677.408141 51.116)">Ambient DPS</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(715.192516 70.041)">[122]</text>
+   <title>Ambient Diffusion Posterior Sampling: Solving Inverse Problems with Diffusion Models Trained on Corrupted Data</title></g>
+   <g id="patch_19">
+    <path d="M 779.873684 161.856  Q 779.873684 169.056 779.873684 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 783.073684 168.458458  L 779.873684 174.858458  L 776.673684 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_25" class="paper-node" data-paper="tl240609768" tabindex="0" role="button" aria-label="Bayesian Conditioned Diffusion Models for Inverse Problems">
+    <rect class="paper-hit" x="746.4386842105263" y="180.93599999999998" width="66.87" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(750.429934 197.771625)">BCDM</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(757.634622 216.696625)">[405]</text>
+   <title>Bayesian Conditioned Diffusion Models for Inverse Problems</title></g>
+   <g id="patch_20">
+    <path d="M 822.315789 161.856  Q 822.315789 154.656 822.315789 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 819.115789 155.253542  L 822.315789 148.853542  L 825.515789 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_26" class="paper-node" data-paper="tl240701521" tabindex="0" role="button" aria-label="Improving Diffusion Inverse Problem Solving with Decoupled Noise Annealing">
+    <rect class="paper-hit" x="791.1307894736841" y="99.72" width="62.37" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(795.082977 117.356)">DAPS</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(800.076727 136.281)">[124]</text>
+   <title>Improving Diffusion Inverse Problem Solving with Decoupled Noise Annealing</title></g>
+   <g id="patch_21">
+    <path d="M 864.757895 161.856  Q 864.757895 202.176 864.757895 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 867.957895 234.698458  L 864.757895 241.098458  L 861.557895 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_27" class="paper-node" data-paper="tl250909365" tabindex="0" role="button" aria-label="Plug-and-play Diffusion Models for Image Compressive Sensing with Data Consistency Projection">
+    <rect class="paper-hit" x="776.8728947368421" y="247.176" width="175.76999999999998" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(780.839145 264.255375)">PnP-DC Projection</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(842.518832 283.41475)">[406]</text>
+   <title>Plug-and-play Diffusion Models for Image Compressive Sensing with Data Consistency Projection</title></g>
+   <g id="patch_22">
+    <path d="M 907.2 161.856  Q 907.2 121.536 907.2 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 904 89.013542  L 907.2 82.613542  L 910.4 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_28" class="paper-node" data-paper="tl260719333" tabindex="0" role="button" aria-label="Provable diffusion-based posterior sampling for linear inverse problems via DDIM">
+    <rect class="paper-hit" x="834.93" y="33.47999999999997" width="144.54" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(838.857812 51.116)">Posterior DDIM</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(884.960937 70.041)">[407]</text>
+   <title>Provable diffusion-based posterior sampling for linear inverse problems via DDIM</title></g>
+  </g>
+ </g>
+</svg>

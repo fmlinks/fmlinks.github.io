@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="322.272pt" viewBox="0 0 1008 322.272" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T02:43:37.887304</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 322.272  L 1008 322.272  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start" x="15.84" y="20.62125" transform="rotate(-0 15.84 20.62125)">21  Action / world model</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 48.797795 161.856  Q 502.198724 161.856 954.202111 161.856  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 947.002111 158.256  L 954.202111 161.856  L 947.002111 165.456  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="122.021053" y="314.482312" transform="rotate(-0 122.021053 314.482312)">2018</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="185.684211" y="314.482312" transform="rotate(-0 185.684211 314.482312)">2019</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="237.524211" y="314.482312" transform="rotate(-0 237.524211 314.482312)">2020</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="289.364211" y="314.482312" transform="rotate(-0 289.364211 314.482312)">2022</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="355.452632" y="314.482312" transform="rotate(-0 355.452632 314.482312)">2023</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="525.221053" y="314.482312" transform="rotate(-0 525.221053 314.482312)">2024</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="716.210526" y="314.482312" transform="rotate(-0 716.210526 314.482312)">2025</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="864.757895" y="314.482312" transform="rotate(-0 864.757895 314.482312)">2026*</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.8 161.856  Q 100.8 169.056 100.8 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 104 168.458458  L 100.8 174.858458  L 97.6 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_10" class="paper-node" data-paper="tl180310122" tabindex="0" role="button" aria-label="World Models">
+    <rect class="paper-hit" x="35.86499999999999" y="180.93599999999998" width="129.87" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(39.85 197.771625)">World Models</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(78.560937 216.696625)">[281]</text>
+   <title>World Models</title></g>
+   <g id="patch_4">
+    <path d="M 143.242105 161.856  Q 143.242105 154.656 143.242105 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 140.042105 155.253542  L 143.242105 148.853542  L 146.442105 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_11" class="paper-node" data-paper="tl181104551" tabindex="0" role="button" aria-label="Learning Latent Dynamics for Planning from Pixels">
+    <rect class="paper-hit" x="109.31210526315789" y="99.72000000000003" width="67.86" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(113.228043 117.356)">PlaNet</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(121.003043 136.281)">[316]</text>
+   <title>Learning Latent Dynamics for Planning from Pixels</title></g>
+   <g id="patch_5">
+    <path d="M 185.684211 161.856  Q 185.684211 202.176 185.684211 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 188.884211 234.698458  L 185.684211 241.098458  L 182.484211 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_12" class="paper-node" data-paper="tl191201603" tabindex="0" role="button" aria-label="Dream to Control: Learning Behaviors by Latent Imagination">
+    <rect class="paper-hit" x="142.84421052631575" y="247.176" width="85.68" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(146.790461 264.011625)">Dreamer</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(163.445148 282.936625)">[317]</text>
+   <title>Dream to Control: Learning Behaviors by Latent Imagination</title></g>
+   <g id="patch_6">
+    <path d="M 228.126316 161.856  Q 228.126316 121.536 228.126316 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 224.926316 89.013542  L 228.126316 82.613542  L 231.326316 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_13" class="paper-node" data-paper="tl201002193" tabindex="0" role="button" aria-label="Mastering Atari with Discrete World Models">
+    <rect class="paper-hit" x="173.04631578947365" y="33.48000000000003" width="110.16" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(177.001316 51.116)">DreamerV2</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(205.887253 70.041)">[318]</text>
+   <title>Mastering Atari with Discrete World Models</title></g>
+   <g id="patch_7">
+    <path d="M 270.568421 161.856  Q 270.568421 169.056 270.568421 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 273.768421 168.458458  L 270.568421 174.858458  L 267.368421 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_14" class="paper-node" data-paper="tl220900588" tabindex="0" role="button" aria-label="Transformers are Sample-Efficient World Models">
+    <rect class="paper-hit" x="244.28842105263155" y="180.93599999999998" width="52.56" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(251.119984 197.771625)">IRIS</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(248.329359 216.696625)">[319]</text>
+   <title>Transformers are Sample-Efficient World Models</title></g>
+   <g id="patch_8">
+    <path d="M 313.010526 161.856  Q 313.010526 154.656 313.010526 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 309.810526 155.253542  L 313.010526 148.853542  L 316.210526 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_15" class="paper-node" data-paper="tl230104104" tabindex="0" role="button" aria-label="Mastering Diverse Domains through World Models">
+    <rect class="paper-hit" x="257.93052631578945" y="99.72000000000003" width="110.16" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(261.885526 117.356)">DreamerV3</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(290.771464 136.281)">[320]</text>
+   <title>Mastering Diverse Domains through World Models</title></g>
+   <g id="patch_9">
+    <path d="M 355.452632 161.856  Q 355.452632 202.176 355.452632 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 358.652632 234.698458  L 355.452632 241.098458  L 352.252632 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_16" class="paper-node" data-paper="tl230917080" tabindex="0" role="button" aria-label="GAIA-1: A Generative World Model for Autonomous Driving">
+    <rect class="paper-hit" x="318.6876315789473" y="247.176" width="73.53" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(322.665132 264.011625)">GAIA-1</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(333.213569 282.936625)">[321]</text>
+   <title>GAIA-1: A Generative World Model for Autonomous Driving</title></g>
+   <g id="patch_10">
+    <path d="M 397.894737 161.856  Q 397.894737 121.536 397.894737 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 394.694737 89.013542  L 397.894737 82.613542  L 401.094737 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_17" class="paper-node" data-paper="tl231006114" tabindex="0" role="button" aria-label="Learning Interactive Real-World Simulators">
+    <rect class="paper-hit" x="361.6697368421052" y="33.48000000000003" width="72.45" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(365.668174 51.116)">UniSim</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(375.655674 70.041)">[322]</text>
+   <title>Learning Interactive Real-World Simulators</title></g>
+   <g id="patch_11">
+    <path d="M 440.336842 161.856  Q 440.336842 169.056 440.336842 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 443.536842 168.458458  L 440.336842 174.858458  L 437.136842 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_18" class="paper-node" data-paper="genie" tabindex="0" role="button" aria-label="Genie: Generative Interactive Environments">
+    <rect class="paper-hit" x="409.69184210526305" y="180.93599999999998" width="61.29" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(413.65403 197.771625)">Genie</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(423.658717 216.696625)">[22]</text>
+   <title>Genie: Generative Interactive Environments</title></g>
+   <g id="patch_12">
+    <path d="M 482.778947 161.856  Q 482.778947 154.656 482.778947 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 479.578947 155.253542  L 482.778947 148.853542  L 485.978947 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_19" class="paper-node" data-paper="tl240512399" tabindex="0" role="button" aria-label="Diffusion for World Modeling: Visual Details Matter in Atari">
+    <rect class="paper-hit" x="431.568947368421" y="99.72000000000003" width="102.42" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(435.557072 117.356)">DIAMOND</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(460.539885 136.281)">[323]</text>
+   <title>Diffusion for World Modeling: Visual Details Matter in Atari</title></g>
+   <g id="patch_13">
+    <path d="M 525.221053 161.856  Q 525.221053 202.176 525.221053 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 528.421053 234.698458  L 525.221053 241.098458  L 522.021053 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_20" class="paper-node" data-paper="tl240515223" tabindex="0" role="button" aria-label="iVideoGPT: Interactive VideoGPTs are Scalable World Models">
+    <rect class="paper-hit" x="473.1110526315789" y="247.176" width="104.22" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(477.042928 264.011625)">iVideoGPT</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(502.98199 282.936625)">[324]</text>
+   <title>iVideoGPT: Interactive VideoGPTs are Scalable World Models</title></g>
+   <g id="patch_14">
+    <path d="M 567.663158 161.856  Q 567.663158 121.536 567.663158 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 564.463158 89.013542  L 567.663158 82.613542  L 570.863158 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_21" class="paper-node" data-paper="tl240609455" tabindex="0" role="button" aria-label="Pandora: Towards General World Model with Natural Language Actions and Video States">
+    <rect class="paper-hit" x="525.8581578947368" y="33.48000000000003" width="83.61000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(529.85847 51.116)">Pandora</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(545.424095 70.041)">[325]</text>
+   <title>Pandora: Towards General World Model with Natural Language Actions and Video States</title></g>
+   <g id="patch_15">
+    <path d="M 610.105263 161.856  Q 610.105263 169.056 610.105263 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 613.305263 168.458458  L 610.105263 174.858458  L 606.905263 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_22" class="paper-node" data-paper="tl240814837" tabindex="0" role="button" aria-label="Diffusion Models Are Real-Time Game Engines">
+    <rect class="paper-hit" x="552.8202631578947" y="180.93599999999998" width="114.57000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(556.753701 197.771625)">GameNGen</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(587.866201 216.696625)">[282]</text>
+   <title>Diffusion Models Are Real-Time Game Engines</title></g>
+   <g id="patch_16">
+    <path d="M 652.547368 161.856  Q 652.547368 154.656 652.547368 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 649.347368 155.253542  L 652.547368 148.853542  L 655.747368 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_23" class="paper-node" data-paper="tl250318938" tabindex="0" role="button" aria-label="AdaWorld: Learning Adaptable World Models with Latent Actions">
+    <rect class="paper-hit" x="604.8023684210526" y="99.72000000000003" width="95.49000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(608.817681 117.356)">AdaWorld</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(630.308306 136.281)">[326]</text>
+   <title>AdaWorld: Learning Adaptable World Models with Latent Actions</title></g>
+   <g id="patch_17">
+    <path d="M 694.989474 161.856  Q 694.989474 202.176 694.989474 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 698.189474 234.698458  L 694.989474 241.098458  L 691.789474 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_24" class="paper-node" data-paper="tl250320523" tabindex="0" role="button" aria-label="GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving">
+    <rect class="paper-hit" x="658.2244736842106" y="247.176" width="73.53" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(662.201974 264.011625)">GAIA-2</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(672.750411 282.936625)">[327]</text>
+   <title>GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving</title></g>
+   <g id="patch_18">
+    <path d="M 737.431579 161.856  Q 737.431579 121.536 737.431579 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 734.231579 89.013542  L 737.431579 82.613542  L 740.631579 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_25" class="paper-node" data-paper="tl250618701" tabindex="0" role="button" aria-label="Matrix-Game: Interactive World Foundation Model">
+    <rect class="paper-hit" x="675.6915789473685" y="33.48000000000003" width="123.48" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(679.651891 51.116)">Matrix-Game</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(715.192516 70.041)">[328]</text>
+   <title>Matrix-Game: Interactive World Foundation Model</title></g>
+   <g id="patch_19">
+    <path d="M 779.873684 161.856  Q 779.873684 169.056 779.873684 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 783.073684 168.458458  L 779.873684 174.858458  L 776.673684 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_26" class="paper-node" data-paper="tl250924527" tabindex="0" role="button" aria-label="Training Agents Inside of Scalable World Models">
+    <rect class="paper-hit" x="728.6636842105263" y="180.93599999999998" width="102.42" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(732.640872 197.771625)">Dreamer 4</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(757.634622 216.696625)">[329]</text>
+   <title>Training Agents Inside of Scalable World Models</title></g>
+   <g id="patch_20">
+    <path d="M 822.315789 161.856  Q 822.315789 154.656 822.315789 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 819.115789 155.253542  L 822.315789 148.853542  L 825.515789 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_27" class="paper-node" data-paper="tl260408995" tabindex="0" role="button" aria-label="Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory">
+    <rect class="paper-hit" x="743.8807894736841" y="99.72000000000003" width="156.87" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(747.857977 117.356)">Matrix-Game 3.0</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(800.076727 136.281)">[330]</text>
+   <title>Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory</title></g>
+   <g id="patch_21">
+    <path d="M 864.757895 161.856  Q 864.757895 202.176 864.757895 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 867.957895 234.698458  L 864.757895 241.098458  L 861.557895 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_28" class="paper-node" data-paper="tl260629501" tabindex="0" role="button" aria-label="Learning Transferable Dynamics Priors from Action to World Modeling">
+    <rect class="paper-hit" x="822.592894736842" y="247.176" width="84.33000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(826.589145 264.011625)">A2World</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(842.518832 282.936625)">[331]</text>
+   <title>Learning Transferable Dynamics Priors from Action to World Modeling</title></g>
+   <g id="patch_22">
+    <path d="M 907.2 161.856  Q 907.2 121.536 907.2 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 904 89.013542  L 907.2 82.613542  L 910.4 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_29" class="paper-node" data-paper="sonoworld" tabindex="0" role="button" aria-label="SonoWorld: Towards Interactive Pose-Controllable Ultrasound World Models">
+    <rect class="paper-hit" x="853.965" y="33.48000000000003" width="106.47" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(857.909375 51.116)">SonoWorld</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(890.521875 70.041)">[26]</text>
+   <title>SonoWorld: Towards Interactive Pose-Controllable Ultrasound World Models</title></g>
+  </g>
+ </g>
+</svg>

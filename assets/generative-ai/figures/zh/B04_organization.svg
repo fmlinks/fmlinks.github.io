@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="566.64pt" viewBox="0 0 1008 566.64" version="1.1" data-language="zh" lang="zh-CN">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T03:31:53.865722</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 566.64  L 1008 566.64  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 321.12 126  L 338.4 126  " clip-path="url(#p6f6691cbf5)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_2">
+    <path d="M 656.64 126  L 673.92 126  " clip-path="url(#p6f6691cbf5)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_3">
+    <path d="M 321.12 273.6  L 338.4 273.6  " clip-path="url(#p6f6691cbf5)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_4">
+    <path d="M 656.64 273.6  L 673.92 273.6  " clip-path="url(#p6f6691cbf5)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_5">
+    <path d="M 321.12 421.2  L 338.4 421.2  " clip-path="url(#p6f6691cbf5)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_6">
+    <path d="M 656.64 421.2  L 673.92 421.2  " clip-path="url(#p6f6691cbf5)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #68559d" x="15.84" y="28.209375" transform="rotate(-0 15.84 28.209375)">04  任务组织</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="58.292813" transform="rotate(-0 15.84 58.292813)">图 1 坐标 4 | 子项 13, 14, 15</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #2573b4" x="15.84" y="93.009375" transform="rotate(-0 15.84 93.009375)">机器学习</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #148843" x="351.36" y="93.009375" transform="rotate(-0 351.36 93.009375)">计算机视觉</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #68559d" x="686.88" y="93.009375" transform="rotate(-0 686.88 93.009375)">医学图像分析</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="132.6275" transform="rotate(-0 15.84 132.6275)">13 多任务</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 162.8675)">多个任务 -&gt; 共享模型</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 185.105875)">跨目标共享学习</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 207.34425)">保留各任务独立评估</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 229.582625)">逐任务与专用模型比较</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="351.36" y="132.6275" transform="rotate(-0 351.36 132.6275)">Palette 通用模型</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 162.8675)">任务 + 输入 -&gt; 复原图像</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 185.105875)">上色、修补、扩图、复原</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 207.34425)">共享条件扩散</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 229.582625)">逐任务检验，而非只看均值</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="686.88" y="132.6275" transform="rotate(-0 686.88 132.6275)">AortaDiff 共享目标</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 162.8675)">平扫 CT -&gt; 合成 CT / 掩膜</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 185.105875)">合成 + 分割任务</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 207.34425)">以共享解剖结构为目标</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 229.582625)">检验图像 / Dice / 尺寸误差</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="280.2275" transform="rotate(-0 15.84 280.2275)">14 多模态</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 310.4675)">不同模态 -&gt; 建模</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 332.705875)">关联语言与视觉内容</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 354.94425)">条件生成不等于联合采样</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 377.182625)">检验跨模态一致性</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="351.36" y="280.2275" transform="rotate(-0 351.36 280.2275)">UniDiffuser 图像与文本</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 310.4675)">文本 -&gt; 图像；图像 -&gt; 文本</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 332.705875)">也支持配对采样</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 354.94425)">明确采样模式</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 377.182625)">检验各模式下的对齐</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="686.88" y="280.2275" transform="rotate(-0 686.88 280.2275)">UniX 报告与 X 线</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 310.4675)">报告 -&gt; X 线；X 线 -&gt; 报告</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 332.705875)">跨不同格式生成</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 354.94425)">以影像发现为目标，而非患者 ID</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 377.182625)">检验遗漏 / 矛盾</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="427.8275" transform="rotate(-0 15.84 427.8275)">15 联合生成</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 458.0675)">噪声 -&gt; 对应输出</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 480.305875)">学习输出间的依赖</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 502.54425)">描述同一个共享样本</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 524.782625)">检验配对及单项输出</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="351.36" y="427.8275" transform="rotate(-0 351.36 427.8275)">JointNet RGB 与深度</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 458.0675)">文本 + 噪声 -&gt; RGB-深度对</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 480.305875)">耦合两个扩散分支</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 502.54425)">以场景几何匹配为目标</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 524.782625)">检验边缘与配对一致性</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="686.88" y="428.530625" transform="rotate(-0 686.88 428.530625)">MedSegFactory 图像 / 掩膜</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 458.0675)">文本 + 噪声 -&gt; 图像-掩膜对</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 480.305875)">双流交叉条件化</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 502.54425)">以解剖 / 标签匹配为目标</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 524.782625)">检验边界 / 真实任务效用</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p6f6691cbf5">
+   <rect x="0" y="0" width="1008" height="566.64" />
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1008pt" height="519.12pt" viewBox="0 0 1008 519.12" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-22T02:25:29.511455</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 519.12
+L 1008 519.12
+L 1008 0
+L 0 0
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 321.12 126
+L 338.4 126
+" clip-path="url(#p003aba99e0)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 656.64 126
+L 673.92 126
+" clip-path="url(#p003aba99e0)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 321.12 257.76
+L 338.4 257.76
+" clip-path="url(#p003aba99e0)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 656.64 257.76
+L 673.92 257.76
+" clip-path="url(#p003aba99e0)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 321.12 389.52
+L 338.4 389.52
+" clip-path="url(#p003aba99e0)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 656.64 389.52
+L 673.92 389.52
+" clip-path="url(#p003aba99e0)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start; fill: #035830" x="15.84" y="27.856875" transform="rotate(-0 15.84 27.856875)">08  Requirements and evaluation</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: start" x="15.84" y="57.735" transform="rotate(-0 15.84 57.735)">Figure 1 coordinate 8 | Subitems 25, 26, 27</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start; fill: #2573b4" x="15.84" y="92.46375" transform="rotate(-0 15.84 92.46375)">Machine learning</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start; fill: #148843" x="351.36" y="92.7675" transform="rotate(-0 351.36 92.7675)">Computer vision</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start; fill: #68559d" x="686.88" y="92.46375" transform="rotate(-0 686.88 92.46375)">Medical image analysis</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="15.84" y="131.015" transform="rotate(-0 15.84 131.015)">25 Fidelity</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 159.279375)">Real / synthetic data -&gt; scores</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 179.212875)">PRDC: fidelity versus coverage</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 198.883125)">Declare the reference features</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 218.58225)">Test outliers / missing modes</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="351.36" y="131.199375" transform="rotate(-0 351.36 131.199375)">GenEval compositional checks</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 159.035625)">Prompt + image -&gt; alignment test</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 178.969125)">Check count, color and position</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 198.405)">Target requested object relations</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 218.07525)">Test attribute binding, not looks</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="686.88" y="130.955625" transform="rotate(-0 686.88 130.955625)">Pathologist-guided alignment</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 159.279375)">Synthetic tissue -&gt; expert review</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 179.212875)">Reward-guided diffusion tuning</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 199.146375)">Target meaningful tissue features</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 218.816625)">Test independent diagnostic truth</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="15.84" y="262.959375" transform="rotate(-0 15.84 262.959375)">26 Efficiency</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 291.039375)">Same workload -&gt; cost / quality</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 310.972875)">Time / memory / training budget</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 330.643125)">Keep a declared quality target</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 350.313375)">Test full runtime, same hardware</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="351.36" y="262.959375" transform="rotate(-0 351.36 262.959375)">DPM-Solver sampling</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 291.039375)">Trained diffusion prior -&gt; image</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 310.709625)">Use fewer model evaluations</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 330.40875)">Check quality at each budget</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 350.079)">Test wall time, not step count</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="686.88" y="262.959375" transform="rotate(-0 686.88 262.959375)">MAISI-v2 volume synthesis</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 290.855)">Noise + conditions -&gt; 3D image</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 310.7885)">Rectified flow speeds synthesis</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 330.722)">Check anatomy and condition fit</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 350.39225)">Test total time, failures, retries</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="15.84" y="394.535" transform="rotate(-0 15.84 394.535)">27 Measurement consistency</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 422.555625)">Data + operator -&gt; reconstruction</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 442.25475)">A prior fills unobserved parts</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 461.690625)">Respect the stated noise model</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 481.1265)">Test residual / unresolved detail</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="351.36" y="394.475625" transform="rotate(-0 351.36 394.475625)">DDNM null-space restoration</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 422.555625)">Linear observation -&gt; image</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 442.489125)">Generate null-space content</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 461.925)">Keep noiseless measurements</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 481.360875)">Test data fit and structure</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="686.88" y="394.475625" transform="rotate(-0 686.88 394.475625)">Score-based CT / MRI</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 422.555625)">Measured data -&gt; image draws</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 442.489125)">Supply the operator at test time</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 462.422625)">Target noise-aware data fit</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 482.356125)">Test residuals / hidden anatomy</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p003aba99e0">
+   <rect x="0" y="0" width="1008" height="519.12"/>
+  </clipPath>
+ </defs>
+</svg>

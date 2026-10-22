@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="322.362pt" viewBox="0 0 1008 322.362" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T02:43:38.689334</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 322.362  L 1008 322.362  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start" x="15.84" y="20.62125" transform="rotate(-0 15.84 20.62125)">23  Diffusion</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 48.797795 161.856  Q 502.198724 161.856 954.202111 161.856  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 947.002111 158.256  L 954.202111 161.856  L 947.002111 165.456  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="46.8" y="314.572312" transform="rotate(-0 46.8 314.572312)">2018</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="100.8" y="314.572312" transform="rotate(-0 100.8 314.572312)">2019</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="185.684211" y="314.572312" transform="rotate(-0 185.684211 314.572312)">2020</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="355.452632" y="314.572312" transform="rotate(-0 355.452632 314.572312)">2021</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="610.105263" y="314.572312" transform="rotate(-0 610.105263 314.572312)">2022</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="801.094737" y="314.572312" transform="rotate(-0 801.094737 314.572312)">2023</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="864.757895" y="314.572312" transform="rotate(-0 864.757895 314.572312)">2024</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="920.467895" y="314.572312" transform="rotate(-0 920.467895 314.572312)">2026*</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.8 161.856  Q 100.8 169.056 100.8 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 104 168.458458  L 100.8 174.858458  L 97.6 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_10" class="paper-node" data-paper="tl190705600" tabindex="0" role="button" aria-label="Generative Modeling by Estimating Gradients of the Data Distribution">
+    <rect class="paper-hit" x="68.535" y="180.93599999999998" width="64.53" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(72.464062 197.771625)">NCSN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(78.560937 216.696625)">[346]</text>
+   <title>Generative Modeling by Estimating Gradients of the Data Distribution</title></g>
+   <g id="patch_4">
+    <path d="M 143.242105 161.856  Q 143.242105 154.656 143.242105 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 140.042105 155.253542  L 143.242105 148.853542  L 146.442105 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_11" class="paper-node" data-paper="ddpm" tabindex="0" role="button" aria-label="Denoising Diffusion Probabilistic Models">
+    <rect class="paper-hit" x="109.8071052631579" y="99.72" width="66.87" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(113.798355 117.356)">DDPM</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(126.56398 136.281)">[33]</text>
+   <title>Denoising Diffusion Probabilistic Models</title></g>
+   <g id="patch_5">
+    <path d="M 185.684211 161.856  Q 185.684211 202.176 185.684211 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 188.884211 234.698458  L 185.684211 241.098458  L 182.484211 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_12" class="paper-node" data-paper="tl201002502" tabindex="0" role="button" aria-label="Denoising Diffusion Implicit Models">
+    <rect class="paper-hit" x="156.11921052631575" y="247.176" width="59.13" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(160.132648 264.011625)">DDIM</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(163.445148 282.936625)">[347]</text>
+   <title>Denoising Diffusion Implicit Models</title></g>
+   <g id="patch_6">
+    <path d="M 228.126316 161.856  Q 228.126316 121.536 228.126316 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 224.926316 89.013542  L 228.126316 82.613542  L 231.326316 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_13" class="paper-node" data-paper="sde" tabindex="0" role="button" aria-label="Score-Based Generative Modeling through Stochastic Differential Equations">
+    <rect class="paper-hit" x="174.75631578947363" y="33.47999999999997" width="106.74000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(178.663816 51.116)">Score SDE</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(211.448191 70.041)">[34]</text>
+   <title>Score-Based Generative Modeling through Stochastic Differential Equations</title></g>
+   <g id="patch_7">
+    <path d="M 270.568421 161.856  Q 270.568421 169.056 270.568421 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 273.768421 168.458458  L 270.568421 174.858458  L 267.368421 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_14" class="paper-node" data-paper="tl210209672" tabindex="0" role="button" aria-label="Improved Denoising Diffusion Probabilistic Models">
+    <rect class="paper-hit" x="192.67342105263154" y="180.93599999999998" width="155.79" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(196.665296 197.771625)">Improved DDPM</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(253.890296 216.696625)">[36]</text>
+   <title>Improved Denoising Diffusion Probabilistic Models</title></g>
+   <g id="patch_8">
+    <path d="M 313.010526 161.856  Q 313.010526 154.656 313.010526 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 309.810526 155.253542  L 313.010526 148.853542  L 316.210526 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_15" class="paper-node" data-paper="tl210407636" tabindex="0" role="button" aria-label="Image Super-Resolution via Iterative Refinement">
+    <rect class="paper-hit" x="289.61052631578946" y="99.72" width="46.800000000000004" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(293.557401 117.356)">SR3</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(296.332401 136.281)">[97]</text>
+   <title>Image Super-Resolution via Iterative Refinement</title></g>
+   <g id="patch_9">
+    <path d="M 355.452632 161.856  Q 355.452632 202.176 355.452632 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 358.652632 234.698458  L 355.452632 241.098458  L 352.252632 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_16" class="paper-node" data-paper="tl210505233" tabindex="0" role="button" aria-label="Diffusion Models Beat GANs on Image Synthesis">
+    <rect class="paper-hit" x="329.2626315789473" y="247.176" width="52.38" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(333.230757 264.011625)">ADM</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(338.774507 282.936625)">[38]</text>
+   <title>Diffusion Models Beat GANs on Image Synthesis</title></g>
+   <g id="patch_10">
+    <path d="M 397.894737 161.856  Q 397.894737 121.536 397.894737 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 394.694737 89.013542  L 397.894737 82.613542  L 401.094737 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_17" class="paper-node" data-paper="ldm" tabindex="0" role="button" aria-label="High-Resolution Image Synthesis with Latent Diffusion Models">
+    <rect class="paper-hit" x="324.58973684210525" y="33.47999999999997" width="146.60999999999999" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(328.586924 51.17775)">Latent Diffusion</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(386.777549 70.041)">[7]</text>
+   <title>High-Resolution Image Synthesis with Latent Diffusion Models</title></g>
+   <g id="patch_11">
+    <path d="M 440.336842 161.856  Q 440.336842 169.056 440.336842 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 443.536842 168.458458  L 440.336842 174.858458  L 437.136842 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_18" class="paper-node" data-paper="tl211210741" tabindex="0" role="button" aria-label="GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models">
+    <rect class="paper-hit" x="406.3618421052631" y="180.93599999999998" width="67.95" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(410.327467 197.771625)">GLIDE</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(423.658717 216.696625)">[39]</text>
+   <title>GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models</title></g>
+   <g id="patch_12">
+    <path d="M 482.778947 161.856  Q 482.778947 154.656 482.778947 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 479.578947 155.253542  L 482.778947 148.853542  L 485.978947 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_19" class="paper-node" data-paper="tl220406125" tabindex="0" role="button" aria-label="Hierarchical Text-Conditional Image Generation with CLIP Latents">
+    <rect class="paper-hit" x="435.483947368421" y="99.72" width="94.59000000000002" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(439.425822 117.356)">DALL-E 2</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(466.100822 136.281)">[40]</text>
+   <title>Hierarchical Text-Conditional Image Generation with CLIP Latents</title></g>
+   <g id="patch_13">
+    <path d="M 525.221053 161.856  Q 525.221053 202.176 525.221053 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 528.421053 234.698458  L 525.221053 241.098458  L 522.021053 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_20" class="paper-node" data-paper="tl220511487" tabindex="0" role="button" aria-label="Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding">
+    <rect class="paper-hit" x="487.9160526315789" y="247.176" width="74.61000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(491.86949 264.011625)">Imagen</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(508.542928 283.171)">[41]</text>
+   <title>Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding</title></g>
+   <g id="patch_14">
+    <path d="M 567.663158 161.856  Q 567.663158 121.536 567.663158 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 564.463158 89.013542  L 567.663158 82.613542  L 570.863158 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_21" class="paper-node" data-paper="tl220600364" tabindex="0" role="button" aria-label="Elucidating the Design Space of Diffusion-Based Generative Models">
+    <rect class="paper-hit" x="541.3831578947369" y="33.47999999999997" width="52.56" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(545.441283 51.116)">EDM</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(545.424095 70.041)">[348]</text>
+   <title>Elucidating the Design Space of Diffusion-Based Generative Models</title></g>
+   <g id="patch_15">
+    <path d="M 610.105263 161.856  Q 610.105263 169.056 610.105263 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 613.305263 168.458458  L 610.105263 174.858458  L 606.905263 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_22" class="paper-node" data-paper="tl220600927" tabindex="0" role="button" aria-label="DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps">
+    <rect class="paper-hit" x="552.2802631578948" y="180.93599999999998" width="115.65" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(556.209951 197.771625)">DPM-Solver</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(587.866201 216.696625)">[349]</text>
+   <title>DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps</title></g>
+   <g id="patch_16">
+    <path d="M 652.547368 161.856  Q 652.547368 154.656 652.547368 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 649.347368 155.253542  L 652.547368 148.853542  L 655.747368 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_23" class="paper-node" data-paper="dps" tabindex="0" role="button" aria-label="Diffusion Posterior Sampling for General Noisy Inverse Problems">
+    <rect class="paper-hit" x="628.0223684210526" y="99.72" width="49.050000000000004" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(631.984868 117.356)">DPS</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(635.869243 136.281)">[19]</text>
+   <title>Diffusion Posterior Sampling for General Noisy Inverse Problems</title></g>
+   <g id="patch_17">
+    <path d="M 694.989474 161.856  Q 694.989474 202.176 694.989474 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 698.189474 234.698458  L 694.989474 241.098458  L 691.789474 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_24" class="paper-node" data-paper="tl221103364" tabindex="0" role="button" aria-label="Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Generation">
+    <rect class="paper-hit" x="614.8894736842104" y="247.176" width="160.20000000000002" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(619.025411 264.011625)">Medical Diffusion</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(678.311349 282.936625)">[43]</text>
+   <title>Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Generation</title></g>
+   <g id="patch_18">
+    <path d="M 737.431579 161.856  Q 737.431579 121.536 737.431579 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 734.231579 89.013542  L 737.431579 82.613542  L 740.631579 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_25" class="paper-node" data-paper="tl221209748" tabindex="0" role="button" aria-label="Scalable Diffusion Models with Transformers">
+    <rect class="paper-hit" x="716.7315789473686" y="33.47999999999997" width="41.400000000000006" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(721.880016 51.17775)">DiT</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(720.753454 70.041)">[44]</text>
+   <title>Scalable Diffusion Models with Transformers</title></g>
+   <g id="patch_19">
+    <path d="M 779.873684 161.856  Q 779.873684 169.056 779.873684 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 783.073684 168.458458  L 779.873684 174.858458  L 776.673684 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_26" class="paper-node" data-paper="controlnet" tabindex="0" role="button" aria-label="Adding Conditional Control to Text-to-Image Diffusion Models">
+    <rect class="paper-hit" x="728.2136842105264" y="180.93599999999998" width="103.32000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(732.078372 197.771625)">ControlNet</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(757.634622 216.696625)">[149]</text>
+   <title>Adding Conditional Control to Text-to-Image Diffusion Models</title></g>
+   <g id="patch_20">
+    <path d="M 822.315789 161.856  Q 822.315789 154.656 822.315789 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 819.115789 155.253542  L 822.315789 148.853542  L 825.515789 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_27" class="paper-node" data-paper="tl230701952" tabindex="0" role="button" aria-label="SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis">
+    <rect class="paper-hit" x="792.2557894736841" y="99.72" width="60.12" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(796.192352 117.356)">SDXL</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(805.637664 136.281)">[46]</text>
+   <title>SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis</title></g>
+   <g id="patch_21">
+    <path d="M 864.757895 161.856  Q 864.757895 202.176 864.757895 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 867.957895 234.698458  L 864.757895 241.098458  L 861.557895 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_28" class="paper-node" data-paper="tl240602507" tabindex="0" role="button" aria-label="Guiding a Diffusion Model with a Bad Version of Itself">
+    <rect class="paper-hit" x="799.6428947368421" y="247.176" width="130.23000000000002" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(803.600082 264.011625)">Autoguidance</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(842.518832 283.171)">[350]</text>
+   <title>Guiding a Diffusion Model with a Bad Version of Itself</title></g>
+   <g id="patch_22">
+    <path d="M 907.2 161.856  Q 907.2 121.536 907.2 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 904 89.013542  L 907.2 82.613542  L 910.4 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_29" class="paper-node" data-paper="tl260706609" tabindex="0" role="button" aria-label="D2PO: Optimizing Diffusion Samplers via Dynamic Preference">
+    <rect class="paper-hit" x="875.97" y="33.47999999999997" width="62.459999999999994" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(879.96875 51.116)">D2PO</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(884.960937 70.041)">[351]</text>
+   <title>D2PO: Optimizing Diffusion Samplers via Dynamic Preference</title></g>
+  </g>
+ </g>
+</svg>

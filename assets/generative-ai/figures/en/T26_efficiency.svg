@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="322.362pt" viewBox="0 0 1008 322.362" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T02:43:39.982171</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 322.362  L 1008 322.362  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start" x="15.84" y="20.61" transform="rotate(-0 15.84 20.61)">26  Efficiency</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 48.797795 161.946  Q 502.198724 161.946 954.202111 161.946  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 947.002111 158.346  L 954.202111 161.946  L 947.002111 165.546  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="46.8" y="314.572312" transform="rotate(-0 46.8 314.572312)">2018</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="100.8" y="314.572312" transform="rotate(-0 100.8 314.572312)">2020</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="164.463158" y="314.572312" transform="rotate(-0 164.463158 314.572312)">2021</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="355.452632" y="314.572312" transform="rotate(-0 355.452632 314.572312)">2022</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="631.326316" y="314.572312" transform="rotate(-0 631.326316 314.572312)">2023</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="801.094737" y="314.572312" transform="rotate(-0 801.094737 314.572312)">2024</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="864.757895" y="314.572312" transform="rotate(-0 864.757895 314.572312)">2025</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="920.467895" y="314.572312" transform="rotate(-0 920.467895 314.572312)">2026*</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.8 161.946  Q 100.8 169.146 100.8 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 104 168.548458  L 100.8 174.948458  L 97.6 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_10" class="paper-node" data-paper="tl201002502" tabindex="0" role="button" aria-label="Denoising Diffusion Implicit Models">
+    <rect class="paper-hit" x="71.23499999999999" y="181.02599999999998" width="59.13" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(75.248437 197.861625)">DDIM</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(78.560937 216.786625)">[347]</text>
+   <title>Denoising Diffusion Implicit Models</title></g>
+   <g id="patch_4">
+    <path d="M 143.242105 161.946  Q 143.242105 154.746 143.242105 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 140.042105 155.343542  L 143.242105 148.943542  L 146.442105 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_11" class="paper-node" data-paper="tl210209672" tabindex="0" role="button" aria-label="Improved Denoising Diffusion Probabilistic Models">
+    <rect class="paper-hit" x="65.34710526315789" y="99.81000000000002" width="155.79" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(69.33898 117.446)">Improved DDPM</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(126.56398 136.371)">[36]</text>
+   <title>Improved Denoising Diffusion Probabilistic Models</title></g>
+   <g id="patch_5">
+    <path d="M 185.684211 161.946  Q 185.684211 202.266 185.684211 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 188.884211 234.788458  L 185.684211 241.188458  L 182.484211 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_12" class="paper-node" data-paper="ldm" tabindex="0" role="button" aria-label="High-Resolution Image Synthesis with Latent Diffusion Models">
+    <rect class="paper-hit" x="112.37921052631576" y="247.26599999999996" width="146.60999999999999" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(116.376398 264.101625)">Latent Diffusion</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(174.567023 282.964875)">[7]</text>
+   <title>High-Resolution Image Synthesis with Latent Diffusion Models</title></g>
+   <g id="patch_6">
+    <path d="M 228.126316 161.946  Q 228.126316 121.626 228.126316 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 224.926316 89.103542  L 228.126316 82.703542  L 231.326316 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_13" class="paper-node" data-paper="tl220200512" tabindex="0" role="button" aria-label="Progressive Distillation for Fast Sampling of Diffusion Models">
+    <rect class="paper-hit" x="173.58631578947364" y="33.48" width="109.08000000000001" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(177.560691 50.971625)">Prog. Distill</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(205.887253 70.131)">[388]</text>
+   <title>Progressive Distillation for Fast Sampling of Diffusion Models</title></g>
+   <g id="patch_7">
+    <path d="M 270.568421 161.946  Q 270.568421 169.146 270.568421 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 273.768421 168.548458  L 270.568421 174.948458  L 267.368421 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_14" class="paper-node" data-paper="tl220209778" tabindex="0" role="button" aria-label="Pseudo Numerical Methods for Diffusion Models on Manifolds">
+    <rect class="paper-hit" x="237.17842105263156" y="181.02599999999998" width="66.78" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(241.124671 197.861625)">PNDM</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(248.329359 216.786625)">[389]</text>
+   <title>Pseudo Numerical Methods for Diffusion Models on Manifolds</title></g>
+   <g id="patch_8">
+    <path d="M 313.010526 161.946  Q 313.010526 154.746 313.010526 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 309.810526 155.343542  L 313.010526 148.943542  L 316.210526 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_15" class="paper-node" data-paper="tl220600364" tabindex="0" role="button" aria-label="Elucidating the Design Space of Diffusion-Based Generative Models">
+    <rect class="paper-hit" x="286.73052631578946" y="99.81000000000002" width="52.56" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(290.788651 117.446)">EDM</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(290.771464 136.371)">[348]</text>
+   <title>Elucidating the Design Space of Diffusion-Based Generative Models</title></g>
+   <g id="patch_9">
+    <path d="M 355.452632 161.946  Q 355.452632 202.266 355.452632 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 358.652632 234.788458  L 355.452632 241.188458  L 352.252632 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_16" class="paper-node" data-paper="tl220600927" tabindex="0" role="button" aria-label="DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps">
+    <rect class="paper-hit" x="297.62763157894733" y="247.26599999999996" width="115.65" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(301.557319 264.101625)">DPM-Solver</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(333.213569 283.026625)">[349]</text>
+   <title>DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps</title></g>
+   <g id="patch_10">
+    <path d="M 397.894737 161.946  Q 397.894737 121.626 397.894737 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 394.694737 89.103542  L 397.894737 82.703542  L 401.094737 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_17" class="paper-node" data-paper="tl220903003" tabindex="0" role="button" aria-label="Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow">
+    <rect class="paper-hit" x="331.2047368421052" y="33.570000000000014" width="133.38" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(335.099424 51.206)">Rectified Flow</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(375.655674 70.131)">[352]</text>
+   <title>Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow</title></g>
+   <g id="patch_11">
+    <path d="M 440.336842 161.946  Q 440.336842 169.146 440.336842 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 443.536842 168.548458  L 440.336842 174.948458  L 437.136842 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_18" class="paper-node" data-paper="tl221101095" tabindex="0" role="button" aria-label="DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models">
+    <rect class="paper-hit" x="370.90184210526314" y="181.02599999999998" width="138.87" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(374.76028 197.861625)">DPM-Solver++</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(418.09778 216.786625)">[390]</text>
+   <title>DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models</title></g>
+   <g id="patch_12">
+    <path d="M 482.778947 161.946  Q 482.778947 154.746 482.778947 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 479.578947 155.343542  L 482.778947 148.943542  L 485.978947 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_19" class="paper-node" data-paper="tl221110655" tabindex="0" role="button" aria-label="Solving 3D Inverse Problems using Pre-trained 2D Diffusion Models">
+    <rect class="paper-hit" x="415.008947368421" y="99.81000000000002" width="135.54" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(419.04926 117.446)">DiffusionMBIR</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(460.539885 136.371)">[391]</text>
+   <title>Solving 3D Inverse Problems using Pre-trained 2D Diffusion Models</title></g>
+   <g id="patch_13">
+    <path d="M 525.221053 161.946  Q 525.221053 202.266 525.221053 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 528.421053 234.788458  L 525.221053 241.188458  L 522.021053 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_20" class="paper-node" data-paper="tl230204867" tabindex="0" role="button" aria-label="UniPC: A Unified Predictor-Corrector Framework for Fast Sampling of Diffusion Models">
+    <rect class="paper-hit" x="492.3260526315789" y="247.26599999999996" width="65.78999999999999" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(496.324178 264.101625)">UniPC</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(502.98199 283.026625)">[392]</text>
+   <title>UniPC: A Unified Predictor-Corrector Framework for Fast Sampling of Diffusion Models</title></g>
+   <g id="patch_14">
+    <path d="M 567.663158 161.946  Q 567.663158 121.626 567.663158 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 564.463158 89.103542  L 567.663158 82.703542  L 570.863158 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_21" class="paper-node" data-paper="tl230301469" tabindex="0" role="button" aria-label="Consistency Models">
+    <rect class="paper-hit" x="474.24315789473684" y="33.48" width="186.83999999999997" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(478.185033 51.033375)">Consistency Models</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(550.985033 70.131)">[45]</text>
+   <title>Consistency Models</title></g>
+   <g id="patch_15">
+    <path d="M 610.105263 161.946  Q 610.105263 169.146 610.105263 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 613.305263 168.548458  L 610.105263 174.948458  L 606.905263 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_22" class="paper-node" data-paper="tl231004378" tabindex="0" role="button" aria-label="Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference">
+    <rect class="paper-hit" x="551.6952631578947" y="181.02599999999998" width="116.82000000000001" height="62.4456" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(582.305263 197.861625)">Latent</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(555.639638 216.978375)">Consistency</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(587.866201 236.13775)">[393]</text>
+   <title>Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference</title></g>
+   <g id="patch_16">
+    <path d="M 652.547368 161.946  Q 652.547368 154.746 652.547368 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 649.347368 155.343542  L 652.547368 148.943542  L 655.747368 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_23" class="paper-node" data-paper="tl231117042" tabindex="0" role="button" aria-label="Adversarial Diffusion Distillation">
+    <rect class="paper-hit" x="626.2673684210525" y="99.81000000000002" width="52.56" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(631.433306 117.446)">ADD</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(630.308306 136.371)">[394]</text>
+   <title>Adversarial Diffusion Distillation</title></g>
+   <g id="patch_17">
+    <path d="M 694.989474 161.946  Q 694.989474 202.266 694.989474 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 698.189474 234.788458  L 694.989474 241.188458  L 691.789474 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_24" class="paper-node" data-paper="tl231118828" tabindex="0" role="button" aria-label="One-step Diffusion with Distribution Matching Distillation">
+    <rect class="paper-hit" x="668.2144736842106" y="247.26599999999996" width="53.550000000000004" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(672.216036 264.101625)">DMD</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(672.750411 283.026625)">[395]</text>
+   <title>One-step Diffusion with Distribution Matching Distillation</title></g>
+   <g id="patch_18">
+    <path d="M 737.431579 161.946  Q 737.431579 121.626 737.431579 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 734.231579 89.103542  L 737.431579 82.703542  L 740.631579 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_25" class="paper-node" data-paper="tl231200858" tabindex="0" role="button" aria-label="DeepCache: Accelerating Diffusion Models for Free">
+    <rect class="paper-hit" x="680.6415789473685" y="33.570000000000014" width="113.58000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(684.622204 51.206)">DeepCache</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(715.192516 70.131)">[396]</text>
+   <title>DeepCache: Accelerating Diffusion Models for Free</title></g>
+   <g id="patch_19">
+    <path d="M 779.873684 161.946  Q 779.873684 169.146 779.873684 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 783.073684 168.548458  L 779.873684 174.948458  L 776.673684 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_26" class="paper-node" data-paper="tl240213929" tabindex="0" role="button" aria-label="SDXL-Lightning: Progressive Adversarial Diffusion Distillation">
+    <rect class="paper-hit" x="705.8936842105263" y="181.02599999999998" width="147.96" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(709.833059 198.105375)">SDXL-Lightning</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(757.634622 217.26475)">[397]</text>
+   <title>SDXL-Lightning: Progressive Adversarial Diffusion Distillation</title></g>
+   <g id="patch_20">
+    <path d="M 822.315789 161.946  Q 822.315789 154.746 822.315789 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 819.115789 155.343542  L 822.315789 148.943542  L 825.515789 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_27" class="paper-node" data-paper="tl241006940" tabindex="0" role="button" aria-label="Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think">
+    <rect class="paper-hit" x="791.8957894736842" y="99.81000000000002" width="60.839999999999996" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(795.820477 117.446)">REPA</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(800.076727 136.371)">[398]</text>
+   <title>Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think</title></g>
+   <g id="patch_21">
+    <path d="M 864.757895 161.946  Q 864.757895 202.266 864.757895 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 867.957895 234.788458  L 864.757895 241.188458  L 861.557895 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_28" class="paper-node" data-paper="tl250513447" tabindex="0" role="button" aria-label="Mean Flows for One-step Generative Modeling">
+    <rect class="paper-hit" x="814.717894736842" y="247.26599999999996" width="100.08000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(818.632895 264.101625)">MeanFlow</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(842.518832 283.026625)">[366]</text>
+   <title>Mean Flows for One-step Generative Modeling</title></g>
+   <g id="patch_22">
+    <path d="M 907.2 161.946  Q 907.2 121.626 907.2 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 904 89.103542  L 907.2 82.703542  L 910.4 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_29" class="paper-node" data-paper="tl261012102" tabindex="0" role="button" aria-label="Few-Step Generation via Data-Space Iteration">
+    <rect class="paper-hit" x="819.3599999999999" y="33.48" width="175.68" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(823.270312 51.206)">Data-Space Iterate</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(884.960937 70.131)">[399]</text>
+   <title>Few-Step Generation via Data-Space Iteration</title></g>
+  </g>
+ </g>
+</svg>

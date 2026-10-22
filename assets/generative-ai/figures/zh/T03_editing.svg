@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="356.2272pt" viewBox="0 0 1008 356.2272" version="1.1" data-language="zh" lang="zh-CN">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T03:31:59.526305</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 356.2272  L 1008 356.2272  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="21.009375" transform="rotate(-0 15.84 21.009375)">03  编辑</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 48.797795 167.7024  Q 502.198724 167.7024 954.202111 167.7024  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 947.002111 164.1024  L 954.202111 167.7024  L 947.002111 171.3024  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="46.8" y="348.775013" transform="rotate(-0 46.8 348.775013)">2018</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="100.89" y="348.775013" transform="rotate(-0 100.89 348.775013)">2019</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="164.463158" y="348.775013" transform="rotate(-0 164.463158 348.775013)">2020</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="291.789474" y="348.775013" transform="rotate(-0 291.789474 348.775013)">2021</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="504" y="348.775013" transform="rotate(-0 504 348.775013)">2022</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="716.210526" y="348.775013" transform="rotate(-0 716.210526 348.775013)">2023</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="822.315789" y="348.775013" transform="rotate(-0 822.315789 348.775013)">2024</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="876.360789" y="348.775013" transform="rotate(-0 876.360789 348.775013)">2025</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="934.950789" y="348.775013" transform="rotate(-0 934.950789 348.775013)">2026*</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.8 167.7024  Q 100.8 174.9024 100.8 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 104 174.304858  L 100.8 180.704858  L 97.6 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_11" class="paper-node" data-paper="tl190710786" tabindex="0" role="button" aria-label="解释 GAN 潜在空间以实现语义人脸编辑">
+    <rect class="paper-hit" x="30.914999999999992" y="186.78239999999997" width="139.77" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(34.839062 205.2899)">InterFaceGAN</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(82.390625 226.888775)">[71]</text>
+   <title>解释 GAN 潜在空间以实现语义人脸编辑</title></g>
+   <g id="patch_4">
+    <path d="M 143.242105 167.7024  Q 143.242105 160.5024 143.242105 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 140.042105 161.099942  L 143.242105 154.699942  L 146.442105 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_12" class="paper-node" data-paper="tl200402546" tabindex="0" role="button" aria-label="GANSpace：发现可解释的 GAN 控制方式">
+    <rect class="paper-hit" x="88.5221052631579" y="99.72" width="109.44" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(92.403043 119.53165)">GANSpace</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(124.83273 141.130525)">[72]</text>
+   <title>GANSpace：发现可解释的 GAN 控制方式</title></g>
+   <g id="patch_5">
+    <path d="M 185.684211 167.7024  Q 185.684211 208.0224 185.684211 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 188.884211 240.544858  L 185.684211 246.944858  L 182.484211 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_13" class="paper-node" data-paper="tl200802401" tabindex="0" role="button" aria-label="StyleFlow：利用条件连续归一化流对 StyleGAN 生成图像进行属性条件探索">
+    <rect class="paper-hit" x="136.67921052631579" y="253.02239999999998" width="98.01" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(140.682648 271.5299)">StyleFlow</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(167.274836 293.2444)">[73]</text>
+   <title>StyleFlow：利用条件连续归一化流对 StyleGAN 生成图像进行属性条件探索</title></g>
+   <g id="patch_6">
+    <path d="M 228.126316 167.7024  Q 228.126316 127.3824 228.126316 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 224.926316 94.859942  L 228.126316 88.459942  L 231.326316 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_14" class="paper-node" data-paper="tl210317249" tabindex="0" role="button" aria-label="StyleCLIP：文本驱动的 StyleGAN 图像操控">
+    <rect class="paper-hit" x="180.47131578947364" y="33.48" width="95.31000000000002" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(184.473191 53.176025)">StyleCLIP</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(209.716941 74.890525)">[74]</text>
+   <title>StyleCLIP：文本驱动的 StyleGAN 图像操控</title></g>
+   <g id="patch_7">
+    <path d="M 270.568421 167.7024  Q 270.568421 174.9024 270.568421 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 273.768421 174.304858  L 270.568421 180.704858  L 267.368421 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_15" class="paper-node" data-paper="tl210800946" tabindex="0" role="button" aria-label="StyleGAN-NADA：CLIP 引导的图像生成器域适应">
+    <rect class="paper-hit" x="187.22842105263155" y="186.78239999999997" width="166.68" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(191.221546 205.2899)">StyleGAN-NADA</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(252.159046 227.0044)">[75]</text>
+   <title>StyleGAN-NADA：CLIP 引导的图像生成器域适应</title></g>
+   <g id="patch_8">
+    <path d="M 313.010526 167.7024  Q 313.010526 160.5024 313.010526 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 309.810526 161.099942  L 313.010526 154.699942  L 316.210526 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_16" class="paper-node" data-paper="tl210801073" tabindex="0" role="button" aria-label="SDEdit：利用随机微分方程进行引导式图像合成与编辑">
+    <rect class="paper-hit" x="277.32552631578943" y="99.72" width="71.37" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(281.340214 119.53165)">SDEdit</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(294.601151 141.130525)">[76]</text>
+   <title>SDEdit：利用随机微分方程进行引导式图像合成与编辑</title></g>
+   <g id="patch_9">
+    <path d="M 355.452632 167.7024  Q 355.452632 208.0224 355.452632 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 358.652632 240.544858  L 355.452632 246.944858  L 352.252632 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_17" class="paper-node" data-paper="tl211114818" tabindex="0" role="button" aria-label="Blended Diffusion：用于自然图像文本驱动编辑的混合扩散">
+    <rect class="paper-hit" x="308.24763157894733" y="253.02239999999998" width="94.41" height="71.1648" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(316.213569 271.5299)">Blended</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(312.266694 293.128775)">Diffusion</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(337.043257 314.72765)">[77]</text>
+   <title>Blended Diffusion：用于自然图像文本驱动编辑的混合扩散</title></g>
+   <g id="patch_10">
+    <path d="M 397.894737 167.7024  Q 397.894737 127.3824 397.894737 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 394.694737 94.859942  L 397.894737 88.459942  L 401.094737 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_18" class="paper-node" data-paper="tl220801626" tabindex="0" role="button" aria-label="通过交叉注意力控制实现提示到提示的图像编辑">
+    <rect class="paper-hit" x="304.60973684210524" y="33.48" width="186.57" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(308.565049 53.29165)">Prompt-to-Prompt</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(379.485362 74.890525)">[78]</text>
+   <title>通过交叉注意力控制实现提示到提示的图像编辑</title></g>
+   <g id="patch_11">
+    <path d="M 440.336842 167.7024  Q 440.336842 174.9024 440.336842 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 443.536842 174.304858  L 440.336842 180.704858  L 437.136842 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_19" class="paper-node" data-paper="tl221009276" tabindex="0" role="button" aria-label="Imagic：利用扩散模型进行基于文本的真实图像编辑">
+    <rect class="paper-hit" x="404.5168421052631" y="186.78239999999997" width="71.64" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(408.427467 205.174275)">Imagic</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(421.927467 226.888775)">[79]</text>
+   <title>Imagic：利用扩散模型进行基于文本的真实图像编辑</title></g>
+   <g id="patch_12">
+    <path d="M 482.778947 167.7024  Q 482.778947 160.5024 482.778947 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 479.578947 161.099942  L 482.778947 154.699942  L 485.978947 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_20" class="paper-node" data-paper="tl221011427" tabindex="0" role="button" aria-label="DiffEdit：掩码引导的扩散式语义图像编辑">
+    <rect class="paper-hit" x="443.268947368421" y="99.72" width="79.02000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(447.285197 119.53165)">DiffEdit</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(464.369572 141.130525)">[80]</text>
+   <title>DiffEdit：掩码引导的扩散式语义图像编辑</title></g>
+   <g id="patch_13">
+    <path d="M 525.221053 167.7024  Q 525.221053 208.0224 525.221053 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 528.421053 240.544858  L 525.221053 246.944858  L 522.021053 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_21" class="paper-node" data-paper="instruct" tabindex="0" role="button" aria-label="InstructPix2Pix：学习遵循图像编辑指令">
+    <rect class="paper-hit" x="451.4210526315789" y="253.02239999999998" width="147.6" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(455.483553 271.5299)">InstructPix2Pix</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(506.811678 293.128775)">[14]</text>
+   <title>InstructPix2Pix：学习遵循图像编辑指令</title></g>
+   <g id="patch_14">
+    <path d="M 567.663158 167.7024  Q 567.663158 127.3824 567.663158 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 564.463158 94.859942  L 567.663158 88.459942  L 570.863158 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_22" class="paper-node" data-paper="tl221109794" tabindex="0" role="button" aria-label="用于引导式扩散模型真实图像编辑的空文本反演">
+    <rect class="paper-hit" x="502.4131578947368" y="33.48" width="130.5" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(506.575658 53.29165)">Null-text Inv.</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(549.253783 74.890525)">[81]</text>
+   <title>用于引导式扩散模型真实图像编辑的空文本反演</title></g>
+   <g id="patch_15">
+    <path d="M 610.105263 167.7024  Q 610.105263 174.9024 610.105263 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 613.305263 174.304858  L 610.105263 180.704858  L 606.905263 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_23" class="paper-node" data-paper="tl221112572" tabindex="0" role="button" aria-label="用于文本驱动图像到图像转换的即插即用扩散特征">
+    <rect class="paper-hit" x="538.4202631578947" y="186.78239999999997" width="143.37" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(542.424013 205.2899)">Plug-and-Play</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(591.695888 227.0044)">[82]</text>
+   <title>用于文本驱动图像到图像转换的即插即用扩散特征</title></g>
+   <g id="patch_16">
+    <path d="M 652.547368 167.7024  Q 652.547368 160.5024 652.547368 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 649.347368 161.099942  L 652.547368 154.699942  L 655.747368 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_24" class="paper-node" data-paper="tl230408465" tabindex="0" role="button" aria-label="MasaCtrl：用于一致性图像合成与编辑的免调优相互自注意力控制">
+    <rect class="paper-hit" x="606.2873684210526" y="99.72" width="92.52000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(610.197368 119.53165)">MasaCtrl</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(634.137993 141.130525)">[83]</text>
+   <title>MasaCtrl：用于一致性图像合成与编辑的免调优相互自注意力控制</title></g>
+   <g id="patch_17">
+    <path d="M 694.989474 167.7024  Q 694.989474 208.0224 694.989474 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 698.189474 240.544858  L 694.989474 246.944858  L 691.789474 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_25" class="paper-node" data-paper="tl230510973" tabindex="0" role="button" aria-label="拖动你的 GAN：生成图像流形上的交互式点操控">
+    <rect class="paper-hit" x="645.0844736842105" y="253.02239999999998" width="99.81000000000002" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(649.026974 271.414275)">DragGAN</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(676.580099 293.128775)">[84]</text>
+   <title>拖动你的 GAN：生成图像流形上的交互式点操控</title></g>
+   <g id="patch_18">
+    <path d="M 737.431579 167.7024  Q 737.431579 127.3824 737.431579 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 734.231579 94.859942  L 737.431579 88.459942  L 740.631579 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_26" class="paper-node" data-paper="tl230614435" tabindex="0" role="button" aria-label="DragDiffusion：利用扩散模型实现交互式点图像编辑">
+    <rect class="paper-hit" x="666.8715789473684" y="33.48" width="141.12" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(670.884704 53.176025)">DragDiffusion</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(719.022204 74.890525)">[85]</text>
+   <title>DragDiffusion：利用扩散模型实现交互式点图像编辑</title></g>
+   <g id="patch_19">
+    <path d="M 779.873684 167.7024  Q 779.873684 174.9024 779.873684 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 783.073684 174.304858  L 779.873684 180.704858  L 776.673684 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_27" class="paper-node" data-paper="tl231116711" tabindex="0" role="button" aria-label="LEDITS++：利用文生图模型实现无限图像编辑">
+    <rect class="paper-hit" x="728.3936842105263" y="186.78239999999997" width="102.96000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(732.348684 205.2899)">LEDITS++</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(761.464309 226.888775)">[86]</text>
+   <title>LEDITS++：利用文生图模型实现无限图像编辑</title></g>
+   <g id="patch_20">
+    <path d="M 822.315789 167.7024  Q 822.315789 160.5024 822.315789 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 819.115789 161.099942  L 822.315789 154.699942  L 825.515789 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_28" class="paper-node" data-paper="tl240715270" tabindex="0" role="button" aria-label="MedEdit：基于扩散的脑部 MRI 反事实图像编辑">
+    <rect class="paper-hit" x="778.2157894736843" y="99.72" width="88.2" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(782.193914 119.53165)">MedEdit</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(803.906414 141.130525)">[87]</text>
+   <title>MedEdit：基于扩散的脑部 MRI 反事实图像编辑</title></g>
+   <g id="patch_21">
+    <path d="M 864.757895 167.7024  Q 864.757895 208.0224 864.757895 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 867.957895 240.544858  L 864.757895 246.944858  L 861.557895 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_29" class="paper-node" data-paper="tl250615742" tabindex="0" role="button" aria-label="FLUX.1 Kontext：用于潜在空间上下文图像生成与编辑的流匹配">
+    <rect class="paper-hit" x="788.2128947368421" y="253.02239999999998" width="153.08999999999997" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(792.181332 271.5299)">FLUX.1 Kontext</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(846.34852 293.128775)">[88]</text>
+   <title>FLUX.1 Kontext：用于潜在空间上下文图像生成与编辑的流匹配</title></g>
+   <g id="patch_22">
+    <path d="M 907.2 167.7024  Q 907.2 127.3824 907.2 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 904 94.859942  L 907.2 88.459942  L 910.4 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_30" class="paper-node" data-paper="tl260510730" tabindex="0" role="button" aria-label="Qwen-Image-2.0 技术报告">
+    <rect class="paper-hit" x="824.1750000000001" y="33.48" width="166.04999999999998" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(828.039062 53.176025)">Qwen-Image 2.0</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(888.790625 74.890525)">[48]</text>
+   <title>Qwen-Image-2.0 技术报告</title></g>
+  </g>
+ </g>
+</svg>

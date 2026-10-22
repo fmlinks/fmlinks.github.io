@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="322.362pt" viewBox="0 0 1008 322.362" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T02:43:33.657015</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 322.362  L 1008 322.362  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start" x="15.84" y="20.61" transform="rotate(-0 15.84 20.61)">11  Zero-shot / training-free</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 48.797795 161.946  Q 502.198724 161.946 954.202111 161.946  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 947.002111 158.346  L 954.202111 161.946  L 947.002111 165.546  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="46.8" y="314.572312" transform="rotate(-0 46.8 314.572312)">2018</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="143.242105" y="314.572312" transform="rotate(-0 143.242105 314.572312)">2021</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="355.452632" y="314.572312" transform="rotate(-0 355.452632 314.572312)">2022</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="652.547368" y="314.572312" transform="rotate(-0 652.547368 314.572312)">2023</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="864.757895" y="314.572312" transform="rotate(-0 864.757895 314.572312)">2026*</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.8 161.946  Q 100.8 169.146 100.8 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 104 168.548458  L 100.8 174.948458  L 97.6 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_7" class="paper-node" data-paper="tl210801073" tabindex="0" role="button" aria-label="SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations">
+    <rect class="paper-hit" x="65.69999999999999" y="181.02599999999998" width="70.2" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(69.676562 197.861625)">SDEdit</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(84.121875 216.786625)">[76]</text>
+   <title>SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations</title></g>
+   <g id="patch_4">
+    <path d="M 143.242105 161.946  Q 143.242105 154.746 143.242105 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 140.042105 155.343542  L 143.242105 148.943542  L 146.442105 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_8" class="paper-node" data-paper="tl210802938" tabindex="0" role="button" aria-label="ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models">
+    <rect class="paper-hit" x="117.8171052631579" y="99.81000000000002" width="50.849999999999994" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(121.748355 117.446)">ILVR</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(126.56398 136.371)">[64]</text>
+   <title>ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models</title></g>
+   <g id="patch_5">
+    <path d="M 185.684211 161.946  Q 185.684211 202.266 185.684211 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 188.884211 234.788458  L 185.684211 241.188458  L 182.484211 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_9" class="paper-node" data-paper="tl211005243" tabindex="0" role="button" aria-label="Score-based diffusion models for accelerated MRI">
+    <rect class="paper-hit" x="134.02421052631576" y="247.26599999999996" width="103.32000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(137.902961 264.101625)">Score-MRI</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(164.182648 283.026625)">[115]</text>
+   <title>Score-based diffusion models for accelerated MRI</title></g>
+   <g id="patch_6">
+    <path d="M 228.126316 161.946  Q 228.126316 121.626 228.126316 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 224.926316 89.103542  L 228.126316 82.703542  L 231.326316 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_10" class="paper-node" data-paper="tl220109865" tabindex="0" role="button" aria-label="RePaint: Inpainting using Denoising Diffusion Probabilistic Models">
+    <rect class="paper-hit" x="188.61631578947365" y="33.570000000000014" width="79.02000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(192.551316 51.206)">RePaint</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(205.887253 70.131)">[100]</text>
+   <title>RePaint: Inpainting using Denoising Diffusion Probabilistic Models</title></g>
+   <g id="patch_7">
+    <path d="M 270.568421 161.946  Q 270.568421 169.146 270.568421 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 273.768421 168.548458  L 270.568421 174.948458  L 267.368421 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_11" class="paper-node" data-paper="ddrm" tabindex="0" role="button" aria-label="Denoising Diffusion Restoration Models">
+    <rect class="paper-hit" x="236.59342105263153" y="181.02599999999998" width="67.95" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(240.573109 197.861625)">DDRM</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(253.890296 216.786625)">[17]</text>
+   <title>Denoising Diffusion Restoration Models</title></g>
+   <g id="patch_8">
+    <path d="M 313.010526 161.946  Q 313.010526 154.746 313.010526 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 309.810526 155.343542  L 313.010526 148.943542  L 316.210526 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_12" class="paper-node" data-paper="tl220801626" tabindex="0" role="button" aria-label="Prompt-to-Prompt Image Editing with Cross Attention Control">
+    <rect class="paper-hit" x="261.93552631578945" y="80.33040000000001" width="102.15" height="62.53560000000001" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(265.782401 98.58275)">Prompt-to-</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(280.780839 117.446)">Prompt</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(296.332401 136.371)">[78]</text>
+   <title>Prompt-to-Prompt Image Editing with Cross Attention Control</title></g>
+   <g id="patch_9">
+    <path d="M 355.452632 161.946  Q 355.452632 202.266 355.452632 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 358.652632 234.788458  L 355.452632 241.188458  L 352.252632 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_13" class="paper-node" data-paper="dps" tabindex="0" role="button" aria-label="Diffusion Posterior Sampling for General Noisy Inverse Problems">
+    <rect class="paper-hit" x="330.92763157894734" y="247.26599999999996" width="49.050000000000004" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(334.890132 264.101625)">DPS</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(338.774507 283.026625)">[19]</text>
+   <title>Diffusion Posterior Sampling for General Noisy Inverse Problems</title></g>
+   <g id="patch_10">
+    <path d="M 397.894737 161.946  Q 397.894737 121.626 397.894737 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 394.694737 89.103542  L 397.894737 82.703542  L 401.094737 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_14" class="paper-node" data-paper="tl221011427" tabindex="0" role="button" aria-label="DiffEdit: Diffusion-based semantic image editing with mask guidance">
+    <rect class="paper-hit" x="361.8047368421052" y="33.570000000000014" width="72.17999999999999" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(365.838487 51.206)">DiffEdit</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(381.216612 70.131)">[80]</text>
+   <title>DiffEdit: Diffusion-based semantic image editing with mask guidance</title></g>
+   <g id="patch_11">
+    <path d="M 440.336842 161.946  Q 440.336842 169.146 440.336842 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 443.536842 168.548458  L 440.336842 174.948458  L 437.136842 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_15" class="paper-node" data-paper="tl221112572" tabindex="0" role="button" aria-label="Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation">
+    <rect class="paper-hit" x="373.4668421052631" y="181.02599999999998" width="133.74" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(377.527467 197.861625)">Plug-and-Play</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(423.658717 217.021)">[82]</text>
+   <title>Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation</title></g>
+   <g id="patch_12">
+    <path d="M 482.778947 161.946  Q 482.778947 154.746 482.778947 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 479.578947 155.343542  L 482.778947 148.943542  L 485.978947 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_16" class="paper-node" data-paper="tl221200490" tabindex="0" role="button" aria-label="Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model">
+    <rect class="paper-hit" x="448.803947368421" y="99.81000000000002" width="67.95" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(452.783635 117.446)">DDNM</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(461.277385 136.371)">[117]</text>
+   <title>Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model</title></g>
+   <g id="patch_13">
+    <path d="M 525.221053 161.946  Q 525.221053 202.266 525.221053 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 528.421053 234.788458  L 525.221053 241.188458  L 522.021053 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_17" class="paper-node" data-paper="tl230113826" tabindex="0" role="button" aria-label="Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models">
+    <rect class="paper-hit" x="441.83605263157887" y="247.26599999999996" width="166.76999999999998" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(445.73824 264.101625)">Attend-and-Excite</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(502.98199 283.026625)">[165]</text>
+   <title>Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models</title></g>
+   <g id="patch_14">
+    <path d="M 567.663158 161.946  Q 567.663158 121.626 567.663158 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 564.463158 89.103542  L 567.663158 82.703542  L 570.863158 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_18" class="paper-node" data-paper="tl230313439" tabindex="0" role="button" aria-label="Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators">
+    <rect class="paper-hit" x="490.6681578947368" y="33.570000000000014" width="153.99" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(494.478783 51.206)">Text2Video-Zero</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(545.424095 70.131)">[139]</text>
+   <title>Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators</title></g>
+   <g id="patch_15">
+    <path d="M 610.105263 161.946  Q 610.105263 169.146 610.105263 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 613.305263 168.548458  L 610.105263 174.948458  L 606.905263 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_19" class="paper-node" data-paper="tl230408465" tabindex="0" role="button" aria-label="MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing">
+    <rect class="paper-hit" x="566.0952631578947" y="181.02599999999998" width="88.02000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(570.102138 197.861625)">MasaCtrl</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(593.427138 216.786625)">[83]</text>
+   <title>MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing</title></g>
+   <g id="patch_16">
+    <path d="M 652.547368 161.946  Q 652.547368 154.746 652.547368 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 649.347368 155.343542  L 652.547368 148.943542  L 655.747368 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_20" class="paper-node" data-paper="tl230513077" tabindex="0" role="button" aria-label="ControlVideo: Training-free Controllable Text-to-Video Generation">
+    <rect class="paper-hit" x="590.9873684210526" y="99.81000000000002" width="123.12000000000002" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(594.912993 117.446)">ControlVideo</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(630.308306 136.371)">[190]</text>
+   <title>ControlVideo: Training-free Controllable Text-to-Video Generation</title></g>
+   <g id="patch_17">
+    <path d="M 694.989474 161.946  Q 694.989474 202.266 694.989474 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 698.189474 234.788458  L 694.989474 241.188458  L 691.789474 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_21" class="paper-node" data-paper="tl230710816" tabindex="0" role="button" aria-label="BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion">
+    <rect class="paper-hit" x="658.9444736842105" y="247.26599999999996" width="72.09" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(662.933224 264.101625)">BoxDiff</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(672.750411 283.026625)">[166]</text>
+   <title>BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion</title></g>
+   <g id="patch_18">
+    <path d="M 737.431579 161.946  Q 737.431579 121.626 737.431579 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 734.231579 89.103542  L 737.431579 82.703542  L 740.631579 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_22" class="paper-node" data-paper="tl231202133" tabindex="0" role="button" aria-label="Style Aligned Image Generation via Shared Attention">
+    <rect class="paper-hit" x="677.8965789473685" y="33.48" width="119.07000000000001" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(681.842516 50.971625)">StyleAligned</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(715.192516 70.131)">[167]</text>
+   <title>Style Aligned Image Generation via Shared Attention</title></g>
+   <g id="patch_19">
+    <path d="M 779.873684 161.946  Q 779.873684 169.146 779.873684 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 783.073684 168.548458  L 779.873684 174.948458  L 776.673684 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_23" class="paper-node" data-paper="tl231207536" tabindex="0" role="button" aria-label="FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition">
+    <rect class="paper-hit" x="723.2186842105262" y="181.02599999999998" width="113.31000000000002" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(727.079934 197.861625)">FreeControl</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(757.634622 216.786625)">[168]</text>
+   <title>FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition</title></g>
+   <g id="patch_20">
+    <path d="M 822.315789 161.946  Q 822.315789 154.746 822.315789 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 819.115789 155.343542  L 822.315789 148.943542  L 825.515789 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_24" class="paper-node" data-paper="tl260324086" tabindex="0" role="button" aria-label="LGTM: Training-Free Light-Guided Text-to-Image Diffusion Model via Initial Noise Manipulation">
+    <rect class="paper-hit" x="790.6357894736842" y="99.81000000000002" width="63.36" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(794.539227 117.446)">LGTM</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(800.076727 136.371)">[169]</text>
+   <title>LGTM: Training-Free Light-Guided Text-to-Image Diffusion Model via Initial Noise Manipulation</title></g>
+   <g id="patch_21">
+    <path d="M 864.757895 161.946  Q 864.757895 202.266 864.757895 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 867.957895 234.788458  L 864.757895 241.188458  L 861.557895 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_25" class="paper-node" data-paper="tl260608841" tabindex="0" role="button" aria-label="ZIPP:Zero-shot Image Personalization from Personas">
+    <rect class="paper-hit" x="838.477894736842" y="247.26599999999996" width="52.56" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(842.531332 264.101625)">ZIPP</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(842.518832 283.026625)">[191]</text>
+   <title>ZIPP:Zero-shot Image Personalization from Personas</title></g>
+   <g id="patch_22">
+    <path d="M 907.2 161.946  Q 907.2 121.626 907.2 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 904 89.103542  L 907.2 82.703542  L 910.4 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_26" class="paper-node" data-paper="tl260900862" tabindex="0" role="button" aria-label="Training-Free Inpainting Across Domains with a Frozen Text-to-Image Diffusion Model">
+    <rect class="paper-hit" x="869.9399999999999" y="33.48" width="74.52000000000001" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(873.851562 51.206)">Step-PI</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(884.960937 70.131)">[192]</text>
+   <title>Training-Free Inpainting Across Domains with a Frozen Text-to-Image Diffusion Model</title></g>
+  </g>
+ </g>
+</svg>

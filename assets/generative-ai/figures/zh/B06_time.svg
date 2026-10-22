@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="566.64pt" viewBox="0 0 1008 566.64" version="1.1" data-language="zh" lang="zh-CN">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T03:31:55.262418</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 566.64  L 1008 566.64  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 321.12 126  L 338.4 126  " clip-path="url(#p083f6073e6)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_2">
+    <path d="M 656.64 126  L 673.92 126  " clip-path="url(#p083f6073e6)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_3">
+    <path d="M 321.12 273.6  L 338.4 273.6  " clip-path="url(#p083f6073e6)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_4">
+    <path d="M 656.64 273.6  L 673.92 273.6  " clip-path="url(#p083f6073e6)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_5">
+    <path d="M 321.12 421.2  L 338.4 421.2  " clip-path="url(#p083f6073e6)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_6">
+    <path d="M 656.64 421.2  L 673.92 421.2  " clip-path="url(#p083f6073e6)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #cb2426" x="15.84" y="28.209375" transform="rotate(-0 15.84 28.209375)">06  时序结构</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="58.292813" transform="rotate(-0 15.84 58.292813)">图 1 坐标 6 | 子项 19, 20, 21</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #2573b4" x="15.84" y="93.009375" transform="rotate(-0 15.84 93.009375)">机器学习</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #148843" x="351.36" y="93.009375" transform="rotate(-0 351.36 93.009375)">计算机视觉</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #68559d" x="686.88" y="93.009375" transform="rotate(-0 686.88 93.009375)">医学图像分析</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="132.6275" transform="rotate(-0 15.84 132.6275)">19 4D / 3D+t</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 162.8675)">潜变量 -&gt; 随时间变化的 3D 状态</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 185.105875)">一个 3D 对象随时间变化</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 207.34425)">保留时空依赖</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 229.582625)">检验留出时序状态</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="351.36" y="132.6275" transform="rotate(-0 351.36 132.6275)">MAV3D 动态场景</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 162.8675)">文本 -&gt; 动态辐射场</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 185.105875)">在选定时间和视角渲染</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 207.34425)">保留跨视角对象身份特征</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 229.582625)">检验视角与运动连贯性</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="686.88" y="132.6275" transform="rotate(-0 686.88 132.6275)">CHeart 心脏解剖</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 162.8675)">临床因素 -&gt; 4D 解剖</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 185.105875)">生成心脏序列</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 207.34425)">以解剖 / 周期结构为目标</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 229.582625)">检验真实容积-时间曲线</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="280.2275" transform="rotate(-0 15.84 280.2275)">20 帧插值</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 310.4675)">端点 + 时间 -&gt; 中间状态</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 332.705875)">填补已观测时间区间</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 354.94425)">保持端点与时间顺序</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 377.182625)">检验留出的中间状态</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="351.36" y="280.2275" transform="rotate(-0 351.36 280.2275)">FILM 中间帧</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 310.4675)">两幅图像 -&gt; 中间帧</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 332.705875)">处理帧间大幅运动</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 354.94425)">保持两端的身份特征一致</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 377.182625)">检验遮挡 / 留出帧</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="686.88" y="280.2275" transform="rotate(-0 686.88 280.2275)">DDM 心脏 MR 插值</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 310.4675)">舒张期 / 收缩期 -&gt; 中间 MR</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 332.705875)">学习基于形变的路径</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 354.94425)">以源解剖 / 拓扑为目标</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 377.182625)">检验实际采集的中间时相</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="427.8275" transform="rotate(-0 15.84 427.8275)">21 动作 / 世界模型</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 458.0675)">历史 + 动作 -&gt; 下一状态</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 480.305875)">学习动力学，而非策略</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 502.54425)">保留对给定动作的响应</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 524.782625)">检验新动作 / 滚动生成漂移</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="351.36" y="427.8275" transform="rotate(-0 351.36 427.8275)">GameNGen 交互视图</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 458.0675)">历史帧 + 动作 -&gt; 帧</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 480.305875)">生成交互式滚动序列</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 502.54425)">在玩家输入下保持状态</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 524.782625)">检验动作效果，而非重放</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="686.88" y="427.8275" transform="rotate(-0 686.88 427.8275)">SonoWorld 探头控制</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 458.0675)">历史 + 位姿 -&gt; 超声</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 480.305875)">以跟踪扫描为控制依据</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 502.54425)">以位姿相关解剖为目标</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 524.782625)">检验新动作 / 往返漂移</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p083f6073e6">
+   <rect x="0" y="0" width="1008" height="566.64" />
+  </clipPath>
+ </defs>
+</svg>

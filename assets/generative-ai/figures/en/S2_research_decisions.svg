@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1008pt" height="525.6pt" viewBox="0 0 1008 525.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-22T02:25:42.422029</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 525.6
+L 1008 525.6
+L 1008 0
+L 0 0
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 313.2 205.2
+L 342 205.2
+" clip-path="url(#p01b537fe03)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 651.6 205.2
+L 680.4 205.2
+" clip-path="url(#p01b537fe03)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start" x="21.6" y="34.86375" transform="rotate(-0 21.6 34.86375)">From a literature gap to a decisive research pilot</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: start" x="21.6" y="72.855" transform="rotate(-0 21.6 72.855)">General research-selection workflow | Four medical cases are developed in the text</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start; fill: #2573b4" x="21.6" y="117.81" transform="rotate(-0 21.6 117.81)">1  Specify the need</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(21.6 181.099312)">Population and input</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(21.6 200.535188)">Required invariant</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(21.6 219.971063)">Decision-changing error</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(21.6 239.641313)">Available independent truth</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="21.6" y="325.584375" transform="rotate(-0 21.6 325.584375)">Can this error be measured?</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(21.6 405.852375)">No -&gt; narrower claim</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(21.6 425.28825)">or build a validation resource</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start; fill: #148843" x="360" y="117.81" transform="rotate(-0 360 117.81)">2  Verify the increment</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(360 180.352875)">Nearest work + synonyms</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(360 200.286375)">What already exists?</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(360 220.219875)">Missing capability or evidence?</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(360 240.153375)">Strong conventional baseline</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="360" y="325.584375" transform="rotate(-0 360 325.584375)">Is the increment testable?</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(360 405.735188)">No -&gt; revise the question</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(360 425.171063)">not just the model name</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start; fill: #68559d" x="698.4" y="117.82125" transform="rotate(-0 698.4 117.82125)">3  Run a bounded test</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(698.4 180.8505)">Freeze split and endpoint</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(698.4 200.286375)">Include plausible wrong controls</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(698.4 219.956625)">Match data and compute access</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(698.4 239.65575)">Prespecify a stopping rule</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'" transform="translate(698.4 315.669938)">Does the pilot change</text>
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'" transform="translate(698.4 335.498812)">the consequential result?</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(698.4 405.852375)">No -&gt; stop or narrow</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(698.4 425.28825)">Yes -&gt; ablate, then scale</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p01b537fe03">
+   <rect x="0" y="0" width="1008" height="525.6"/>
+  </clipPath>
+ </defs>
+</svg>

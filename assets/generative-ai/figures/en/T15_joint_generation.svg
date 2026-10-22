@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="322.362pt" viewBox="0 0 1008 322.362" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T02:43:35.302144</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 322.362  L 1008 322.362  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start" x="15.84" y="20.499375" transform="rotate(-0 15.84 20.499375)">15  Joint generation</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 48.797795 161.856  Q 502.198724 161.856 954.202111 161.856  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 947.002111 158.256  L 954.202111 161.856  L 947.002111 165.456  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="100.8" y="314.572312" transform="rotate(-0 100.8 314.572312)">2018</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="152.64" y="314.572312" transform="rotate(-0 152.64 314.572312)">2021</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="206.905263" y="314.572312" transform="rotate(-0 206.905263 314.572312)">2022</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="419.115789" y="314.572312" transform="rotate(-0 419.115789 314.572312)">2023</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="631.326316" y="314.572312" transform="rotate(-0 631.326316 314.572312)">2024</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="716.210526" y="314.572312" transform="rotate(-0 716.210526 314.572312)">2025</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="843.536842" y="314.572312" transform="rotate(-0 843.536842 314.572312)">2026*</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.8 161.856  Q 100.8 169.056 100.8 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 104 168.458458  L 100.8 174.858458  L 97.6 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_9" class="paper-node" data-paper="tl180808281" tabindex="0" role="button" aria-label="High Quality Facial Surface and Texture Synthesis via Generative Adversarial Networks">
+    <rect class="paper-hit" x="23.624999999999996" y="180.93599999999998" width="154.35" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(27.445312 197.771625)">FaceSurfTexture</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(78.560937 216.696625)">[231]</text>
+   <title>High Quality Facial Surface and Texture Synthesis via Generative Adversarial Networks</title></g>
+   <g id="patch_4">
+    <path d="M 143.242105 161.856  Q 143.242105 154.656 143.242105 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 140.042105 155.253542  L 143.242105 148.853542  L 146.442105 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_10" class="paper-node" data-paper="tl210406490" tabindex="0" role="button" aria-label="DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort">
+    <rect class="paper-hit" x="83.2121052631579" y="99.72" width="120.06000000000002" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(87.110855 117.356)">DatasetGAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(121.003043 136.281)">[232]</text>
+   <title>DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort</title></g>
+   <g id="patch_5">
+    <path d="M 185.684211 161.856  Q 185.684211 202.176 185.684211 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 188.884211 234.698458  L 185.684211 241.098458  L 182.484211 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_11" class="paper-node" data-paper="tl220104684" tabindex="0" role="button" aria-label="BigDatasetGAN: Synthesizing ImageNet with Pixel-wise Annotations">
+    <rect class="paper-hit" x="111.20921052631576" y="247.176" width="148.95000000000002" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(115.099836 264.255375)">BigDatasetGAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(163.445148 283.41475)">[233]</text>
+   <title>BigDatasetGAN: Synthesizing ImageNet with Pixel-wise Annotations</title></g>
+   <g id="patch_6">
+    <path d="M 228.126316 161.856  Q 228.126316 121.536 228.126316 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 224.926316 89.013542  L 228.126316 82.613542  L 231.326316 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_12" class="paper-node" data-paper="tl220911163" tabindex="0" role="button" aria-label="GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images">
+    <rect class="paper-hit" x="190.82131578947366" y="33.47999999999997" width="74.61000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(194.787253 51.116)">GET3D</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(205.887253 70.041)">[234]</text>
+   <title>GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images</title></g>
+   <g id="patch_7">
+    <path d="M 270.568421 161.856  Q 270.568421 169.056 270.568421 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 273.768421 168.458458  L 270.568421 174.858458  L 267.368421 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_13" class="paper-node" data-paper="tl230306555" tabindex="0" role="button" aria-label="One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale">
+    <rect class="paper-hit" x="217.24342105263156" y="180.93599999999998" width="106.65" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(221.287171 197.771625)">UniDiffuser</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(248.329359 216.696625)">[203]</text>
+   <title>One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale</title></g>
+   <g id="patch_8">
+    <path d="M 313.010526 161.856  Q 313.010526 154.656 313.010526 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 309.810526 155.253542  L 313.010526 148.853542  L 316.210526 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_14" class="paper-node" data-paper="tl230510853" tabindex="0" role="button" aria-label="LDM3D: Latent Diffusion Model for 3D">
+    <rect class="paper-hit" x="275.12052631578945" y="99.72" width="75.78" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(279.115214 117.356)">LDM3D</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(290.771464 136.281)">[235]</text>
+   <title>LDM3D: Latent Diffusion Model for 3D</title></g>
+   <g id="patch_9">
+    <path d="M 355.452632 161.856  Q 355.452632 202.176 355.452632 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 358.652632 234.698458  L 355.452632 241.098458  L 352.252632 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_15" class="paper-node" data-paper="tl230511846" tabindex="0" role="button" aria-label="Any-to-Any Generation via Composable Diffusion">
+    <rect class="paper-hit" x="329.17263157894735" y="247.176" width="52.56" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(333.226069 264.011625)">CoDi</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(333.213569 282.936625)">[221]</text>
+   <title>Any-to-Any Generation via Composable Diffusion</title></g>
+   <g id="patch_10">
+    <path d="M 397.894737 161.856  Q 397.894737 121.536 397.894737 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 394.694737 89.013542  L 397.894737 82.613542  L 401.094737 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_16" class="paper-node" data-paper="tl230811408" tabindex="0" role="button" aria-label="MatFuse: Controllable Material Generation with Diffusion Models">
+    <rect class="paper-hit" x="355.09973684210524" y="33.47999999999997" width="85.59000000000002" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(358.996299 51.116)">MatFuse</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(375.655674 70.041)">[236]</text>
+   <title>MatFuse: Controllable Material Generation with Diffusion Models</title></g>
+   <g id="patch_11">
+    <path d="M 440.336842 161.856  Q 440.336842 169.056 440.336842 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 443.536842 168.458458  L 440.336842 174.858458  L 437.136842 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_17" class="paper-node" data-paper="jointnet" tabindex="0" role="button" aria-label="JointNet: Extending Text-to-Image Diffusion for Dense Distribution Modeling">
+    <rect class="paper-hit" x="399.79184210526313" y="180.93599999999998" width="81.09000000000002" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(403.65403 197.771625)">JointNet</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(418.09778 216.696625)">[205]</text>
+   <title>JointNet: Extending Text-to-Image Diffusion for Dense Distribution Modeling</title></g>
+   <g id="patch_12">
+    <path d="M 482.778947 161.856  Q 482.778947 154.656 482.778947 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 479.578947 155.253542  L 482.778947 148.853542  L 485.978947 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_18" class="paper-node" data-paper="tl231015008" tabindex="0" role="button" aria-label="Wonder3D: Single Image to 3D using Cross-Domain Diffusion">
+    <rect class="paper-hit" x="431.16394736842096" y="99.72" width="103.23" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(435.158635 117.356)">Wonder3D</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(460.539885 136.281)">[237]</text>
+   <title>Wonder3D: Single Image to 3D using Cross-Domain Diffusion</title></g>
+   <g id="patch_13">
+    <path d="M 525.221053 161.856  Q 525.221053 202.176 525.221053 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 528.421053 234.698458  L 525.221053 241.098458  L 522.021053 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_19" class="paper-node" data-paper="tl231116918" tabindex="0" role="button" aria-label="RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D">
+    <rect class="paper-hit" x="462.3560526315789" y="247.176" width="125.73" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(466.322615 264.011625)">RichDreamer</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(502.98199 282.936625)">[238]</text>
+   <title>RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D</title></g>
+   <g id="patch_14">
+    <path d="M 567.663158 161.856  Q 567.663158 121.536 567.663158 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 564.463158 89.013542  L 567.663158 82.613542  L 570.863158 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_20" class="paper-node" data-paper="tl231201985" tabindex="0" role="button" aria-label="UniGS: Unified Representation for Image Generation and Segmentation">
+    <rect class="paper-hit" x="534.2281578947368" y="33.47999999999997" width="66.87" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(538.210033 51.116)">UniGS</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(545.424095 70.041)">[239]</text>
+   <title>UniGS: Unified Representation for Image Generation and Segmentation</title></g>
+   <g id="patch_15">
+    <path d="M 610.105263 161.856  Q 610.105263 169.056 610.105263 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 613.305263 168.458458  L 610.105263 174.858458  L 606.905263 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_21" class="paper-node" data-paper="tl240702445" tabindex="0" role="button" aria-label="Meta 3D AssetGen: Text-to-Mesh Generation with High-Quality Geometry, Texture, and PBR Materials">
+    <rect class="paper-hit" x="541.1652631578947" y="180.93599999999998" width="137.88" height="62.35199999999999" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(545.077138 197.771625)">Meta 3D Asset</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(591.205263 216.634875)">Gen</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(587.866201 235.559875)">[240]</text>
+   <title>Meta 3D AssetGen: Text-to-Mesh Generation with High-Quality Geometry, Texture, and PBR Materials</title></g>
+   <g id="patch_16">
+    <path d="M 652.547368 161.856  Q 652.547368 154.656 652.547368 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 649.347368 155.253542  L 652.547368 148.853542  L 655.747368 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_22" class="paper-node" data-paper="tl241201169" tabindex="0" role="button" aria-label="OmniFlow: Any-to-Any Generation with Multi-Modal Rectified Flows">
+    <rect class="paper-hit" x="603.5873684210526" y="99.72" width="97.92" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(607.544243 117.356)">OmniFlow</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(630.308306 136.281)">[229]</text>
+   <title>OmniFlow: Any-to-Any Generation with Multi-Modal Rectified Flows</title></g>
+   <g id="patch_17">
+    <path d="M 694.989474 161.856  Q 694.989474 202.176 694.989474 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 698.189474 234.698458  L 694.989474 241.098458  L 691.789474 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_23" class="paper-node" data-paper="medsegfactory" tabindex="0" role="button" aria-label="MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs">
+    <rect class="paper-hit" x="620.6044736842105" y="247.176" width="148.77" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(624.408224 264.255375)">MedSegFactory</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(672.750411 283.41475)">[206]</text>
+   <title>MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs</title></g>
+   <g id="patch_18">
+    <path d="M 737.431579 161.856  Q 737.431579 121.536 737.431579 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 734.231579 89.013542  L 737.431579 82.613542  L 740.631579 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_24" class="paper-node" data-paper="tl250500482" tabindex="0" role="button" aria-label="JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers">
+    <rect class="paper-hit" x="696.7965789473685" y="33.47999999999997" width="81.27000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(700.758141 51.116)">JointDiT</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(715.192516 70.041)">[241]</text>
+   <title>JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers</title></g>
+   <g id="patch_19">
+    <path d="M 779.873684 161.856  Q 779.873684 169.056 779.873684 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 783.073684 168.458458  L 779.873684 174.858458  L 776.673684 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_25" class="paper-node" data-paper="tl260104090" tabindex="0" role="button" aria-label="Gen3R: 3D Scene Generation Meets Feed-Forward Reconstruction">
+    <rect class="paper-hit" x="744.2336842105263" y="180.93599999999998" width="71.28" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(748.190872 197.771625)">Gen3R</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(757.634622 216.696625)">[242]</text>
+   <title>Gen3R: 3D Scene Generation Meets Feed-Forward Reconstruction</title></g>
+   <g id="patch_20">
+    <path d="M 822.315789 161.856  Q 822.315789 154.656 822.315789 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 819.115789 155.253542  L 822.315789 148.853542  L 825.515789 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_26" class="paper-node" data-paper="tl260316566" tabindex="0" role="button" aria-label="VideoMatGen: PBR Materials through Joint Generative Modeling">
+    <rect class="paper-hit" x="757.4257894736843" y="99.72" width="129.78" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(761.347039 117.356)">VideoMatGen</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(800.076727 136.281)">[243]</text>
+   <title>VideoMatGen: PBR Materials through Joint Generative Modeling</title></g>
+   <g id="patch_21">
+    <path d="M 864.757895 161.856  Q 864.757895 202.176 864.757895 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 867.957895 234.698458  L 864.757895 241.098458  L 861.557895 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_27" class="paper-node" data-paper="tl260613676" tabindex="0" role="button" aria-label="Modality Forcing for Scalable Spatial Generation">
+    <rect class="paper-hit" x="787.447894736842" y="247.176" width="154.62" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(791.403207 264.011625)">Modality Forcing</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(842.518832 283.171)">[244]</text>
+   <title>Modality Forcing for Scalable Spatial Generation</title></g>
+   <g id="patch_22">
+    <path d="M 907.2 161.856  Q 907.2 121.536 907.2 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 904 89.013542  L 907.2 82.613542  L 910.4 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_28" class="paper-node" data-paper="tl260616408" tabindex="0" role="button" aria-label="MUNI: Multimodal Unified Latent Diffusion for Coherent Any-to-Any Generation">
+    <rect class="paper-hit" x="877.725" y="33.47999999999997" width="58.949999999999996" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(881.648437 51.116)">MUNI</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(884.960937 70.041)">[230]</text>
+   <title>MUNI: Multimodal Unified Latent Diffusion for Coherent Any-to-Any Generation</title></g>
+  </g>
+ </g>
+</svg>

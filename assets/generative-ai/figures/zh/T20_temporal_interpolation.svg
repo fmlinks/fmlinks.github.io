@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="356.2272pt" viewBox="0 0 1008 356.2272" version="1.1" data-language="zh" lang="zh-CN">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T03:32:08.157437</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 356.2272  L 1008 356.2272  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="21.009375" transform="rotate(-0 15.84 21.009375)">20  帧插值</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 48.797795 189.9648  Q 502.198724 189.9648 954.202111 189.9648  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 947.002111 186.3648  L 954.202111 189.9648  L 947.002111 193.5648  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="100.8" y="348.775013" transform="rotate(-0 100.8 348.775013)">2018</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="164.463158" y="348.775013" transform="rotate(-0 164.463158 348.775013)">2019</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="270.568421" y="348.775013" transform="rotate(-0 270.568421 348.775013)">2020</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="376.673684" y="348.775013" transform="rotate(-0 376.673684 348.775013)">2022</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="440.336842" y="348.775013" transform="rotate(-0 440.336842 348.775013)">2023</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="567.663158" y="348.775013" transform="rotate(-0 567.663158 348.775013)">2024</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="758.652632" y="348.775013" transform="rotate(-0 758.652632 348.775013)">2025</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="885.978947" y="348.775013" transform="rotate(-0 885.978947 348.775013)">2026*</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.8 189.9648  Q 100.8 197.1648 100.8 202.967258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 104 196.567258  L 100.8 202.967258  L 97.6 196.567258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_10" class="paper-node" data-paper="tl181008768" tabindex="0" role="button" aria-label="MEMC-Net：运动估计与运动补偿驱动的视频插帧及增强神经网络">
+    <rect class="paper-hit" x="43.24499999999999" y="209.04479999999995" width="115.11000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(47.217187 227.5523)">MEMC-Net</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(76.526562 249.151175)">[298]</text>
+   <title>MEMC-Net：运动估计与运动补偿驱动的视频插帧及增强神经网络</title></g>
+   <g id="patch_4">
+    <path d="M 143.242105 189.9648  Q 143.242105 182.7648 143.242105 176.962342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 140.042105 183.362342  L 143.242105 176.962342  L 146.442105 183.362342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_11" class="paper-node" data-paper="tl190400830" tabindex="0" role="button" aria-label="深度感知视频帧插值">
+    <rect class="paper-hit" x="113.6771052631579" y="121.98240000000001" width="59.13" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(117.69523 141.79405)">DAIN</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(118.968668 163.392925)">[299]</text>
+   <title>深度感知视频帧插值</title></g>
+   <g id="patch_5">
+    <path d="M 185.684211 189.9648  Q 185.684211 230.2848 185.684211 269.207258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 188.884211 262.807258  L 185.684211 269.207258  L 182.484211 262.807258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_12" class="paper-node" data-paper="tl190710244" tabindex="0" role="button" aria-label="AdaCoF：用于视频插帧的自适应流协作">
+    <rect class="paper-hit" x="144.50921052631577" y="275.28479999999996" width="82.35000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(148.363898 293.7923)">AdaCoF</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(161.410773 315.391175)">[300]</text>
+   <title>AdaCoF：用于视频插帧的自适应流协作</title></g>
+   <g id="patch_6">
+    <path d="M 228.126316 189.9648  Q 228.126316 149.6448 228.126316 110.722342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 224.926316 117.122342  L 228.126316 110.722342  L 231.326316 117.122342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_13" class="paper-node" data-paper="tl200305534" tabindex="0" role="button" aria-label="用于视频帧插值的 Softmax Splatting">
+    <rect class="paper-hit" x="181.14631578947365" y="33.48" width="93.96000000000001" height="71.1648" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(188.837253 53.83955)">Softmax</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(185.107566 75.438425)">Splatting</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(203.852878 97.152925)">[301]</text>
+   <title>用于视频帧插值的 Softmax Splatting</title></g>
+   <g id="patch_7">
+    <path d="M 270.568421 189.9648  Q 270.568421 197.1648 270.568421 202.967258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 273.768421 196.567258  L 270.568421 202.967258  L 267.368421 196.567258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_14" class="paper-node" data-paper="tl201106294" tabindex="0" role="button" aria-label="用于视频帧插值的实时中间光流估计">
+    <rect class="paper-hit" x="242.35342105263155" y="209.04479999999995" width="56.42999999999999" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(250.290296 227.5523)">RIFE</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(246.294984 249.151175)">[302]</text>
+   <title>用于视频帧插值的实时中间光流估计</title></g>
+   <g id="patch_8">
+    <path d="M 313.010526 189.9648  Q 313.010526 182.7648 313.010526 176.962342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 309.810526 183.362342  L 313.010526 176.962342  L 316.210526 183.362342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_15" class="paper-node" data-paper="tl201208512" tabindex="0" role="button" aria-label="FLAVR：用于快速帧插值的光流无关视频表示">
+    <rect class="paper-hit" x="278.5855263157895" y="121.98240000000001" width="68.85" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(282.540214 141.79405)">FLAVR</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(288.737089 163.392925)">[303]</text>
+   <title>FLAVR：用于快速帧插值的光流无关视频表示</title></g>
+   <g id="patch_9">
+    <path d="M 355.452632 189.9648  Q 355.452632 230.2848 355.452632 269.207258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 358.652632 262.807258  L 355.452632 269.207258  L 352.252632 262.807258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_16" class="paper-node" data-paper="tl220204901" tabindex="0" role="button" aria-label="FILM：面向大幅运动的帧插值">
+    <rect class="paper-hit" x="327.19263157894727" y="275.28479999999996" width="56.52" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(332.299507 293.7923)">FILM</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(331.179194 315.391175)">[279]</text>
+   <title>FILM：面向大幅运动的帧插值</title></g>
+   <g id="patch_10">
+    <path d="M 397.894737 189.9648  Q 397.894737 149.6448 397.894737 110.722342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 394.694737 117.122342  L 397.894737 110.722342  L 401.094737 117.122342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_17" class="paper-node" data-paper="tl220613295" tabindex="0" role="button" aria-label="用于四维时序医学图像生成的扩散可变形模型">
+    <rect class="paper-hit" x="368.8697368421052" y="55.74240000000004" width="58.050000000000004" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(372.890049 75.55405)">DDM</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(373.621299 97.152925)">[280]</text>
+   <title>用于四维时序医学图像生成的扩散可变形模型</title></g>
+   <g id="patch_11">
+    <path d="M 440.336842 189.9648  Q 440.336842 197.1648 440.336842 202.967258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 443.536842 196.567258  L 440.336842 202.967258  L 437.136842 196.567258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_18" class="paper-node" data-paper="tl230309508" tabindex="0" role="button" aria-label="LDMVFI：利用潜在扩散模型进行视频插帧">
+    <rect class="paper-hit" x="398.8018421052631" y="209.04479999999995" width="83.07000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(402.80403 227.5523)">LDMVFI</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(416.063405 249.151175)">[304]</text>
+   <title>LDMVFI：利用潜在扩散模型进行视频插帧</title></g>
+   <g id="patch_12">
+    <path d="M 482.778947 189.9648  Q 482.778947 182.7648 482.778947 176.962342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 479.578947 183.362342  L 482.778947 176.962342  L 485.978947 183.362342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_19" class="paper-node" data-paper="tl240401203" tabindex="0" role="button" aria-label="利用扩散模型进行视频插值">
+    <rect class="paper-hit" x="448.71394736842103" y="121.98240000000001" width="68.13" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(452.750822 141.79405)">VIDIM</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(458.50551 163.392925)">[305]</text>
+   <title>利用扩散模型进行视频插值</title></g>
+   <g id="patch_13">
+    <path d="M 525.221053 189.9648  Q 525.221053 230.2848 525.221053 269.207258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 528.421053 262.807258  L 525.221053 269.207258  L 522.021053 262.807258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_20" class="paper-node" data-paper="tl240406692" tabindex="0" role="button" aria-label="通过非对称融合实现感知导向的视频插帧">
+    <rect class="paper-hit" x="491.0210526315789" y="275.28479999999996" width="68.39999999999999" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(494.996053 293.7923)">PerVFI</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(500.947615 315.391175)">[306]</text>
+   <title>通过非对称融合实现感知导向的视频插帧</title></g>
+   <g id="patch_14">
+    <path d="M 567.663158 189.9648  Q 567.663158 149.6448 567.663158 110.722342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 564.463158 117.122342  L 567.663158 110.722342  L 570.863158 117.122342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_21" class="paper-node" data-paper="tl240505953" tabindex="0" role="button" aria-label="基于连续布朗桥扩散的帧插值">
+    <rect class="paper-hit" x="490.1731578947368" y="55.74240000000004" width="154.98" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(494.219408 75.55405)">Consecutive BB</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(543.38972 97.152925)">[307]</text>
+   <title>基于连续布朗桥扩散的帧插值</title></g>
+   <g id="patch_15">
+    <path d="M 610.105263 189.9648  Q 610.105263 197.1648 610.105263 202.967258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 613.305263 196.567258  L 610.105263 202.967258  L 606.905263 196.567258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_22" class="paper-node" data-paper="tl240517933" tabindex="0" role="button" aria-label="ToonCrafter：生成式卡通插值">
+    <rect class="paper-hit" x="549.9402631578947" y="209.04479999999995" width="120.33000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(553.774013 227.5523)">ToonCrafter</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(585.831826 249.151175)">[308]</text>
+   <title>ToonCrafter：生成式卡通插值</title></g>
+   <g id="patch_16">
+    <path d="M 652.547368 189.9648  Q 652.547368 182.7648 652.547368 176.962342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 649.347368 183.362342  L 652.547368 176.962342  L 655.747368 183.362342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_23" class="paper-node" data-paper="tl240815239" tabindex="0" role="button" aria-label="生成式中间帧补全：将图像到视频模型适配于关键帧插值">
+    <rect class="paper-hit" x="583.1123684210526" y="99.72" width="138.87" height="71.1648" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(630.867681 120.07955)">Gen.</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(587.084868 141.678425)">Inbetweening</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(628.273931 163.392925)">[309]</text>
+   <title>生成式中间帧补全：将图像到视频模型适配于关键帧插值</title></g>
+   <g id="patch_17">
+    <path d="M 694.989474 189.9648  Q 694.989474 230.2848 694.989474 269.207258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 698.189474 262.807258  L 694.989474 269.207258  L 691.789474 262.807258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_24" class="paper-node" data-paper="tl250103699" tabindex="0" role="button" aria-label="运动感知的生成式帧插值">
+    <rect class="paper-hit" x="666.7744736842105" y="275.28479999999996" width="56.42999999999999" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(671.425411 293.7923)">MoG</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(670.716036 315.391175)">[310]</text>
+   <title>运动感知的生成式帧插值</title></g>
+   <g id="patch_18">
+    <path d="M 737.431579 189.9648  Q 737.431579 149.6448 737.431579 110.722342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 734.231579 117.122342  L 737.431579 110.722342  L 740.631579 117.122342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_25" class="paper-node" data-paper="tl250315831" tabindex="0" role="button" aria-label="EDEN：用于高质量大幅运动视频插帧的增强扩散方法">
+    <rect class="paper-hit" x="706.6065789473686" y="55.74240000000004" width="61.65" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(710.687829 75.55405)">EDEN</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(713.158141 97.152925)">[311]</text>
+   <title>EDEN：用于高质量大幅运动视频插帧的增强扩散方法</title></g>
+   <g id="patch_19">
+    <path d="M 779.873684 189.9648  Q 779.873684 197.1648 779.873684 202.967258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 783.073684 196.567258  L 779.873684 202.967258  L 776.673684 196.567258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_26" class="paper-node" data-paper="tl250704547" tabindex="0" role="button" aria-label="FB-Diff：用于四维医学影像时间插值的傅里叶基引导扩散">
+    <rect class="paper-hit" x="742.7486842105263" y="209.04479999999995" width="74.25" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(746.747122 227.5523)">FB-Diff</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(755.600247 249.151175)">[312]</text>
+   <title>FB-Diff：用于四维医学影像时间插值的傅里叶基引导扩散</title></g>
+   <g id="patch_20">
+    <path d="M 822.315789 189.9648  Q 822.315789 182.7648 822.315789 176.962342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 819.115789 183.362342  L 822.315789 176.962342  L 825.515789 183.362342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_27" class="paper-node" data-paper="tl250704984" tabindex="0" role="button" aria-label="TLB-VFI：用于视频插帧的时间感知潜在布朗桥扩散">
+    <rect class="paper-hit" x="781.8607894736842" y="121.98240000000001" width="80.91" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(785.836102 141.79405)">TLB-VFI</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(798.042352 163.392925)">[313]</text>
+   <title>TLB-VFI：用于视频插帧的时间感知潜在布朗桥扩散</title></g>
+   <g id="patch_21">
+    <path d="M 864.757895 189.9648  Q 864.757895 230.2848 864.757895 269.207258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 867.957895 262.807258  L 864.757895 269.207258  L 861.557895 262.807258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_28" class="paper-node" data-paper="tl260304899" tabindex="0" role="button" aria-label="FC-VFI：以忠实且一致的视频插帧生成高帧率慢动作视频">
+    <rect class="paper-hit" x="829.477894736842" y="275.28479999999996" width="70.56" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(833.415707 293.7923)">FC-VFI</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(840.484457 315.391175)">[314]</text>
+   <title>FC-VFI：以忠实且一致的视频插帧生成高帧率慢动作视频</title></g>
+   <g id="patch_22">
+    <path d="M 907.2 189.9648  Q 907.2 149.6448 907.2 110.722342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 904 117.122342  L 907.2 110.722342  L 910.4 117.122342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_29" class="paper-node" data-paper="tl261013187" tabindex="0" role="button" aria-label="面向生成式中间帧补全的目标帧条件适配与语义-几何对齐">
+    <rect class="paper-hit" x="867.6899999999999" y="55.74240000000004" width="79.02000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(871.673437 75.55405)">DSG-GI</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(882.926562 97.152925)">[315]</text>
+   <title>面向生成式中间帧补全的目标帧条件适配与语义-几何对齐</title></g>
+  </g>
+ </g>
+</svg>

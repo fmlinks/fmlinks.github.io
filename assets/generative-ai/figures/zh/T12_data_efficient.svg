@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="356.2272pt" viewBox="0 0 1008 356.2272" version="1.1" data-language="zh" lang="zh-CN">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T03:32:04.140591</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 356.2272  L 1008 356.2272  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="21.009375" transform="rotate(-0 15.84 21.009375)">12  数据高效</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 48.797795 167.7024  Q 502.198724 167.7024 954.202111 167.7024  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 947.002111 164.1024  L 954.202111 167.7024  L 947.002111 171.3024  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="100.8" y="348.775013" transform="rotate(-0 100.8 348.775013)">2018</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="154.89" y="348.775013" transform="rotate(-0 154.89 348.775013)">2019</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="228.126316" y="348.775013" transform="rotate(-0 228.126316 348.775013)">2020</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="397.894737" y="348.775013" transform="rotate(-0 397.894737 348.775013)">2021</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="610.105263" y="348.775013" transform="rotate(-0 610.105263 348.775013)">2022</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="758.652632" y="348.775013" transform="rotate(-0 758.652632 348.775013)">2024</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="822.315789" y="348.775013" transform="rotate(-0 822.315789 348.775013)">2025</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="885.978947" y="348.775013" transform="rotate(-0 885.978947 348.775013)">2026*</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.8 167.7024  Q 100.8 174.9024 100.8 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 104 174.304858  L 100.8 180.704858  L 97.6 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_10" class="paper-node" data-paper="tl180501677" tabindex="0" role="button" aria-label="迁移 GAN：利用有限数据生成图像">
+    <rect class="paper-hit" x="39.95999999999999" y="186.78239999999997" width="121.68" height="71.1648" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(43.867187 205.524275)">Transferring</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(73.56875 227.238775)">GANs</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(76.526562 248.83765)">[174]</text>
+   <title>迁移 GAN：利用有限数据生成图像</title></g>
+   <g id="patch_4">
+    <path d="M 143.242105 167.7024  Q 143.242105 160.5024 143.242105 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 140.042105 161.099942  L 143.242105 154.699942  L 146.442105 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_11" class="paper-node" data-paper="tl191205270" tabindex="0" role="button" aria-label="MineGAN：将 GAN 知识有效迁移至少量图像的目标域">
+    <rect class="paper-hit" x="92.43710526315789" y="99.72" width="101.61000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(96.373355 119.53165)">MineGAN</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(118.968668 141.130525)">[175]</text>
+   <title>MineGAN：将 GAN 知识有效迁移至少量图像的目标域</title></g>
+   <g id="patch_5">
+    <path d="M 185.684211 167.7024  Q 185.684211 208.0224 185.684211 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 188.884211 240.544858  L 185.684211 246.944858  L 182.484211 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_12" class="paper-node" data-paper="tl200210964" tabindex="0" role="button" aria-label="冻结判别器：GAN 微调的简单基线">
+    <rect class="paper-hit" x="143.15921052631577" y="253.02239999999998" width="85.05000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(147.135773 271.5299)">FreezeD</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(161.410773 293.128775)">[176]</text>
+   <title>冻结判别器：GAN 微调的简单基线</title></g>
+   <g id="patch_6">
+    <path d="M 228.126316 167.7024  Q 228.126316 127.3824 228.126316 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 224.926316 94.859942  L 228.126316 88.459942  L 231.326316 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_13" class="paper-node" data-paper="tl200606676" tabindex="0" role="button" aria-label="利用有限数据训练生成对抗网络">
+    <rect class="paper-hit" x="199.91131578947363" y="33.48" width="56.42999999999999" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(206.612253 53.29165)">ADA</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(203.852878 74.890525)">[173]</text>
+   <title>利用有限数据训练生成对抗网络</title></g>
+   <g id="patch_7">
+    <path d="M 270.568421 167.7024  Q 270.568421 174.9024 270.568421 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 273.768421 174.304858  L 270.568421 180.704858  L 267.368421 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_14" class="paper-node" data-paper="tl200610738" tabindex="0" role="button" aria-label="用于数据高效 GAN 训练的可微数据增强">
+    <rect class="paper-hit" x="204.82342105263152" y="186.78239999999997" width="131.49" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(208.829359 205.524275)">DiffAugment</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(246.294984 227.238775)">[193]</text>
+   <title>用于数据高效 GAN 训练的可微数据增强</title></g>
+   <g id="patch_8">
+    <path d="M 313.010526 167.7024  Q 313.010526 160.5024 313.010526 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 309.810526 161.099942  L 313.010526 154.699942  L 316.210526 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_15" class="paper-node" data-paper="tl210104775" tabindex="0" role="button" aria-label="迈向更快速、稳定的 GAN 训练以实现高保真少样本图像合成">
+    <rect class="paper-hit" x="267.69552631578944" y="99.72" width="90.63" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(271.613651 119.53165)">FastGAN</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(288.737089 141.130525)">[194]</text>
+   <title>迈向更快速、稳定的 GAN 训练以实现高保真少样本图像合成</title></g>
+   <g id="patch_9">
+    <path d="M 355.452632 167.7024  Q 355.452632 208.0224 355.452632 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 358.652632 240.544858  L 355.452632 246.944858  L 352.252632 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_16" class="paper-node" data-paper="tl210300397" tabindex="0" role="button" aria-label="超越仅靠数据增强的数据高效 GAN 训练：彩票假说视角">
+    <rect class="paper-hit" x="291.82263157894727" y="253.02239999999998" width="127.26" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(295.816694 271.414275)">Lottery GAN</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(331.179194 293.128775)">[195]</text>
+   <title>超越仅靠数据增强的数据高效 GAN 训练：彩票假说视角</title></g>
+   <g id="patch_10">
+    <path d="M 397.894737 167.7024  Q 397.894737 127.3824 397.894737 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 394.694737 94.859942  L 397.894737 88.459942  L 401.094737 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_17" class="paper-node" data-paper="tl210403310" tabindex="0" role="button" aria-label="有限数据条件下生成对抗网络的正则化">
+    <rect class="paper-hit" x="361.62473684210516" y="33.48" width="72.54" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(365.502549 53.29165)">LeCam</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(373.621299 74.890525)">[196]</text>
+   <title>有限数据条件下生成对抗网络的正则化</title></g>
+   <g id="patch_11">
+    <path d="M 440.336842 167.7024  Q 440.336842 174.9024 440.336842 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 443.536842 174.304858  L 440.336842 180.704858  L 437.136842 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_18" class="paper-node" data-paper="fewshot" tabindex="0" role="button" aria-label="通过跨域对应关系实现少样本图像生成">
+    <rect class="paper-hit" x="368.4268421052631" y="186.78239999999997" width="143.82" height="71.1648" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(372.325905 205.2899)">Cross-Domain</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(418.144655 226.888775)">Corr.</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(427.79153 248.48765)">[6]</text>
+   <title>通过跨域对应关系实现少样本图像生成</title></g>
+   <g id="patch_12">
+    <path d="M 482.778947 167.7024  Q 482.778947 160.5024 482.778947 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 479.578947 161.099942  L 482.778947 154.699942  L 485.978947 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_19" class="paper-node" data-paper="tl211101007" tabindex="0" role="button" aria-label="投影 GAN 收敛更快">
+    <rect class="paper-hit" x="403.398947368421" y="99.72" width="158.76" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(407.364885 119.416025)">Projected GANs</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(458.50551 141.130525)">[197]</text>
+   <title>投影 GAN 收敛更快</title></g>
+   <g id="patch_13">
+    <path d="M 525.221053 167.7024  Q 525.221053 208.0224 525.221053 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 528.421053 240.544858  L 525.221053 246.944858  L 522.021053 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_20" class="paper-node" data-paper="tl220515463" tabindex="0" role="button" aria-label="少样本扩散模型">
+    <rect class="paper-hit" x="492.9110526315789" y="253.02239999999998" width="64.62" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(496.886678 271.5299)">FSDM</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(500.947615 293.128775)">[177]</text>
+   <title>少样本扩散模型</title></g>
+   <g id="patch_14">
+    <path d="M 567.663158 167.7024  Q 567.663158 127.3824 567.663158 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 564.463158 94.859942  L 567.663158 88.459942  L 570.863158 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_21" class="paper-node" data-paper="tl220602262" tabindex="0" role="button" aria-label="Diffusion-GAN：用扩散训练 GAN">
+    <rect class="paper-hit" x="493.5481578947368" y="33.48" width="148.23" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(497.549095 53.29165)">Diffusion-GAN</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(543.38972 74.890525)">[198]</text>
+   <title>Diffusion-GAN：用扩散训练 GAN</title></g>
+   <g id="patch_15">
+    <path d="M 610.105263 167.7024  Q 610.105263 174.9024 610.105263 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 613.305263 174.304858  L 610.105263 180.704858  L 606.905263 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_22" class="paper-node" data-paper="tl220801618" tabindex="0" role="button" aria-label="一图抵一词：使用文本反演实现个性化文本到图像生成">
+    <rect class="paper-hit" x="562.4052631578948" y="186.78239999999997" width="95.4" height="71.1648" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(576.666201 205.2899)">Textual</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(566.439638 226.888775)">Inversion</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(585.831826 248.48765)">[178]</text>
+   <title>一图抵一词：使用文本反演实现个性化文本到图像生成</title></g>
+   <g id="patch_16">
+    <path d="M 652.547368 167.7024  Q 652.547368 160.5024 652.547368 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 649.347368 161.099942  L 652.547368 154.699942  L 655.747368 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_23" class="paper-node" data-paper="tl220812242" tabindex="0" role="button" aria-label="DreamBooth：微调文本到图像扩散模型以实现主体驱动生成">
+    <rect class="paper-hit" x="587.8373684210526" y="99.72" width="129.42000000000002" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(591.803618 119.53165)">DreamBooth</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(628.273931 141.130525)">[171]</text>
+   <title>DreamBooth：微调文本到图像扩散模型以实现主体驱动生成</title></g>
+   <g id="patch_17">
+    <path d="M 694.989474 167.7024  Q 694.989474 208.0224 694.989474 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 698.189474 240.544858  L 694.989474 246.944858  L 691.789474 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_24" class="paper-node" data-paper="tl221204488" tabindex="0" role="button" aria-label="文本到图像扩散模型的多概念定制">
+    <rect class="paper-hit" x="647.7844736842104" y="253.02239999999998" width="94.41" height="71.1648" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(658.142599 271.5299)">Custom</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(651.803536 293.128775)">Diffusion</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(670.716036 314.72765)">[180]</text>
+   <title>文本到图像扩散模型的多概念定制</title></g>
+   <g id="patch_18">
+    <path d="M 737.431579 167.7024  Q 737.431579 127.3824 737.431579 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 734.231579 94.859942  L 737.431579 88.459942  L 740.631579 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_25" class="paper-node" data-paper="tl240400521" tabindex="0" role="button" aria-label="CHAIN：通过 Lipschitz 连续性约束归一化增强数据高效 GAN 的泛化能力">
+    <rect class="paper-hit" x="700.9365789473686" y="33.48" width="72.99000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(704.903454 53.29165)">CHAIN</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(713.158141 74.890525)">[199]</text>
+   <title>CHAIN：通过 Lipschitz 连续性约束归一化增强数据高效 GAN 的泛化能力</title></g>
+   <g id="patch_19">
+    <path d="M 779.873684 167.7024  Q 779.873684 174.9024 779.873684 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 783.073684 174.304858  L 779.873684 180.704858  L 776.673684 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_26" class="paper-node" data-paper="tl240919128" tabindex="0" role="button" aria-label="先剪枝后重加权：迈向数据高效的扩散模型训练">
+    <rect class="paper-hit" x="696.1736842105263" y="186.78239999999997" width="167.39999999999998" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(700.159622 205.2899)">Prune+Reweight</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(755.600247 227.0044)">[200]</text>
+   <title>先剪枝后重加权：迈向数据高效的扩散模型训练</title></g>
+   <g id="patch_20">
+    <path d="M 822.315789 167.7024  Q 822.315789 160.5024 822.315789 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 819.115789 161.099942  L 822.315789 154.699942  L 825.515789 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_27" class="paper-node" data-paper="tl250402011" tabindex="0" role="button" aria-label="结合蒸馏的随机条件化：实现数据高效的扩散模型压缩">
+    <rect class="paper-hit" x="756.0307894736842" y="77.45759999999999" width="132.57" height="71.1648" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(781.972039 97.81715)">Random</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(759.922039 119.416025)">Conditioning</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(798.042352 141.130525)">[201]</text>
+   <title>结合蒸馏的随机条件化：实现数据高效的扩散模型压缩</title></g>
+   <g id="patch_21">
+    <path d="M 864.757895 167.7024  Q 864.757895 208.0224 864.757895 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 867.957895 240.544858  L 864.757895 246.944858  L 861.557895 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_28" class="paper-node" data-paper="endofsa" tabindex="0" role="button" aria-label="EndoFSA：通过秩约束参数适配实现内镜少样本图像生成">
+    <rect class="paper-hit" x="818.4078947368422" y="253.02239999999998" width="92.7" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(822.359457 271.5299)">EndoFSA</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(840.484457 293.128775)">[172]</text>
+   <title>EndoFSA：通过秩约束参数适配实现内镜少样本图像生成</title></g>
+   <g id="patch_22">
+    <path d="M 907.2 167.7024  Q 907.2 127.3824 907.2 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 904 94.859942  L 907.2 88.459942  L 910.4 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_29" class="paper-node" data-paper="tl261009015" tabindex="0" role="button" aria-label="测试时个性化：为图像生成学习用户偏好">
+    <rect class="paper-hit" x="827.415" y="33.48" width="159.57" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(831.345312 53.29165)">Personalize@TT</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(882.926562 74.890525)">[202]</text>
+   <title>测试时个性化：为图像生成学习用户偏好</title></g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="356.2272pt" viewBox="0 0 1008 356.2272" version="1.1" data-language="zh" lang="zh-CN">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T03:32:03.084300</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 356.2272  L 1008 356.2272  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="21.009375" transform="rotate(-0 15.84 21.009375)">10  少样本</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 48.797795 189.9648  Q 502.198724 189.9648 954.202111 189.9648  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 947.002111 186.3648  L 954.202111 189.9648  L 947.002111 193.5648  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="100.8" y="348.775013" transform="rotate(-0 100.8 348.775013)">2018</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="154.89" y="348.775013" transform="rotate(-0 154.89 348.775013)">2019</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="208.935" y="348.775013" transform="rotate(-0 208.935 348.775013)">2020</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="262.935" y="348.775013" transform="rotate(-0 262.935 348.775013)">2021</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="355.452632" y="348.775013" transform="rotate(-0 355.452632 348.775013)">2022</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="610.105263" y="348.775013" transform="rotate(-0 610.105263 348.775013)">2023</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="801.094737" y="348.775013" transform="rotate(-0 801.094737 348.775013)">2025</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="885.978947" y="348.775013" transform="rotate(-0 885.978947 348.775013)">2026*</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.8 189.9648  Q 100.8 197.1648 100.8 202.967258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 104 196.567258  L 100.8 202.967258  L 97.6 196.567258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_10" class="paper-node" data-paper="tl180501677" tabindex="0" role="button" aria-label="迁移 GAN：利用有限数据生成图像">
+    <rect class="paper-hit" x="39.95999999999999" y="209.04479999999995" width="121.68" height="71.1648" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(43.867187 227.786675)">Transferring</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(73.56875 249.501175)">GANs</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(76.526562 271.10005)">[174]</text>
+   <title>迁移 GAN：利用有限数据生成图像</title></g>
+   <g id="patch_4">
+    <path d="M 143.242105 189.9648  Q 143.242105 182.7648 143.242105 176.962342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 140.042105 183.362342  L 143.242105 176.962342  L 146.442105 183.362342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_11" class="paper-node" data-paper="tl191205270" tabindex="0" role="button" aria-label="MineGAN：将 GAN 知识有效迁移至少量图像的目标域">
+    <rect class="paper-hit" x="92.43710526315789" y="121.98240000000001" width="101.61000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(96.373355 141.79405)">MineGAN</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(118.968668 163.392925)">[175]</text>
+   <title>MineGAN：将 GAN 知识有效迁移至少量图像的目标域</title></g>
+   <g id="patch_5">
+    <path d="M 185.684211 189.9648  Q 185.684211 230.2848 185.684211 269.207258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 188.884211 262.807258  L 185.684211 269.207258  L 182.484211 262.807258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_12" class="paper-node" data-paper="tl200210964" tabindex="0" role="button" aria-label="冻结判别器：GAN 微调的简单基线">
+    <rect class="paper-hit" x="143.15921052631577" y="275.28479999999996" width="85.05000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(147.135773 293.7923)">FreezeD</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(161.410773 315.391175)">[176]</text>
+   <title>冻结判别器：GAN 微调的简单基线</title></g>
+   <g id="patch_6">
+    <path d="M 228.126316 189.9648  Q 228.126316 149.6448 228.126316 110.722342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 224.926316 117.122342  L 228.126316 110.722342  L 231.326316 117.122342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_13" class="paper-node" data-paper="fewshot" tabindex="0" role="button" aria-label="通过跨域对应关系实现少样本图像生成">
+    <rect class="paper-hit" x="156.21631578947364" y="33.48" width="143.82" height="71.1648" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(160.115378 53.955175)">Cross-Domain</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(205.934128 75.55405)">Corr.</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(215.581003 97.152925)">[6]</text>
+   <title>通过跨域对应关系实现少样本图像生成</title></g>
+   <g id="patch_7">
+    <path d="M 270.568421 189.9648  Q 270.568421 197.1648 270.568421 202.967258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 273.768421 196.567258  L 270.568421 202.967258  L 267.368421 196.567258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_14" class="paper-node" data-paper="tl220515463" tabindex="0" role="button" aria-label="少样本扩散模型">
+    <rect class="paper-hit" x="238.25842105263155" y="209.04479999999995" width="64.62" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(242.234046 227.5523)">FSDM</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(246.294984 249.151175)">[177]</text>
+   <title>少样本扩散模型</title></g>
+   <g id="patch_8">
+    <path d="M 313.010526 189.9648  Q 313.010526 182.7648 313.010526 176.962342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 309.810526 183.362342  L 313.010526 176.962342  L 316.210526 183.362342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_15" class="paper-node" data-paper="tl220801618" tabindex="0" role="button" aria-label="一图抵一词：使用文本反演实现个性化文本到图像生成">
+    <rect class="paper-hit" x="265.31052631578945" y="99.72" width="95.4" height="71.1648" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(279.571464 120.195175)">Textual</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(269.344901 141.79405)">Inversion</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(288.737089 163.392925)">[178]</text>
+   <title>一图抵一词：使用文本反演实现个性化文本到图像生成</title></g>
+   <g id="patch_9">
+    <path d="M 355.452632 189.9648  Q 355.452632 230.2848 355.452632 269.207258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 358.652632 262.807258  L 355.452632 269.207258  L 352.252632 262.807258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_16" class="paper-node" data-paper="tl220812242" tabindex="0" role="button" aria-label="DreamBooth：微调文本到图像扩散模型以实现主体驱动生成">
+    <rect class="paper-hit" x="290.74263157894734" y="275.28479999999996" width="129.42000000000002" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(294.708882 293.7923)">DreamBooth</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(331.179194 315.391175)">[171]</text>
+   <title>DreamBooth：微调文本到图像扩散模型以实现主体驱动生成</title></g>
+   <g id="patch_10">
+    <path d="M 397.894737 189.9648  Q 397.894737 149.6448 397.894737 110.722342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 394.694737 117.122342  L 397.894737 110.722342  L 401.094737 117.122342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_17" class="paper-node" data-paper="tl221111337" tabindex="0" role="button" aria-label="DreamArtist：通过对比提示调优迈向可控的单样本文本到图像生成">
+    <rect class="paper-hit" x="336.1547368421052" y="55.74240000000004" width="123.48" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(340.116612 75.55405)">DreamArtist</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(373.621299 97.152925)">[179]</text>
+   <title>DreamArtist：通过对比提示调优迈向可控的单样本文本到图像生成</title></g>
+   <g id="patch_11">
+    <path d="M 440.336842 189.9648  Q 440.336842 197.1648 440.336842 202.967258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 443.536842 196.567258  L 440.336842 202.967258  L 437.136842 196.567258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_18" class="paper-node" data-paper="tl221204488" tabindex="0" role="button" aria-label="文本到图像扩散模型的多概念定制">
+    <rect class="paper-hit" x="393.1318421052631" y="209.04479999999995" width="94.41" height="71.1648" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(403.489967 227.5523)">Custom</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(397.150905 249.151175)">Diffusion</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(416.063405 270.75005)">[180]</text>
+   <title>文本到图像扩散模型的多概念定制</title></g>
+   <g id="patch_12">
+    <path d="M 482.778947 189.9648  Q 482.778947 182.7648 482.778947 176.962342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 479.578947 183.362342  L 482.778947 176.962342  L 485.978947 183.362342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_19" class="paper-node" data-paper="tl230305125" tabindex="0" role="button" aria-label="Cones：用于定制生成的扩散模型概念神经元">
+    <rect class="paper-hit" x="449.343947368421" y="121.98240000000001" width="66.87" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(453.266447 141.79405)">Cones</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(458.50551 163.392925)">[181]</text>
+   <title>Cones：用于定制生成的扩散模型概念神经元</title></g>
+   <g id="patch_13">
+    <path d="M 525.221053 189.9648  Q 525.221053 230.2848 525.221053 269.207258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 528.421053 262.807258  L 525.221053 269.207258  L 522.021053 262.807258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_20" class="paper-node" data-paper="tl230311305" tabindex="0" role="button" aria-label="SVDiff：用于扩散模型微调的紧凑参数空间">
+    <rect class="paper-hit" x="491.51605263157893" y="275.28479999999996" width="67.41" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(495.474178 293.7923)">SVDiff</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(500.947615 315.391175)">[182]</text>
+   <title>SVDiff：用于扩散模型微调的紧凑参数空间</title></g>
+   <g id="patch_14">
+    <path d="M 567.663158 189.9648  Q 567.663158 149.6448 567.663158 110.722342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 564.463158 117.122342  L 567.663158 110.722342  L 570.863158 117.122342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_21" class="paper-node" data-paper="tl230313508" tabindex="0" role="button" aria-label="DreamBooth3D：主体驱动的文本到 3D 生成">
+    <rect class="paper-hit" x="489.4531578947368" y="55.74240000000004" width="156.42" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(493.438158 75.55405)">DreamBooth3D</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(543.38972 97.152925)">[183]</text>
+   <title>DreamBooth3D：主体驱动的文本到 3D 生成</title></g>
+   <g id="patch_15">
+    <path d="M 610.105263 189.9648  Q 610.105263 197.1648 610.105263 202.967258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 613.305263 196.567258  L 610.105263 202.967258  L 606.905263 196.567258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_22" class="paper-node" data-paper="tl230501644" tabindex="0" role="button" aria-label="用于文本到图像个性化的键锁定秩一编辑">
+    <rect class="paper-hit" x="561.2352631578947" y="209.04479999999995" width="97.74000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(565.253701 227.5523)">Perfusion</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(585.831826 249.151175)">[184]</text>
+   <title>用于文本到图像个性化的键锁定秩一编辑</title></g>
+   <g id="patch_16">
+    <path d="M 652.547368 189.9648  Q 652.547368 182.7648 652.547368 176.962342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 649.347368 183.362342  L 652.547368 176.962342  L 655.747368 183.362342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_23" class="paper-node" data-paper="tl230503374" tabindex="0" role="button" aria-label="DisenBooth：用于主体驱动文本到图像生成的身份保持解耦调优">
+    <rect class="paper-hit" x="592.9223684210526" y="121.98240000000001" width="119.25" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(596.930181 141.79405)">DisenBooth</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(628.273931 163.392925)">[185]</text>
+   <title>DisenBooth：用于主体驱动文本到图像生成的身份保持解耦调优</title></g>
+   <g id="patch_17">
+    <path d="M 694.989474 189.9648  Q 694.989474 230.2848 694.989474 269.207258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 698.189474 262.807258  L 694.989474 269.207258  L 691.789474 262.807258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_24" class="paper-node" data-paper="tl230518292" tabindex="0" role="button" aria-label="Mix-of-Show：面向扩散模型多概念定制的去中心化低秩适配">
+    <rect class="paper-hit" x="629.6494736842105" y="275.28479999999996" width="130.68" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(633.566036 293.7923)">Mix-of-Show</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(670.716036 315.391175)">[186]</text>
+   <title>Mix-of-Show：面向扩散模型多概念定制的去中心化低秩适配</title></g>
+   <g id="patch_18">
+    <path d="M 737.431579 189.9648  Q 737.431579 149.6448 737.431579 110.722342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 734.231579 117.122342  L 737.431579 110.722342  L 740.631579 117.122342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_25" class="paper-node" data-paper="tl230706949" tabindex="0" role="button" aria-label="HyperDreamBooth：用于快速个性化文本到图像模型的超网络">
+    <rect class="paper-hit" x="643.7865789473685" y="55.74240000000004" width="187.29" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(647.780016 75.438425)">HyperDreamBooth</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(713.158141 97.152925)">[187]</text>
+   <title>HyperDreamBooth：用于快速个性化文本到图像模型的超网络</title></g>
+   <g id="patch_19">
+    <path d="M 779.873684 189.9648  Q 779.873684 197.1648 779.873684 202.967258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 783.073684 196.567258  L 779.873684 202.967258  L 776.673684 196.567258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_26" class="paper-node" data-paper="tl250702687" tabindex="0" role="button" aria-label="APT：面向有限数据扩散模型的自适应个性化训练">
+    <rect class="paper-hit" x="751.5686842105263" y="209.04479999999995" width="56.61" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(760.986184 227.5523)">APT</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(755.600247 249.151175)">[188]</text>
+   <title>APT：面向有限数据扩散模型的自适应个性化训练</title></g>
+   <g id="patch_20">
+    <path d="M 822.315789 189.9648  Q 822.315789 182.7648 822.315789 176.962342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 819.115789 183.362342  L 822.315789 176.962342  L 825.515789 183.362342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_27" class="paper-node" data-paper="tl251118281" tabindex="0" role="button" aria-label="Uni-DAD：统一扩散模型蒸馏与适配，实现少步少样本图像生成">
+    <rect class="paper-hit" x="775.6057894736842" y="121.98240000000001" width="93.42" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(779.604852 141.79405)">Uni-DAD</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(798.042352 163.392925)">[189]</text>
+   <title>Uni-DAD：统一扩散模型蒸馏与适配，实现少步少样本图像生成</title></g>
+   <g id="patch_21">
+    <path d="M 864.757895 189.9648  Q 864.757895 230.2848 864.757895 269.207258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 867.957895 262.807258  L 864.757895 269.207258  L 861.557895 262.807258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_28" class="paper-node" data-paper="tl260400903" tabindex="0" role="button" aria-label="IDDM：具有可调隐私-效用权衡的身份解耦个性化扩散模型">
+    <rect class="paper-hit" x="832.7628947368421" y="275.28479999999996" width="63.99" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(836.814145 293.7923)">IDDM</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(840.484457 315.391175)">[170]</text>
+   <title>IDDM：具有可调隐私-效用权衡的身份解耦个性化扩散模型</title></g>
+   <g id="patch_22">
+    <path d="M 907.2 189.9648  Q 907.2 149.6448 907.2 110.722342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 904 117.122342  L 907.2 110.722342  L 910.4 117.122342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_29" class="paper-node" data-paper="endofsa" tabindex="0" role="button" aria-label="EndoFSA：通过秩约束参数适配实现内镜少样本图像生成">
+    <rect class="paper-hit" x="860.85" y="55.74240000000004" width="92.7" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(864.801562 75.55405)">EndoFSA</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(882.926562 97.152925)">[172]</text>
+   <title>EndoFSA：通过秩约束参数适配实现内镜少样本图像生成</title></g>
+  </g>
+ </g>
+</svg>

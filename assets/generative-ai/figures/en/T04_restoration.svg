@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="322.362pt" viewBox="0 0 1008 322.362" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T02:43:30.606445</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 322.362  L 1008 322.362  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start" x="15.84" y="20.62125" transform="rotate(-0 15.84 20.62125)">04  Restoration / fill</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 48.797795 161.946  Q 502.198724 161.946 954.202111 161.946  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 947.002111 158.346  L 954.202111 161.946  L 947.002111 165.546  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="143.242105" y="314.572312" transform="rotate(-0 143.242105 314.572312)">2018</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="249.347368" y="314.572312" transform="rotate(-0 249.347368 314.572312)">2019</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="313.010526" y="314.572312" transform="rotate(-0 313.010526 314.572312)">2020</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="440.336842" y="314.572312" transform="rotate(-0 440.336842 314.572312)">2021</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="588.884211" y="314.572312" transform="rotate(-0 588.884211 314.572312)">2022</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="716.210526" y="314.572312" transform="rotate(-0 716.210526 314.572312)">2023</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="843.536842" y="314.572312" transform="rotate(-0 843.536842 314.572312)">2024</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="907.2" y="314.572312" transform="rotate(-0 907.2 314.572312)">2026*</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.8 161.946  Q 100.8 169.146 100.8 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 104 168.548458  L 100.8 174.948458  L 97.6 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_10" class="paper-node" data-paper="tl180107892" tabindex="0" role="button" aria-label="Generative Image Inpainting with Contextual Attention">
+    <rect class="paper-hit" x="20.83499999999999" y="181.02599999999998" width="159.93" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(24.640625 197.861625)">Context Attention</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(84.121875 216.786625)">[90]</text>
+   <title>Generative Image Inpainting with Contextual Attention</title></g>
+   <g id="patch_4">
+    <path d="M 143.242105 161.946  Q 143.242105 154.746 143.242105 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 140.042105 155.343542  L 143.242105 148.943542  L 146.442105 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_11" class="paper-node" data-paper="tl180407723" tabindex="0" role="button" aria-label="Image Inpainting for Irregular Holes Using Partial Convolutions">
+    <rect class="paper-hit" x="84.74210526315791" y="99.81000000000002" width="117.0" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(88.77648 117.446)">Partial Conv</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(126.56398 136.371)">[91]</text>
+   <title>Image Inpainting for Irregular Holes Using Partial Convolutions</title></g>
+   <g id="patch_5">
+    <path d="M 185.684211 161.946  Q 185.684211 202.266 185.684211 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 188.884211 234.788458  L 185.684211 241.188458  L 182.484211 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_12" class="paper-node" data-paper="tl180900219" tabindex="0" role="button" aria-label="ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks">
+    <rect class="paper-hit" x="139.55921052631578" y="247.26599999999996" width="92.25" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(143.451398 264.101625)">ESRGAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(169.006086 283.026625)">[92]</text>
+   <title>ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks</title></g>
+   <g id="patch_6">
+    <path d="M 228.126316 161.946  Q 228.126316 121.626 228.126316 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 224.926316 89.103542  L 228.126316 82.703542  L 231.326316 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_13" class="paper-node" data-paper="tl190100212" tabindex="0" role="button" aria-label="EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning">
+    <rect class="paper-hit" x="163.64131578947362" y="33.48" width="128.97" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(167.529441 50.971625)">EdgeConnect</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(211.448191 70.131)">[93]</text>
+   <title>EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning</title></g>
+   <g id="patch_7">
+    <path d="M 270.568421 161.946  Q 270.568421 169.146 270.568421 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 273.768421 168.548458  L 270.568421 174.948458  L 267.368421 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_14" class="paper-node" data-paper="tl190304227" tabindex="0" role="button" aria-label="Pluralistic Image Completion">
+    <rect class="paper-hit" x="208.10842105263154" y="181.02599999999998" width="124.92" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(212.229359 197.861625)">Pluralistic Fill</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(253.890296 216.786625)">[94]</text>
+   <title>Pluralistic Image Completion</title></g>
+   <g id="patch_8">
+    <path d="M 313.010526 161.946  Q 313.010526 154.746 313.010526 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 309.810526 155.343542  L 313.010526 148.943542  L 316.210526 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_15" class="paper-node" data-paper="tl200614200" tabindex="0" role="button" aria-label="SRFlow: Learning the Super-Resolution Space with Normalizing Flow">
+    <rect class="paper-hit" x="274.13052631578944" y="99.81000000000002" width="77.76" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(278.005839 117.446)">SRFlow</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(296.332401 136.371)">[95]</text>
+   <title>SRFlow: Learning the Super-Resolution Space with Normalizing Flow</title></g>
+   <g id="patch_9">
+    <path d="M 355.452632 161.946  Q 355.452632 202.266 355.452632 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 358.652632 234.788458  L 355.452632 241.188458  L 352.252632 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_16" class="paper-node" data-paper="tl210104061" tabindex="0" role="button" aria-label="Towards Real-World Blind Face Restoration with Generative Facial Prior">
+    <rect class="paper-hit" x="305.99763157894733" y="247.26599999999996" width="98.91" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(309.896382 264.101625)">GFP-GAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(338.774507 283.026625)">[96]</text>
+   <title>Towards Real-World Blind Face Restoration with Generative Facial Prior</title></g>
+   <g id="patch_10">
+    <path d="M 397.894737 161.946  Q 397.894737 121.626 397.894737 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 394.694737 89.103542  L 397.894737 82.703542  L 401.094737 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_17" class="paper-node" data-paper="tl210407636" tabindex="0" role="button" aria-label="Image Super-Resolution via Iterative Refinement">
+    <rect class="paper-hit" x="374.4947368421052" y="33.570000000000014" width="46.800000000000004" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(378.441612 51.206)">SR3</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(381.216612 70.131)">[97]</text>
+   <title>Image Super-Resolution via Iterative Refinement</title></g>
+   <g id="patch_11">
+    <path d="M 440.336842 161.946  Q 440.336842 169.146 440.336842 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 443.536842 168.548458  L 440.336842 174.948458  L 437.136842 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_18" class="paper-node" data-paper="tl210710833" tabindex="0" role="button" aria-label="Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data">
+    <rect class="paper-hit" x="370.31684210526305" y="181.02599999999998" width="140.04" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(374.208717 197.861625)">Real-ESRGAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(423.658717 216.786625)">[98]</text>
+   <title>Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data</title></g>
+   <g id="patch_12">
+    <path d="M 482.778947 161.946  Q 482.778947 154.746 482.778947 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 479.578947 155.343542  L 482.778947 148.943542  L 485.978947 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_19" class="paper-node" data-paper="tl210907161" tabindex="0" role="button" aria-label="Resolution-robust Large Mask Inpainting with Fourier Convolutions">
+    <rect class="paper-hit" x="453.798947368421" y="99.81000000000002" width="57.959999999999994" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(457.766447 117.446)">LaMa</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(466.100822 136.371)">[99]</text>
+   <title>Resolution-robust Large Mask Inpainting with Fourier Convolutions</title></g>
+   <g id="patch_13">
+    <path d="M 525.221053 161.946  Q 525.221053 202.266 525.221053 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 528.421053 234.788458  L 525.221053 241.188458  L 522.021053 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_20" class="paper-node" data-paper="palette" tabindex="0" role="button" aria-label="Palette: Image-to-Image Diffusion Models">
+    <rect class="paper-hit" x="490.21105263157887" y="247.26599999999996" width="70.02" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(494.089803 264.101625)">Palette</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(508.542928 283.026625)">[16]</text>
+   <title>Palette: Image-to-Image Diffusion Models</title></g>
+   <g id="patch_14">
+    <path d="M 567.663158 161.946  Q 567.663158 121.626 567.663158 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 564.463158 89.103542  L 567.663158 82.703542  L 570.863158 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_21" class="paper-node" data-paper="tl220109865" tabindex="0" role="button" aria-label="RePaint: Inpainting using Denoising Diffusion Probabilistic Models">
+    <rect class="paper-hit" x="528.1531578947368" y="33.570000000000014" width="79.02000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(532.088158 51.206)">RePaint</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(545.424095 70.131)">[100]</text>
+   <title>RePaint: Inpainting using Denoising Diffusion Probabilistic Models</title></g>
+   <g id="patch_15">
+    <path d="M 610.105263 161.946  Q 610.105263 169.146 610.105263 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 613.305263 168.548458  L 610.105263 174.948458  L 606.905263 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_22" class="paper-node" data-paper="tl220611253" tabindex="0" role="button" aria-label="Towards Robust Blind Face Restoration with Codebook Lookup Transformer">
+    <rect class="paper-hit" x="550.1202631578947" y="181.02599999999998" width="119.97" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(553.981826 197.861625)">CodeFormer</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(587.866201 216.786625)">[101]</text>
+   <title>Towards Robust Blind Face Restoration with Codebook Lookup Transformer</title></g>
+   <g id="patch_16">
+    <path d="M 652.547368 161.946  Q 652.547368 154.746 652.547368 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 649.347368 155.343542  L 652.547368 148.943542  L 655.747368 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_23" class="paper-node" data-paper="tl230507015" tabindex="0" role="button" aria-label="Exploiting Diffusion Prior for Real-World Image Super-Resolution">
+    <rect class="paper-hit" x="606.3773684210527" y="99.81000000000002" width="92.34000000000002" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(610.302056 117.446)">StableSR</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(630.308306 136.371)">[102]</text>
+   <title>Exploiting Diffusion Prior for Real-World Image Super-Resolution</title></g>
+   <g id="patch_17">
+    <path d="M 694.989474 161.946  Q 694.989474 202.266 694.989474 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 698.189474 234.788458  L 694.989474 241.188458  L 691.789474 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_24" class="paper-node" data-paper="tl230815070" tabindex="0" role="button" aria-label="DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior">
+    <rect class="paper-hit" x="659.4844736842106" y="247.26599999999996" width="71.00999999999999" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(663.494161 264.101625)">DiffBIR</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(672.750411 283.026625)">[103]</text>
+   <title>DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior</title></g>
+   <g id="patch_18">
+    <path d="M 737.431579 161.946  Q 737.431579 121.626 737.431579 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 734.231579 89.103542  L 737.431579 82.703542  L 740.631579 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_25" class="paper-node" data-paper="tl231114760" tabindex="0" role="button" aria-label="SinSR: Diffusion-Based Image Super-Resolution in a Single Step">
+    <rect class="paper-hit" x="705.1215789473684" y="33.570000000000014" width="64.62" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(709.086266 51.206)">SinSR</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(715.192516 70.131)">[104]</text>
+   <title>SinSR: Diffusion-Based Image Super-Resolution in a Single Step</title></g>
+   <g id="patch_19">
+    <path d="M 779.873684 161.946  Q 779.873684 169.146 779.873684 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 783.073684 168.548458  L 779.873684 174.948458  L 776.673684 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_26" class="paper-node" data-paper="tl231116518" tabindex="0" role="button" aria-label="SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution">
+    <rect class="paper-hit" x="744.3236842105263" y="181.02599999999998" width="71.1" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(748.189309 197.861625)">SeeSR</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(757.634622 216.786625)">[105]</text>
+   <title>SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution</title></g>
+   <g id="patch_20">
+    <path d="M 822.315789 161.946  Q 822.315789 154.746 822.315789 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 819.115789 155.343542  L 822.315789 148.943542  L 825.515789 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_27" class="paper-node" data-paper="tl240113627" tabindex="0" role="button" aria-label="Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild">
+    <rect class="paper-hit" x="787.8457894736841" y="99.81000000000002" width="68.94" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(791.753289 117.446)">SUPIR</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(800.076727 136.371)">[106]</text>
+   <title>Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild</title></g>
+   <g id="patch_21">
+    <path d="M 864.757895 161.946  Q 864.757895 202.266 864.757895 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 867.957895 234.788458  L 864.757895 241.188458  L 861.557895 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_28" class="paper-node" data-paper="tl240608177" tabindex="0" role="button" aria-label="One-Step Effective Diffusion Network for Real-World Image Super-Resolution">
+    <rect class="paper-hit" x="824.7978947368421" y="247.26599999999996" width="79.92" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(828.814145 264.101625)">OSEDiff</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(842.518832 283.026625)">[107]</text>
+   <title>One-Step Effective Diffusion Network for Real-World Image Super-Resolution</title></g>
+   <g id="patch_22">
+    <path d="M 907.2 161.946  Q 907.2 121.626 907.2 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 904 89.103542  L 907.2 82.703542  L 910.4 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_29" class="paper-node" data-paper="tl260716649" tabindex="0" role="button" aria-label="DRIFT: Difficulty-aware Rectified Flows for Through-plane MRI Super-Resolution">
+    <rect class="paper-hit" x="873.855" y="33.570000000000014" width="66.69" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(877.7625 51.206)">DRIFT</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(884.960937 70.131)">[108]</text>
+   <title>DRIFT: Difficulty-aware Rectified Flows for Through-plane MRI Super-Resolution</title></g>
+  </g>
+ </g>
+</svg>

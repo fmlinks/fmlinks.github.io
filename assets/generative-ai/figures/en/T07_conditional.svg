@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="322.362pt" viewBox="0 0 1008 322.362" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T02:43:31.950648</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 322.362  L 1008 322.362  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start" x="15.84" y="20.62125" transform="rotate(-0 15.84 20.62125)">07  Conditional</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 48.797795 161.856  Q 502.198724 161.856 954.202111 161.856  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 947.002111 158.256  L 954.202111 161.856  L 947.002111 165.456  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="143.242105" y="314.572312" transform="rotate(-0 143.242105 314.572312)">2018</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="270.568421" y="314.572312" transform="rotate(-0 270.568421 314.572312)">2019</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="440.336842" y="314.572312" transform="rotate(-0 440.336842 314.572312)">2021</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="610.105263" y="314.572312" transform="rotate(-0 610.105263 314.572312)">2022</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="737.431579" y="314.572312" transform="rotate(-0 737.431579 314.572312)">2023</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="822.315789" y="314.572312" transform="rotate(-0 822.315789 314.572312)">2024</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="885.978947" y="314.572312" transform="rotate(-0 885.978947 314.572312)">2026*</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.8 161.856  Q 100.8 169.056 100.8 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 104 168.458458  L 100.8 174.858458  L 97.6 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_9" class="paper-node" data-paper="tl180404732" tabindex="0" role="button" aria-label="Multimodal Unsupervised Image-to-Image Translation">
+    <rect class="paper-hit" x="65.24999999999999" y="180.93599999999998" width="71.1" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(69.140625 197.771625)">MUNIT</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(84.121875 216.696625)">[52]</text>
+   <title>Multimodal Unsupervised Image-to-Image Translation</title></g>
+   <g id="patch_4">
+    <path d="M 143.242105 161.856  Q 143.242105 154.656 143.242105 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 140.042105 155.253542  L 143.242105 148.853542  L 146.442105 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_10" class="paper-node" data-paper="tl180911096" tabindex="0" role="button" aria-label="Large Scale GAN Training for High Fidelity Natural Image Synthesis">
+    <rect class="paper-hit" x="103.1921052631579" y="99.72" width="80.10000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(107.118668 117.121625)">BigGAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(126.56398 136.281)">[30]</text>
+   <title>Large Scale GAN Training for High Fidelity Natural Image Synthesis</title></g>
+   <g id="patch_5">
+    <path d="M 185.684211 161.856  Q 185.684211 202.176 185.684211 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 188.884211 234.698458  L 185.684211 241.098458  L 182.484211 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_11" class="paper-node" data-paper="tl181111389" tabindex="0" role="button" aria-label="Image Generation from Layout">
+    <rect class="paper-hit" x="135.05921052631578" y="247.176" width="101.25" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(138.993586 264.071)">Layout2Im</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(163.445148 283.230375)">[150]</text>
+   <title>Image Generation from Layout</title></g>
+   <g id="patch_6">
+    <path d="M 228.126316 161.856  Q 228.126316 121.536 228.126316 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 224.926316 89.013542  L 228.126316 82.613542  L 231.326316 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_12" class="paper-node" data-paper="tl190210740" tabindex="0" role="button" aria-label="Object-driven Text-to-Image Synthesis via Adversarial Training">
+    <rect class="paper-hit" x="183.57631578947365" y="33.47999999999997" width="89.10000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(187.565378 50.881625)">Obj-GAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(205.887253 70.041)">[151]</text>
+   <title>Object-driven Text-to-Image Synthesis via Adversarial Training</title></g>
+   <g id="patch_7">
+    <path d="M 270.568421 161.856  Q 270.568421 169.056 270.568421 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 273.768421 168.458458  L 270.568421 174.858458  L 267.368421 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_13" class="paper-node" data-paper="tl190307291" tabindex="0" role="button" aria-label="Semantic Image Synthesis with Spatially-Adaptive Normalization">
+    <rect class="paper-hit" x="233.44342105263155" y="180.93599999999998" width="74.25" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(237.402796 197.771625)">SPADE</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(248.329359 216.696625)">[147]</text>
+   <title>Semantic Image Synthesis with Spatially-Adaptive Normalization</title></g>
+   <g id="patch_8">
+    <path d="M 313.010526 161.856  Q 313.010526 154.656 313.010526 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 309.810526 155.253542  L 313.010526 148.853542  L 316.210526 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_14" class="paper-node" data-paper="tl190401310" tabindex="0" role="button" aria-label="DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis">
+    <rect class="paper-hit" x="268.50552631578944" y="99.72" width="89.01" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(272.458964 117.356)">DM-GAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(290.771464 136.281)">[152]</text>
+   <title>DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis</title></g>
+   <g id="patch_9">
+    <path d="M 355.452632 161.856  Q 355.452632 202.176 355.452632 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 358.652632 234.698458  L 355.452632 241.098458  L 352.252632 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_15" class="paper-node" data-paper="tl210212092" tabindex="0" role="button" aria-label="Zero-Shot Text-to-Image Generation">
+    <rect class="paper-hit" x="316.5276315789473" y="247.176" width="77.85000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(320.438569 264.011625)">DALL-E</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(338.774507 282.936625)">[37]</text>
+   <title>Zero-Shot Text-to-Image Generation</title></g>
+   <g id="patch_10">
+    <path d="M 397.894737 161.856  Q 397.894737 121.536 397.894737 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 394.694737 89.013542  L 397.894737 82.613542  L 401.094737 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_16" class="paper-node" data-paper="tl210407636" tabindex="0" role="button" aria-label="Image Super-Resolution via Iterative Refinement">
+    <rect class="paper-hit" x="374.4947368421052" y="33.47999999999997" width="46.800000000000004" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(378.441612 51.116)">SR3</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(381.216612 70.041)">[97]</text>
+   <title>Image Super-Resolution via Iterative Refinement</title></g>
+   <g id="patch_11">
+    <path d="M 440.336842 161.856  Q 440.336842 169.056 440.336842 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 443.536842 168.458458  L 440.336842 174.858458  L 437.136842 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_17" class="paper-node" data-paper="palette" tabindex="0" role="button" aria-label="Palette: Image-to-Image Diffusion Models">
+    <rect class="paper-hit" x="405.3268421052631" y="180.93599999999998" width="70.02" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(409.205592 197.771625)">Palette</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(423.658717 216.696625)">[16]</text>
+   <title>Palette: Image-to-Image Diffusion Models</title></g>
+   <g id="patch_12">
+    <path d="M 482.778947 161.856  Q 482.778947 154.656 482.778947 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 479.578947 155.253542  L 482.778947 148.853542  L 485.978947 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_18" class="paper-node" data-paper="ldm" tabindex="0" role="button" aria-label="High-Resolution Image Synthesis with Latent Diffusion Models">
+    <rect class="paper-hit" x="409.473947368421" y="99.72" width="146.60999999999999" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(413.471135 117.41775)">Latent Diffusion</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(471.66176 136.281)">[7]</text>
+   <title>High-Resolution Image Synthesis with Latent Diffusion Models</title></g>
+   <g id="patch_13">
+    <path d="M 525.221053 161.856  Q 525.221053 202.176 525.221053 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 528.421053 234.698458  L 525.221053 241.098458  L 522.021053 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_19" class="paper-node" data-paper="tl211210741" tabindex="0" role="button" aria-label="GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models">
+    <rect class="paper-hit" x="491.2460526315789" y="247.176" width="67.95" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(495.211678 264.011625)">GLIDE</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(508.542928 282.936625)">[39]</text>
+   <title>GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models</title></g>
+   <g id="patch_14">
+    <path d="M 567.663158 161.856  Q 567.663158 121.536 567.663158 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 564.463158 89.013542  L 567.663158 82.613542  L 570.863158 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_20" class="paper-node" data-paper="tl220313131" tabindex="0" role="button" aria-label="Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors">
+    <rect class="paper-hit" x="497.5981578947368" y="33.47999999999997" width="140.13" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(501.528783 51.116)">Make-A-Scene</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(545.424095 70.041)">[153]</text>
+   <title>Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors</title></g>
+   <g id="patch_15">
+    <path d="M 610.105263 161.856  Q 610.105263 169.056 610.105263 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 613.305263 168.458458  L 610.105263 174.858458  L 606.905263 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_21" class="paper-node" data-paper="tl220511487" tabindex="0" role="button" aria-label="Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding">
+    <rect class="paper-hit" x="572.8002631578947" y="180.93599999999998" width="74.61000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(576.753701 197.771625)">Imagen</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(593.427138 216.931)">[41]</text>
+   <title>Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding</title></g>
+   <g id="patch_16">
+    <path d="M 652.547368 161.856  Q 652.547368 154.656 652.547368 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 649.347368 155.253542  L 652.547368 148.853542  L 655.747368 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_22" class="paper-node" data-paper="tl221112737" tabindex="0" role="button" aria-label="RoentGen: Vision-Language Foundation Model for Chest X-ray Generation">
+    <rect class="paper-hit" x="603.0923684210527" y="99.72" width="98.91" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(606.964556 117.356)">RoentGen</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(630.308306 136.281)">[148]</text>
+   <title>RoentGen: Vision-Language Foundation Model for Chest X-ray Generation</title></g>
+   <g id="patch_17">
+    <path d="M 694.989474 161.856  Q 694.989474 202.176 694.989474 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 698.189474 234.698458  L 694.989474 241.098458  L 691.789474 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_23" class="paper-node" data-paper="tl230107093" tabindex="0" role="button" aria-label="GLIGEN: Open-Set Grounded Text-to-Image Generation">
+    <rect class="paper-hit" x="653.2744736842105" y="247.176" width="83.43" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(657.201974 264.011625)">GLIGEN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(672.750411 282.936625)">[154]</text>
+   <title>GLIGEN: Open-Set Grounded Text-to-Image Generation</title></g>
+   <g id="patch_18">
+    <path d="M 737.431579 161.856  Q 737.431579 121.536 737.431579 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 734.231579 89.013542  L 737.431579 82.613542  L 740.631579 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_24" class="paper-node" data-paper="controlnet" tabindex="0" role="button" aria-label="Adding Conditional Control to Text-to-Image Diffusion Models">
+    <rect class="paper-hit" x="685.7715789473685" y="33.47999999999997" width="103.32000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(689.636266 51.116)">ControlNet</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(715.192516 70.041)">[149]</text>
+   <title>Adding Conditional Control to Text-to-Image Diffusion Models</title></g>
+   <g id="patch_19">
+    <path d="M 779.873684 161.856  Q 779.873684 169.056 779.873684 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 783.073684 168.458458  L 779.873684 174.858458  L 776.673684 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_25" class="paper-node" data-paper="tl230208453" tabindex="0" role="button" aria-label="T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models">
+    <rect class="paper-hit" x="723.1286842105263" y="180.93599999999998" width="113.49000000000001" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(727.075247 197.831)">T2I-Adapter</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(757.634622 216.756)">[155]</text>
+   <title>T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models</title></g>
+   <g id="patch_20">
+    <path d="M 822.315789 161.856  Q 822.315789 154.656 822.315789 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 819.115789 155.253542  L 822.315789 148.853542  L 825.515789 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_26" class="paper-node" data-paper="maisi" tabindex="0" role="button" aria-label="MAISI: Medical AI for Synthetic Imaging">
+    <rect class="paper-hit" x="791.1307894736841" y="99.72" width="62.37" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(795.089227 117.356)">MAISI</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(811.198602 136.281)">[9]</text>
+   <title>MAISI: Medical AI for Synthetic Imaging</title></g>
+   <g id="patch_21">
+    <path d="M 864.757895 161.856  Q 864.757895 202.176 864.757895 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 867.957895 234.698458  L 864.757895 241.098458  L 861.557895 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_27" class="paper-node" data-paper="tl260521573" tabindex="0" role="button" aria-label="Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models">
+    <rect class="paper-hit" x="838.5228947368421" y="247.176" width="52.47" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(843.075082 264.011625)">Lens</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(842.518832 282.936625)">[156]</text>
+   <title>Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models</title></g>
+   <g id="patch_22">
+    <path d="M 907.2 161.856  Q 907.2 121.536 907.2 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 904 89.013542  L 907.2 82.613542  L 910.4 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_28" class="paper-node" data-paper="tl260622568" tabindex="0" role="button" aria-label="SeFi-Image: A Text-to-Image Foundation Model with Semantic-First Diffusion">
+    <rect class="paper-hit" x="851.625" y="33.47999999999997" width="111.15" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(855.51875 50.881625)">SeFi-Image</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(884.960937 70.041)">[157]</text>
+   <title>SeFi-Image: A Text-to-Image Foundation Model with Semantic-First Diffusion</title></g>
+  </g>
+ </g>
+</svg>

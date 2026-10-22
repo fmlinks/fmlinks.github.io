@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="322.362pt" viewBox="0 0 1008 322.362" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T02:43:34.095183</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 322.362  L 1008 322.362  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start" x="15.84" y="20.62125" transform="rotate(-0 15.84 20.62125)">12  Data-efficient</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 48.797795 161.856  Q 502.198724 161.856 954.202111 161.856  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 947.002111 158.256  L 954.202111 161.856  L 947.002111 165.456  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="100.8" y="314.572312" transform="rotate(-0 100.8 314.572312)">2018</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="152.64" y="314.572312" transform="rotate(-0 152.64 314.572312)">2019</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="228.126316" y="314.572312" transform="rotate(-0 228.126316 314.572312)">2020</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="397.894737" y="314.572312" transform="rotate(-0 397.894737 314.572312)">2021</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="610.105263" y="314.572312" transform="rotate(-0 610.105263 314.572312)">2022</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="758.652632" y="314.572312" transform="rotate(-0 758.652632 314.572312)">2024</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="822.315789" y="314.572312" transform="rotate(-0 822.315789 314.572312)">2025</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="885.978947" y="314.572312" transform="rotate(-0 885.978947 314.572312)">2026*</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.8 161.856  Q 100.8 169.056 100.8 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 104 168.458458  L 100.8 174.858458  L 97.6 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_10" class="paper-node" data-paper="tl180501677" tabindex="0" role="button" aria-label="Transferring GANs: generating images from limited data">
+    <rect class="paper-hit" x="43.28999999999999" y="180.93599999999998" width="115.02000000000001" height="62.35199999999999" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(47.273437 198.015375)">Transferring</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(74.129687 217.113)">GANs</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(78.560937 236.038)">[174]</text>
+   <title>Transferring GANs: generating images from limited data</title></g>
+   <g id="patch_4">
+    <path d="M 143.242105 161.856  Q 143.242105 154.656 143.242105 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 140.042105 155.253542  L 143.242105 148.853542  L 146.442105 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_11" class="paper-node" data-paper="tl191205270" tabindex="0" role="button" aria-label="MineGAN: effective knowledge transfer from GANs to target domains with few images">
+    <rect class="paper-hit" x="95.94710526315788" y="99.72" width="94.59000000000002" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(99.898355 117.356)">MineGAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(121.003043 136.281)">[175]</text>
+   <title>MineGAN: effective knowledge transfer from GANs to target domains with few images</title></g>
+   <g id="patch_5">
+    <path d="M 185.684211 161.856  Q 185.684211 202.176 185.684211 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 188.884211 234.698458  L 185.684211 241.098458  L 182.484211 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_12" class="paper-node" data-paper="tl200210964" tabindex="0" role="button" aria-label="Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs">
+    <rect class="paper-hit" x="143.47421052631577" y="247.176" width="84.42" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(147.342023 264.011625)">FreezeD</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(163.445148 282.936625)">[176]</text>
+   <title>Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs</title></g>
+   <g id="patch_6">
+    <path d="M 228.126316 161.856  Q 228.126316 121.536 228.126316 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 224.926316 89.013542  L 228.126316 82.613542  L 231.326316 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_13" class="paper-node" data-paper="tl200606676" tabindex="0" role="button" aria-label="Training Generative Adversarial Networks with Limited Data">
+    <rect class="paper-hit" x="201.84631578947364" y="33.47999999999997" width="52.56" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(207.563816 51.116)">ADA</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(205.887253 70.041)">[173]</text>
+   <title>Training Generative Adversarial Networks with Limited Data</title></g>
+   <g id="patch_7">
+    <path d="M 270.568421 161.856  Q 270.568421 169.056 270.568421 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 273.768421 168.458458  L 270.568421 174.858458  L 267.368421 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_14" class="paper-node" data-paper="tl200610738" tabindex="0" role="button" aria-label="Differentiable Augmentation for Data-Efficient GAN Training">
+    <rect class="paper-hit" x="211.75342105263155" y="180.93599999999998" width="117.63" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(215.721546 198.015375)">DiffAugment</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(248.329359 217.17475)">[193]</text>
+   <title>Differentiable Augmentation for Data-Efficient GAN Training</title></g>
+   <g id="patch_8">
+    <path d="M 313.010526 161.856  Q 313.010526 154.656 313.010526 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 309.810526 155.253542  L 313.010526 148.853542  L 316.210526 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_15" class="paper-node" data-paper="tl210104775" tabindex="0" role="button" aria-label="Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis">
+    <rect class="paper-hit" x="268.01052631578943" y="99.72" width="90.0" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(271.893339 117.356)">FastGAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(290.771464 136.281)">[194]</text>
+   <title>Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis</title></g>
+   <g id="patch_9">
+    <path d="M 355.452632 161.856  Q 355.452632 202.176 355.452632 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 358.652632 234.698458  L 355.452632 241.098458  L 352.252632 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_16" class="paper-node" data-paper="tl210300397" tabindex="0" role="button" aria-label="Data-Efficient GAN Training Beyond (Just) Augmentations: A Lottery Ticket Perspective">
+    <rect class="paper-hit" x="296.6376315789473" y="247.176" width="117.63" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(300.435444 264.255375)">Lottery GAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(333.213569 283.41475)">[195]</text>
+   <title>Data-Efficient GAN Training Beyond (Just) Augmentations: A Lottery Ticket Perspective</title></g>
+   <g id="patch_10">
+    <path d="M 397.894737 161.856  Q 397.894737 121.536 397.894737 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 394.694737 89.013542  L 397.894737 82.613542  L 401.094737 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_17" class="paper-node" data-paper="tl210403310" tabindex="0" role="button" aria-label="Regularizing Generative Adversarial Networks under Limited Data">
+    <rect class="paper-hit" x="361.71473684210525" y="33.47999999999997" width="72.36000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(365.660362 51.116)">LeCam</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(375.655674 70.041)">[196]</text>
+   <title>Regularizing Generative Adversarial Networks under Limited Data</title></g>
+   <g id="patch_11">
+    <path d="M 440.336842 161.856  Q 440.336842 169.056 440.336842 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 443.536842 168.458458  L 440.336842 174.858458  L 437.136842 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_18" class="paper-node" data-paper="fewshot" tabindex="0" role="button" aria-label="Few-shot Image Generation via Cross-domain Correspondence">
+    <rect class="paper-hit" x="372.43184210526306" y="180.93599999999998" width="135.81" height="62.35199999999999" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(376.438405 197.771625)">Cross-Domain</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(418.66653 216.634875)">Corr.</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(429.219655 235.559875)">[6]</text>
+   <title>Few-shot Image Generation via Cross-domain Correspondence</title></g>
+   <g id="patch_12">
+    <path d="M 482.778947 161.856  Q 482.778947 154.656 482.778947 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 479.578947 155.253542  L 482.778947 148.853542  L 485.978947 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_19" class="paper-node" data-paper="tl211101007" tabindex="0" role="button" aria-label="Projected GANs Converge Faster">
+    <rect class="paper-hit" x="407.223947368421" y="99.63000000000002" width="151.10999999999999" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(411.08676 117.121625)">Projected GANs</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(460.539885 136.281)">[197]</text>
+   <title>Projected GANs Converge Faster</title></g>
+   <g id="patch_13">
+    <path d="M 525.221053 161.856  Q 525.221053 202.176 525.221053 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 528.421053 234.698458  L 525.221053 241.098458  L 522.021053 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_20" class="paper-node" data-paper="tl220515463" tabindex="0" role="button" aria-label="Few-Shot Diffusion Models">
+    <rect class="paper-hit" x="492.95605263157887" y="247.176" width="64.53" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(496.891365 264.011625)">FSDM</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(502.98199 282.936625)">[177]</text>
+   <title>Few-Shot Diffusion Models</title></g>
+   <g id="patch_14">
+    <path d="M 567.663158 161.856  Q 567.663158 121.536 567.663158 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 564.463158 89.013542  L 567.663158 82.613542  L 570.863158 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_21" class="paper-node" data-paper="tl220602262" tabindex="0" role="button" aria-label="Diffusion-GAN: Training GANs with Diffusion">
+    <rect class="paper-hit" x="499.89315789473676" y="33.47999999999997" width="135.54" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(503.93347 51.116)">Diffusion-GAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(545.424095 70.041)">[198]</text>
+   <title>Diffusion-GAN: Training GANs with Diffusion</title></g>
+   <g id="patch_15">
+    <path d="M 610.105263 161.856  Q 610.105263 169.056 610.105263 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 613.305263 168.458458  L 610.105263 174.858458  L 606.905263 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_22" class="paper-node" data-paper="tl220801618" tabindex="0" role="button" aria-label="An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion">
+    <rect class="paper-hit" x="531.1302631578947" y="180.93599999999998" width="157.95000000000002" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(535.075576 197.771625)">Textual Inversion</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(587.866201 216.696625)">[178]</text>
+   <title>An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion</title></g>
+   <g id="patch_16">
+    <path d="M 652.547368 161.856  Q 652.547368 154.656 652.547368 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 649.347368 155.253542  L 652.547368 148.853542  L 655.747368 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_23" class="paper-node" data-paper="tl220812242" tabindex="0" role="button" aria-label="DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation">
+    <rect class="paper-hit" x="592.5173684210525" y="99.72" width="120.06000000000002" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(596.412993 117.356)">DreamBooth</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(630.308306 136.281)">[171]</text>
+   <title>DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation</title></g>
+   <g id="patch_17">
+    <path d="M 694.989474 161.856  Q 694.989474 202.176 694.989474 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 698.189474 234.698458  L 694.989474 241.098458  L 691.789474 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_24" class="paper-node" data-paper="tl221204488" tabindex="0" role="button" aria-label="Multi-Concept Customization of Text-to-Image Diffusion">
+    <rect class="paper-hit" x="614.9794736842105" y="247.176" width="160.01999999999998" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(619.030099 264.011625)">Custom Diffusion</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(672.750411 282.936625)">[180]</text>
+   <title>Multi-Concept Customization of Text-to-Image Diffusion</title></g>
+   <g id="patch_18">
+    <path d="M 737.431579 161.856  Q 737.431579 121.536 737.431579 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 734.231579 89.013542  L 737.431579 82.613542  L 740.631579 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_25" class="paper-node" data-paper="tl240400521" tabindex="0" role="button" aria-label="CHAIN: Enhancing Generalization in Data-Efficient GANs via lipsCHitz continuity constrAIned Normalization">
+    <rect class="paper-hit" x="702.3315789473686" y="33.47999999999997" width="70.2" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(706.317516 51.116)">CHAIN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(715.192516 70.041)">[199]</text>
+   <title>CHAIN: Enhancing Generalization in Data-Efficient GANs via lipsCHitz continuity constrAIned Normalization</title></g>
+   <g id="patch_19">
+    <path d="M 779.873684 161.856  Q 779.873684 169.056 779.873684 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 783.073684 168.458458  L 779.873684 174.858458  L 776.673684 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_26" class="paper-node" data-paper="tl240919128" tabindex="0" role="button" aria-label="Pruning then Reweighting: Towards Data-Efficient Training of Diffusion Models">
+    <rect class="paper-hit" x="701.8436842105262" y="180.93599999999998" width="156.06" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(705.662747 197.771625)">Prune+Reweight</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(757.634622 216.931)">[200]</text>
+   <title>Pruning then Reweighting: Towards Data-Efficient Training of Diffusion Models</title></g>
+   <g id="patch_20">
+    <path d="M 822.315789 161.856  Q 822.315789 154.656 822.315789 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 819.115789 155.253542  L 822.315789 148.853542  L 825.515789 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_27" class="paper-node" data-paper="tl250402011" tabindex="0" role="button" aria-label="Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression">
+    <rect class="paper-hit" x="762.6907894736842" y="80.33040000000001" width="119.25" height="62.4456" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(784.520477 98.004875)">Random</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(766.723602 117.121625)">Conditioning</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(800.076727 136.281)">[201]</text>
+   <title>Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression</title></g>
+   <g id="patch_21">
+    <path d="M 864.757895 161.856  Q 864.757895 202.176 864.757895 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 867.957895 234.698458  L 864.757895 241.098458  L 861.557895 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_28" class="paper-node" data-paper="endofsa" tabindex="0" role="button" aria-label="EndoFSA: Endoscopic Few-Shot Image Generation via Rank-Constrained Parameter Adaptation">
+    <rect class="paper-hit" x="818.0478947368421" y="247.176" width="93.42" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(821.956332 264.011625)">EndoFSA</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(842.518832 282.936625)">[172]</text>
+   <title>EndoFSA: Endoscopic Few-Shot Image Generation via Rank-Constrained Parameter Adaptation</title></g>
+   <g id="patch_22">
+    <path d="M 907.2 161.856  Q 907.2 121.536 907.2 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 904 89.013542  L 907.2 82.613542  L 910.4 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_29" class="paper-node" data-paper="tl261009015" tabindex="0" role="button" aria-label="Personalize at Test Time: Learning User Preferences for Image Generation">
+    <rect class="paper-hit" x="828.72" y="33.47999999999997" width="156.95999999999998" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(832.584375 50.881625)">Personalize@TT</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(884.960937 70.041)">[202]</text>
+   <title>Personalize at Test Time: Learning User Preferences for Image Generation</title></g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="322.362pt" viewBox="0 0 1008 322.362" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T02:43:36.141011</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 322.362  L 1008 322.362  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start" x="15.84" y="20.62125" transform="rotate(-0 15.84 20.62125)">17  Texture</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 48.797795 161.856  Q 502.198724 161.856 954.202111 161.856  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 947.002111 158.256  L 954.202111 161.856  L 947.002111 165.456  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="122.021053" y="314.572312" transform="rotate(-0 122.021053 314.572312)">2018</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="206.905263" y="314.572312" transform="rotate(-0 206.905263 314.572312)">2019</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="270.568421" y="314.572312" transform="rotate(-0 270.568421 314.572312)">2020</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="355.452632" y="314.572312" transform="rotate(-0 355.452632 314.572312)">2022</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="525.221053" y="314.572312" transform="rotate(-0 525.221053 314.572312)">2023</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="694.989474" y="314.572312" transform="rotate(-0 694.989474 314.572312)">2024</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="779.873684" y="314.572312" transform="rotate(-0 779.873684 314.572312)">2025</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="864.757895" y="314.572312" transform="rotate(-0 864.757895 314.572312)">2026*</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.8 161.856  Q 100.8 169.056 100.8 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 104 168.458458  L 100.8 174.858458  L 97.6 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_10" class="paper-node" data-paper="tl180504487" tabindex="0" role="button" aria-label="Non-Stationary Texture Synthesis by Adversarial Expansion">
+    <rect class="paper-hit" x="46.75499999999999" y="180.93599999999998" width="108.09000000000002" height="62.35199999999999" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(50.782812 197.771625)">Adversarial</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(66.885937 216.634875)">Expand</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(78.560937 235.559875)">[248]</text>
+   <title>Non-Stationary Texture Synthesis by Adversarial Expansion</title></g>
+   <g id="patch_4">
+    <path d="M 143.242105 161.856  Q 143.242105 154.656 143.242105 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 140.042105 155.253542  L 143.242105 148.853542  L 146.442105 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_11" class="paper-node" data-paper="tl180808281" tabindex="0" role="button" aria-label="High Quality Facial Surface and Texture Synthesis via Generative Adversarial Networks">
+    <rect class="paper-hit" x="66.06710526315788" y="99.72" width="154.35" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(69.887418 117.356)">FaceSurfTexture</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(121.003043 136.281)">[231]</text>
+   <title>High Quality Facial Surface and Texture Synthesis via Generative Adversarial Networks</title></g>
+   <g id="patch_5">
+    <path d="M 185.684211 161.856  Q 185.684211 202.176 185.684211 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 188.884211 234.698458  L 185.684211 241.098458  L 182.484211 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_12" class="paper-node" data-paper="tl190507259" tabindex="0" role="button" aria-label="Texture Fields: Learning Texture Representations in Function Space">
+    <rect class="paper-hit" x="119.57921052631575" y="247.176" width="132.21" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(123.446711 264.011625)">Texture Fields</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(163.445148 282.936625)">[249]</text>
+   <title>Texture Fields: Learning Texture Representations in Function Space</title></g>
+   <g id="patch_6">
+    <path d="M 228.126316 161.856  Q 228.126316 121.536 228.126316 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 224.926316 89.013542  L 228.126316 82.613542  L 231.326316 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_13" class="paper-node" data-paper="tl191204158" tabindex="0" role="button" aria-label="Learning a Neural 3D Texture Space from 2D Exemplars">
+    <rect class="paper-hit" x="149.19631578947366" y="33.47999999999997" width="157.85999999999999" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(153.101316 51.116)">Neural3DTexture</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(205.887253 70.041)">[250]</text>
+   <title>Learning a Neural 3D Texture Space from 2D Exemplars</title></g>
+   <g id="patch_7">
+    <path d="M 270.568421 161.856  Q 270.568421 169.056 270.568421 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 273.768421 168.458458  L 270.568421 174.858458  L 267.368421 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_14" class="paper-node" data-paper="tl201000114" tabindex="0" role="button" aria-label="MaterialGAN: Reflectance Capture using a Generative SVBRDF Model">
+    <rect class="paper-hit" x="209.36842105263156" y="180.93599999999998" width="122.4" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(213.334046 197.771625)">MaterialGAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(248.329359 216.696625)">[251]</text>
+   <title>MaterialGAN: Reflectance Capture using a Generative SVBRDF Model</title></g>
+   <g id="patch_8">
+    <path d="M 313.010526 161.856  Q 313.010526 154.656 313.010526 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 309.810526 155.253542  L 313.010526 148.853542  L 316.210526 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_15" class="paper-node" data-paper="tl220402411" tabindex="0" role="button" aria-label="Texturify: Generating Textures on 3D Shape Surfaces">
+    <rect class="paper-hit" x="271.88052631578944" y="99.63000000000002" width="82.26" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(275.785526 117.121625)">Texturify</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(290.771464 136.281)">[252]</text>
+   <title>Texturify: Generating Textures on 3D Shape Surfaces</title></g>
+   <g id="patch_9">
+    <path d="M 355.452632 161.856  Q 355.452632 202.176 355.452632 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 358.652632 234.698458  L 355.452632 241.098458  L 352.252632 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_16" class="paper-node" data-paper="tl220605649" tabindex="0" role="button" aria-label="TileGen: Tileable, Controllable Material Generation and Capture">
+    <rect class="paper-hit" x="316.8426315789473" y="247.176" width="77.22" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(320.815132 264.011625)">TileGen</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(333.213569 282.936625)">[253]</text>
+   <title>TileGen: Tileable, Controllable Material Generation and Capture</title></g>
+   <g id="patch_10">
+    <path d="M 397.894737 161.856  Q 397.894737 121.536 397.894737 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 394.694737 89.013542  L 397.894737 82.613542  L 401.094737 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_17" class="paper-node" data-paper="tl220911163" tabindex="0" role="button" aria-label="GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images">
+    <rect class="paper-hit" x="360.58973684210525" y="33.47999999999997" width="74.61000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(364.555674 51.116)">GET3D</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(375.655674 70.041)">[234]</text>
+   <title>GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images</title></g>
+   <g id="patch_11">
+    <path d="M 440.336842 161.856  Q 440.336842 169.056 440.336842 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 443.536842 168.458458  L 440.336842 174.858458  L 437.136842 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_18" class="paper-node" data-paper="tl230201721" tabindex="0" role="button" aria-label="TEXTure: Text-Guided Texturing of 3D Shapes">
+    <rect class="paper-hit" x="396.82184210526316" y="180.93599999999998" width="87.03" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(400.70403 197.771625)">TEXTure</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(418.83528 216.696625)">[211]</text>
+   <title>TEXTure: Text-Guided Texturing of 3D Shapes</title></g>
+   <g id="patch_12">
+    <path d="M 482.778947 161.856  Q 482.778947 154.656 482.778947 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 479.578947 155.253542  L 482.778947 148.853542  L 485.978947 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_19" class="paper-node" data-paper="text2tex" tabindex="0" role="button" aria-label="Text2Tex: Text-driven Texture Synthesis via Diffusion Models">
+    <rect class="paper-hit" x="439.53394736842097" y="99.72" width="86.49000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(443.327385 117.356)">Text2Tex</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(471.66176 136.281)">[8]</text>
+   <title>Text2Tex: Text-driven Texture Synthesis via Diffusion Models</title></g>
+   <g id="patch_13">
+    <path d="M 525.221053 161.856  Q 525.221053 202.176 525.221053 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 528.421053 234.698458  L 525.221053 241.098458  L 522.021053 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_20" class="paper-node" data-paper="tl230811408" tabindex="0" role="button" aria-label="MatFuse: Controllable Material Generation with Diffusion Models">
+    <rect class="paper-hit" x="482.42605263157895" y="247.176" width="85.59000000000002" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(486.322615 264.011625)">MatFuse</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(502.98199 282.936625)">[236]</text>
+   <title>MatFuse: Controllable Material Generation with Diffusion Models</title></g>
+   <g id="patch_14">
+    <path d="M 567.663158 161.856  Q 567.663158 121.536 567.663158 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 564.463158 89.013542  L 567.663158 82.613542  L 570.863158 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_21" class="paper-node" data-paper="tl231013772" tabindex="0" role="button" aria-label="TexFusion: Synthesizing 3D Textures with Text-Guided Image Diffusion Models">
+    <rect class="paper-hit" x="518.2081578947368" y="33.47999999999997" width="98.91" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(522.094408 51.116)">TexFusion</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(545.424095 70.041)">[254]</text>
+   <title>TexFusion: Synthesizing 3D Textures with Text-Guided Image Diffusion Models</title></g>
+   <g id="patch_15">
+    <path d="M 610.105263 161.856  Q 610.105263 169.056 610.105263 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 613.305263 168.458458  L 610.105263 174.858458  L 606.905263 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_22" class="paper-node" data-paper="tl231213913" tabindex="0" role="button" aria-label="Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models">
+    <rect class="paper-hit" x="570.5052631578947" y="180.93599999999998" width="79.2" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(574.530263 197.771625)">Paint3D</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(587.866201 216.696625)">[255]</text>
+   <title>Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models</title></g>
+   <g id="patch_16">
+    <path d="M 652.547368 161.856  Q 652.547368 154.656 652.547368 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 649.347368 155.253542  L 652.547368 148.853542  L 655.747368 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_23" class="paper-node" data-paper="tl240213251" tabindex="0" role="button" aria-label="FlashTex: Fast Relightable Mesh Texturing with LightControlNet">
+    <rect class="paper-hit" x="608.6273684210527" y="99.72" width="87.84000000000002" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(612.539556 117.356)">FlashTex</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(630.308306 136.281)">[256]</text>
+   <title>FlashTex: Fast Relightable Mesh Texturing with LightControlNet</title></g>
+   <g id="patch_17">
+    <path d="M 694.989474 161.856  Q 694.989474 202.176 694.989474 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 698.189474 234.698458  L 694.989474 241.098458  L 691.789474 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_24" class="paper-node" data-paper="tl240517176" tabindex="0" role="button" aria-label="DreamMat: High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models">
+    <rect class="paper-hit" x="644.3644736842105" y="247.176" width="101.25" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(648.317599 264.011625)">DreamMat</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(672.750411 282.936625)">[257]</text>
+   <title>DreamMat: High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models</title></g>
+   <g id="patch_18">
+    <path d="M 737.431579 161.856  Q 737.431579 121.536 737.431579 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 734.231579 89.013542  L 737.431579 82.613542  L 740.631579 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_25" class="paper-node" data-paper="tl240702430" tabindex="0" role="button" aria-label="Meta 3D TextureGen: Fast and Consistent Texture Generation for 3D Objects">
+    <rect class="paper-hit" x="641.4915789473686" y="33.47999999999997" width="191.88" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(645.351891 51.116)">Meta 3D TextureGen</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(715.192516 70.041)">[258]</text>
+   <title>Meta 3D TextureGen: Fast and Consistent Texture Generation for 3D Objects</title></g>
+   <g id="patch_19">
+    <path d="M 779.873684 161.856  Q 779.873684 169.056 779.873684 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 783.073684 168.458458  L 779.873684 174.858458  L 776.673684 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_26" class="paper-node" data-paper="tl250615442" tabindex="0" role="button" aria-label="Hunyuan3D 2.1: From Images to High-Fidelity 3D Assets with Production-Ready PBR Material">
+    <rect class="paper-hit" x="706.2536842105263" y="180.93599999999998" width="147.24" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(710.386184 197.831)">Hunyuan3D 2.1</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(757.634622 216.990375)">[259]</text>
+   <title>Hunyuan3D 2.1: From Images to High-Fidelity 3D Assets with Production-Ready PBR Material</title></g>
+   <g id="patch_20">
+    <path d="M 822.315789 161.856  Q 822.315789 154.656 822.315789 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 819.115789 155.253542  L 822.315789 148.853542  L 825.515789 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_27" class="paper-node" data-paper="tl260316566" tabindex="0" role="button" aria-label="VideoMatGen: PBR Materials through Joint Generative Modeling">
+    <rect class="paper-hit" x="757.4257894736843" y="99.72" width="129.78" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(761.347039 117.356)">VideoMatGen</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(800.076727 136.281)">[243]</text>
+   <title>VideoMatGen: PBR Materials through Joint Generative Modeling</title></g>
+   <g id="patch_21">
+    <path d="M 864.757895 161.856  Q 864.757895 202.176 864.757895 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 867.957895 234.698458  L 864.757895 241.098458  L 861.557895 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_28" class="paper-node" data-paper="tl260937654" tabindex="0" role="button" aria-label="Texture Space Material Diffusion">
+    <rect class="paper-hit" x="785.4228947368421" y="247.176" width="158.67" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(789.35477 264.255375)">TexSpaceMatDiff</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(842.518832 283.180375)">[260]</text>
+   <title>Texture Space Material Diffusion</title></g>
+   <g id="patch_22">
+    <path d="M 907.2 161.856  Q 907.2 121.536 907.2 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 904 89.013542  L 907.2 82.613542  L 910.4 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_29" class="paper-node" data-paper="tl261022352" tabindex="0" role="button" aria-label="SUPRA-TEX: 3D Generation with Super-Aligned Texture">
+    <rect class="paper-hit" x="846.135" y="33.47999999999997" width="122.13" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(849.967187 51.116)">SUPRA-TEX</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(884.960937 70.041)">[261]</text>
+   <title>SUPRA-TEX: 3D Generation with Super-Aligned Texture</title></g>
+  </g>
+ </g>
+</svg>

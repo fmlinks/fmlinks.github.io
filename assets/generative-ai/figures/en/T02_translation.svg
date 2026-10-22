@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="322.272pt" viewBox="0 0 1008 322.272" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T02:43:29.675767</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 322.272  L 1008 322.272  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start" x="15.84" y="20.62125" transform="rotate(-0 15.84 20.62125)">02  Translation</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 48.797795 161.856  Q 502.198724 161.856 954.202111 161.856  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 947.002111 158.256  L 954.202111 161.856  L 947.002111 165.456  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="185.684211" y="314.482312" transform="rotate(-0 185.684211 314.482312)">2018</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="355.452632" y="314.482312" transform="rotate(-0 355.452632 314.482312)">2019</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="482.778947" y="314.482312" transform="rotate(-0 482.778947 314.482312)">2020</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="610.105263" y="314.482312" transform="rotate(-0 610.105263 314.482312)">2021</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="737.431579" y="314.482312" transform="rotate(-0 737.431579 314.482312)">2022</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="822.315789" y="314.482312" transform="rotate(-0 822.315789 314.482312)">2023</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="874.155789" y="314.482312" transform="rotate(-0 874.155789 314.482312)">2024</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="929.865789" y="314.482312" transform="rotate(-0 929.865789 314.482312)">2026*</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.8 161.856  Q 100.8 169.056 100.8 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 104 168.458458  L 100.8 174.858458  L 97.6 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_10" class="paper-node" data-paper="tl180201221" tabindex="0" role="button" aria-label="Image Synthesis in Multi-Contrast MRI with Conditional Generative Adversarial Networks">
+    <rect class="paper-hit" x="48.50999999999999" y="180.93599999999998" width="104.58000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(52.460937 198.015375)">pGAN MRI</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(84.121875 216.940375)">[51]</text>
+   <title>Image Synthesis in Multi-Contrast MRI with Conditional Generative Adversarial Networks</title></g>
+   <g id="patch_4">
+    <path d="M 143.242105 161.856  Q 143.242105 154.656 143.242105 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 140.042105 155.253542  L 143.242105 148.853542  L 146.442105 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_11" class="paper-node" data-paper="tl180404732" tabindex="0" role="button" aria-label="Multimodal Unsupervised Image-to-Image Translation">
+    <rect class="paper-hit" x="107.6921052631579" y="99.72000000000003" width="71.1" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(111.58273 117.356)">MUNIT</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(126.56398 136.281)">[52]</text>
+   <title>Multimodal Unsupervised Image-to-Image Translation</title></g>
+   <g id="patch_5">
+    <path d="M 185.684211 161.856  Q 185.684211 202.176 185.684211 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 188.884211 234.698458  L 185.684211 241.098458  L 182.484211 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_12" class="paper-node" data-paper="tl180606397" tabindex="0" role="button" aria-label="MedGAN: Medical Image Translation using GANs">
+    <rect class="paper-hit" x="140.63921052631576" y="247.176" width="90.09000000000002" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(144.562336 264.011625)">MedGAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(169.006086 282.936625)">[53]</text>
+   <title>MedGAN: Medical Image Translation using GANs</title></g>
+   <g id="patch_6">
+    <path d="M 228.126316 161.856  Q 228.126316 121.536 228.126316 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 224.926316 89.013542  L 228.126316 82.613542  L 231.326316 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_13" class="paper-node" data-paper="tl180800948" tabindex="0" role="button" aria-label="Diverse Image-to-Image Translation via Disentangled Representations">
+    <rect class="paper-hit" x="200.85631578947365" y="33.48000000000003" width="54.54" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(204.796628 51.17775)">DRIT</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(211.448191 70.041)">[54]</text>
+   <title>Diverse Image-to-Image Translation via Disentangled Representations</title></g>
+   <g id="patch_7">
+    <path d="M 270.568421 161.856  Q 270.568421 169.056 270.568421 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 273.768421 168.458458  L 270.568421 174.858458  L 267.368421 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_14" class="paper-node" data-paper="tl180904536" tabindex="0" role="button" aria-label="Unpaired Brain MR-to-CT Synthesis using a Structure-Constrained CycleGAN">
+    <rect class="paper-hit" x="202.70842105263154" y="180.93599999999998" width="135.72" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(206.671546 198.015375)">SC-CycleGAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(253.890296 217.113)">[55]</text>
+   <title>Unpaired Brain MR-to-CT Synthesis using a Structure-Constrained CycleGAN</title></g>
+   <g id="patch_8">
+    <path d="M 313.010526 161.856  Q 313.010526 154.656 313.010526 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 309.810526 155.253542  L 313.010526 148.853542  L 316.210526 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_15" class="paper-node" data-paper="tl190501723" tabindex="0" role="button" aria-label="Few-Shot Unsupervised Image-to-Image Translation">
+    <rect class="paper-hit" x="279.7105263157895" y="99.72000000000003" width="66.6" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(283.573026 117.356)">FUNIT</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(296.332401 136.281)">[56]</text>
+   <title>Few-Shot Unsupervised Image-to-Image Translation</title></g>
+   <g id="patch_9">
+    <path d="M 355.452632 161.856  Q 355.452632 202.176 355.452632 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 358.652632 234.698458  L 355.452632 241.098458  L 352.252632 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_16" class="paper-node" data-paper="tl190710830" tabindex="0" role="button" aria-label="U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation">
+    <rect class="paper-hit" x="309.5076315789473" y="247.176" width="91.89000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(313.416694 264.011625)">U-GAT-IT</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(338.774507 282.874875)">[57]</text>
+   <title>U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation</title></g>
+   <g id="patch_10">
+    <path d="M 397.894737 161.856  Q 397.894737 121.536 397.894737 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 394.694737 89.013542  L 397.894737 82.613542  L 401.094737 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_17" class="paper-node" data-paper="tl191201865" tabindex="0" role="button" aria-label="StarGAN v2: Diverse Image Synthesis for Multiple Domains">
+    <rect class="paper-hit" x="340.60973684210524" y="33.48000000000003" width="114.57000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(344.546299 51.116)">StarGAN v2</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(381.216612 70.041)">[58]</text>
+   <title>StarGAN v2: Diverse Image Synthesis for Multiple Domains</title></g>
+   <g id="patch_11">
+    <path d="M 440.336842 161.856  Q 440.336842 169.056 440.336842 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 443.536842 168.458458  L 440.336842 174.858458  L 437.136842 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_18" class="paper-node" data-paper="tl200300273" tabindex="0" role="button" aria-label="Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation">
+    <rect class="paper-hit" x="387.5068421052631" y="180.93599999999998" width="105.66" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(391.444655 197.771625)">NICE-GAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(423.658717 216.696625)">[59]</text>
+   <title>Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation</title></g>
+   <g id="patch_12">
+    <path d="M 482.778947 161.856  Q 482.778947 154.656 482.778947 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 479.578947 155.253542  L 482.778947 148.853542  L 485.978947 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_19" class="paper-node" data-paper="tl200606500" tabindex="0" role="button" aria-label="Rethinking the Truly Unsupervised Image-to-Image Translation">
+    <rect class="paper-hit" x="449.478947368421" y="99.72000000000003" width="66.6" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(453.341447 117.356)">TUNIT</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(466.100822 136.281)">[60]</text>
+   <title>Rethinking the Truly Unsupervised Image-to-Image Translation</title></g>
+   <g id="patch_13">
+    <path d="M 525.221053 161.856  Q 525.221053 202.176 525.221053 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 528.421053 234.698458  L 525.221053 241.098458  L 522.021053 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_20" class="paper-node" data-paper="tl200715651" tabindex="0" role="button" aria-label="Contrastive Learning for Unpaired Image-to-Image Translation">
+    <rect class="paper-hit" x="500.7410526315789" y="247.176" width="48.959999999999994" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(504.66949 264.011625)">CUT</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(508.542928 282.936625)">[61]</text>
+   <title>Contrastive Learning for Unpaired Image-to-Image Translation</title></g>
+   <g id="patch_14">
+    <path d="M 567.663158 161.856  Q 567.663158 121.536 567.663158 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 564.463158 89.013542  L 567.663158 82.613542  L 570.863158 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_21" class="paper-node" data-paper="tl210405358" tabindex="0" role="button" aria-label="UNIT-DDPM: UNpaired Image Translation with Denoising Diffusion Probabilistic Models">
+    <rect class="paper-hit" x="508.1731578947368" y="33.48000000000003" width="118.98" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(512.110033 51.116)">UNIT-DDPM</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(550.985033 70.041)">[62]</text>
+   <title>UNIT-DDPM: UNpaired Image Translation with Denoising Diffusion Probabilistic Models</title></g>
+   <g id="patch_15">
+    <path d="M 610.105263 161.856  Q 610.105263 169.056 610.105263 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 613.305263 168.458458  L 610.105263 174.858458  L 606.905263 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_22" class="paper-node" data-paper="tl210407689" tabindex="0" role="button" aria-label="Dual Contrastive Learning for Unsupervised Image-to-Image Translation">
+    <rect class="paper-hit" x="564.4752631578947" y="180.93599999999998" width="91.26" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(568.430263 197.771625)">DCLGAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(593.427138 216.696625)">[63]</text>
+   <title>Dual Contrastive Learning for Unsupervised Image-to-Image Translation</title></g>
+   <g id="patch_16">
+    <path d="M 652.547368 161.856  Q 652.547368 154.656 652.547368 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 649.347368 155.253542  L 652.547368 148.853542  L 655.747368 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_23" class="paper-node" data-paper="tl210802938" tabindex="0" role="button" aria-label="ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models">
+    <rect class="paper-hit" x="627.1223684210526" y="99.72000000000003" width="50.849999999999994" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(631.053618 117.356)">ILVR</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(635.869243 136.281)">[64]</text>
+   <title>ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models</title></g>
+   <g id="patch_17">
+    <path d="M 694.989474 161.856  Q 694.989474 202.176 694.989474 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 698.189474 234.698458  L 694.989474 241.098458  L 691.789474 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_24" class="paper-node" data-paper="tl220308382" tabindex="0" role="button" aria-label="Dual Diffusion Implicit Bridges for Image-to-Image Translation">
+    <rect class="paper-hit" x="667.0894736842106" y="247.176" width="55.800000000000004" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(671.097286 264.011625)">DDIB</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(678.311349 282.936625)">[65]</text>
+   <title>Dual Diffusion Implicit Bridges for Image-to-Image Translation</title></g>
+   <g id="patch_18">
+    <path d="M 737.431579 161.856  Q 737.431579 121.536 737.431579 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 734.231579 89.013542  L 737.431579 82.613542  L 740.631579 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_25" class="paper-node" data-paper="tl220708208" tabindex="0" role="button" aria-label="Unsupervised Medical Image Translation with Adversarial Diffusion Models">
+    <rect class="paper-hit" x="701.3415789473686" y="33.48000000000003" width="72.17999999999999" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(705.375329 50.881625)">SynDiff</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(720.753454 70.041)">[66]</text>
+   <title>Unsupervised Medical Image Translation with Adversarial Diffusion Models</title></g>
+   <g id="patch_19">
+    <path d="M 779.873684 161.856  Q 779.873684 169.056 779.873684 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 783.073684 168.458458  L 779.873684 174.858458  L 776.673684 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_26" class="paper-node" data-paper="tl220915264" tabindex="0" role="button" aria-label="Diffusion-based Image Translation using Disentangled Style and Content Representation">
+    <rect class="paper-hit" x="736.0436842105262" y="180.93599999999998" width="87.66" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(740.040872 197.771625)">DiffuseIT</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(763.195559 216.696625)">[67]</text>
+   <title>Diffusion-based Image Translation using Disentangled Style and Content Representation</title></g>
+   <g id="patch_20">
+    <path d="M 822.315789 161.856  Q 822.315789 154.656 822.315789 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 819.115789 155.253542  L 822.315789 148.853542  L 825.515789 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_27" class="paper-node" data-paper="tl230515086" tabindex="0" role="button" aria-label="Unpaired Image-to-Image Translation via Neural Schrödinger Bridge">
+    <rect class="paper-hit" x="790.6357894736842" y="99.72000000000003" width="63.36" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(794.531414 117.356)">UNSB</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(805.637664 136.281)">[68]</text>
+   <title>Unpaired Image-to-Image Translation via Neural Schrödinger Bridge</title></g>
+   <g id="patch_21">
+    <path d="M 864.757895 161.856  Q 864.757895 202.176 864.757895 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 867.957895 234.698458  L 864.757895 241.098458  L 861.557895 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_28" class="paper-node" data-paper="tl240312036" tabindex="0" role="button" aria-label="One-Step Image Translation with Text-to-Image Models">
+    <rect class="paper-hit" x="776.0178947368421" y="247.176" width="177.48" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(780.103207 264.255375)">pix2pix/CycleTurbo</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(848.07977 283.41475)">[69]</text>
+   <title>One-Step Image Translation with Text-to-Image Models</title></g>
+   <g id="patch_22">
+    <path d="M 907.2 161.856  Q 907.2 121.536 907.2 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 904 89.013542  L 907.2 82.613542  L 910.4 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_29" class="paper-node" data-paper="tl260115884" tabindex="0" role="button" aria-label="Contrast-X: A Multi-Modal Contrast Image Synthesis Benchmark and Universal Modality Flow Matching">
+    <rect class="paper-hit" x="820.53" y="33.48000000000003" width="173.33999999999997" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(824.410937 51.116)">Contrast-X/FlowMI</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(890.521875 70.041)">[70]</text>
+   <title>Contrast-X: A Multi-Modal Contrast Image Synthesis Benchmark and Universal Modality Flow Matching</title></g>
+  </g>
+ </g>
+</svg>

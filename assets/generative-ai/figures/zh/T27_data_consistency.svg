@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="378.4896pt" viewBox="0 0 1008 378.4896" version="1.1" data-language="zh" lang="zh-CN">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T03:32:11.730022</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 378.4896  L 1008 378.4896  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="21.009375" transform="rotate(-0 15.84 21.009375)">27  测量一致性</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 48.797795 189.9648  Q 502.198724 189.9648 954.202111 189.9648  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 947.002111 186.3648  L 954.202111 189.9648  L 947.002111 193.5648  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="46.8" y="371.037413" transform="rotate(-0 46.8 371.037413)">2018</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="164.463158" y="371.037413" transform="rotate(-0 164.463158 371.037413)">2021</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="376.673684" y="371.037413" transform="rotate(-0 376.673684 371.037413)">2022</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="610.105263" y="371.037413" transform="rotate(-0 610.105263 371.037413)">2023</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="779.873684" y="371.037413" transform="rotate(-0 779.873684 371.037413)">2024</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="864.757895" y="371.037413" transform="rotate(-0 864.757895 371.037413)">2025</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="923.347895" y="371.037413" transform="rotate(-0 923.347895 371.037413)">2026*</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.8 189.9648  Q 100.8 197.1648 100.8 202.967258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 104 196.567258  L 100.8 202.967258  L 97.6 196.567258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_9" class="paper-node" data-paper="tl210514951" tabindex="0" role="button" aria-label="SNIPS：随机求解含噪逆问题">
+    <rect class="paper-hit" x="68.085" y="209.0448" width="65.42999999999999" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(72.06875 227.5523)">SNIPS</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(76.526562 249.151175)">[400]</text>
+   <title>SNIPS：随机求解含噪逆问题</title></g>
+   <g id="patch_4">
+    <path d="M 143.242105 189.9648  Q 143.242105 182.7648 143.242105 176.962342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 140.042105 183.362342  L 143.242105 176.962342  L 146.442105 183.362342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_10" class="paper-node" data-paper="tl210801368" tabindex="0" role="button" aria-label="利用深度生成先验实现稳健的压缩感知 MRI">
+    <rect class="paper-hit" x="86.0471052631579" y="121.98240000000004" width="114.39000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(90.010855 141.79405)">CSGM-MRI</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(118.968668 163.392925)">[114]</text>
+   <title>利用深度生成先验实现稳健的压缩感知 MRI</title></g>
+   <g id="patch_5">
+    <path d="M 185.684211 189.9648  Q 185.684211 230.2848 185.684211 269.207258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 188.884211 262.807258  L 185.684211 269.207258  L 182.484211 262.807258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_11" class="paper-node" data-paper="tl211005243" tabindex="0" role="button" aria-label="用于加速 MRI 的基于得分的扩散模型">
+    <rect class="paper-hit" x="131.63921052631576" y="275.2848" width="108.09000000000002" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(135.621711 293.7923)">Score-MRI</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(161.410773 315.391175)">[115]</text>
+   <title>用于加速 MRI 的基于得分的扩散模型</title></g>
+   <g id="patch_6">
+    <path d="M 228.126316 189.9648  Q 228.126316 149.6448 228.126316 110.722342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 224.926316 117.122342  L 228.126316 110.722342  L 231.326316 117.122342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_12" class="paper-node" data-paper="medicalinverse" tabindex="0" role="button" aria-label="利用基于得分的生成模型求解医学成像中的逆问题">
+    <rect class="paper-hit" x="157.07131578947366" y="33.48" width="142.11" height="71.1648" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(160.963816 53.955175)">Score Medical</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(213.776316 75.55405)">Inv</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(209.716941 97.152925)">[20]</text>
+   <title>利用基于得分的生成模型求解医学成像中的逆问题</title></g>
+   <g id="patch_7">
+    <path d="M 270.568421 189.9648  Q 270.568421 197.1648 270.568421 202.967258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 273.768421 196.567258  L 270.568421 202.967258  L 267.368421 196.567258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_13" class="paper-node" data-paper="tl220109865" tabindex="0" role="button" aria-label="RePaint：利用去噪扩散概率模型进行图像修复">
+    <rect class="paper-hit" x="230.87842105263155" y="209.0448" width="79.38" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(234.821546 227.5523)">RePaint</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(246.294984 249.151175)">[100]</text>
+   <title>RePaint：利用去噪扩散概率模型进行图像修复</title></g>
+   <g id="patch_8">
+    <path d="M 313.010526 189.9648  Q 313.010526 182.7648 313.010526 176.962342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 309.810526 183.362342  L 313.010526 176.962342  L 316.210526 183.362342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_14" class="paper-node" data-paper="ddrm" tabindex="0" role="button" aria-label="去噪扩散复原模型">
+    <rect class="paper-hit" x="277.41552631578946" y="121.98240000000004" width="71.19" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(281.477714 141.79405)">DDRM</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(294.601151 163.392925)">[17]</text>
+   <title>去噪扩散复原模型</title></g>
+   <g id="patch_9">
+    <path d="M 355.452632 189.9648  Q 355.452632 230.2848 355.452632 269.207258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 358.652632 262.807258  L 355.452632 269.207258  L 352.252632 262.807258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_15" class="paper-node" data-paper="tl220600941" tabindex="0" role="button" aria-label="利用流形约束改进逆问题扩散模型">
+    <rect class="paper-hit" x="327.2376315789473" y="275.2848" width="56.42999999999999" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(331.844819 293.7923)">MCG</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(331.179194 315.391175)">[116]</text>
+   <title>利用流形约束改进逆问题扩散模型</title></g>
+   <g id="patch_10">
+    <path d="M 397.894737 189.9648  Q 397.894737 149.6448 397.894737 110.722342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 394.694737 117.122342  L 397.894737 110.722342  L 401.094737 117.122342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_16" class="paper-node" data-paper="dps" tabindex="0" role="button" aria-label="用于一般含噪逆问题的扩散后验采样">
+    <rect class="paper-hit" x="374.4047368421052" y="55.74240000000004" width="46.98" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(378.386924 75.55405)">DPS</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(379.485362 97.152925)">[19]</text>
+   <title>用于一般含噪逆问题的扩散后验采样</title></g>
+   <g id="patch_11">
+    <path d="M 440.336842 189.9648  Q 440.336842 197.1648 440.336842 202.967258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 443.536842 196.567258  L 440.336842 202.967258  L 437.136842 196.567258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_17" class="paper-node" data-paper="tl221110655" tabindex="0" role="button" aria-label="利用预训练二维扩散模型求解三维逆问题">
+    <rect class="paper-hit" x="367.52684210526314" y="209.0448" width="145.62" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(371.638405 227.5523)">DiffusionMBIR</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(416.063405 249.151175)">[391]</text>
+   <title>利用预训练二维扩散模型求解三维逆问题</title></g>
+   <g id="patch_12">
+    <path d="M 482.778947 189.9648  Q 482.778947 182.7648 482.778947 176.962342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 479.578947 183.362342  L 482.778947 176.962342  L 485.978947 183.362342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_18" class="paper-node" data-paper="tl221200490" tabindex="0" role="button" aria-label="利用去噪扩散零空间模型进行零样本图像复原">
+    <rect class="paper-hit" x="445.608947368421" y="121.98240000000004" width="74.34" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(449.644572 141.79405)">DDNM</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(458.50551 163.392925)">[117]</text>
+   <title>利用去噪扩散零空间模型进行零样本图像复原</title></g>
+   <g id="patch_13">
+    <path d="M 525.221053 189.9648  Q 525.221053 230.2848 525.221053 269.207258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 528.421053 262.807258  L 525.221053 269.207258  L 522.021053 262.807258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_19" class="paper-node" data-paper="tl230508995" tabindex="0" role="button" aria-label="用于即插即用图像复原的去噪扩散模型">
+    <rect class="paper-hit" x="488.3660526315789" y="275.2848" width="73.71" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(492.422615 293.7923)">DiffPIR</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(500.947615 315.391175)">[401]</text>
+   <title>用于即插即用图像复原的去噪扩散模型</title></g>
+   <g id="patch_14">
+    <path d="M 567.663158 189.9648  Q 567.663158 149.6448 567.663158 110.722342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 564.463158 117.122342  L 567.663158 110.722342  L 570.863158 117.122342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_20" class="paper-node" data-paper="tl230519809" tabindex="0" role="button" aria-label="利用数据一致性求解逆问题的直接扩散桥">
+    <rect class="paper-hit" x="535.4431578947368" y="55.74240000000004" width="64.44" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(539.46472 75.55405)">CDDB</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(543.38972 97.152925)">[402]</text>
+   <title>利用数据一致性求解逆问题的直接扩散桥</title></g>
+   <g id="patch_15">
+    <path d="M 610.105263 189.9648  Q 610.105263 197.1648 610.105263 202.967258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 613.305263 196.567258  L 610.105263 202.967258  L 606.905263 196.567258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_21" class="paper-node" data-paper="tl230708123" tabindex="0" role="button" aria-label="通过硬数据一致性利用潜在扩散模型求解逆问题">
+    <rect class="paper-hit" x="558.8502631578947" y="209.0448" width="102.51" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(562.811513 227.5523)">ReSample</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(585.831826 249.151175)">[403]</text>
+   <title>通过硬数据一致性利用潜在扩散模型求解逆问题</title></g>
+   <g id="patch_16">
+    <path d="M 652.547368 189.9648  Q 652.547368 182.7648 652.547368 176.962342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 649.347368 183.362342  L 652.547368 176.962342  L 655.747368 183.362342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_22" class="paper-node" data-paper="tl230814190" tabindex="0" role="button" aria-label="用于 PET 图像重建的基于得分的生成模型">
+    <rect class="paper-hit" x="600.4373684210526" y="121.98240000000004" width="104.22" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(604.347368 141.79405)">Score-PET</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(628.273931 163.392925)">[404]</text>
+   <title>用于 PET 图像重建的基于得分的生成模型</title></g>
+   <g id="patch_17">
+    <path d="M 694.989474 189.9648  Q 694.989474 230.2848 694.989474 269.207258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 698.189474 262.807258  L 694.989474 269.207258  L 691.789474 262.807258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_23" class="paper-node" data-paper="tl231201464" tabindex="0" role="button" aria-label="利用以非线性测量模型为条件的扩散后验采样进行 CT 重建">
+    <rect class="paper-hit" x="628.5244736842105" y="275.2848" width="132.93" height="71.1648" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(632.453536 293.7923)">Nonlinear CT</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(675.481661 315.391175)">DPS</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(670.716036 336.99005)">[121]</text>
+   <title>利用以非线性测量模型为条件的扩散后验采样进行 CT 重建</title></g>
+   <g id="patch_18">
+    <path d="M 737.431579 189.9648  Q 737.431579 149.6448 737.431579 110.722342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 734.231579 117.122342  L 737.431579 110.722342  L 740.631579 117.122342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_24" class="paper-node" data-paper="tl240308728" tabindex="0" role="button" aria-label="Ambient 扩散后验采样：利用在受损数据上训练的扩散模型求解逆问题">
+    <rect class="paper-hit" x="669.9765789473685" y="55.74240000000004" width="134.91" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(673.948766 75.55405)">Ambient DPS</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(713.158141 97.152925)">[122]</text>
+   <title>Ambient 扩散后验采样：利用在受损数据上训练的扩散模型求解逆问题</title></g>
+   <g id="patch_19">
+    <path d="M 779.873684 189.9648  Q 779.873684 197.1648 779.873684 202.967258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 783.073684 196.567258  L 779.873684 202.967258  L 776.673684 196.567258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_25" class="paper-node" data-paper="tl240609768" tabindex="0" role="button" aria-label="用于逆问题的贝叶斯条件化扩散模型">
+    <rect class="paper-hit" x="745.5386842105263" y="209.0448" width="68.67" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(749.522122 227.5523)">BCDM</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(755.600247 249.151175)">[405]</text>
+   <title>用于逆问题的贝叶斯条件化扩散模型</title></g>
+   <g id="patch_20">
+    <path d="M 822.315789 189.9648  Q 822.315789 182.7648 822.315789 176.962342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 819.115789 183.362342  L 822.315789 176.962342  L 825.515789 183.362342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_26" class="paper-node" data-paper="tl240701521" tabindex="0" role="button" aria-label="利用解耦噪声退火改进扩散逆问题求解">
+    <rect class="paper-hit" x="791.9857894736841" y="121.98240000000004" width="60.660000000000004" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(795.947039 141.79405)">DAPS</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(798.042352 163.392925)">[124]</text>
+   <title>利用解耦噪声退火改进扩散逆问题求解</title></g>
+   <g id="patch_21">
+    <path d="M 864.757895 189.9648  Q 864.757895 230.2848 864.757895 269.207258  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 867.957895 262.807258  L 864.757895 269.207258  L 861.557895 262.807258  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_27" class="paper-node" data-paper="tl250909365" tabindex="0" role="button" aria-label="采用数据一致性投影的即插即用扩散模型用于图像压缩感知">
+    <rect class="paper-hit" x="812.3778947368421" y="275.2848" width="104.76" height="71.1648" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(827.725082 293.7923)">PnP-DC</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(816.33602 315.391175)">Projection</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(840.484457 337.105675)">[406]</text>
+   <title>采用数据一致性投影的即插即用扩散模型用于图像压缩感知</title></g>
+   <g id="patch_22">
+    <path d="M 907.2 189.9648  Q 907.2 149.6448 907.2 110.722342  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 904 117.122342  L 907.2 110.722342  L 910.4 117.122342  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_28" class="paper-node" data-paper="tl260719333" tabindex="0" role="button" aria-label="通过 DDIM 对线性逆问题进行具有可证明保证的基于扩散的后验采样">
+    <rect class="paper-hit" x="829.5749999999999" y="55.74240000000004" width="155.25" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(833.623437 75.55405)">Posterior DDIM</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(882.926562 97.152925)">[407]</text>
+   <title>通过 DDIM 对线性逆问题进行具有可证明保证的基于扩散的后验采样</title></g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="322.272pt" viewBox="0 0 1008 322.272" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T02:43:34.507558</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 322.272  L 1008 322.272  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start" x="15.84" y="20.62125" transform="rotate(-0 15.84 20.62125)">13  Multitask</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 48.797795 161.856  Q 502.198724 161.856 954.202111 161.856  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 947.002111 158.256  L 954.202111 161.856  L 947.002111 165.456  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="46.8" y="314.482312" transform="rotate(-0 46.8 314.482312)">2018</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="164.463158" y="314.482312" transform="rotate(-0 164.463158 314.482312)">2021</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="334.231579" y="314.482312" transform="rotate(-0 334.231579 314.482312)">2022</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="504" y="314.482312" transform="rotate(-0 504 314.482312)">2023</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="652.547368" y="314.482312" transform="rotate(-0 652.547368 314.482312)">2024</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="737.431579" y="314.482312" transform="rotate(-0 737.431579 314.482312)">2025</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="843.536842" y="314.482312" transform="rotate(-0 843.536842 314.482312)">2026*</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.8 161.856  Q 100.8 169.056 100.8 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 104 168.458458  L 100.8 174.858458  L 97.6 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_9" class="paper-node" data-paper="tl210801073" tabindex="0" role="button" aria-label="SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations">
+    <rect class="paper-hit" x="65.69999999999999" y="180.93599999999998" width="70.2" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(69.676562 197.771625)">SDEdit</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(84.121875 216.696625)">[76]</text>
+   <title>SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations</title></g>
+   <g id="patch_4">
+    <path d="M 143.242105 161.856  Q 143.242105 154.656 143.242105 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 140.042105 155.253542  L 143.242105 148.853542  L 146.442105 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_10" class="paper-node" data-paper="palette" tabindex="0" role="button" aria-label="Palette: Image-to-Image Diffusion Models">
+    <rect class="paper-hit" x="108.2321052631579" y="99.72000000000003" width="70.02" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(112.110855 117.356)">Palette</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(126.56398 136.281)">[16]</text>
+   <title>Palette: Image-to-Image Diffusion Models</title></g>
+   <g id="patch_5">
+    <path d="M 185.684211 161.856  Q 185.684211 202.176 185.684211 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 188.884211 234.698458  L 185.684211 241.098458  L 182.484211 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_11" class="paper-node" data-paper="ldm" tabindex="0" role="button" aria-label="High-Resolution Image Synthesis with Latent Diffusion Models">
+    <rect class="paper-hit" x="112.37921052631576" y="247.176" width="146.60999999999999" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(116.376398 264.011625)">Latent Diffusion</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(174.567023 282.874875)">[7]</text>
+   <title>High-Resolution Image Synthesis with Latent Diffusion Models</title></g>
+   <g id="patch_6">
+    <path d="M 228.126316 161.856  Q 228.126316 121.536 228.126316 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 224.926316 89.013542  L 228.126316 82.613542  L 231.326316 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_12" class="paper-node" data-paper="tl211210741" tabindex="0" role="button" aria-label="GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models">
+    <rect class="paper-hit" x="194.15131578947364" y="33.48000000000003" width="67.95" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(198.116941 51.116)">GLIDE</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(211.448191 70.041)">[39]</text>
+   <title>GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models</title></g>
+   <g id="patch_7">
+    <path d="M 270.568421 161.856  Q 270.568421 169.056 270.568421 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 273.768421 168.458458  L 270.568421 174.858458  L 267.368421 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_13" class="paper-node" data-paper="tl220203052" tabindex="0" role="button" aria-label="OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework">
+    <rect class="paper-hit" x="244.28842105263155" y="180.93599999999998" width="52.56" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(250.562171 197.771625)">OFA</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(248.329359 216.696625)">[207]</text>
+   <title>OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework</title></g>
+   <g id="patch_8">
+    <path d="M 313.010526 161.856  Q 313.010526 154.656 313.010526 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 309.810526 155.253542  L 313.010526 148.853542  L 316.210526 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_14" class="paper-node" data-paper="tl220608916" tabindex="0" role="button" aria-label="Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks">
+    <rect class="paper-hit" x="263.9605263157895" y="99.72000000000003" width="98.10000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(267.998026 117.356)">Unified-IO</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(290.771464 136.281)">[208]</text>
+   <title>Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks</title></g>
+   <g id="patch_9">
+    <path d="M 355.452632 161.856  Q 355.452632 202.176 355.452632 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 358.652632 234.698458  L 355.452632 241.098458  L 352.252632 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_15" class="paper-node" data-paper="tl221108332" tabindex="0" role="button" aria-label="Versatile Diffusion: Text, Images and Variations All in One Diffusion Model">
+    <rect class="paper-hit" x="274.31763157894727" y="247.176" width="162.26999999999998" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(278.368257 264.011625)">VersatileDiffusion</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(333.213569 282.936625)">[209]</text>
+   <title>Versatile Diffusion: Text, Images and Variations All in One Diffusion Model</title></g>
+   <g id="patch_10">
+    <path d="M 397.894737 161.856  Q 397.894737 121.536 397.894737 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 394.694737 89.013542  L 397.894737 82.613542  L 401.094737 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_16" class="paper-node" data-paper="tl221204493" tabindex="0" role="button" aria-label="SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation">
+    <rect class="paper-hit" x="350.0147368421052" y="33.48000000000003" width="95.76" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(353.990049 51.116)">SDFusion</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(375.655674 70.041)">[210]</text>
+   <title>SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation</title></g>
+   <g id="patch_11">
+    <path d="M 440.336842 161.856  Q 440.336842 169.056 440.336842 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 443.536842 168.458458  L 440.336842 174.858458  L 437.136842 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_17" class="paper-node" data-paper="tl230201721" tabindex="0" role="button" aria-label="TEXTure: Text-Guided Texturing of 3D Shapes">
+    <rect class="paper-hit" x="396.82184210526316" y="180.93599999999998" width="87.03" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(400.70403 197.771625)">TEXTure</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(418.83528 216.696625)">[211]</text>
+   <title>TEXTure: Text-Guided Texturing of 3D Shapes</title></g>
+   <g id="patch_12">
+    <path d="M 482.778947 161.856  Q 482.778947 154.656 482.778947 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 479.578947 155.253542  L 482.778947 148.853542  L 485.978947 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_18" class="paper-node" data-paper="tl230306555" tabindex="0" role="button" aria-label="One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale">
+    <rect class="paper-hit" x="429.45394736842104" y="99.72000000000003" width="106.65" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(433.497697 117.356)">UniDiffuser</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(460.539885 136.281)">[203]</text>
+   <title>One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale</title></g>
+   <g id="patch_13">
+    <path d="M 525.221053 161.856  Q 525.221053 202.176 525.221053 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 528.421053 234.698458  L 525.221053 241.098458  L 522.021053 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_19" class="paper-node" data-paper="tl230911499" tabindex="0" role="button" aria-label="DreamLLM: Synergistic Multimodal Comprehension and Creation">
+    <rect class="paper-hit" x="471.8510526315789" y="247.176" width="106.74000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(475.766365 264.011625)">DreamLLM</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(502.98199 282.936625)">[212]</text>
+   <title>DreamLLM: Synergistic Multimodal Comprehension and Creation</title></g>
+   <g id="patch_14">
+    <path d="M 567.663158 161.856  Q 567.663158 121.536 567.663158 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 564.463158 89.013542  L 567.663158 82.613542  L 570.863158 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_20" class="paper-node" data-paper="tl231217172" tabindex="0" role="button" aria-label="Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action">
+    <rect class="paper-hit" x="510.24315789473684" y="33.48000000000003" width="114.84000000000002" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(514.311595 51.116)">Unified-IO 2</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(545.424095 70.041)">[213]</text>
+   <title>Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action</title></g>
+   <g id="patch_15">
+    <path d="M 610.105263 161.856  Q 610.105263 169.056 610.105263 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 613.305263 168.458458  L 610.105263 174.858458  L 606.905263 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_21" class="paper-node" data-paper="tl240812528" tabindex="0" role="button" aria-label="Show-o: One Single Transformer to Unify Multimodal Understanding and Generation">
+    <rect class="paper-hit" x="572.3052631578946" y="180.93599999999998" width="75.60000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(576.200576 197.771625)">Show-o</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(587.866201 216.696625)">[214]</text>
+   <title>Show-o: One Single Transformer to Unify Multimodal Understanding and Generation</title></g>
+   <g id="patch_16">
+    <path d="M 652.547368 161.856  Q 652.547368 154.656 652.547368 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 649.347368 155.253542  L 652.547368 148.853542  L 655.747368 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_22" class="paper-node" data-paper="tl240911340" tabindex="0" role="button" aria-label="OmniGen: Unified Image Generation">
+    <rect class="paper-hit" x="605.7473684210526" y="99.72000000000003" width="93.60000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(609.756743 117.356)">OmniGen</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(630.308306 136.281)">[215]</text>
+   <title>OmniGen: Unified Image Generation</title></g>
+   <g id="patch_17">
+    <path d="M 694.989474 161.856  Q 694.989474 202.176 694.989474 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 698.189474 234.698458  L 694.989474 241.098458  L 691.789474 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_23" class="paper-node" data-paper="tl241207774" tabindex="0" role="button" aria-label="UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics">
+    <rect class="paper-hit" x="655.4344736842105" y="247.176" width="79.11000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(659.419161 264.011625)">UniReal</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(672.750411 282.936625)">[216]</text>
+   <title>UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics</title></g>
+   <g id="patch_18">
+    <path d="M 737.431579 161.856  Q 737.431579 121.536 737.431579 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 734.231579 89.013542  L 737.431579 82.613542  L 740.631579 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_24" class="paper-node" data-paper="tl250514683" tabindex="0" role="button" aria-label="Emerging Properties in Unified Multimodal Pretraining">
+    <rect class="paper-hit" x="700.1715789473685" y="33.48000000000003" width="74.52000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(704.081579 51.116)">BAGEL</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(715.192516 70.041)">[217]</text>
+   <title>Emerging Properties in Unified Multimodal Pretraining</title></g>
+   <g id="patch_19">
+    <path d="M 779.873684 161.856  Q 779.873684 169.056 779.873684 174.858458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 783.073684 168.458458  L 779.873684 174.858458  L 776.673684 168.458458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_25" class="paper-node" data-paper="tl260111522" tabindex="0" role="button" aria-label="UniX: Unifying Autoregression and Diffusion for Chest X-Ray Understanding and Generation">
+    <rect class="paper-hit" x="753.5936842105262" y="180.93599999999998" width="52.56" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(758.198684 197.771625)">UniX</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(757.634622 216.696625)">[204]</text>
+   <title>UniX: Unifying Autoregression and Diffusion for Chest X-Ray Understanding and Generation</title></g>
+   <g id="patch_20">
+    <path d="M 822.315789 161.856  Q 822.315789 154.656 822.315789 148.853542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 819.115789 155.253542  L 822.315789 148.853542  L 825.515789 155.253542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_26" class="paper-node" data-paper="tl260518678" tabindex="0" role="button" aria-label="Lance: Unified Multimodal Modeling by Multi-Task Synergy">
+    <rect class="paper-hit" x="791.1307894736841" y="99.72000000000003" width="62.37" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(795.072039 117.356)">Lance</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(800.076727 136.281)">[218]</text>
+   <title>Lance: Unified Multimodal Modeling by Multi-Task Synergy</title></g>
+   <g id="patch_21">
+    <path d="M 864.757895 161.856  Q 864.757895 202.176 864.757895 241.098458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 867.957895 234.698458  L 864.757895 241.098458  L 861.557895 234.698458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_27" class="paper-node" data-paper="tl260724157" tabindex="0" role="button" aria-label="UniGen-AR: Unifying Visual Generation with Auto-Regressive Modeling">
+    <rect class="paper-hit" x="809.6778947368421" y="247.176" width="110.16" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(813.631332 264.011625)">UniGen-AR</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(842.518832 282.936625)">[219]</text>
+   <title>UniGen-AR: Unifying Visual Generation with Auto-Regressive Modeling</title></g>
+   <g id="patch_22">
+    <path d="M 907.2 161.856  Q 907.2 121.536 907.2 82.613542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 904 89.013542  L 907.2 82.613542  L 910.4 89.013542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_28" class="paper-node" data-paper="tl260802711" tabindex="0" role="button" aria-label="Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing">
+    <rect class="paper-hit" x="815.9399999999999" y="33.48000000000003" width="182.51999999999998" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(820.104687 50.881625)">Hunyuan3D-Buffalo</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(884.960937 70.041)">[220]</text>
+   <title>Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing</title></g>
+  </g>
+ </g>
+</svg>

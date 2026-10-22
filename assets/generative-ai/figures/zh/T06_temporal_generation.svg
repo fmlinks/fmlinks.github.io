@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="333.9648pt" viewBox="0 0 1008 333.9648" version="1.1" data-language="zh" lang="zh-CN">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T03:32:01.071250</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 333.9648  L 1008 333.9648  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="21.009375" transform="rotate(-0 15.84 21.009375)">06  时序生成</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 48.797795 167.7024  Q 502.198724 167.7024 954.202111 167.7024  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 947.002111 164.1024  L 954.202111 167.7024  L 947.002111 171.3024  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="122.021053" y="326.512613" transform="rotate(-0 122.021053 326.512613)">2018</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="185.684211" y="326.512613" transform="rotate(-0 185.684211 326.512613)">2019</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="239.729211" y="326.512613" transform="rotate(-0 239.729211 326.512613)">2021</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="397.894737" y="326.512613" transform="rotate(-0 397.894737 326.512613)">2022</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="652.547368" y="326.512613" transform="rotate(-0 652.547368 326.512613)">2023</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="801.094737" y="326.512613" transform="rotate(-0 801.094737 326.512613)">2024</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="885.978947" y="326.512613" transform="rotate(-0 885.978947 326.512613)">2026*</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.8 167.7024  Q 100.8 174.9024 100.8 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 104 174.304858  L 100.8 180.704858  L 97.6 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_9" class="paper-node" data-paper="tl180401523" tabindex="0" role="button" aria-label="随机对抗视频预测">
+    <rect class="paper-hit" x="71.82" y="186.78240000000005" width="57.959999999999994" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(75.723437 205.2899)">SAVP</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(76.526562 226.888775)">[128]</text>
+   <title>随机对抗视频预测</title></g>
+   <g id="patch_4">
+    <path d="M 143.242105 167.7024  Q 143.242105 160.5024 143.242105 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 140.042105 161.099942  L 143.242105 154.699942  L 146.442105 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_10" class="paper-node" data-paper="tl180806601" tabindex="0" role="button" aria-label="视频到视频合成">
+    <rect class="paper-hit" x="104.81210526315789" y="99.7200000000001" width="76.86000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(108.765543 119.53165)">vid2vid</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(118.968668 141.130525)">[129]</text>
+   <title>视频到视频合成</title></g>
+   <g id="patch_5">
+    <path d="M 185.684211 167.7024  Q 185.684211 208.0224 185.684211 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 188.884211 240.544858  L 185.684211 246.944858  L 182.484211 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_11" class="paper-node" data-paper="tl190706571" tabindex="0" role="button" aria-label="复杂数据集上的对抗式视频生成">
+    <rect class="paper-hit" x="132.76421052631576" y="253.02240000000006" width="105.84000000000002" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(136.759211 271.5299)">DVD-GAN</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(161.410773 293.128775)">[130]</text>
+   <title>复杂数据集上的对抗式视频生成</title></g>
+   <g id="patch_6">
+    <path d="M 228.126316 167.7024  Q 228.126316 127.3824 228.126316 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 224.926316 94.859942  L 228.126316 88.459942  L 231.326316 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_12" class="paper-node" data-paper="tl210410157" tabindex="0" role="button" aria-label="VideoGPT：使用 VQ-VAE 和 Transformer 生成视频">
+    <rect class="paper-hit" x="177.09631578947364" y="33.480000000000125" width="102.06000000000002" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(180.987253 53.29165)">VideoGPT</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(203.852878 74.890525)">[131]</text>
+   <title>VideoGPT：使用 VQ-VAE 和 Transformer 生成视频</title></g>
+   <g id="patch_7">
+    <path d="M 270.568421 167.7024  Q 270.568421 174.9024 270.568421 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 273.768421 174.304858  L 270.568421 180.704858  L 267.368421 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_13" class="paper-node" data-paper="videodiff" tabindex="0" role="button" aria-label="视频扩散模型">
+    <rect class="paper-hit" x="192.58342105263154" y="186.78240000000005" width="155.96999999999997" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(196.571546 205.2899)">Video Diffusion</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(252.159046 226.888775)">[21]</text>
+   <title>视频扩散模型</title></g>
+   <g id="patch_8">
+    <path d="M 313.010526 167.7024  Q 313.010526 160.5024 313.010526 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 309.810526 161.099942  L 313.010526 154.699942  L 316.210526 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_14" class="paper-node" data-paper="tl220815001" tabindex="0" role="button" aria-label="MotionDiffuse：基于扩散模型的文本驱动人体运动生成">
+    <rect class="paper-hit" x="240.29052631578944" y="99.7200000000001" width="145.44" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(244.298026 119.53165)">MotionDiffuse</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(288.737089 141.130525)">[132]</text>
+   <title>MotionDiffuse：基于扩散模型的文本驱动人体运动生成</title></g>
+   <g id="patch_9">
+    <path d="M 355.452632 167.7024  Q 355.452632 208.0224 355.452632 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 358.652632 240.544858  L 355.452632 246.944858  L 352.252632 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_15" class="paper-node" data-paper="tl220914792" tabindex="0" role="button" aria-label="Make-A-Video：无需文本-视频数据的文本到视频生成">
+    <rect class="paper-hit" x="281.8776315789473" y="253.02240000000006" width="147.15" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(285.708882 271.5299)">Make-A-Video</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(331.179194 293.128775)">[133]</text>
+   <title>Make-A-Video：无需文本-视频数据的文本到视频生成</title></g>
+   <g id="patch_10">
+    <path d="M 397.894737 167.7024  Q 397.894737 127.3824 397.894737 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 394.694737 94.859942  L 397.894737 88.459942  L 401.094737 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_16" class="paper-node" data-paper="tl220914916" tabindex="0" role="button" aria-label="人体运动扩散模型">
+    <rect class="paper-hit" x="366.75473684210516" y="33.480000000000125" width="62.28" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(370.736924 53.29165)">MDM</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(373.621299 74.890525)">[134]</text>
+   <title>人体运动扩散模型</title></g>
+   <g id="patch_11">
+    <path d="M 440.336842 167.7024  Q 440.336842 174.9024 440.336842 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 443.536842 174.304858  L 440.336842 180.704858  L 437.136842 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_17" class="paper-node" data-paper="tl221002303" tabindex="0" role="button" aria-label="Imagen Video：使用扩散模型生成高清视频">
+    <rect class="paper-hit" x="369.5518421052631" y="186.78240000000005" width="141.57" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(373.455592 205.2899)">Imagen Video</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(416.063405 227.0044)">[135]</text>
+   <title>Imagen Video：使用扩散模型生成高清视频</title></g>
+   <g id="patch_12">
+    <path d="M 482.778947 167.7024  Q 482.778947 160.5024 482.778947 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 479.578947 161.099942  L 482.778947 154.699942  L 485.978947 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_18" class="paper-node" data-paper="tl221002399" tabindex="0" role="button" aria-label="Phenaki：根据开放域文本描述生成可变长度视频">
+    <rect class="paper-hit" x="441.108947368421" y="99.7200000000001" width="83.34000000000002" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(445.033635 119.53165)">Phenaki</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(458.50551 141.130525)">[136]</text>
+   <title>Phenaki：根据开放域文本描述生成可变长度视频</title></g>
+   <g id="patch_13">
+    <path d="M 525.221053 167.7024  Q 525.221053 208.0224 525.221053 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 528.421053 240.544858  L 525.221053 246.944858  L 522.021053 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_19" class="paper-node" data-paper="tl221211565" tabindex="0" role="button" aria-label="Tune-A-Video：通过单样本调优图像扩散模型实现文本到视频生成">
+    <rect class="paper-hit" x="454.9760526315789" y="253.02240000000006" width="140.49" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(458.886678 271.5299)">Tune-A-Video</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(500.947615 293.128775)">[137]</text>
+   <title>Tune-A-Video：通过单样本调优图像扩散模型实现文本到视频生成</title></g>
+   <g id="patch_14">
+    <path d="M 567.663158 167.7024  Q 567.663158 127.3824 567.663158 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 564.463158 94.859942  L 567.663158 88.459942  L 570.863158 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_20" class="paper-node" data-paper="tl230106052" tabindex="0" role="button" aria-label="T2M-GPT：利用离散表示根据文本描述生成人体运动">
+    <rect class="paper-hit" x="518.7931578947367" y="33.480000000000125" width="97.74000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(522.681908 53.29165)">T2M-GPT</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(543.38972 74.890525)">[138]</text>
+   <title>T2M-GPT：利用离散表示根据文本描述生成人体运动</title></g>
+   <g id="patch_15">
+    <path d="M 610.105263 167.7024  Q 610.105263 174.9024 610.105263 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 613.305263 174.304858  L 610.105263 180.704858  L 606.905263 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_21" class="paper-node" data-paper="tl230313439" tabindex="0" role="button" aria-label="Text2Video-Zero：文本到图像扩散模型是零样本视频生成器">
+    <rect class="paper-hit" x="546.1152631578947" y="186.78240000000005" width="127.98" height="71.1648" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(550.016201 205.2899)">Text2 Video-</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(588.191201 226.888775)">Zero</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(585.831826 248.48765)">[139]</text>
+   <title>Text2Video-Zero：文本到图像扩散模型是零样本视频生成器</title></g>
+   <g id="patch_16">
+    <path d="M 652.547368 167.7024  Q 652.547368 160.5024 652.547368 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 649.347368 161.099942  L 652.547368 154.699942  L 655.747368 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_22" class="paper-node" data-paper="tl230408818" tabindex="0" role="button" aria-label="对齐你的潜变量：使用潜在扩散模型合成高分辨率视频">
+    <rect class="paper-hit" x="595.2623684210527" y="99.7200000000001" width="114.57000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(599.217681 119.53165)">Video LDM</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(628.273931 141.130525)">[140]</text>
+   <title>对齐你的潜变量：使用潜在扩散模型合成高分辨率视频</title></g>
+   <g id="patch_17">
+    <path d="M 694.989474 167.7024  Q 694.989474 208.0224 694.989474 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 698.189474 240.544858  L 694.989474 246.944858  L 691.789474 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_23" class="paper-node" data-paper="tl230704725" tabindex="0" role="button" aria-label="AnimateDiff：无需专门调优，让个性化文本到图像扩散模型动起来">
+    <rect class="paper-hit" x="633.7894736842105" y="253.02240000000006" width="122.4" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(637.708224 271.5299)">AnimateDiff</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(670.716036 293.128775)">[141]</text>
+   <title>AnimateDiff：无需专门调优，让个性化文本到图像扩散模型动起来</title></g>
+   <g id="patch_18">
+    <path d="M 737.431579 167.7024  Q 737.431579 127.3824 737.431579 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 734.231579 94.859942  L 737.431579 88.459942  L 740.631579 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_24" class="paper-node" data-paper="tl231115127" tabindex="0" role="button" aria-label="Stable Video Diffusion：将潜在视频扩散模型扩展至大规模数据集">
+    <rect class="paper-hit" x="653.1015789473685" y="33.480000000000125" width="168.66" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(657.051891 53.29165)">Stable Video Diff</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(713.158141 74.890525)">[142]</text>
+   <title>Stable Video Diffusion：将潜在视频扩散模型扩展至大规模数据集</title></g>
+   <g id="patch_19">
+    <path d="M 779.873684 167.7024  Q 779.873684 174.9024 779.873684 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 783.073684 174.304858  L 779.873684 180.704858  L 776.673684 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_25" class="paper-node" data-paper="tl240112945" tabindex="0" role="button" aria-label="Lumiere：用于视频生成的时空扩散模型">
+    <rect class="paper-hit" x="737.5286842105263" y="186.78240000000005" width="84.69" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(741.520559 205.2899)">Lumiere</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(755.600247 226.888775)">[143]</text>
+   <title>Lumiere：用于视频生成的时空扩散模型</title></g>
+   <g id="patch_20">
+    <path d="M 822.315789 167.7024  Q 822.315789 160.5024 822.315789 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 819.115789 161.099942  L 822.315789 154.699942  L 825.515789 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_26" class="paper-node" data-paper="tl240806072" tabindex="0" role="button" aria-label="CogVideoX：采用专家 Transformer 的文本到视频扩散模型">
+    <rect class="paper-hit" x="764.7157894736843" y="99.7200000000001" width="115.2" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(768.570477 119.416025)">CogVideoX</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(798.042352 141.130525)">[144]</text>
+   <title>CogVideoX：采用专家 Transformer 的文本到视频扩散模型</title></g>
+   <g id="patch_21">
+    <path d="M 864.757895 167.7024  Q 864.757895 208.0224 864.757895 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 867.957895 240.544858  L 864.757895 246.944858  L 861.557895 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_27" class="paper-node" data-paper="tl260325194" tabindex="0" role="button" aria-label="CardioDiT：用于 4D 心脏 MRI 合成的潜在扩散 Transformer">
+    <rect class="paper-hit" x="813.5478947368421" y="253.02240000000006" width="102.42" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(817.432895 271.5299)">CardioDiT</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(840.484457 293.128775)">[145]</text>
+   <title>CardioDiT：用于 4D 心脏 MRI 合成的潜在扩散 Transformer</title></g>
+   <g id="patch_22">
+    <path d="M 907.2 167.7024  Q 907.2 127.3824 907.2 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 904 94.859942  L 907.2 88.459942  L 910.4 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_28" class="paper-node" data-paper="tl260414148" tabindex="0" role="button" aria-label="Seedance 2.0：推进面向世界复杂性的视频生成">
+    <rect class="paper-hit" x="840.375" y="33.480000000000125" width="133.65" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(844.210937 53.29165)">Seedance 2.0</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(882.926562 74.890525)">[146]</text>
+   <title>Seedance 2.0：推进面向世界复杂性的视频生成</title></g>
+  </g>
+ </g>
+</svg>

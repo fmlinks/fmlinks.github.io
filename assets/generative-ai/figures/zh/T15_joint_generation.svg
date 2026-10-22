@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="333.9648pt" viewBox="0 0 1008 333.9648" version="1.1" data-language="zh" lang="zh-CN">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T03:32:05.647526</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 333.9648  L 1008 333.9648  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="21.009375" transform="rotate(-0 15.84 21.009375)">15  联合生成</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 48.797795 167.7024  Q 502.198724 167.7024 954.202111 167.7024  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 947.002111 164.1024  L 954.202111 167.7024  L 947.002111 171.3024  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="100.8" y="326.512613" transform="rotate(-0 100.8 326.512613)">2018</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="154.845" y="326.512613" transform="rotate(-0 154.845 326.512613)">2021</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="208.845" y="326.512613" transform="rotate(-0 208.845 326.512613)">2022</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="419.115789" y="326.512613" transform="rotate(-0 419.115789 326.512613)">2023</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="631.326316" y="326.512613" transform="rotate(-0 631.326316 326.512613)">2024</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="716.210526" y="326.512613" transform="rotate(-0 716.210526 326.512613)">2025</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="843.536842" y="326.512613" transform="rotate(-0 843.536842 326.512613)">2026*</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.8 167.7024  Q 100.8 174.9024 100.8 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 104 174.304858  L 100.8 180.704858  L 97.6 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_9" class="paper-node" data-paper="tl180808281" tabindex="0" role="button" aria-label="通过生成对抗网络合成高质量人脸表面与纹理">
+    <rect class="paper-hit" x="21.64499999999999" y="186.78240000000005" width="158.31" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(25.646875 205.2899)">FaceSurfTexture</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(76.526562 226.888775)">[231]</text>
+   <title>通过生成对抗网络合成高质量人脸表面与纹理</title></g>
+   <g id="patch_4">
+    <path d="M 143.242105 167.7024  Q 143.242105 160.5024 143.242105 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 140.042105 161.099942  L 143.242105 154.699942  L 146.442105 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_10" class="paper-node" data-paper="tl210406490" tabindex="0" role="button" aria-label="DatasetGAN：仅需极少人工投入的高效标注数据工厂">
+    <rect class="paper-hit" x="80.2871052631579" y="99.7200000000001" width="125.91" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(84.21398 119.53165)">DatasetGAN</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(118.968668 141.130525)">[232]</text>
+   <title>DatasetGAN：仅需极少人工投入的高效标注数据工厂</title></g>
+   <g id="patch_5">
+    <path d="M 185.684211 167.7024  Q 185.684211 208.0224 185.684211 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 188.884211 240.544858  L 185.684211 246.944858  L 182.484211 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_11" class="paper-node" data-paper="tl220104684" tabindex="0" role="button" aria-label="BigDatasetGAN：合成具有像素级标注的 ImageNet">
+    <rect class="paper-hit" x="107.38421052631577" y="253.02240000000006" width="156.6" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(111.323273 271.414275)">BigDatasetGAN</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(161.410773 293.128775)">[233]</text>
+   <title>BigDatasetGAN：合成具有像素级标注的 ImageNet</title></g>
+   <g id="patch_6">
+    <path d="M 228.126316 167.7024  Q 228.126316 127.3824 228.126316 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 224.926316 94.859942  L 228.126316 88.459942  L 231.326316 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_12" class="paper-node" data-paper="tl220911163" tabindex="0" role="button" aria-label="GET3D：从图像学习高质量三维纹理形状的生成模型">
+    <rect class="paper-hit" x="191.99131578947365" y="33.480000000000125" width="72.27000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(195.952878 53.29165)">GET3D</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(203.852878 74.890525)">[234]</text>
+   <title>GET3D：从图像学习高质量三维纹理形状的生成模型</title></g>
+   <g id="patch_7">
+    <path d="M 270.568421 167.7024  Q 270.568421 174.9024 270.568421 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 273.768421 174.304858  L 270.568421 180.704858  L 267.368421 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_13" class="paper-node" data-paper="tl230306555" tabindex="0" role="button" aria-label="一个 Transformer 在大规模多模态扩散中拟合所有分布">
+    <rect class="paper-hit" x="212.74342105263156" y="186.78240000000005" width="115.65" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(216.782484 205.2899)">UniDiffuser</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(246.294984 226.888775)">[203]</text>
+   <title>一个 Transformer 在大规模多模态扩散中拟合所有分布</title></g>
+   <g id="patch_8">
+    <path d="M 313.010526 167.7024  Q 313.010526 160.5024 313.010526 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 309.810526 161.099942  L 313.010526 154.699942  L 316.210526 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_14" class="paper-node" data-paper="tl230510853" tabindex="0" role="button" aria-label="LDM3D：面向三维的潜在扩散模型">
+    <rect class="paper-hit" x="273.00552631578944" y="99.7200000000001" width="80.01" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(277.010526 119.53165)">LDM3D</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(288.737089 141.130525)">[235]</text>
+   <title>LDM3D：面向三维的潜在扩散模型</title></g>
+   <g id="patch_9">
+    <path d="M 355.452632 167.7024  Q 355.452632 208.0224 355.452632 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 358.652632 240.544858  L 355.452632 246.944858  L 352.252632 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_15" class="paper-node" data-paper="tl230511846" tabindex="0" role="button" aria-label="通过可组合扩散实现任意模态到任意模态生成">
+    <rect class="paper-hit" x="327.2376315789473" y="253.02240000000006" width="56.42999999999999" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(332.127632 271.5299)">CoDi</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(331.179194 293.128775)">[221]</text>
+   <title>通过可组合扩散实现任意模态到任意模态生成</title></g>
+   <g id="patch_10">
+    <path d="M 397.894737 167.7024  Q 397.894737 127.3824 397.894737 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 394.694737 94.859942  L 397.894737 88.459942  L 401.094737 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_16" class="paper-node" data-paper="tl230811408" tabindex="0" role="button" aria-label="MatFuse：基于扩散模型的可控材质生成">
+    <rect class="paper-hit" x="353.1197368421052" y="33.480000000000125" width="89.55000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(357.093174 53.29165)">MatFuse</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(373.621299 74.890525)">[236]</text>
+   <title>MatFuse：基于扩散模型的可控材质生成</title></g>
+   <g id="patch_11">
+    <path d="M 440.336842 167.7024  Q 440.336842 174.9024 440.336842 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 443.536842 174.304858  L 440.336842 180.704858  L 437.136842 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_17" class="paper-node" data-paper="jointnet" tabindex="0" role="button" aria-label="JointNet：扩展文本到图像扩散以建模稠密模态分布">
+    <rect class="paper-hit" x="395.9668421052631" y="186.78240000000005" width="88.74000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(399.943092 205.2899)">JointNet</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(416.063405 226.888775)">[205]</text>
+   <title>JointNet：扩展文本到图像扩散以建模稠密模态分布</title></g>
+   <g id="patch_12">
+    <path d="M 482.778947 167.7024  Q 482.778947 160.5024 482.778947 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 479.578947 161.099942  L 482.778947 154.699942  L 485.978947 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_18" class="paper-node" data-paper="tl231015008" tabindex="0" role="button" aria-label="Wonder3D：利用跨域扩散实现单图像到三维生成">
+    <rect class="paper-hit" x="427.023947368421" y="99.7200000000001" width="111.51" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(430.97426 119.53165)">Wonder3D</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(458.50551 141.130525)">[237]</text>
+   <title>Wonder3D：利用跨域扩散实现单图像到三维生成</title></g>
+   <g id="patch_13">
+    <path d="M 525.221053 167.7024  Q 525.221053 208.0224 525.221053 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 528.421053 240.544858  L 525.221053 246.944858  L 522.021053 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_19" class="paper-node" data-paper="tl231116918" tabindex="0" role="button" aria-label="RichDreamer：以可泛化的法线-深度扩散模型丰富文本到三维生成的细节">
+    <rect class="paper-hit" x="459.5210526315789" y="253.02240000000006" width="131.4" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(463.497615 271.5299)">RichDreamer</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(500.947615 293.128775)">[238]</text>
+   <title>RichDreamer：以可泛化的法线-深度扩散模型丰富文本到三维生成的细节</title></g>
+   <g id="patch_14">
+    <path d="M 567.663158 167.7024  Q 567.663158 127.3824 567.663158 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 564.463158 94.859942  L 567.663158 88.459942  L 570.863158 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_20" class="paper-node" data-paper="tl231201985" tabindex="0" role="button" aria-label="UniGS：用于图像生成与分割的统一表示">
+    <rect class="paper-hit" x="534.2281578947368" y="33.480000000000125" width="66.87" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(538.166283 53.29165)">UniGS</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(543.38972 74.890525)">[239]</text>
+   <title>UniGS：用于图像生成与分割的统一表示</title></g>
+   <g id="patch_15">
+    <path d="M 610.105263 167.7024  Q 610.105263 174.9024 610.105263 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 613.305263 174.304858  L 610.105263 180.704858  L 606.905263 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_21" class="paper-node" data-paper="tl240702445" tabindex="0" role="button" aria-label="Meta 3D AssetGen：生成高质量几何、纹理和 PBR 材质的文本到网格方法">
+    <rect class="paper-hit" x="536.3502631578947" y="186.78240000000005" width="147.51" height="71.1648" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(540.314638 205.2899)">Meta 3D Asset</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(590.833388 226.888775)">Gen</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(585.831826 248.48765)">[240]</text>
+   <title>Meta 3D AssetGen：生成高质量几何、纹理和 PBR 材质的文本到网格方法</title></g>
+   <g id="patch_16">
+    <path d="M 652.547368 167.7024  Q 652.547368 160.5024 652.547368 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 649.347368 161.099942  L 652.547368 154.699942  L 655.747368 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_22" class="paper-node" data-paper="tl241201169" tabindex="0" role="button" aria-label="OmniFlow：基于多模态整流流的任意模态到任意模态生成">
+    <rect class="paper-hit" x="600.0323684210526" y="99.7200000000001" width="105.03" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(603.977056 119.53165)">OmniFlow</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(628.273931 141.130525)">[229]</text>
+   <title>OmniFlow：基于多模态整流流的任意模态到任意模态生成</title></g>
+   <g id="patch_17">
+    <path d="M 694.989474 167.7024  Q 694.989474 208.0224 694.989474 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 698.189474 240.544858  L 694.989474 246.944858  L 691.789474 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_23" class="paper-node" data-paper="medsegfactory" tabindex="0" role="button" aria-label="MedSegFactory：文本引导的医学图像-掩膜对生成">
+    <rect class="paper-hit" x="616.4194736842105" y="253.02240000000006" width="157.14" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(620.306661 271.5299)">MedSegFactory</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(670.716036 293.2444)">[206]</text>
+   <title>MedSegFactory：文本引导的医学图像-掩膜对生成</title></g>
+   <g id="patch_18">
+    <path d="M 737.431579 167.7024  Q 737.431579 127.3824 737.431579 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 734.231579 94.859942  L 737.431579 88.459942  L 740.631579 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_24" class="paper-node" data-paper="tl250500482" tabindex="0" role="button" aria-label="JointDiT：利用扩散 Transformer 增强 RGB 与深度的联合建模">
+    <rect class="paper-hit" x="694.5915789473686" y="33.480000000000125" width="85.68" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(698.555016 53.29165)">JointDiT</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(713.158141 74.890525)">[241]</text>
+   <title>JointDiT：利用扩散 Transformer 增强 RGB 与深度的联合建模</title></g>
+   <g id="patch_19">
+    <path d="M 779.873684 167.7024  Q 779.873684 174.9024 779.873684 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 783.073684 174.304858  L 779.873684 180.704858  L 776.673684 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_25" class="paper-node" data-paper="tl260104090" tabindex="0" role="button" aria-label="Gen3R：三维场景生成与前馈重建的结合">
+    <rect class="paper-hit" x="744.2336842105263" y="186.78240000000005" width="71.28" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(748.209622 205.2899)">Gen3R</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(755.600247 226.888775)">[242]</text>
+   <title>Gen3R：三维场景生成与前馈重建的结合</title></g>
+   <g id="patch_20">
+    <path d="M 822.315789 167.7024  Q 822.315789 160.5024 822.315789 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 819.115789 161.099942  L 822.315789 154.699942  L 825.515789 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_26" class="paper-node" data-paper="tl260316566" tabindex="0" role="button" aria-label="VideoMatGen：通过联合生成建模构建 PBR 材质">
+    <rect class="paper-hit" x="752.2957894736842" y="99.7200000000001" width="140.04" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(756.168914 119.53165)">VideoMatGen</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(798.042352 141.130525)">[243]</text>
+   <title>VideoMatGen：通过联合生成建模构建 PBR 材质</title></g>
+   <g id="patch_21">
+    <path d="M 864.757895 167.7024  Q 864.757895 208.0224 864.757895 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 867.957895 240.544858  L 864.757895 246.944858  L 861.557895 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_27" class="paper-node" data-paper="tl260613676" tabindex="0" role="button" aria-label="用于可扩展空间生成的 Modality Forcing">
+    <rect class="paper-hit" x="779.8878947368421" y="253.02240000000006" width="169.74" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(783.818832 271.5299)">Modality Forcing</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(840.484457 293.2444)">[244]</text>
+   <title>用于可扩展空间生成的 Modality Forcing</title></g>
+   <g id="patch_22">
+    <path d="M 907.2 167.7024  Q 907.2 127.3824 907.2 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 904 94.859942  L 907.2 88.459942  L 910.4 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_28" class="paper-node" data-paper="tl260616408" tabindex="0" role="button" aria-label="MUNI：用于一致性任意模态到任意模态生成的多模态统一潜在扩散">
+    <rect class="paper-hit" x="874.89" y="33.480000000000125" width="64.62" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(878.895312 53.29165)">MUNI</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(882.926562 74.890525)">[230]</text>
+   <title>MUNI：用于一致性任意模态到任意模态生成的多模态统一潜在扩散</title></g>
+  </g>
+ </g>
+</svg>

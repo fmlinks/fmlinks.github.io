@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="322.362pt" viewBox="0 0 1008 322.362" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T02:43:32.785981</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 322.362  L 1008 322.362  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start" x="15.84" y="20.62125" transform="rotate(-0 15.84 20.62125)">09  Controllable</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 48.797795 161.946  Q 502.198724 161.946 954.202111 161.946  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 947.002111 158.346  L 954.202111 161.946  L 947.002111 165.546  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="46.8" y="314.572312" transform="rotate(-0 46.8 314.572312)">2018</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="122.021053" y="314.572312" transform="rotate(-0 122.021053 314.572312)">2019</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="206.905263" y="314.572312" transform="rotate(-0 206.905263 314.572312)">2020</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="291.789474" y="314.572312" transform="rotate(-0 291.789474 314.572312)">2021</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="397.894737" y="314.572312" transform="rotate(-0 397.894737 314.572312)">2022</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="631.326316" y="314.572312" transform="rotate(-0 631.326316 314.572312)">2023</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="822.315789" y="314.572312" transform="rotate(-0 822.315789 314.572312)">2024</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="885.978947" y="314.572312" transform="rotate(-0 885.978947 314.572312)">2026*</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.8 161.946  Q 100.8 169.146 100.8 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 104 168.548458  L 100.8 174.948458  L 97.6 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_10" class="paper-node" data-paper="tl190307291" tabindex="0" role="button" aria-label="Semantic Image Synthesis with Spatially-Adaptive Normalization">
+    <rect class="paper-hit" x="63.67499999999998" y="181.02599999999998" width="74.25" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(67.634375 197.861625)">SPADE</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(78.560937 216.786625)">[147]</text>
+   <title>Semantic Image Synthesis with Spatially-Adaptive Normalization</title></g>
+   <g id="patch_4">
+    <path d="M 143.242105 161.946  Q 143.242105 154.746 143.242105 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 140.042105 155.343542  L 143.242105 148.943542  L 146.442105 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_11" class="paper-node" data-paper="tl190710786" tabindex="0" role="button" aria-label="Interpreting the Latent Space of GANs for Semantic Face Editing">
+    <rect class="paper-hit" x="75.4721052631579" y="99.81000000000002" width="135.54" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(79.334293 117.446)">InterFaceGAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(126.56398 136.371)">[71]</text>
+   <title>Interpreting the Latent Space of GANs for Semantic Face Editing</title></g>
+   <g id="patch_5">
+    <path d="M 185.684211 161.946  Q 185.684211 202.266 185.684211 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 188.884211 234.788458  L 185.684211 241.188458  L 182.484211 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_12" class="paper-node" data-paper="tl200402546" tabindex="0" role="button" aria-label="GANSpace: Discovering Interpretable GAN Controls">
+    <rect class="paper-hit" x="131.72921052631577" y="247.26599999999996" width="107.91" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(135.660773 264.345375)">GANSpace</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(169.006086 283.270375)">[72]</text>
+   <title>GANSpace: Discovering Interpretable GAN Controls</title></g>
+   <g id="patch_6">
+    <path d="M 228.126316 161.946  Q 228.126316 121.626 228.126316 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 224.926316 89.103542  L 228.126316 82.703542  L 231.326316 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_13" class="paper-node" data-paper="tl200802401" tabindex="0" role="button" aria-label="StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows">
+    <rect class="paper-hit" x="180.92131578947365" y="33.48" width="94.41" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(184.782566 50.971625)">StyleFlow</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(211.448191 70.131)">[73]</text>
+   <title>StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows</title></g>
+   <g id="patch_7">
+    <path d="M 270.568421 161.946  Q 270.568421 169.146 270.568421 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 273.768421 168.548458  L 270.568421 174.948458  L 267.368421 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_14" class="paper-node" data-paper="tl210317249" tabindex="0" role="button" aria-label="StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery">
+    <rect class="paper-hit" x="222.19342105263155" y="181.02599999999998" width="96.75" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(226.105921 198.105375)">StyleCLIP</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(253.890296 217.203)">[74]</text>
+   <title>StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery</title></g>
+   <g id="patch_8">
+    <path d="M 313.010526 161.946  Q 313.010526 154.746 313.010526 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 309.810526 155.343542  L 313.010526 148.943542  L 316.210526 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_15" class="paper-node" data-paper="tl210601629" tabindex="0" role="button" aria-label="Semantic Palette: Guiding Scene Generation with Class Proportions">
+    <rect class="paper-hit" x="233.54052631578944" y="99.81000000000002" width="158.94" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(237.418339 117.446)">Semantic Palette</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(290.771464 136.371)">[164]</text>
+   <title>Semantic Palette: Guiding Scene Generation with Class Proportions</title></g>
+   <g id="patch_9">
+    <path d="M 355.452632 161.946  Q 355.452632 202.266 355.452632 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 358.652632 234.788458  L 355.452632 241.188458  L 352.252632 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_16" class="paper-node" data-paper="tl220313131" tabindex="0" role="button" aria-label="Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors">
+    <rect class="paper-hit" x="285.38763157894726" y="247.26599999999996" width="140.13" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(289.318257 264.101625)">Make-A-Scene</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(333.213569 283.026625)">[153]</text>
+   <title>Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors</title></g>
+   <g id="patch_10">
+    <path d="M 397.894737 161.946  Q 397.894737 121.626 397.894737 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 394.694737 89.103542  L 397.894737 82.703542  L 401.094737 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_17" class="paper-node" data-paper="tl220801626" tabindex="0" role="button" aria-label="Prompt-to-Prompt Image Editing with Cross Attention Control">
+    <rect class="paper-hit" x="314.6447368421052" y="33.48" width="166.5" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(318.436924 51.206)">Prompt-to-Prompt</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(381.216612 70.131)">[78]</text>
+   <title>Prompt-to-Prompt Image Editing with Cross Attention Control</title></g>
+   <g id="patch_11">
+    <path d="M 440.336842 161.946  Q 440.336842 169.146 440.336842 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 443.536842 168.548458  L 440.336842 174.948458  L 437.136842 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_18" class="paper-node" data-paper="instruct" tabindex="0" role="button" aria-label="InstructPix2Pix: Learning to Follow Image Editing Instructions">
+    <rect class="paper-hit" x="370.2268421052631" y="181.02599999999998" width="140.22" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(374.205592 197.861625)">InstructPix2Pix</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(423.658717 216.786625)">[14]</text>
+   <title>InstructPix2Pix: Learning to Follow Image Editing Instructions</title></g>
+   <g id="patch_12">
+    <path d="M 482.778947 161.946  Q 482.778947 154.746 482.778947 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 479.578947 155.343542  L 482.778947 148.943542  L 485.978947 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_19" class="paper-node" data-paper="tl230107093" tabindex="0" role="button" aria-label="GLIGEN: Open-Set Grounded Text-to-Image Generation">
+    <rect class="paper-hit" x="441.063947368421" y="99.81000000000002" width="83.43" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(444.991447 117.446)">GLIGEN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(460.539885 136.371)">[154]</text>
+   <title>GLIGEN: Open-Set Grounded Text-to-Image Generation</title></g>
+   <g id="patch_13">
+    <path d="M 525.221053 161.946  Q 525.221053 202.266 525.221053 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 528.421053 234.788458  L 525.221053 241.188458  L 522.021053 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_20" class="paper-node" data-paper="tl230113826" tabindex="0" role="button" aria-label="Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models">
+    <rect class="paper-hit" x="441.83605263157887" y="247.26599999999996" width="166.76999999999998" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(445.73824 264.101625)">Attend-and-Excite</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(502.98199 283.026625)">[165]</text>
+   <title>Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models</title></g>
+   <g id="patch_14">
+    <path d="M 567.663158 161.946  Q 567.663158 121.626 567.663158 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 564.463158 89.103542  L 567.663158 82.703542  L 570.863158 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_21" class="paper-node" data-paper="controlnet" tabindex="0" role="button" aria-label="Adding Conditional Control to Text-to-Image Diffusion Models">
+    <rect class="paper-hit" x="516.0031578947369" y="33.570000000000014" width="103.32000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(519.867845 51.206)">ControlNet</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(545.424095 70.131)">[149]</text>
+   <title>Adding Conditional Control to Text-to-Image Diffusion Models</title></g>
+   <g id="patch_15">
+    <path d="M 610.105263 161.946  Q 610.105263 169.146 610.105263 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 613.305263 168.548458  L 610.105263 174.948458  L 606.905263 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_22" class="paper-node" data-paper="tl230208453" tabindex="0" role="button" aria-label="T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models">
+    <rect class="paper-hit" x="553.3602631578947" y="181.02599999999998" width="113.49000000000001" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(557.306826 197.921)">T2I-Adapter</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(587.866201 216.846)">[155]</text>
+   <title>T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models</title></g>
+   <g id="patch_16">
+    <path d="M 652.547368 161.946  Q 652.547368 154.746 652.547368 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 649.347368 155.343542  L 652.547368 148.943542  L 655.747368 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_23" class="paper-node" data-paper="tl230408465" tabindex="0" role="button" aria-label="MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing">
+    <rect class="paper-hit" x="608.5373684210526" y="99.81000000000002" width="88.02000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(612.544243 117.446)">MasaCtrl</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(635.869243 136.371)">[83]</text>
+   <title>MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing</title></g>
+   <g id="patch_17">
+    <path d="M 694.989474 161.946  Q 694.989474 202.266 694.989474 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 698.189474 234.788458  L 694.989474 241.188458  L 691.789474 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_24" class="paper-node" data-paper="tl230710816" tabindex="0" role="button" aria-label="BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion">
+    <rect class="paper-hit" x="658.9444736842105" y="247.26599999999996" width="72.09" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(662.933224 264.101625)">BoxDiff</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(672.750411 283.026625)">[166]</text>
+   <title>BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion</title></g>
+   <g id="patch_18">
+    <path d="M 737.431579 161.946  Q 737.431579 121.626 737.431579 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 734.231579 89.103542  L 737.431579 82.703542  L 740.631579 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_25" class="paper-node" data-paper="tl231202133" tabindex="0" role="button" aria-label="Style Aligned Image Generation via Shared Attention">
+    <rect class="paper-hit" x="677.8965789473685" y="33.48" width="119.07000000000001" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(681.842516 50.971625)">StyleAligned</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(715.192516 70.131)">[167]</text>
+   <title>Style Aligned Image Generation via Shared Attention</title></g>
+   <g id="patch_19">
+    <path d="M 779.873684 161.946  Q 779.873684 169.146 779.873684 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 783.073684 168.548458  L 779.873684 174.948458  L 776.673684 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_26" class="paper-node" data-paper="tl231207536" tabindex="0" role="button" aria-label="FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition">
+    <rect class="paper-hit" x="723.2186842105262" y="181.02599999999998" width="113.31000000000002" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(727.079934 197.861625)">FreeControl</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(757.634622 216.786625)">[168]</text>
+   <title>FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition</title></g>
+   <g id="patch_20">
+    <path d="M 822.315789 161.946  Q 822.315789 154.746 822.315789 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 819.115789 155.343542  L 822.315789 148.943542  L 825.515789 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_27" class="paper-node" data-paper="maisi" tabindex="0" role="button" aria-label="MAISI: Medical AI for Synthetic Imaging">
+    <rect class="paper-hit" x="791.1307894736841" y="99.81000000000002" width="62.37" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(795.089227 117.446)">MAISI</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(811.198602 136.371)">[9]</text>
+   <title>MAISI: Medical AI for Synthetic Imaging</title></g>
+   <g id="patch_21">
+    <path d="M 864.757895 161.946  Q 864.757895 202.266 864.757895 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 867.957895 234.788458  L 864.757895 241.188458  L 861.557895 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_28" class="paper-node" data-paper="tl260324086" tabindex="0" role="button" aria-label="LGTM: Training-Free Light-Guided Text-to-Image Diffusion Model via Initial Noise Manipulation">
+    <rect class="paper-hit" x="833.0778947368422" y="247.26599999999996" width="63.36" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(836.981332 264.101625)">LGTM</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(842.518832 283.026625)">[169]</text>
+   <title>LGTM: Training-Free Light-Guided Text-to-Image Diffusion Model via Initial Noise Manipulation</title></g>
+   <g id="patch_22">
+    <path d="M 907.2 161.946  Q 907.2 121.626 907.2 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 904 89.103542  L 907.2 82.703542  L 910.4 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_29" class="paper-node" data-paper="tl260400903" tabindex="0" role="button" aria-label="IDDM: Identity-Decoupled Personalized Diffusion Models with a Tunable Privacy-Utility Trade-off">
+    <rect class="paper-hit" x="877.635" y="33.570000000000014" width="59.13" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(881.648437 51.206)">IDDM</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(884.960937 70.131)">[170]</text>
+   <title>IDDM: Identity-Decoupled Personalized Diffusion Models with a Tunable Privacy-Utility Trade-off</title></g>
+  </g>
+ </g>
+</svg>

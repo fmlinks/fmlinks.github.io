@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="566.64pt" viewBox="0 0 1008 566.64" version="1.1" data-language="zh" lang="zh-CN">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T03:31:54.565250</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 566.64  L 1008 566.64  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 321.12 126  L 338.4 126  " clip-path="url(#p734d168d0b)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_2">
+    <path d="M 656.64 126  L 673.92 126  " clip-path="url(#p734d168d0b)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_3">
+    <path d="M 321.12 273.6  L 338.4 273.6  " clip-path="url(#p734d168d0b)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_4">
+    <path d="M 656.64 273.6  L 673.92 273.6  " clip-path="url(#p734d168d0b)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_5">
+    <path d="M 321.12 421.2  L 338.4 421.2  " clip-path="url(#p734d168d0b)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_6">
+    <path d="M 656.64 421.2  L 673.92 421.2  " clip-path="url(#p734d168d0b)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #02779b" x="15.84" y="28.209375" transform="rotate(-0 15.84 28.209375)">05  生成对象</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="58.292813" transform="rotate(-0 15.84 58.292813)">图 1 坐标 5 | 子项 16, 17, 18</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #2573b4" x="15.84" y="93.009375" transform="rotate(-0 15.84 93.009375)">机器学习</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #148843" x="351.36" y="93.009375" transform="rotate(-0 351.36 93.009375)">计算机视觉</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #68559d" x="686.88" y="93.009375" transform="rotate(-0 686.88 93.009375)">医学图像分析</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="132.6275" transform="rotate(-0 15.84 132.6275)">16 图像</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 162.8675)">噪声 -&gt; 采样得到的强度数组</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 185.105875)">表征图像外观</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 207.34425)">关键在数组含义，而非尺寸</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 229.582625)">检验覆盖度 / 条件符合度</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="351.36" y="133.29" transform="rotate(-0 351.36 133.29)">StyleGAN 人脸图像</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 162.8675)">潜变量 + 噪声 -&gt; RGB 人脸</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 185.105875)">改变姿态与视觉外观</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 207.34425)">栅格输出，非显式网格</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 229.582625)">检验多样性与分布</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="686.88" y="132.6275" transform="rotate(-0 686.88 132.6275)">MAISI 合成 CT</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 162.8675)">掩膜 + 噪声 -&gt; 3D CT 图像</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 185.105875)">改变间距与图像尺寸</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 207.34425)">以解剖和 CT 强度为目标</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 229.582625)">检验器官符合度与强度偏差</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="280.2275" transform="rotate(-0 15.84 280.2275)">17 纹理</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 310.4675)">噪声 / 样例 -&gt; 纹理</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 332.705875)">建模外观统计特性</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 354.94425)">本例几何固定</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 377.182625)">检验相关性与重复</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="351.36" y="280.2275" transform="rotate(-0 351.36 280.2275)">Text2Tex 表面纹理</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 310.4675)">网格 + 文本 -&gt; 纹理贴图</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 332.705875)">从多个视角绘制纹理</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 354.94425)">保留给定网格几何</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 377.182625)">检验接缝 / 视角一致性</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="686.88" y="280.2275" transform="rotate(-0 686.88 280.2275)">虚拟染色类比</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 310.4675)">自发荧光 -&gt; 染色图像</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 332.705875)">GAN 改变组织外观</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 354.94425)">细胞布局，非网格 UV 贴图</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 377.182625)">检验匹配的染色结构</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="427.8275" transform="rotate(-0 15.84 427.8275)">18 形状</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 458.0675)">潜变量 -&gt; 采样生成的几何</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 480.305875)">点 / 网格 / 占据场 / SDF</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 502.54425)">明确坐标与拓扑</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 524.782625)">检验有效性与覆盖度</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="351.36" y="427.8275" transform="rotate(-0 351.36 427.8275)">PointFlow 点云</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 458.0675)">潜变量 -&gt; 新 3D 形状</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 480.305875)">在各形状内采样点</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 502.54425)">未指定网格连接关系</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 524.782625)">检验表面覆盖度 / 多样性</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="686.88" y="427.8275" transform="rotate(-0 686.88 427.8275)">CAN-FLOW 心脏解剖</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 458.0675)">年龄 / 性别 / BMI -&gt; 心脏形状</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 480.305875)">采样双心室解剖</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 502.54425)">以元数据相关变异为目标</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 524.782625)">检验表型 / 形状有效性</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p734d168d0b">
+   <rect x="0" y="0" width="1008" height="566.64" />
+  </clipPath>
+ </defs>
+</svg>

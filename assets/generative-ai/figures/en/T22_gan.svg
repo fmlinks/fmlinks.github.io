@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="322.452pt" viewBox="0 0 1008 322.452" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T02:43:38.283719</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 322.452  L 1008 322.452  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start" x="15.84" y="20.62125" transform="rotate(-0 15.84 20.62125)">22  GAN</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 48.797795 161.946  Q 502.198724 161.946 954.202111 161.946  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 947.002111 158.346  L 954.202111 161.946  L 947.002111 165.546  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="228.126316" y="314.662312" transform="rotate(-0 228.126316 314.662312)">2018</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="440.336842" y="314.662312" transform="rotate(-0 440.336842 314.662312)">2019</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="567.663158" y="314.662312" transform="rotate(-0 567.663158 314.662312)">2020</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="673.768421" y="314.662312" transform="rotate(-0 673.768421 314.662312)">2021</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="758.652632" y="314.662312" transform="rotate(-0 758.652632 314.662312)">2022</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="843.536842" y="314.662312" transform="rotate(-0 843.536842 314.662312)">2023</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: middle" x="907.2" y="314.662312" transform="rotate(-0 907.2 314.662312)">2026*</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.8 161.946  Q 100.8 169.146 100.8 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 104 168.548458  L 100.8 174.948458  L 97.6 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_9" class="paper-node" data-paper="tl180104406" tabindex="0" role="button" aria-label="Which Training Methods for GANs do actually Converge?">
+    <rect class="paper-hit" x="59.62499999999999" y="181.02600000000004" width="82.35000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(63.56875 197.861625)">R1 GAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(78.560937 216.786625)">[337]</text>
+   <title>Which Training Methods for GANs do actually Converge?</title></g>
+   <g id="patch_4">
+    <path d="M 143.242105 161.946  Q 143.242105 154.746 143.242105 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 140.042105 155.343542  L 143.242105 148.943542  L 146.442105 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_10" class="paper-node" data-paper="tl180404732" tabindex="0" role="button" aria-label="Multimodal Unsupervised Image-to-Image Translation">
+    <rect class="paper-hit" x="107.6921052631579" y="99.81000000000004" width="71.1" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(111.58273 117.446)">MUNIT</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(126.56398 136.371)">[52]</text>
+   <title>Multimodal Unsupervised Image-to-Image Translation</title></g>
+   <g id="patch_5">
+    <path d="M 185.684211 161.946  Q 185.684211 202.266 185.684211 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 188.884211 234.788458  L 185.684211 241.188458  L 182.484211 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_11" class="paper-node" data-paper="tl180508318" tabindex="0" role="button" aria-label="Self-Attention Generative Adversarial Networks">
+    <rect class="paper-hit" x="146.75921052631577" y="247.26600000000002" width="77.85000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(150.673273 264.101625)">SAGAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(163.445148 283.026625)">[338]</text>
+   <title>Self-Attention Generative Adversarial Networks</title></g>
+   <g id="patch_6">
+    <path d="M 228.126316 161.946  Q 228.126316 121.626 228.126316 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 224.926316 89.103542  L 228.126316 82.703542  L 231.326316 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_12" class="paper-node" data-paper="tl180606397" tabindex="0" role="button" aria-label="MedGAN: Medical Image Translation using GANs">
+    <rect class="paper-hit" x="183.08131578947365" y="33.570000000000014" width="90.09000000000002" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(187.004441 51.206)">MedGAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(211.448191 70.131)">[53]</text>
+   <title>MedGAN: Medical Image Translation using GANs</title></g>
+   <g id="patch_7">
+    <path d="M 270.568421 161.946  Q 270.568421 169.146 270.568421 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 273.768421 168.548458  L 270.568421 174.948458  L 267.368421 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_13" class="paper-node" data-paper="tl180900219" tabindex="0" role="button" aria-label="ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks">
+    <rect class="paper-hit" x="224.44342105263155" y="181.02600000000004" width="92.25" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(228.335609 197.861625)">ESRGAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(253.890296 216.786625)">[92]</text>
+   <title>ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks</title></g>
+   <g id="patch_8">
+    <path d="M 313.010526 161.946  Q 313.010526 154.746 313.010526 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 309.810526 155.343542  L 313.010526 148.943542  L 316.210526 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_14" class="paper-node" data-paper="tl180911096" tabindex="0" role="button" aria-label="Large Scale GAN Training for High Fidelity Natural Image Synthesis">
+    <rect class="paper-hit" x="272.9605263157895" y="99.81000000000004" width="80.10000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(276.887089 117.211625)">BigGAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(296.332401 136.371)">[30]</text>
+   <title>Large Scale GAN Training for High Fidelity Natural Image Synthesis</title></g>
+   <g id="patch_9">
+    <path d="M 355.452632 161.946  Q 355.452632 202.266 355.452632 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 358.652632 234.788458  L 355.452632 241.188458  L 352.252632 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_15" class="paper-node" data-paper="tl181204948" tabindex="0" role="button" aria-label="A Style-Based Generator Architecture for Generative Adversarial Networks">
+    <rect class="paper-hit" x="307.66263157894736" y="247.26600000000002" width="95.58000000000001" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(311.551069 264.345375)">StyleGAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(338.774507 283.50475)">[31]</text>
+   <title>A Style-Based Generator Architecture for Generative Adversarial Networks</title></g>
+   <g id="patch_10">
+    <path d="M 397.894737 161.946  Q 397.894737 121.626 397.894737 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 394.694737 89.103542  L 397.894737 82.703542  L 401.094737 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_16" class="paper-node" data-paper="tl190307291" tabindex="0" role="button" aria-label="Semantic Image Synthesis with Spatially-Adaptive Normalization">
+    <rect class="paper-hit" x="360.7697368421052" y="33.570000000000014" width="74.25" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(364.729112 51.206)">SPADE</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(375.655674 70.131)">[147]</text>
+   <title>Semantic Image Synthesis with Spatially-Adaptive Normalization</title></g>
+   <g id="patch_11">
+    <path d="M 440.336842 161.946  Q 440.336842 169.146 440.336842 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 443.536842 168.548458  L 440.336842 174.948458  L 437.136842 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_17" class="paper-node" data-paper="tl191204958" tabindex="0" role="button" aria-label="Analyzing and Improving the Image Quality of StyleGAN">
+    <rect class="paper-hit" x="386.9668421052631" y="181.02600000000004" width="106.74000000000001" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(390.874342 198.105375)">StyleGAN2</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(423.658717 217.26475)">[32]</text>
+   <title>Analyzing and Improving the Image Quality of StyleGAN</title></g>
+   <g id="patch_12">
+    <path d="M 482.778947 161.946  Q 482.778947 154.746 482.778947 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 479.578947 155.343542  L 482.778947 148.943542  L 485.978947 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_18" class="paper-node" data-paper="tl191201865" tabindex="0" role="button" aria-label="StarGAN v2: Diverse Image Synthesis for Multiple Domains">
+    <rect class="paper-hit" x="425.493947368421" y="99.81000000000004" width="114.57000000000001" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(429.43051 117.446)">StarGAN v2</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(466.100822 136.371)">[58]</text>
+   <title>StarGAN v2: Diverse Image Synthesis for Multiple Domains</title></g>
+   <g id="patch_13">
+    <path d="M 525.221053 161.946  Q 525.221053 202.266 525.221053 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 528.421053 234.788458  L 525.221053 241.188458  L 522.021053 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_19" class="paper-node" data-paper="tl200606676" tabindex="0" role="button" aria-label="Training Generative Adversarial Networks with Limited Data">
+    <rect class="paper-hit" x="498.94105263157894" y="247.26600000000002" width="52.56" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(504.658553 264.101625)">ADA</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(502.98199 283.026625)">[173]</text>
+   <title>Training Generative Adversarial Networks with Limited Data</title></g>
+   <g id="patch_14">
+    <path d="M 567.663158 161.946  Q 567.663158 121.626 567.663158 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 564.463158 89.103542  L 567.663158 82.703542  L 570.863158 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_20" class="paper-node" data-paper="tl200610738" tabindex="0" role="button" aria-label="Differentiable Augmentation for Data-Efficient GAN Training">
+    <rect class="paper-hit" x="508.8481578947368" y="33.48" width="117.63" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(512.816283 50.971625)">DiffAugment</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(545.424095 70.131)">[193]</text>
+   <title>Differentiable Augmentation for Data-Efficient GAN Training</title></g>
+   <g id="patch_15">
+    <path d="M 610.105263 161.946  Q 610.105263 169.146 610.105263 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 613.305263 168.548458  L 610.105263 174.948458  L 606.905263 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_21" class="paper-node" data-paper="tl201113775" tabindex="0" role="button" aria-label="Image Generators with Conditionally-Independent Pixel Synthesis">
+    <rect class="paper-hit" x="582.7902631578947" y="181.02600000000004" width="54.63" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(586.764638 197.861625)">CIPS</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(587.866201 216.786625)">[339]</text>
+   <title>Image Generators with Conditionally-Independent Pixel Synthesis</title></g>
+   <g id="patch_16">
+    <path d="M 652.547368 161.946  Q 652.547368 154.746 652.547368 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 649.347368 155.343542  L 652.547368 148.943542  L 655.747368 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_22" class="paper-node" data-paper="tl210612423" tabindex="0" role="button" aria-label="Alias-Free Generative Adversarial Networks">
+    <rect class="paper-hit" x="599.1773684210526" y="99.72000000000007" width="106.74000000000001" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(603.084868 117.211625)">StyleGAN3</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(630.308306 136.371)">[340]</text>
+   <title>Alias-Free Generative Adversarial Networks</title></g>
+   <g id="patch_17">
+    <path d="M 694.989474 161.946  Q 694.989474 202.266 694.989474 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 698.189474 234.788458  L 694.989474 241.188458  L 691.789474 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_23" class="paper-node" data-paper="tl211207945" tabindex="0" role="button" aria-label="Efficient Geometry-aware 3D Generative Adversarial Networks">
+    <rect class="paper-hit" x="663.7594736842104" y="247.26600000000002" width="62.459999999999994" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(667.758224 264.101625)">EG3D</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(672.750411 283.026625)">[341]</text>
+   <title>Efficient Geometry-aware 3D Generative Adversarial Networks</title></g>
+   <g id="patch_18">
+    <path d="M 737.431579 161.946  Q 737.431579 121.626 737.431579 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 734.231579 89.103542  L 737.431579 82.703542  L 740.631579 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_24" class="paper-node" data-paper="tl220200273" tabindex="0" role="button" aria-label="StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets">
+    <rect class="paper-hit" x="674.1165789473686" y="33.48" width="126.63" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(677.969079 50.971625)">StyleGAN-XL</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(715.192516 70.131)">[342]</text>
+   <title>StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets</title></g>
+   <g id="patch_19">
+    <path d="M 779.873684 161.946  Q 779.873684 169.146 779.873684 174.948458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 783.073684 168.548458  L 779.873684 174.948458  L 776.673684 168.548458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_25" class="paper-node" data-paper="tl220602262" tabindex="0" role="button" aria-label="Diffusion-GAN: Training GANs with Diffusion">
+    <rect class="paper-hit" x="712.1036842105262" y="181.02600000000004" width="135.54" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(716.143997 197.861625)">Diffusion-GAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(757.634622 216.786625)">[198]</text>
+   <title>Diffusion-GAN: Training GANs with Diffusion</title></g>
+   <g id="patch_20">
+    <path d="M 822.315789 161.946  Q 822.315789 154.746 822.315789 148.943542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 819.115789 155.343542  L 822.315789 148.943542  L 825.515789 155.343542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_26" class="paper-node" data-paper="tl230109515" tabindex="0" role="button" aria-label="StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis">
+    <rect class="paper-hit" x="765.1207894736841" y="99.72000000000007" width="114.39000000000001" height="43.146" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(768.976727 117.211625)">StyleGAN-T</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(800.076727 136.371)">[343]</text>
+   <title>StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis</title></g>
+   <g id="patch_21">
+    <path d="M 864.757895 161.946  Q 864.757895 202.266 864.757895 241.188458  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 867.957895 234.788458  L 864.757895 241.188458  L 861.557895 234.788458  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_27" class="paper-node" data-paper="tl230305511" tabindex="0" role="button" aria-label="Scaling up GANs for Text-to-Image Synthesis">
+    <rect class="paper-hit" x="818.0028947368421" y="247.26600000000002" width="93.51" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(821.965707 264.345375)">GigaGAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(842.518832 283.50475)">[344]</text>
+   <title>Scaling up GANs for Text-to-Image Synthesis</title></g>
+   <g id="patch_22">
+    <path d="M 907.2 161.946  Q 907.2 121.626 907.2 82.703542  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 904 89.103542  L 907.2 82.703542  L 910.4 89.103542  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_28" class="paper-node" data-paper="tl260526449" tabindex="0" role="button" aria-label="Cross-scale Aligned Supervision for Training GANs">
+    <rect class="paper-hit" x="880.92" y="33.570000000000014" width="52.56" height="43.056000000000004" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Arial'" transform="translate(887.9375 51.206)">CAT</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(884.960937 70.131)">[345]</text>
+   <title>Cross-scale Aligned Supervision for Training GANs</title></g>
+  </g>
+ </g>
+</svg>

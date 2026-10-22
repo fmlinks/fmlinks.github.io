@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="566.64pt" viewBox="0 0 1008 566.64" version="1.1" data-language="zh" lang="zh-CN">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T03:31:53.177695</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 566.64  L 1008 566.64  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 321.12 126  L 338.4 126  " clip-path="url(#p3af65987f6)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_2">
+    <path d="M 656.64 126  L 673.92 126  " clip-path="url(#p3af65987f6)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_3">
+    <path d="M 321.12 273.6  L 338.4 273.6  " clip-path="url(#p3af65987f6)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_4">
+    <path d="M 656.64 273.6  L 673.92 273.6  " clip-path="url(#p3af65987f6)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_5">
+    <path d="M 321.12 421.2  L 338.4 421.2  " clip-path="url(#p3af65987f6)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_6">
+    <path d="M 656.64 421.2  L 673.92 421.2  " clip-path="url(#p3af65987f6)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #d64b23" x="15.84" y="28.209375" transform="rotate(-0 15.84 28.209375)">03  数据与适配范式</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="58.292813" transform="rotate(-0 15.84 58.292813)">图 1 坐标 3 | 子项 10, 11, 12</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #2573b4" x="15.84" y="93.009375" transform="rotate(-0 15.84 93.009375)">机器学习</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #148843" x="351.36" y="93.009375" transform="rotate(-0 351.36 93.009375)">计算机视觉</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #68559d" x="686.88" y="93.009375" transform="rotate(-0 686.88 93.009375)">医学图像分析</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="132.6275" transform="rotate(-0 15.84 132.6275)">10 少样本</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 162.8675)">少量样例 -&gt; 适配模型</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 185.105875)">复用已学源先验</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 207.34425)">保留目标特征，改变样本</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 229.582625)">检验新颖性与记忆化</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="351.36" y="132.6275" transform="rotate(-0 351.36 132.6275)">DreamBooth 个性化</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 162.8675)">少量照片 -&gt; 个体新视图</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 185.105875)">微调预训练生成器</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 207.34425)">以身份特征为目标，不复制视图</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 229.582625)">检验身份特征 / 新颖性 / 提示</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="686.88" y="132.6275" transform="rotate(-0 686.88 132.6275)">EndoFSA 内镜</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 162.8675)">少量病灶图像 -&gt; 适配</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 185.105875)">复用正常图像预训练</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 207.34425)">生成异常内镜图像</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 229.582625)">检验病灶与记忆化</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="280.2275" transform="rotate(-0 15.84 280.2275)">11 零样本 / 免训练</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 310.4675)">新条件 -&gt; 先验复用</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 332.705875)">无需重新拟合目标生成器</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 354.94425)">预训练规模仍可能很大</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 377.182625)">明确哪部分无需训练</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="351.36" y="280.2275" transform="rotate(-0 351.36 280.2275)">RePaint 无需重新训练</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 310.4675)">图像 + 掩膜 -&gt; 填补图像</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 332.705875)">复用无条件 DDPM</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 354.94425)">修改采样，不改网络</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 377.182625)">检验可见像素 / 填补区域</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="686.88" y="280.2275" transform="rotate(-0 686.88 280.2275)">Score-MRI 采样复用</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 310.4675)">稀疏 MRI 数据 -&gt; 图像</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 332.705875)">复用幅度 MRI 先验</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 354.94425)">无需针对采样模式重新拟合</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 377.182625)">检验数据拟合与病灶遗漏</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="427.8275" transform="rotate(-0 15.84 427.8275)">12 数据高效</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 458.0675)">有限真实数据 -&gt; 生成器</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 480.305875)">减少真实样例预算</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 502.54425)">保留变异，避免过拟合</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 524.782625)">检验质量随数据量的变化</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="351.36" y="427.8275" transform="rotate(-0 351.36 427.8275)">ADA 有限数据 GAN</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 458.0675)">有限图像 -&gt; 训练后 GAN</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 480.305875)">自适应调整判别器侧增强</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 502.54425)">在相同数据预算下比较</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 524.782625)">检验多样性与样本质量</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="686.88" y="427.8275" transform="rotate(-0 686.88 427.8275)">EndoFSA 目标数据复用</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 458.0675)">稀缺病灶 -&gt; 适配模型</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 480.305875)">复用正常数据先验</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 502.54425)">明确预训练预算</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 524.782625)">检验真实患者效用 / 预算</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p3af65987f6">
+   <rect x="0" y="0" width="1008" height="566.64" />
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1008pt" height="519.12pt" viewBox="0 0 1008 519.12" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-22T02:25:26.594352</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 519.12
+L 1008 519.12
+L 1008 0
+L 0 0
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 321.12 126
+L 338.4 126
+" clip-path="url(#pab19c64143)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 656.64 126
+L 673.92 126
+" clip-path="url(#pab19c64143)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 321.12 257.76
+L 338.4 257.76
+" clip-path="url(#pab19c64143)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 656.64 257.76
+L 673.92 257.76
+" clip-path="url(#pab19c64143)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 321.12 389.52
+L 338.4 389.52
+" clip-path="url(#pab19c64143)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 656.64 389.52
+L 673.92 389.52
+" clip-path="url(#pab19c64143)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start; fill: #d64b23" x="15.84" y="27.699375" transform="rotate(-0 15.84 27.699375)">03  Data and adaptation regime</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: start" x="15.84" y="57.735" transform="rotate(-0 15.84 57.735)">Figure 1 coordinate 3 | Subitems 10, 11, 12</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start; fill: #2573b4" x="15.84" y="92.46375" transform="rotate(-0 15.84 92.46375)">Machine learning</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start; fill: #148843" x="351.36" y="92.7675" transform="rotate(-0 351.36 92.7675)">Computer vision</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start; fill: #68559d" x="686.88" y="92.46375" transform="rotate(-0 686.88 92.46375)">Medical image analysis</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="15.84" y="130.955625" transform="rotate(-0 15.84 130.955625)">10 Few-shot</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 159.035625)">Few examples -&gt; adapted model</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 178.4715)">Reuse a learned source prior</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 197.907375)">Keep target traits, vary samples</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 217.577625)">Test novelty and memorization</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="351.36" y="130.955625" transform="rotate(-0 351.36 130.955625)">DreamBooth personalization</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 159.035625)">Few photos -&gt; new subject views</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 178.705875)">Fine-tune a pretrained generator</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 198.376125)">Target identity, not copied views</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 218.309625)">Test identity / novelty / prompts</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="686.88" y="131.199375" transform="rotate(-0 686.88 131.199375)">EndoFSA endoscopy</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 159.035625)">Few lesion images -&gt; adaptation</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 178.705875)">Reuse normal-image pretraining</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 198.639375)">Generate abnormal endoscopy</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 218.309625)">Test lesions and memorization</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="15.84" y="262.959375" transform="rotate(-0 15.84 262.959375)">11 Zero-shot / training-free</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 290.795625)">New condition -&gt; prior reuse</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 310.49475)">No target generator refitting</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 330.165)">Pretraining can still be large</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 350.0985)">Specify what receives no training</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="351.36" y="262.715625" transform="rotate(-0 351.36 262.715625)">RePaint without retraining</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 291.039375)">Image + mask -&gt; filled image</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 310.709625)">Reuse an unconditional DDPM</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 330.40875)">Modify sampling, not the network</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 350.34225)">Test visible pixels / filled region</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="686.88" y="262.959375" transform="rotate(-0 686.88 262.959375)">Score-MRI sampling reuse</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 291.039375)">Sparse MRI data -&gt; image</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 310.709625)">Reuse a magnitude-MRI prior</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 330.643125)">No sampling-pattern refitting</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 350.313375)">Test data fit and missed lesions</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="15.84" y="394.475625" transform="rotate(-0 15.84 394.475625)">12 Data-efficient</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 422.555625)">Limited real data -&gt; generator</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 442.225875)">Reduce the real-example budget</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 462.159375)">Keep variation, avoid overfitting</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 481.829625)">Test quality versus data count</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="351.36" y="394.475625" transform="rotate(-0 351.36 394.475625)">ADA limited-data GAN</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 422.799375)">Limited images -&gt; trained GAN</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 442.469625)">Adapt critic-side augmentation</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 462.403125)">Compare at equal data budgets</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 482.073375)">Test diversity and sample quality</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="686.88" y="394.719375" transform="rotate(-0 686.88 394.719375)">EndoFSA target-data reuse</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 422.799375)">Scarce lesions -&gt; adapted model</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 442.23525)">Reuse a normal-data prior</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 461.671125)">Keep pretraining budget explicit</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 481.604625)">Test real-patient utility / budget</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pab19c64143">
+   <rect x="0" y="0" width="1008" height="519.12"/>
+  </clipPath>
+ </defs>
+</svg>

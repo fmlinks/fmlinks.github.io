@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="566.64pt" viewBox="0 0 1008 566.64" version="1.1" data-language="zh" lang="zh-CN">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T03:31:52.476496</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 566.64  L 1008 566.64  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 321.12 126  L 338.4 126  " clip-path="url(#p03e7583ef5)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_2">
+    <path d="M 656.64 126  L 673.92 126  " clip-path="url(#p03e7583ef5)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_3">
+    <path d="M 321.12 273.6  L 338.4 273.6  " clip-path="url(#p03e7583ef5)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_4">
+    <path d="M 656.64 273.6  L 673.92 273.6  " clip-path="url(#p03e7583ef5)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_5">
+    <path d="M 321.12 421.2  L 338.4 421.2  " clip-path="url(#p03e7583ef5)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_6">
+    <path d="M 656.64 421.2  L 673.92 421.2  " clip-path="url(#p03e7583ef5)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #148843" x="15.84" y="28.209375" transform="rotate(-0 15.84 28.209375)">02  条件与控制</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="58.292813" transform="rotate(-0 15.84 58.292813)">图 1 坐标 2 | 子项 07, 08, 09</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #2573b4" x="15.84" y="93.009375" transform="rotate(-0 15.84 93.009375)">机器学习</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #148843" x="351.36" y="93.009375" transform="rotate(-0 351.36 93.009375)">计算机视觉</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #68559d" x="686.88" y="93.009375" transform="rotate(-0 686.88 93.009375)">医学图像分析</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="132.6275" transform="rotate(-0 15.84 132.6275)">07 条件生成</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 162.8675)">条件 + 噪声 -&gt; 样本</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 185.105875)">选择条件分布</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 207.34425)">保持给定上下文，改变细节</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 229.582625)">检验遵循度与多样性</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="351.36" y="132.6275" transform="rotate(-0 351.36 132.6275)">SPADE 布局到场景</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 162.8675)">街道布局 -&gt; 场景图像</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 185.105875)">以语义区域为条件</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 207.34425)">保留布局，改变外观</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 229.582625)">检验布局符合度与逼真度</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="686.88" y="132.6275" transform="rotate(-0 686.88 132.6275)">MAISI 解剖到 CT</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 162.8675)">器官掩膜 + 间距 -&gt; CT</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 185.105875)">生成合成 3D 体积</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 207.34425)">以所需解剖为目标</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 229.582625)">检验掩膜与 CT 合理性</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="280.2275" transform="rotate(-0 15.84 280.2275)">08 文本条件</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 310.4675)">文本 -&gt; 新视觉样本</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 332.705875)">文字指定所需内容</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 354.94425)">保留指定属性 / 关系</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 377.182625)">检验对提示编辑的响应</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="351.36" y="280.90875" transform="rotate(-0 351.36 280.90875)">Imagen 文本到场景</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 310.4675)">文本 -&gt; 生成场景</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 332.705875)">示例：红色立方体、蓝色球</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 354.94425)">以数量、颜色、位置为目标</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 377.182625)">检验对象 / 关系准确性</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="686.88" y="280.2275" transform="rotate(-0 686.88 280.2275)">RoentGen 文本到 X 线</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 310.4675)">放射学提示 -&gt; X 线图像</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 332.705875)">生成图像，而非检索</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 354.94425)">以影像发现和解剖为目标</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 377.182625)">独立复核影像发现</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="427.8275" transform="rotate(-0 15.84 427.8275)">09 可控生成</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 458.0675)">选定因素 -&gt; 受引导样本</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 480.305875)">改变一项指定性质</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 502.54425)">尽可能固定其他输入</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(15.84 524.782625)">检验控制与非预期漂移</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="351.36" y="427.8275" transform="rotate(-0 351.36 427.8275)">ControlNet 空间引导</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 458.0675)">位姿 / 边缘 / 深度 -&gt; 图像</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 480.305875)">引导生成结构</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 502.54425)">改变外观，保留控制</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(351.36 524.782625)">检验对齐 / 非目标漂移</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="686.88" y="427.8275" transform="rotate(-0 686.88 427.8275)">MAISI 解剖引导</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 458.0675)">选定器官掩膜 -&gt; CT</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 480.305875)">解剖控制，非因果作用</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 502.54425)">以所需掩膜形状为目标</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 524.782625)">检验改变的 / 其他结构</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p03e7583ef5">
+   <rect x="0" y="0" width="1008" height="566.64" />
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1008pt" height="519.12pt" viewBox="0 0 1008 519.12" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-22T02:25:28.360365</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 519.12
+L 1008 519.12
+L 1008 0
+L 0 0
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 321.12 126
+L 338.4 126
+" clip-path="url(#pc82c2e3147)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 656.64 126
+L 673.92 126
+" clip-path="url(#pc82c2e3147)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 321.12 257.76
+L 338.4 257.76
+" clip-path="url(#pc82c2e3147)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 656.64 257.76
+L 673.92 257.76
+" clip-path="url(#pc82c2e3147)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 321.12 389.52
+L 338.4 389.52
+" clip-path="url(#pc82c2e3147)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 656.64 389.52
+L 673.92 389.52
+" clip-path="url(#pc82c2e3147)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start; fill: #cb2426" x="15.84" y="27.856875" transform="rotate(-0 15.84 27.856875)">06  Temporal structure</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: start" x="15.84" y="57.735" transform="rotate(-0 15.84 57.735)">Figure 1 coordinate 6 | Subitems 19, 20, 21</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start; fill: #2573b4" x="15.84" y="92.46375" transform="rotate(-0 15.84 92.46375)">Machine learning</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start; fill: #148843" x="351.36" y="92.7675" transform="rotate(-0 351.36 92.7675)">Computer vision</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start; fill: #68559d" x="686.88" y="92.46375" transform="rotate(-0 686.88 92.46375)">Medical image analysis</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="15.84" y="130.955625" transform="rotate(-0 15.84 130.955625)">19 4D / 3D+t</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 159.035625)">Latent -&gt; 3D states over time</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 178.74825)">One 3D object changes in time</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 198.4185)">Keep space-time dependence</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 217.854375)">Test held-out temporal states</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="351.36" y="131.015" transform="rotate(-0 351.36 131.015)">MAV3D dynamic scene</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 159.279375)">Text -&gt; dynamic radiance field</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 178.949625)">Render at chosen time and view</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 198.3855)">Keep cross-view object identity</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 218.05575)">Test view and motion coherence</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="686.88" y="131.199375" transform="rotate(-0 686.88 131.199375)">CHeart cardiac anatomy</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 159.279375)">Clinical factors -&gt; 4D anatomy</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 179.212875)">Generate a cardiac sequence</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 198.912)">Target anatomy / cycle structure</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 218.58225)">Test true volume-time curves</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="15.84" y="262.775" transform="rotate(-0 15.84 262.775)">20 Frame interpolation</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 290.795625)">Endpoints + time -&gt; interior state</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 310.2315)">Fill the observed time interval</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 329.667375)">Keep endpoints and time order</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 349.10325)">Test withheld intermediate states</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="351.36" y="262.715625" transform="rotate(-0 351.36 262.715625)">FILM intermediate frames</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 291.039375)">Two images -&gt; interior frames</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 310.709625)">Handle large in-between motion</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 330.379875)">Keep identity across endpoints</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 350.050125)">Test occlusion / withheld frames</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="686.88" y="262.715625" transform="rotate(-0 686.88 262.715625)">DDM cardiac MR interpolation</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 291.039375)">Diastole / systole -&gt; interim MR</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 310.972875)">Learn a deformation-based path</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 330.672)">Target source anatomy / topology</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 350.34225)">Test acquired in-between phases</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="15.84" y="394.475625" transform="rotate(-0 15.84 394.475625)">21 Action / world model</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 422.555625)">History + action -&gt; next state</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 442.225875)">Learn dynamics, not a policy</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 461.896125)">Retain response to given actions</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(15.84 481.566375)">Test new actions / rollout drift</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="351.36" y="394.475625" transform="rotate(-0 351.36 394.475625)">GameNGen interactive views</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 422.555625)">Past frames + actions -&gt; frame</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 441.9915)">Generate an interactive rollout</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 461.427375)">Keep state under player input</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(351.36 481.360875)">Test action effects, not replay</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Arial'; text-anchor: start" x="686.88" y="394.719375" transform="rotate(-0 686.88 394.719375)">SonoWorld probe control</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 422.555625)">History + pose -&gt; ultrasound</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 442.225875)">Ground control in tracked scans</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 461.66175)">Target pose-dependent anatomy</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(686.88 481.59525)">Test new actions / round-trip drift</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pc82c2e3147">
+   <rect x="0" y="0" width="1008" height="519.12"/>
+  </clipPath>
+ </defs>
+</svg>

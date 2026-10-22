@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="333.9648pt" viewBox="0 0 1008 333.9648" version="1.1" data-language="zh" lang="zh-CN">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T03:32:00.049608</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 333.9648  L 1008 333.9648  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start" x="15.84" y="21.009375" transform="rotate(-0 15.84 21.009375)">04  复原 / 填补</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 48.797795 167.7024  Q 502.198724 167.7024 954.202111 167.7024  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 947.002111 164.1024  L 954.202111 167.7024  L 947.002111 171.3024  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="143.242105" y="326.512613" transform="rotate(-0 143.242105 326.512613)">2018</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="249.347368" y="326.512613" transform="rotate(-0 249.347368 326.512613)">2019</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="313.010526" y="326.512613" transform="rotate(-0 313.010526 326.512613)">2020</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="440.336842" y="326.512613" transform="rotate(-0 440.336842 326.512613)">2021</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="588.884211" y="326.512613" transform="rotate(-0 588.884211 326.512613)">2022</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="716.210526" y="326.512613" transform="rotate(-0 716.210526 326.512613)">2023</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="843.536842" y="326.512613" transform="rotate(-0 843.536842 326.512613)">2024</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: middle" x="907.2" y="326.512613" transform="rotate(-0 907.2 326.512613)">2026*</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 100.8 167.7024  Q 100.8 174.9024 100.8 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 104 174.304858  L 100.8 180.704858  L 97.6 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_10" class="paper-node" data-paper="tl180107892" tabindex="0" role="button" aria-label="具有上下文注意力的生成式图像修复">
+    <rect class="paper-hit" x="51.83999999999999" y="186.78240000000005" width="97.92" height="71.1648" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(63.485937 205.2899)">Context</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(55.796875 226.888775)">Attention</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(82.390625 248.48765)">[90]</text>
+   <title>具有上下文注意力的生成式图像修复</title></g>
+   <g id="patch_4">
+    <path d="M 143.242105 167.7024  Q 143.242105 160.5024 143.242105 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 140.042105 161.099942  L 143.242105 154.699942  L 146.442105 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_11" class="paper-node" data-paper="tl180407723" tabindex="0" role="button" aria-label="利用部分卷积修复具有不规则孔洞的图像">
+    <rect class="paper-hit" x="81.9071052631579" y="99.7200000000001" width="122.67" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(85.821793 119.53165)">Partial Conv</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(124.83273 141.130525)">[91]</text>
+   <title>利用部分卷积修复具有不规则孔洞的图像</title></g>
+   <g id="patch_5">
+    <path d="M 185.684211 167.7024  Q 185.684211 208.0224 185.684211 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 188.884211 240.544858  L 185.684211 246.944858  L 182.484211 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_12" class="paper-node" data-paper="tl180900219" tabindex="0" role="button" aria-label="ESRGAN：增强型超分辨率生成对抗网络">
+    <rect class="paper-hit" x="141.40421052631575" y="253.02240000000006" width="88.56000000000002" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(145.434211 271.5299)">ESRGAN</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(167.274836 293.128775)">[92]</text>
+   <title>ESRGAN：增强型超分辨率生成对抗网络</title></g>
+   <g id="patch_6">
+    <path d="M 228.126316 167.7024  Q 228.126316 127.3824 228.126316 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 224.926316 94.859942  L 228.126316 88.459942  L 231.326316 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_13" class="paper-node" data-paper="tl190100212" tabindex="0" role="button" aria-label="EdgeConnect：利用对抗式边缘学习进行生成式图像修复">
+    <rect class="paper-hit" x="160.44631578947366" y="33.480000000000125" width="135.36" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(164.376316 53.176025)">EdgeConnect</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(209.716941 74.890525)">[93]</text>
+   <title>EdgeConnect：利用对抗式边缘学习进行生成式图像修复</title></g>
+   <g id="patch_7">
+    <path d="M 270.568421 167.7024  Q 270.568421 174.9024 270.568421 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 273.768421 174.304858  L 270.568421 180.704858  L 267.368421 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_14" class="paper-node" data-paper="tl190304227" tabindex="0" role="button" aria-label="多解图像补全">
+    <rect class="paper-hit" x="204.55342105263156" y="186.78240000000005" width="132.03" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(208.673109 205.2899)">Pluralistic Fill</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(252.159046 226.888775)">[94]</text>
+   <title>多解图像补全</title></g>
+   <g id="patch_8">
+    <path d="M 313.010526 167.7024  Q 313.010526 160.5024 313.010526 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 309.810526 161.099942  L 313.010526 154.699942  L 316.210526 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_15" class="paper-node" data-paper="tl200614200" tabindex="0" role="button" aria-label="SRFlow：利用归一化流学习超分辨率解空间">
+    <rect class="paper-hit" x="274.49052631578945" y="99.7200000000001" width="77.04" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(278.483964 119.53165)">SRFlow</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(294.601151 141.130525)">[95]</text>
+   <title>SRFlow：利用归一化流学习超分辨率解空间</title></g>
+   <g id="patch_9">
+    <path d="M 355.452632 167.7024  Q 355.452632 208.0224 355.452632 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 358.652632 240.544858  L 355.452632 246.944858  L 352.252632 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_16" class="paper-node" data-paper="tl210104061" tabindex="0" role="button" aria-label="利用生成式人脸先验迈向真实世界盲人脸复原">
+    <rect class="paper-hit" x="305.7276315789473" y="253.02240000000006" width="99.45" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(309.657319 271.5299)">GFP-GAN</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(337.043257 293.128775)">[96]</text>
+   <title>利用生成式人脸先验迈向真实世界盲人脸复原</title></g>
+   <g id="patch_10">
+    <path d="M 397.894737 167.7024  Q 397.894737 127.3824 397.894737 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 394.694737 94.859942  L 397.894737 88.459942  L 401.094737 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_17" class="paper-node" data-paper="tl210407636" tabindex="0" role="button" aria-label="通过迭代精修实现图像超分辨率">
+    <rect class="paper-hit" x="375.48473684210524" y="33.480000000000125" width="44.81999999999999" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(379.730674 53.29165)">SR3</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(379.485362 74.890525)">[97]</text>
+   <title>通过迭代精修实现图像超分辨率</title></g>
+   <g id="patch_11">
+    <path d="M 440.336842 167.7024  Q 440.336842 174.9024 440.336842 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 443.536842 174.304858  L 440.336842 180.704858  L 437.136842 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_18" class="paper-node" data-paper="tl210710833" tabindex="0" role="button" aria-label="Real-ESRGAN：仅用合成数据训练真实世界盲超分辨率模型">
+    <rect class="paper-hit" x="371.6218421052631" y="186.78240000000005" width="137.43" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(375.669655 205.2899)">Real-ESRGAN</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(421.927467 226.888775)">[98]</text>
+   <title>Real-ESRGAN：仅用合成数据训练真实世界盲超分辨率模型</title></g>
+   <g id="patch_12">
+    <path d="M 482.778947 167.7024  Q 482.778947 160.5024 482.778947 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 479.578947 161.099942  L 482.778947 154.699942  L 485.978947 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_19" class="paper-node" data-paper="tl210907161" tabindex="0" role="button" aria-label="利用傅里叶卷积实现分辨率稳健的大掩膜图像修复">
+    <rect class="paper-hit" x="452.943947368421" y="99.7200000000001" width="59.67" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(456.821135 119.53165)">LaMa</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(464.369572 141.130525)">[99]</text>
+   <title>利用傅里叶卷积实现分辨率稳健的大掩膜图像修复</title></g>
+   <g id="patch_13">
+    <path d="M 525.221053 167.7024  Q 525.221053 208.0224 525.221053 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 528.421053 240.544858  L 525.221053 246.944858  L 522.021053 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_20" class="paper-node" data-paper="palette" tabindex="0" role="button" aria-label="Palette：图像到图像的扩散模型">
+    <rect class="paper-hit" x="488.59105263157886" y="253.02240000000006" width="73.26" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(492.553865 271.5299)">Palette</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(506.811678 293.128775)">[16]</text>
+   <title>Palette：图像到图像的扩散模型</title></g>
+   <g id="patch_14">
+    <path d="M 567.663158 167.7024  Q 567.663158 127.3824 567.663158 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 564.463158 94.859942  L 567.663158 88.459942  L 570.863158 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_21" class="paper-node" data-paper="tl220109865" tabindex="0" role="button" aria-label="RePaint：利用去噪扩散概率模型进行图像修复">
+    <rect class="paper-hit" x="527.9731578947368" y="33.480000000000125" width="79.38" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(531.916283 53.29165)">RePaint</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(543.38972 74.890525)">[100]</text>
+   <title>RePaint：利用去噪扩散概率模型进行图像修复</title></g>
+   <g id="patch_15">
+    <path d="M 610.105263 167.7024  Q 610.105263 174.9024 610.105263 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 613.305263 174.304858  L 610.105263 180.704858  L 606.905263 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_22" class="paper-node" data-paper="tl220611253" tabindex="0" role="button" aria-label="利用码本查找 Transformer 迈向稳健的盲人脸复原">
+    <rect class="paper-hit" x="546.7452631578947" y="186.78240000000005" width="126.72" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(550.661513 205.2899)">CodeFormer</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(585.831826 226.888775)">[101]</text>
+   <title>利用码本查找 Transformer 迈向稳健的盲人脸复原</title></g>
+   <g id="patch_16">
+    <path d="M 652.547368 167.7024  Q 652.547368 160.5024 652.547368 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 649.347368 161.099942  L 652.547368 154.699942  L 655.747368 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_23" class="paper-node" data-paper="tl230507015" tabindex="0" role="button" aria-label="利用扩散先验实现真实世界图像超分辨率">
+    <rect class="paper-hit" x="606.8723684210526" y="99.7200000000001" width="91.35000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(610.850493 119.53165)">StableSR</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(628.273931 141.130525)">[102]</text>
+   <title>利用扩散先验实现真实世界图像超分辨率</title></g>
+   <g id="patch_17">
+    <path d="M 694.989474 167.7024  Q 694.989474 208.0224 694.989474 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 698.189474 240.544858  L 694.989474 246.944858  L 691.789474 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_24" class="paper-node" data-paper="tl230815070" tabindex="0" role="button" aria-label="DiffBIR：利用生成式扩散先验迈向盲图像复原">
+    <rect class="paper-hit" x="657.9544736842105" y="253.02240000000006" width="74.07000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(662.034786 271.5299)">DiffBIR</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(670.716036 293.128775)">[103]</text>
+   <title>DiffBIR：利用生成式扩散先验迈向盲图像复原</title></g>
+   <g id="patch_18">
+    <path d="M 737.431579 167.7024  Q 737.431579 127.3824 737.431579 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 734.231579 94.859942  L 737.431579 88.459942  L 740.631579 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_25" class="paper-node" data-paper="tl231114760" tabindex="0" role="button" aria-label="SinSR：单步实现基于扩散的图像超分辨率">
+    <rect class="paper-hit" x="706.5615789473686" y="33.480000000000125" width="61.74" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(710.536266 53.29165)">SinSR</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(713.158141 74.890525)">[104]</text>
+   <title>SinSR：单步实现基于扩散的图像超分辨率</title></g>
+   <g id="patch_19">
+    <path d="M 779.873684 167.7024  Q 779.873684 174.9024 779.873684 180.704858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 783.073684 174.304858  L 779.873684 180.704858  L 776.673684 174.304858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_26" class="paper-node" data-paper="tl231116518" tabindex="0" role="button" aria-label="SeeSR：迈向语义感知的真实世界图像超分辨率">
+    <rect class="paper-hit" x="746.4836842105263" y="186.78240000000005" width="66.78" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(750.454934 205.2899)">SeeSR</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(755.600247 226.888775)">[105]</text>
+   <title>SeeSR：迈向语义感知的真实世界图像超分辨率</title></g>
+   <g id="patch_20">
+    <path d="M 822.315789 167.7024  Q 822.315789 160.5024 822.315789 154.699942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 819.115789 161.099942  L 822.315789 154.699942  L 825.515789 161.099942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_27" class="paper-node" data-paper="tl240113627" tabindex="0" role="button" aria-label="扩展规模以追求卓越：面向非受控场景照片级真实图像复原的模型规模扩展实践">
+    <rect class="paper-hit" x="789.4657894736843" y="99.7200000000001" width="65.7" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(793.492352 119.53165)">SUPIR</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(798.042352 141.130525)">[106]</text>
+   <title>扩展规模以追求卓越：面向非受控场景照片级真实图像复原的模型规模扩展实践</title></g>
+   <g id="patch_21">
+    <path d="M 864.757895 167.7024  Q 864.757895 208.0224 864.757895 246.944858  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 867.957895 240.544858  L 864.757895 246.944858  L 861.557895 240.544858  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_28" class="paper-node" data-paper="tl240608177" tabindex="0" role="button" aria-label="用于真实世界图像超分辨率的单步高效扩散网络">
+    <rect class="paper-hit" x="824.1228947368421" y="253.02240000000006" width="81.27000000000001" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(828.125082 271.5299)">OSEDiff</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(840.484457 293.128775)">[107]</text>
+   <title>用于真实世界图像超分辨率的单步高效扩散网络</title></g>
+   <g id="patch_22">
+    <path d="M 907.2 167.7024  Q 907.2 127.3824 907.2 88.459942  " style="fill: none; stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+    <path d="M 904 94.859942  L 907.2 88.459942  L 910.4 94.859942  z " style="stroke: #000000; stroke-width: 1.25; stroke-linecap: round" />
+   </g>
+   <g id="text_29" class="paper-node" data-paper="tl260716649" tabindex="0" role="button" aria-label="DRIFT：用于 MRI 层面间方向超分辨率的难度感知整流流">
+    <rect class="paper-hit" x="874.9350000000001" y="33.480000000000125" width="64.53" height="48.9024" fill="transparent" stroke="transparent" /><text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(878.995312 53.29165)">DRIFT</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(882.926562 74.890525)">[108]</text>
+   <title>DRIFT：用于 MRI 层面间方向超分辨率的难度感知整流流</title></g>
+  </g>
+ </g>
+</svg>

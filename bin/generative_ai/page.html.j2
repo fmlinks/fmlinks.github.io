@@ -1,0 +1,106 @@
+---
+layout: null
+title: "Generative AI"
+description: "{{ card_description }}"
+permalink: {{ permalink }}
+{% if lang == 'en' %}img: assets/generative-ai/thumbnail.webp
+importance: 1
+topics: [Machine Learning, Computer Vision, Medical Imaging]
+{% endif %}nav: false
+---
+<!doctype html>
+<html lang="{{ html_lang }}">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#ffffff">
+<title>Generative AI | Fengming Lin · Library</title>
+<meta name="description" content="{{ description }}">
+<link rel="canonical" href="https://fmlinks.github.io{{ permalink }}">
+<link rel="alternate" hreflang="en" href="https://fmlinks.github.io/library/generative-ai/">
+<link rel="alternate" hreflang="zh-CN" href="https://fmlinks.github.io/library/generative-ai/zh/">
+<link rel="alternate" hreflang="x-default" href="https://fmlinks.github.io/library/generative-ai/">
+<meta property="og:type" content="article"><meta property="og:title" content="Generative AI | Eight coordinates, 27 subtasks">
+<meta property="og:description" content="{{ description }}"><meta property="og:image" content="https://fmlinks.github.io/assets/generative-ai/thumbnail.webp">
+<meta property="og:url" content="https://fmlinks.github.io{{ permalink }}">
+<link rel="stylesheet" href="/assets/generative-ai/page.css">
+<script defer src="/assets/generative-ai/vendor/lucide.min.js"></script>
+<script defer src="/assets/generative-ai/page.js"></script>
+<script>window.MathJax={tex:{inlineMath:[['\\(','\\)'],['$','$']]},options:{skipHtmlTags:['script','noscript','style','textarea','pre','code']},startup:{typeset:true}};</script>
+<script async id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js" integrity="sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI=" crossorigin="anonymous"></script>
+</head>
+<body>
+<a class="skip-link" href="#main">{{ ui.skip }}</a><div class="reading-progress" aria-hidden="true"></div>
+<header class="site-header"><nav class="shell header-inner" aria-label="{{ ui.header_nav }}">
+  <a class="wordmark" href="/">Fengming Lin <span>/ Library</span></a>
+  <div class="header-tools"><a href="#papers">{{ icon('search') }}{{ ui.papers }}</a><a href="/assets/generative-ai/downloads/GenerativeAI_survey_v8.pdf" target="_blank" rel="noopener">PDF {{ icon('arrow-up-right') }}</a>
+    <div class="language-switch" aria-label="{{ ui.language }}"><a data-language="en" href="/library/generative-ai/" {% if lang == 'en' %}aria-current="page"{% endif %}>English</a><a data-language="zh" href="/library/generative-ai/zh/" {% if lang == 'zh' %}aria-current="page"{% endif %}>中文</a></div>
+  </div>
+</nav></header>
+<div class="shell hero reveal-in">
+  <div class="breadcrumb"><a href="/library/">Library</a>{{ icon('chevron-right') }}<span>Generative AI</span></div>
+  <h1>Generative AI</h1>
+  <p class="subtitle">{{ ui.subtitle }}</p>
+  <div class="byline"><strong>Fengming Lin</strong><span>{{ ui.draft }}</span><span>{{ '2026年10月22日' if lang == 'zh' else '22 October 2026' }}</span><span>{{ ui.eight_27 }}</span></div>
+  <div class="actions"><a class="button primary" href="#dimensions">{{ ui.explore }}{{ icon('arrow-down') }}</a><a class="button" href="/assets/generative-ai/downloads/GenerativeAI_survey_v8.pdf" target="_blank" rel="noopener">{{ icon('file-text') }}{{ ui.pdf }}</a><a class="button" href="/assets/generative-ai/downloads/GenerativeAI_LaTeX_v8.zip">{{ icon('download') }}LaTeX</a></div>
+  <details class="abstract"><summary>{{ icon('plus') }}{{ ui.abstract }}</summary><div class="prose">{{ block('abstract') }}</div></details>
+</div>
+<nav class="chapter-nav" aria-label="{{ ui.chapters }}"><div class="shell">{% for chapter in chapters %}<a href="#{{ chapter.id }}"><span>{{ '%02d'|format(loop.index) }}</span>{{ chapter.short }}</a>{% endfor %}<a href="#papers"><span>↗</span>{{ ui.references }}</a></div></nav>
+<main id="main">
+<section class="shell section" id="scope" aria-labelledby="scope-title">
+  {{ heading('scope') }}
+  <div class="prose">{{ blocks('S01') }}
+    <h3>{{ ui.discovery }}</h3>{{ blocks('S02','S03') }}
+    <div class="metrics"><div class="metric"><strong>25,056</strong><span>{{ ui.frame }}</span></div><div class="metric"><strong>383</strong><span>{{ ui.unique_papers }}</span></div><div class="metric"><strong>540</strong><span>{{ ui.positions }}</span></div><div class="metric"><strong>54</strong><span>{{ ui.fulltext }}</span></div></div>
+    <h3>{{ ui.coding }}</h3>{{ blocks('S04','S05') }}
+    <h3>{{ ui.histories }}</h3>{{ blocks('S06','S07') }}
+  </div>
+</section>
+<section class="shell section" id="overview" aria-labelledby="overview-title">
+  {{ heading('overview') }}<div class="prose">{{ blocks('OV01') }}</div>
+  {{ figure('F1_coordinates_and_trends','atlas',ui.atlas) }}
+  <div class="prose">{{ blocks('OV02') }}{{ blocks('TB01') }}</div>{{ table(1) }}
+  <div class="prose">{{ blocks('OV03','OV04') }}</div>
+</section>
+<section class="shell section" id="dimensions" aria-labelledby="dimensions-title">
+  {{ heading('dimensions') }}<div class="prose">{{ blocks('DI01') }}</div>
+  <div class="explorer">
+    <div class="dimension-tabs" role="tablist" aria-label="{{ ui.dimensions }}" aria-orientation="vertical">{% for group in groups %}<button class="dimension-tab" id="dimension-tab-{{ group.index }}" role="tab" aria-selected="{{ 'true' if loop.first else 'false' }}" aria-controls="dimension-{{ group.index }}" data-dimension="{{ group.index }}" {% if not loop.first %}tabindex="-1"{% endif %}><span class="index">{{ '%02d'|format(group.index) }}</span><span class="name">{{ group.name }}<small>{{ group.range }} · {{ group.tasks|length }} {{ ui.subtasks }}</small></span>{{ icon('arrow-right') }}</button>{% endfor %}</div>
+    <div class="dimension-panels">
+    {% for group in groups %}
+    <article class="dimension-panel" id="dimension-{{ group.index }}" data-dimension="{{ group.index }}" role="tabpanel" aria-labelledby="dimension-tab-{{ group.index }}" tabindex="0">
+      <h3>{{ group.name }}</h3><div class="dimension-intro" data-prose="{{ group.block }}" id="prose-{{ group.block }}">{{ block(group.block) }}</div>
+      <details class="media-toggle bridge-media"><summary>{{ icon('git-compare-arrows') }}{{ ui.correspondence }}<span class="summary-meta">{{ group.range }}</span>{{ icon('chevron-down') }}</summary>{{ figure(group.stem,'bridge',group.name) }}</details>
+      <div class="subtask-tabs" role="tablist" aria-label="{{ group.name }}">{% for task in group.tasks %}<button type="button" class="subtask-tab" role="tab" id="task-tab-{{ task.index }}" aria-controls="subtask-{{ task.index }}" aria-selected="{{ 'true' if loop.first else 'false' }}" data-task="{{ task.index }}" {% if not loop.first %}tabindex="-1"{% endif %}><span>{{ '%02d'|format(task.index) }}</span>{{ task.name }}</button>{% endfor %}</div>
+      {% for task in group.tasks %}<article class="subtask-panel" id="subtask-{{ task.index }}" data-task="{{ task.index }}" data-paper-keys="{{ task['keys']|join(',') }}" role="tabpanel" aria-labelledby="task-tab-{{ task.index }}" tabindex="0">
+        <h4>{{ '%02d'|format(task.index) }} · {{ task.name }}</h4>{{ task.prose }}
+        <details class="media-toggle timeline-media" open><summary>{{ icon('history') }}{{ ui.timeline }}<span class="summary-count">20 {{ ui.papers_word }}</span>{{ icon('chevron-down') }}</summary>
+          <figure class="source-figure" id="{{ task.figure_id }}"><div class="timeline-container" data-timeline="/assets/generative-ai/figures/{{ lang }}/{{ task.stem }}.svg"><img src="/assets/generative-ai/figures/{{ lang }}/{{ task.stem }}.svg" width="1008" height="323" alt="{{ task.name }} · 20 {{ ui.papers_word }} · 2018–2026*" loading="lazy" decoding="async"></div><figcaption><span>{{ ui.figure }} {{ task.figure_number }} · {{ task.name }} · 2018–2026*</span><a href="/assets/generative-ai/figures/{{ lang }}/{{ task.stem }}.svg" target="_blank" rel="noopener">SVG {{ icon('arrow-up-right') }}</a></figcaption></figure>
+          <div class="timeline-buttons">{% for paper in task.papers %}<button type="button" data-paper="{{ paper.key }}" title="{{ paper.title }}">{{ paper.short_name }}<span>[{{ paper.reference }}]</span></button>{% endfor %}</div>
+        </details>
+      </article>{% endfor %}
+    </article>{% endfor %}
+    </div>
+  </div>
+</section>
+<section class="shell section" id="synthesis" aria-labelledby="synthesis-title">
+  {{ heading('synthesis') }}<div class="prose"><h3>{{ ui.changes }}</h3>{{ blocks('SY01','SY02','SY03') }}<h3>{{ ui.combinations }}</h3>{{ blocks('SY04') }}</div>{{ table(2) }}<div class="prose">{{ blocks('SY05','SY06') }}<h3>{{ ui.supported_use }}</h3>{{ blocks('SY07','TB03') }}</div>{{ table(3) }}<div class="prose">{{ blocks('SY08','SY09') }}</div>
+</section>
+<section class="shell section" id="medical" aria-labelledby="medical-title">
+  {{ heading('medical') }}<div class="prose">{{ blocks('ME01') }}</div>{{ figure('S1_medical_validation','synthesis',ui.validation) }}
+  <div class="prose"><h3>{{ ui.acquisition }}</h3>{{ blocks('ME02','ME03') }}<h3>{{ ui.diagnostic }}</h3>{{ blocks('ME04') }}<h3>{{ ui.virtual_trials }}</h3>{{ blocks('ME05','ME06','ME07') }}</div>
+</section>
+<section class="shell section" id="agenda" aria-labelledby="agenda-title">
+  {{ heading('agenda') }}<div class="prose"><h3>{{ ui.missing_evidence }}</h3>{{ blocks('AG01') }}</div>{{ figure('S2_research_decisions','synthesis',ui.decisions) }}<div class="prose">{{ blocks('AG02') }}<h3>{{ ui.four_hypotheses }}</h3>{{ blocks('AG03','AG04','AG05','AG06','TB04') }}</div>{{ table(4) }}<div class="prose"><h3 id="sec-limitations">{{ ui.limitations }}</h3>{{ blocks('AG07','AG08') }}</div>
+</section>
+<section class="shell section" id="conclusion" aria-labelledby="conclusion-title">{{ heading('conclusion') }}<div class="prose">{{ blocks('CO01') }}<div class="provenance"><h3>{{ ui.transparency }}</h3>{{ block('transparency') }}<p>{{ ui.paper_title_label }} <em>{{ paper_title }}</em></p></div></div></section>
+<section class="shell section" id="papers" aria-labelledby="papers-title">
+  <div class="section-heading"><h2 id="papers-title">{{ ui.papers }}</h2><span class="section-number">383 / 540</span></div>
+  <div class="catalog-toolbar"><label class="search-field">{{ icon('search') }}<input id="paper-search" type="search" autocomplete="off" aria-label="{{ ui.search }}" placeholder="{{ ui.search }}"></label><select id="paper-year" aria-label="{{ ui.year }}"><option value="">{{ ui.all_years }}</option>{% for year in range(2026,2017,-1) %}<option value="{{ year }}">{{ year }}{{ '*' if year == 2026 else '' }}</option>{% endfor %}</select><select id="paper-task" aria-label="{{ ui.subtask }}"><option value="">{{ ui.all_tasks }}</option>{% for task in tasks %}<option value="{{ task.index }}">{{ '%02d'|format(task.index) }} {{ task.name }}</option>{% endfor %}</select></div>
+  <p id="result-count" class="result-count" aria-live="polite">383 {{ ui.papers_word }}</p><div class="paper-list" id="paper-list" aria-live="polite"></div><div class="pagination"><span id="catalog-page"></span><div><button class="button icon-only" type="button" id="catalog-previous" aria-label="{{ ui.previous }}" disabled>{{ icon('chevron-left') }}</button><button class="button icon-only" type="button" id="catalog-next" aria-label="{{ ui.next }}">{{ icon('chevron-right') }}</button></div></div>
+  <details class="media-toggle references"><summary>{{ icon('book-open') }}{{ ui.references }}<span class="summary-count">421</span>{{ icon('chevron-down') }}</summary><ol class="reference-list">{% for ref in references %}<li id="reference-{{ ref.number }}" value="{{ ref.number }}"><a class="reference-title" href="{{ ref.url }}" {% if ref.key in timeline_keys %}data-paper="{{ ref.key }}"{% else %}target="_blank" rel="noopener"{% endif %}>{{ ref.title }}</a><span class="reference-authors">{{ ref.authors }} · {{ ref.year }}</span></li>{% endfor %}</ol></details>
+</section>
+</main>
+<footer class="shell site-footer"><a href="/">Fengming Lin</a><span>{{ ui.draft }} · 2026</span><a href="/library/">{{ ui.back_library }} {{ icon('arrow-up-right') }}</a></footer>
+<dialog id="paper-dialog" class="paper-dialog" aria-labelledby="paper-dialog-title"><div class="dialog-shell"><div class="dialog-toolbar"><p id="paper-context" class="dialog-context"></p><button class="button icon-only" type="button" data-close-dialog aria-label="{{ ui.close }}">{{ icon('x') }}</button></div><div class="dialog-body"><h2 id="paper-dialog-title">{{ ui.abstract }}</h2></div><div class="dialog-footer"><button type="button" id="previous-paper" aria-label="{{ ui.previous }}">{{ icon('chevron-left') }}</button><a href="/assets/generative-ai/downloads/GenerativeAI_survey_v8.pdf" target="_blank" rel="noopener">{{ ui.pdf }}</a><button type="button" id="next-paper" aria-label="{{ ui.next }}">{{ icon('chevron-right') }}</button></div></div></dialog>
+<dialog id="image-dialog" class="image-dialog" aria-labelledby="image-caption"><div class="dialog-toolbar"><p id="image-caption"></p><a id="image-original" class="button icon-only" target="_blank" rel="noopener" aria-label="SVG">{{ icon('external-link') }}</a><button class="button icon-only" type="button" data-close-dialog aria-label="{{ ui.close }}">{{ icon('x') }}</button></div><div class="figure-scroll"><img id="image-zoom" alt=""></div></dialog>
+</body></html>

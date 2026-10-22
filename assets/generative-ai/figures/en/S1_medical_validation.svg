@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1008pt" height="590.4pt" viewBox="0 0 1008 590.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-22T02:25:41.933427</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 590.4
+L 1008 590.4
+L 1008 0
+L 0 0
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 313.2 205.2
+L 342 205.2
+" clip-path="url(#p8c9248b2fc)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 651.6 205.2
+L 680.4 205.2
+" clip-path="url(#p8c9248b2fc)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 313.2 338.4
+L 342 338.4
+" clip-path="url(#p8c9248b2fc)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 651.6 338.4
+L 680.4 338.4
+" clip-path="url(#p8c9248b2fc)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 313.2 471.6
+L 342 471.6
+" clip-path="url(#p8c9248b2fc)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 651.6 471.6
+L 680.4 471.6
+" clip-path="url(#p8c9248b2fc)" style="fill: none; stroke: #000000; stroke-width: 1.25"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start" x="21.6" y="35.02125" transform="rotate(-0 21.6 35.02125)">Selected medical workflows: where validation enters</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Arial'; text-anchor: start" x="21.6" y="72.972187" transform="rotate(-0 21.6 72.972187)">Context of use -&gt; independent reference -&gt; consequential endpoint</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start; fill: #2573b4" x="21.6" y="117.82125" transform="rotate(-0 21.6 117.82125)">Medical use</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start; fill: #148843" x="360" y="117.9675" transform="rotate(-0 360 117.9675)">Independent reference</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Arial'; text-anchor: start; fill: #68559d" x="698.4" y="117.82125" transform="rotate(-0 698.4 117.82125)">Decision / failure</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(21.6 191.056312)">Acquisition / reconstruction</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(21.6 210.492188)">Accelerated MRI or CT</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(21.6 229.928063)">Measured operator + noise</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(360 190.802812)">Acquired data + local truth</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(360 210.501937)">Held-out patients / scanners</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(360 229.937813)">Reader or quantitative test</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(698.4 190.934438)">Lesion / measurement error</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(698.4 210.370313)">Acceptance and reacquisition</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(698.4 229.806187)">Total time and fallback</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(21.6 323.90475)">Translation / staining</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(21.6 343.575)">MR-only RT or virtual histology</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(21.6 363.24525)">Preserve identity and biology</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(360 323.773125)">Dose / positioning reference</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(360 343.443375)">Registered tissue + readers</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(360 363.376875)">Finding-specific disagreement</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(698.4 323.751937)">Dose / diagnostic error</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(698.4 343.685437)">Artifact or missing structure</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(698.4 363.632437)">QA and standard-path fallback</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(21.6 457.10475)">Virtual imaging / device trials</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(21.6 476.775)">Target anatomy and pathology</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(21.6 496.44525)">Population + physics + observer</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(360 456.954)">External target support</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(360 476.8875)">Component and endpoint tests</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(360 496.586625)">Procedural / real comparators</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(698.4 457.071187)">Tail endpoint-risk error</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(698.4 476.770312)">Population / simulator bias</text>
+    <text style="font-size: 20px; font-family: 'Arial'" transform="translate(698.4 496.469437)">Separate Monte Carlo error</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8c9248b2fc">
+   <rect x="0" y="0" width="1008" height="590.4"/>
+  </clipPath>
+ </defs>
+</svg>

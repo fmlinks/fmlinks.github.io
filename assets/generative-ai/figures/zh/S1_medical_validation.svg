@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1008pt" height="590.4pt" viewBox="0 0 1008 590.4" version="1.1" data-language="zh" lang="zh-CN">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-22T03:31:57.322513</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 590.4  L 1008 590.4  L 1008 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 313.2 205.2  L 342 205.2  " clip-path="url(#p2d374b18fd)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_2">
+    <path d="M 651.6 205.2  L 680.4 205.2  " clip-path="url(#p2d374b18fd)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_3">
+    <path d="M 313.2 338.4  L 342 338.4  " clip-path="url(#p2d374b18fd)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_4">
+    <path d="M 651.6 338.4  L 680.4 338.4  " clip-path="url(#p2d374b18fd)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_5">
+    <path d="M 313.2 471.6  L 342 471.6  " clip-path="url(#p2d374b18fd)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="line2d_6">
+    <path d="M 651.6 471.6  L 680.4 471.6  " clip-path="url(#p2d374b18fd)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start" x="21.6" y="35.409375" transform="rotate(-0 21.6 35.409375)">选定医学工作流：验证介入环节</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="21.6" y="73.187812" transform="rotate(-0 21.6 73.187812)">使用情境 -&gt; 独立参考 -&gt; 有实质影响的终点</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #2573b4" x="21.6" y="118.209375" transform="rotate(-0 21.6 118.209375)">医学用途</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #148843" x="360" y="118.209375" transform="rotate(-0 360 118.209375)">独立参考</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #68559d" x="698.4" y="118.209375" transform="rotate(-0 698.4 118.209375)">决策 / 失败</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(21.6 188.469437)">采集 / 重建</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(21.6 210.707812)">加速 MRI 或 CT</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(21.6 232.946188)">测量算子 + 噪声</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(360 188.469437)">采集数据 + 局部真值</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(360 210.707812)">留出患者 / 扫描仪</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(360 232.946188)">阅片者或定量测试</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(698.4 188.469437)">病灶 / 测量误差</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(698.4 210.707812)">接受与重新采集</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(698.4 232.946188)">总时间与回退方案</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(21.6 321.669437)">转换 / 染色</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(21.6 343.907812)">仅 MR 放疗（RT）或虚拟组织学</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(21.6 366.146187)">保留身份特征与生物学特征</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(360 321.669437)">剂量 / 定位参考</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(360 343.907812)">配准组织 + 阅片者</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(360 366.146187)">特定影像发现的分歧</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(698.4 321.669437)">剂量 / 诊断误差</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(698.4 343.907812)">伪影或结构缺失</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(698.4 366.146187)">QA 与标准路径回退</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(21.6 454.869438)">虚拟成像 / 器械试验</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(21.6 477.107812)">目标解剖与病理</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(21.6 499.346187)">人群 + 物理模型 + 观察者</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(360 454.869438)">外部目标人群支持</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(360 477.107812)">组件与终点测试</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(360 499.346187)">程序化 / 真实对照</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(698.4 454.869438)">尾部终点风险误差</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(698.4 477.107812)">人群 / 模拟器偏差</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(698.4 499.346187)">单独区分蒙特卡洛误差</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p2d374b18fd">
+   <rect x="0" y="0" width="1008" height="590.4" />
+  </clipPath>
+ </defs>
+</svg>
