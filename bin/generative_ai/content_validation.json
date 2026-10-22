@@ -102,6 +102,9 @@
     "assets/generative-ai/page.css": "f52d301fd9ef3554baeab7ebe68d1b74dc38f1f7ec37da352c43c018435eb420",
     "assets/generative-ai/page.js": "623b311c591276bfc5983d513d10d35b4b37bde04e3cbd5e6a1e78b464f85158",
     "assets/generative-ai/thumbnail.webp": "d282c00910205976c7e7fa7f3beed78720d4f931b4c29d8ab2e316411a7d385e",
+    "assets/generative-ai/thumbnail.webp-1400.webp": "afac09590ed79dc1b65a5552be55e06edf9e8d691fb43ad920e257bd3d33b611",
+    "assets/generative-ai/thumbnail.webp-480.webp": "cae4eb4123e91b4f71776941843fb42dedcd25e78a584fe3fdfbc3f181cfc298",
+    "assets/generative-ai/thumbnail.webp-800.webp": "4cba9470668750b39b2b34035e6f238fef3785e93c4b89481924f701385fc6ed",
     "assets/generative-ai/vendor/lucide.min.js": "ab85225ecc1daa2033607856f03dd2dabcbc08e2d260a5b97e17c690aa929766",
     "assets/generative-ai/vendor/LUCIDE_LICENSE": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
   }

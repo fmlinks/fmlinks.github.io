@@ -51,9 +51,12 @@ python -X utf8 bin/generative_ai/preview.py --output C:/path/out/jekyll_preview
 node bin/generative_ai/test_site.cjs C:/path/out/jekyll_preview C:/path/out/browser_qa
 ```
 
-The local Windows preview disables ImageMagick conversion and excludes the legacy
-Jupyter notebook because those native helpers are unavailable in this local
-Ruby runtime. It does not change `_config.yml` or the production workflow. The
+The local Windows preview keeps responsive-image template output enabled, but
+sets ImageMagick input directories to an empty list and excludes the legacy
+Jupyter notebook because those native helpers are unavailable in this runtime.
+The three WebP card variants are generated explicitly by `build.py`, including
+the shared figure helper's retained `.webp-480.webp` naming convention.
+The preview does not change `_config.yml` or the production workflow. The
 GitHub Pages workflow remains the authoritative full production build.
 
 Browser tests use Chrome through Playwright, exercise all 1,080 language-specific

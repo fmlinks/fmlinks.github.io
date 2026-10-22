@@ -171,6 +171,7 @@ async function main() {
     passed('No browser errors or missing Generative AI assets',{});
     await page.goto(base+'/library/',{waitUntil:'networkidle'});
     assert(await page.locator('a[href="/library/generative-ai/"]').count()>0);
+    assert(await page.locator('a[href="/library/generative-ai/"] img').evaluate(img=>img.complete&&img.naturalWidth>0));
     const card = path.join(out,'library-card.png');
     await page.screenshot({path:card});receipt.screenshots.push(card);
     passed('Library collection card links to live route',{});

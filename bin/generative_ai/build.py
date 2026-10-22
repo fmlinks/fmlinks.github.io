@@ -231,9 +231,14 @@ def main():
     runtime = Path("C:/Users/fengminglin/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/lucide")
     shutil.copy2(runtime / "dist/umd/lucide.min.js", ASSETS / "vendor/lucide.min.js")
     shutil.copy2(runtime / "LICENSE", ASSETS / "vendor/LUCIDE_LICENSE")
-    original = Image.open(project / "figures/compact_v8/atlas/F1_coordinates_and_trends.png").convert("RGB")
+    atlas_source = Image.open(project / "figures/compact_v8/atlas/F1_coordinates_and_trends.png").convert("RGB")
+    original = atlas_source.copy()
     original.thumbnail((1100, 1000))
     original.save(ASSETS / "thumbnail.webp", quality=90)
+    # The site's shared figure helper retains the .webp suffix in srcset paths.
+    for width in [480, 800, 1400]:
+        height = round(atlas_source.height * width / atlas_source.width)
+        atlas_source.resize((width, height), Image.Resampling.LANCZOS).save(ASSETS / f"thumbnail.webp-{width}.webp", quality=90)
     report = {"papers": 383, "memberships": memberships, "article_blocks": len(block_en), "translated_papers": len(translations), "translated_article_blocks": len(article_zh),
               "missing_papers": missing_papers, "missing_blocks": missing_blocks, "strict": not args.allow_incomplete, "source_manuscript": "compact_v8", "status": "passed" if not args.allow_incomplete and not missing_papers and not missing_blocks else "development"}
     write_json(REPO / "bin/generative_ai/build_receipt.json", report)

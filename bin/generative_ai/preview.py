@@ -15,7 +15,8 @@ def main():
     output = Path(args.output).resolve()
     output.parent.mkdir(parents=True, exist_ok=True)
     config = yaml.safe_load((REPO / "_config.yml").read_text(encoding="utf-8"))
-    config["imagemagick"]["enabled"] = False
+    config["imagemagick"]["enabled"] = True
+    config["imagemagick"]["input_directories"] = []
     config["exclude"] = config.get("exclude", []) + ["assets/jupyter/"]
     override = output.parent / "preview_config.yml"
     override.write_text(yaml.safe_dump(config, allow_unicode=True), encoding="utf-8")
