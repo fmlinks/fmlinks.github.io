@@ -46,7 +46,11 @@ async function main() {
       assert(data.every(p=>p.title && p.abstract && p.url.startsWith('https://')));
       if(lang==='zh') assert(data.every(p=>/[\u3400-\u9fff]/.test(p.title) && /[\u3400-\u9fff]/.test(p.abstract)));
       assert(!data.some(p=>p.abstract.includes('this https URL')));
-      await page.goto(base+prefix,{waitUntil:'networkidle'});
+      const response = await page.goto(base+prefix,{waitUntil:'networkidle'});
+      const builtHTML = await response.text();
+      assert.equal((builtHTML.match(/<html\b/gi)||[]).length,1,'One document, no inherited Library wrapper');
+      assert.equal((builtHTML.match(/<head\b/gi)||[]).length,1);
+      assert(!builtHTML.includes('/assets/css/main.css'));
       await page.waitForSelector('.paper-row');
       assert.equal(await page.locator('.dimension-tab').count(),8);
       assert.equal(await page.locator('.subtask-panel').count(),27);
