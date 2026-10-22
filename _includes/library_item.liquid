@@ -1,0 +1,17 @@
+{% assign entry = include.item %}
+<div class="col col-12 col-md-4">
+  <a class="d-block h-100" href="{{ entry.url | relative_url }}">
+    <div class="card h-100 hoverable">
+      {% if entry.img %}
+        {% include figure.liquid loading="lazy" path=entry.img sizes="(min-width: 768px) 300px, 100vw" alt=entry.title class="card-img-top" %}
+      {% endif %}
+      <div class="card-body">
+        <h2 class="card-title">{{ entry.title | escape }}</h2>
+        <p class="card-text">{{ entry.description | escape }}</p>
+        {% if entry.topics.size > 0 %}
+          <p class="card-text small mb-0">{{ entry.topics | join: " · " | escape }}</p>
+        {% endif %}
+      </div>
+    </div>
+  </a>
+</div>

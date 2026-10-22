@@ -1,0 +1,24 @@
+---
+title: "Your topic title"
+description: "A short description for the library card."
+importance: 10
+topics: [Medical Imaging, Simulation]
+# Optional thumbnail, relative to the repository root:
+# img: assets/img/library/your-topic.png
+---
+
+## Overview
+
+Introduce the research question or topic in your own words.
+
+## Key ideas
+
+Summarize the concepts, methods, and your understanding.
+
+## Papers and datasets
+
+Link to the original sources and related library pages.
+
+## Open questions
+
+Record limitations, unresolved questions, and possible next steps.
