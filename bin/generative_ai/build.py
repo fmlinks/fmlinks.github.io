@@ -1,4 +1,4 @@
-"""Build both complete static reading editions from the frozen v8 manuscript."""
+"""Build both complete static reading editions from the current public manuscript."""
 import argparse
 import html
 import json
@@ -29,10 +29,12 @@ CHAPTERS = [
     ("dimensions", "Eight dimensions in detail", "逐维逐项理解生成模型", "8 Dimensions, 27 Subtasks", "八维27项"),
     ("synthesis", "Cross-dimensional trends and evidence", "跨维度趋势与证据综合", "Trends & Evidence", "趋势与证据"),
     ("medical", "Medical needs and validation", "医学需求与验证", "Medical Validation", "医学验证"),
-    ("agenda", "Research opportunities and limitations", "研究机会与局限", "Research Agenda", "研究议程"),
+    ("agenda", "Research considerations and limitations", "研究考量与局限", "Considerations & Limits", "考量与局限"),
     ("conclusion", "Conclusion", "结论", "Conclusion", "结论"),
 ]
 UI_EN.update(atlas="Eight composable coordinates and 27 subtask trends", all_tasks="All 27 subitems")
+UI_EN.update(draft="Research draft · v12", missing_evidence="Interpret evidence in its context of use", decisions="General evidence-reading workflow", four_hypotheses="Four general evidence considerations", limitations="Limitations of the evidence base")
+UI_ZH.update(draft="研究草稿 · v12", missing_evidence="结合适用情境解读证据", decisions="通用证据阅读框架", four_hypotheses="四类通用证据考量", limitations="证据基础的局限")
 
 
 def write_json(file, value):
@@ -87,8 +89,8 @@ def main():
     parser.add_argument("--allow-incomplete", action="store_true")
     args = parser.parse_args()
     project = Path(args.project)
-    research = project / "research/library_site_v9"
-    manuscript = project / "manuscript/compact_v8"
+    research = project / "research/library_site_v12"
+    manuscript = project / "manuscript/compact_v12"
     catalogue = json.loads((project / "research/compact_timelines_v8/timeline_catalog.json").read_text())
     geometry = json.loads((project / "figures/compact_v8/timelines/timeline_figure_validation.json").read_text())["geometry"]
     article = json.loads((research / "article_en.json").read_text(encoding="utf-8"))
@@ -176,7 +178,7 @@ def main():
             return Markup(f'<i class="icon" data-lucide="{name}" aria-hidden="true"></i>')
         def table(number):
             t = article["tables"][number-1]
-            names = (["The eight-coordinate reading contract", "Cross-coordinate co-mentions", "Source-specific evidence ledger", "Four medical-oriented opportunity tests"] if lang == "en" else ["八维阅读与比较契约", "跨维度词汇共现", "具名研究的证据与边界", "四个医学研究机会的进入条件"])
+            names = (["The eight-coordinate reading contract", "Cross-coordinate co-mentions", "Source-specific evidence ledger", "General evidence-reading checklist"] if lang == "en" else ["八维阅读与比较契约", "跨维度词汇共现", "具名研究的证据与边界", "通用证据阅读清单"])
             label = ["coordinates", "compositions", "evidence", "agenda"][number-1]
             rows = []
             for ri, row in enumerate(t["rows"]):
@@ -216,9 +218,9 @@ def main():
         env = Environment(loader=FileSystemLoader(Path(__file__).parent), autoescape=select_autoescape(["html", "xml", "j2"]))
         content = env.get_template("page.html.j2").render(lang=lang, html_lang="en" if lang == "en" else "zh-CN", permalink="/library/generative-ai/" + ("zh/" if lang == "zh" else ""),
             ui=ui, chapters=chapters, groups=groups, tasks=tasks, references=references, timeline_keys=all_keys, block=block, blocks=blocks, figure=figure, table=table, heading=heading, icon=icon,
-            description="Eight coordinates, 27 subitems and an evidence-based research agenda from ML to CV and medical imaging." if lang == "en" else "生成模型八维27项知识体系，结合383篇代表论文、趋势分析、医学需求与研究议程。",
+            description="Eight coordinates, 27 subitems, representative histories and evidence interpretation from ML to CV and medical image analysis." if lang == "en" else "生成模型八维27项知识体系，结合383篇代表论文、趋势分析、医学需求与证据解读。",
             card_description="A bilingual, source-linked survey: eight coordinates, 27 subitems, 383 representative papers.",
-            paper_title="Generative Models for Vision and Medical Imaging: Eight Coordinates, 27 Subtasks, and an Evidence-Based Research Agenda")
+            paper_title="Generative AI for Computer Vision and Medical Image Analysis: A Survey of Tasks, Trends, and Research Opportunities")
         destination = REPO / ("_library/generative-ai.html" if lang == "en" else "_pages/generative-ai-zh.html")
         destination.write_text("\n".join(line.rstrip() for line in content.splitlines()) + "\n", encoding="utf-8")
     for svg in (ASSETS / "figures").rglob("*.svg"):
@@ -226,8 +228,15 @@ def main():
         svg.write_text("\n".join(line.rstrip() for line in value.splitlines()) + "\n", encoding="utf-8")
     for folder in ["downloads", "vendor"]:
         (ASSETS / folder).mkdir(parents=True, exist_ok=True)
-    for name in ["GenerativeAI_survey_v8.pdf", "GenerativeAI_LaTeX_v8.zip"]:
-        shutil.copy2(project / "submit/GenerativeAI_compact_v8" / name, ASSETS / "downloads" / name)
+    for name in ["GenerativeAI_survey_v12.pdf", "GenerativeAI_LaTeX_v12.zip"]:
+        source = project / "submit/GenerativeAI_compact_v12" / name
+        shutil.copy2(source, ASSETS / "downloads" / name)
+        # Existing inbound download links serve the same current reading revision.
+        shutil.copy2(source, ASSETS / "downloads" / name.replace("v12", "v8"))
+    for lang in ["en", "zh"]:
+        for source in (project / "figures/compact_v12" / lang).glob("*.svg"):
+            target = ASSETS / "figures" / lang / source.name
+            target.write_text("\n".join(line.rstrip() for line in source.read_text(encoding="utf-8").splitlines()) + "\n", encoding="utf-8")
     runtime = Path("C:/Users/fengminglin/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/lucide")
     shutil.copy2(runtime / "dist/umd/lucide.min.js", ASSETS / "vendor/lucide.min.js")
     shutil.copy2(runtime / "LICENSE", ASSETS / "vendor/LUCIDE_LICENSE")
@@ -240,7 +249,7 @@ def main():
         height = round(atlas_source.height * width / atlas_source.width)
         atlas_source.resize((width, height), Image.Resampling.LANCZOS).save(ASSETS / f"thumbnail.webp-{width}.webp", quality=90)
     report = {"papers": 383, "memberships": memberships, "article_blocks": len(block_en), "translated_papers": len(translations), "translated_article_blocks": len(article_zh),
-              "missing_papers": missing_papers, "missing_blocks": missing_blocks, "strict": not args.allow_incomplete, "source_manuscript": "compact_v8", "status": "passed" if not args.allow_incomplete and not missing_papers and not missing_blocks else "development"}
+              "missing_papers": missing_papers, "missing_blocks": missing_blocks, "strict": not args.allow_incomplete, "source_manuscript": "compact_v12", "status": "passed" if not args.allow_incomplete and not missing_papers and not missing_blocks else "development"}
     write_json(REPO / "bin/generative_ai/build_receipt.json", report)
     print(json.dumps(report, ensure_ascii=False, indent=2))
 

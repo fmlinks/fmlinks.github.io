@@ -7,8 +7,8 @@ const target = process.argv[2];
 const out = path.resolve(process.argv[3]);
 fs.mkdirSync(out,{recursive:true});
 const expected = {
-  en:['Scope & Methods','Overview','8 Dimensions, 27 Subtasks','Trends & Evidence','Medical Validation','Research Agenda','Conclusion','References'],
-  zh:['范围与方法','总览','八维27项','趋势与证据','医学验证','研究议程','结论','参考文献']
+  en:['Scope & Methods','Overview','8 Dimensions, 27 Subtasks','Trends & Evidence','Medical Validation','Considerations & Limits','Conclusion','References'],
+  zh:['范围与方法','总览','八维27项','趋势与证据','医学验证','考量与局限','结论','参考文献']
 };
 const ids=['scope','overview','dimensions','synthesis','medical','agenda','conclusion','references'];
 let server;

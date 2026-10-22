@@ -5,7 +5,7 @@ normal repository Jekyll build; Python is not required in deployment.
 
 ## Source Contract
 
-- Frozen manuscript: `GenerativeAI/manuscript/compact_v8`, dated 22 October 2026.
+- Current public manuscript: `GenerativeAI/manuscript/compact_v12`, dated 22 October 2026.
 - Seven chapters, 87 prose anchors, 38 figures, four tables, 421 references.
 - 27 timelines, 20 entries each: 540 memberships and 383 distinct publications.
 - Statistical atlas: 25,056 arXiv title/abstract records, including 7,019 from
@@ -18,10 +18,12 @@ normal repository Jekyll build; Python is not required in deployment.
   website preserves it and discloses the source defect rather than filling it in.
 
 The authoring workspace is separate from this repository:
-`C:/lfm/code/survey/survey/GenerativeAI/research/library_site_v9`.
+`C:/lfm/code/survey/survey/GenerativeAI/research/library_site_v12`.
 It holds article exports, translations, raw source supplements, independent
 translation review reports, Chinese figure sources and geometry receipts.
-The frozen manuscript and earlier versions are not modified by the website build.
+Earlier local versions are not modified by the website build. Current and legacy
+download URLs serve the current PDF and compilable LaTeX package. The reading
+edition discusses general evidence considerations rather than proposed projects.
 
 ## Regeneration
 

@@ -32,7 +32,7 @@ topics: [Machine Learning, Computer Vision, Medical Imaging]
 <a class="skip-link" href="#main">{{ ui.skip }}</a><div class="reading-progress" aria-hidden="true"></div>
 <header class="site-header"><nav class="shell header-inner" aria-label="{{ ui.header_nav }}">
   <a class="wordmark" href="/">Fengming Lin <span>/ Library</span></a>
-  <div class="header-tools"><a href="#papers">{{ icon('search') }}{{ ui.papers }}</a><a href="/assets/generative-ai/downloads/GenerativeAI_survey_v8.pdf" target="_blank" rel="noopener">PDF {{ icon('arrow-up-right') }}</a>
+  <div class="header-tools"><a href="#papers">{{ icon('search') }}{{ ui.papers }}</a><a href="/assets/generative-ai/downloads/GenerativeAI_survey_v12.pdf" target="_blank" rel="noopener">PDF {{ icon('arrow-up-right') }}</a>
     <div class="language-switch" aria-label="{{ ui.language }}"><a data-language="en" href="/library/generative-ai/" {% if lang == 'en' %}aria-current="page"{% endif %}>English</a><a data-language="zh" href="/library/generative-ai/zh/" {% if lang == 'zh' %}aria-current="page"{% endif %}>中文</a></div>
   </div>
 </nav></header>
@@ -40,8 +40,9 @@ topics: [Machine Learning, Computer Vision, Medical Imaging]
   <div class="breadcrumb"><a href="/library/">Library</a>{{ icon('chevron-right') }}<span>Generative AI</span></div>
   <h1>Generative AI</h1>
   <p class="subtitle">{{ ui.subtitle }}</p>
-  <div class="byline"><strong>Fengming Lin</strong><span>{{ ui.draft }}</span><span>{{ '2026年10月22日' if lang == 'zh' else '22 October 2026' }}</span><span>{{ ui.eight_27 }}</span></div>
-  <div class="actions"><a class="button primary" href="#dimensions">{{ ui.explore }}{{ icon('arrow-down') }}</a><a class="button" href="/assets/generative-ai/downloads/GenerativeAI_survey_v8.pdf" target="_blank" rel="noopener">{{ icon('file-text') }}{{ ui.pdf }}</a><a class="button" href="/assets/generative-ai/downloads/GenerativeAI_LaTeX_v8.zip">{{ icon('download') }}LaTeX</a></div>
+  <div class="byline"><strong>Fengming Lin · Fangjun Li</strong><span>{{ ui.draft }}</span><span>{{ '2026年10月22日' if lang == 'zh' else '22 October 2026' }}</span><span>{{ ui.eight_27 }}</span></div>
+  <p>School of Computer Science, University of Manchester</p>
+  <div class="actions"><a class="button primary" href="#dimensions">{{ ui.explore }}{{ icon('arrow-down') }}</a><a class="button" href="/assets/generative-ai/downloads/GenerativeAI_survey_v12.pdf" target="_blank" rel="noopener">{{ icon('file-text') }}{{ ui.pdf }}</a><a class="button" href="/assets/generative-ai/downloads/GenerativeAI_LaTeX_v12.zip">{{ icon('download') }}LaTeX</a></div>
   <details class="abstract"><summary>{{ icon('plus') }}{{ ui.abstract }}</summary><div class="prose">{{ block('abstract') }}</div></details>
 </div>
 <nav class="chapter-nav" aria-label="{{ ui.chapters }}"><div class="shell">{% for chapter in chapters %}<a href="#{{ chapter.id }}"><span>{{ '%02d'|format(loop.index) }}</span>{{ chapter.short }}</a>{% endfor %}<a href="#references"><span>↗</span>{{ ui.references }}</a></div></nav>
@@ -101,6 +102,6 @@ topics: [Machine Learning, Computer Vision, Medical Imaging]
 </section>
 </main>
 <footer class="shell site-footer"><a href="/">Fengming Lin</a><span>{{ ui.draft }} · 2026</span><a href="/library/">{{ ui.back_library }} {{ icon('arrow-up-right') }}</a></footer>
-<dialog id="paper-dialog" class="paper-dialog" aria-labelledby="paper-dialog-title"><div class="dialog-shell"><div class="dialog-toolbar"><p id="paper-context" class="dialog-context"></p><button class="button icon-only" type="button" data-close-dialog aria-label="{{ ui.close }}">{{ icon('x') }}</button></div><div class="dialog-body"><h2 id="paper-dialog-title">{{ ui.abstract }}</h2></div><div class="dialog-footer"><button type="button" id="previous-paper" aria-label="{{ ui.previous }}">{{ icon('chevron-left') }}</button><a href="/assets/generative-ai/downloads/GenerativeAI_survey_v8.pdf" target="_blank" rel="noopener">{{ ui.pdf }}</a><button type="button" id="next-paper" aria-label="{{ ui.next }}">{{ icon('chevron-right') }}</button></div></div></dialog>
+<dialog id="paper-dialog" class="paper-dialog" aria-labelledby="paper-dialog-title"><div class="dialog-shell"><div class="dialog-toolbar"><p id="paper-context" class="dialog-context"></p><button class="button icon-only" type="button" data-close-dialog aria-label="{{ ui.close }}">{{ icon('x') }}</button></div><div class="dialog-body"><h2 id="paper-dialog-title">{{ ui.abstract }}</h2></div><div class="dialog-footer"><button type="button" id="previous-paper" aria-label="{{ ui.previous }}">{{ icon('chevron-left') }}</button><a href="/assets/generative-ai/downloads/GenerativeAI_survey_v12.pdf" target="_blank" rel="noopener">{{ ui.pdf }}</a><button type="button" id="next-paper" aria-label="{{ ui.next }}">{{ icon('chevron-right') }}</button></div></div></dialog>
 <dialog id="image-dialog" class="image-dialog" aria-labelledby="image-caption"><div class="dialog-toolbar"><p id="image-caption"></p><a id="image-original" class="button icon-only" target="_blank" rel="noopener" aria-label="SVG">{{ icon('external-link') }}</a><button class="button icon-only" type="button" data-close-dialog aria-label="{{ ui.close }}">{{ icon('x') }}</button></div><div class="figure-scroll"><img id="image-zoom" alt=""></div></dialog>
 </body></html>

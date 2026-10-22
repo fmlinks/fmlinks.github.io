@@ -4,7 +4,7 @@
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2026-10-22T03:31:51.529342</dc:date>
+    <dc:date>2026-10-22T19:10:24.455216</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -23,40 +23,40 @@
   </g>
   <g id="axes_1">
    <g id="line2d_1">
-    <path d="M 321.12 126  L 338.4 126  " clip-path="url(#p46878be4e1)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+    <path d="M 321.12 126  L 338.4 126  " clip-path="url(#p1c29da010d)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
    </g>
    <g id="line2d_2">
-    <path d="M 656.64 126  L 673.92 126  " clip-path="url(#p46878be4e1)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+    <path d="M 656.64 126  L 673.92 126  " clip-path="url(#p1c29da010d)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
    </g>
    <g id="line2d_3">
-    <path d="M 321.12 298.8  L 338.4 298.8  " clip-path="url(#p46878be4e1)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+    <path d="M 321.12 298.8  L 338.4 298.8  " clip-path="url(#p1c29da010d)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
    </g>
    <g id="line2d_4">
-    <path d="M 656.64 298.8  L 673.92 298.8  " clip-path="url(#p46878be4e1)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+    <path d="M 656.64 298.8  L 673.92 298.8  " clip-path="url(#p1c29da010d)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
    </g>
    <g id="line2d_5">
-    <path d="M 321.12 471.6  L 338.4 471.6  " clip-path="url(#p46878be4e1)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+    <path d="M 321.12 471.6  L 338.4 471.6  " clip-path="url(#p1c29da010d)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
    </g>
    <g id="line2d_6">
-    <path d="M 656.64 471.6  L 673.92 471.6  " clip-path="url(#p46878be4e1)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+    <path d="M 656.64 471.6  L 673.92 471.6  " clip-path="url(#p1c29da010d)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
    </g>
    <g id="line2d_7">
-    <path d="M 321.12 644.4  L 338.4 644.4  " clip-path="url(#p46878be4e1)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+    <path d="M 321.12 644.4  L 338.4 644.4  " clip-path="url(#p1c29da010d)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
    </g>
    <g id="line2d_8">
-    <path d="M 656.64 644.4  L 673.92 644.4  " clip-path="url(#p46878be4e1)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+    <path d="M 656.64 644.4  L 673.92 644.4  " clip-path="url(#p1c29da010d)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
    </g>
    <g id="line2d_9">
-    <path d="M 321.12 817.2  L 338.4 817.2  " clip-path="url(#p46878be4e1)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+    <path d="M 321.12 817.2  L 338.4 817.2  " clip-path="url(#p1c29da010d)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
    </g>
    <g id="line2d_10">
-    <path d="M 656.64 817.2  L 673.92 817.2  " clip-path="url(#p46878be4e1)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+    <path d="M 656.64 817.2  L 673.92 817.2  " clip-path="url(#p1c29da010d)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
    </g>
    <g id="line2d_11">
-    <path d="M 321.12 990  L 338.4 990  " clip-path="url(#p46878be4e1)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+    <path d="M 321.12 990  L 338.4 990  " clip-path="url(#p1c29da010d)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
    </g>
    <g id="line2d_12">
-    <path d="M 656.64 990  L 673.92 990  " clip-path="url(#p46878be4e1)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+    <path d="M 656.64 990  L 673.92 990  " clip-path="url(#p1c29da010d)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
    </g>
    <g id="text_1">
     <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #2573b4" x="15.84" y="28.209375" transform="rotate(-0 15.84 28.209375)">01  任务操作</text>
@@ -97,7 +97,7 @@
    <g id="text_11">
     <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 162.8675)">掩膜 / 元数据 -&gt; CT 体积</text>
     <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 185.105875)">改变外观，保留解剖</text>
-    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 207.34425)">需罕见病例与隐私 QA</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 207.34425)">需要独立评估和隐私检查</text>
     <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(686.88 229.582625)">检验留出真实任务的效用</text>
    </g>
    <g id="text_12">
@@ -239,7 +239,7 @@
   </g>
  </g>
  <defs>
-  <clipPath id="p46878be4e1">
+  <clipPath id="p1c29da010d">
    <rect x="0" y="0" width="1008" height="1160.64" />
   </clipPath>
  </defs>

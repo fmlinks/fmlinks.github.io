@@ -4,7 +4,7 @@
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2026-10-22T03:31:57.911666</dc:date>
+    <dc:date>2026-10-22T19:10:26.044093</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -23,70 +23,69 @@
   </g>
   <g id="axes_1">
    <g id="line2d_1">
-    <path d="M 313.2 205.2  L 342 205.2  " clip-path="url(#pe54e912f91)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+    <path d="M 313.2 205.2  L 342 205.2  " clip-path="url(#pb80f6fe737)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
    </g>
    <g id="line2d_2">
-    <path d="M 651.6 205.2  L 680.4 205.2  " clip-path="url(#pe54e912f91)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
+    <path d="M 651.6 205.2  L 680.4 205.2  " clip-path="url(#pb80f6fe737)" style="fill: none; stroke: #000000; stroke-width: 1.25" />
    </g>
    <g id="text_1">
-    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start" x="21.6" y="35.409375" transform="rotate(-0 21.6 35.409375)">从文献空白到决定性小规模试验</text>
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start" x="21.6" y="35.409375" transform="rotate(-0 21.6 35.409375)">通用证据阅读框架</text>
    </g>
    <g id="text_2">
-    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="21.6" y="73.608125" transform="rotate(-0 21.6 73.608125)">通用研究选题流程 | 正文展开四个医学案例</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="21.6" y="73.490938" transform="rotate(-0 21.6 73.490938)">适用情境 | 可比条件 | 证据边界</text>
    </g>
    <g id="text_3">
-    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #2573b4" x="21.6" y="118.209375" transform="rotate(-0 21.6 118.209375)">1  明确需求</text>
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #2573b4" x="21.6" y="118.209375" transform="rotate(-0 21.6 118.209375)">1  理解研究情境</text>
    </g>
    <g id="text_4">
-    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(21.6 177.35025)">人群与输入</text>
-    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(21.6 199.588625)">所需不变量</text>
-    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(21.6 221.827)">足以改变决策的误差</text>
-    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(21.6 244.065375)">可用的独立真值</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(21.6 177.35025)">输入与所需输出</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(21.6 199.588625)">报告的适用情境</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(21.6 221.827)">参照与研究设计</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(21.6 244.065375)">实际测量了什么？</text>
    </g>
    <g id="text_5">
-    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="21.6" y="325.907812" transform="rotate(-0 21.6 325.907812)">这一误差能否测量？</text>
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="21.6" y="325.907812" transform="rotate(-0 21.6 325.907812)">结合情境解释结果</text>
    </g>
    <g id="text_6">
-    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(21.6 404.788625)">否 -&gt; 收窄结论</text>
-    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(21.6 427.027)">或建立验证资源</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(21.6 404.788625)">不外推到</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(21.6 427.027)">未经测试的应用</text>
    </g>
    <g id="text_7">
-    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #148843" x="360" y="118.209375" transform="rotate(-0 360 118.209375)">2  核实增量</text>
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #148843" x="360" y="118.209375" transform="rotate(-0 360 118.209375)">2  保持公平比较</text>
    </g>
    <g id="text_8">
-    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(360 177.35025)">最相近工作 + 同义词</text>
-    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(360 199.588625)">已有成果是什么？</text>
-    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(360 221.827)">缺少能力还是证据？</text>
-    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(360 244.065375)">强常规基线</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(360 177.35025)">数据与监督信息</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(360 199.588625)">划分与测试条件</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(360 221.827)">计算资源</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(360 244.065375)">相关比较方法</text>
    </g>
    <g id="text_9">
-    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="360" y="325.907812" transform="rotate(-0 360 325.907812)">增量能否检验？</text>
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="360" y="325.907812" transform="rotate(-0 360 325.907812)">研究协议是否可比？</text>
    </g>
    <g id="text_10">
-    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(360 404.788625)">否 -&gt; 修改问题</text>
-    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(360 427.027)">不只是更换模型名</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(360 404.788625)">在比较中保留</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(360 427.027)">不匹配的研究条件</text>
    </g>
    <g id="text_11">
-    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #68559d" x="698.4" y="118.209375" transform="rotate(-0 698.4 118.209375)">3  开展小规模试验</text>
+    <text style="font-weight: 700; font-size: 24px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #68559d" x="698.4" y="118.209375" transform="rotate(-0 698.4 118.209375)">3  明确结论边界</text>
    </g>
    <g id="text_12">
-    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(698.4 177.35025)">冻结数据划分与终点</text>
-    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(698.4 199.588625)">纳入看似合理但错误的对照</text>
-    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(698.4 221.827)">匹配数据与算力获取条件</text>
-    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(698.4 244.065375)">预先指定停止规则</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(698.4 177.35025)">独立参照</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(698.4 199.588625)">报告的结果与误差</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(698.4 221.827)">假设和不确定性</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(698.4 244.065375)">已知研究局限</text>
    </g>
    <g id="text_13">
-    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(698.4 314.788625)">小规模试验能否改变</text>
-    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(698.4 337.027)">有实质影响的结果？</text>
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Microsoft YaHei'; text-anchor: start" x="698.4" y="325.907812" transform="rotate(-0 698.4 325.907812)">证据支持什么结论？</text>
    </g>
    <g id="text_14">
-    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(698.4 404.788625)">否 -&gt; 停止或收窄</text>
-    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(698.4 427.027)">是 -&gt; 先消融，再扩展</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(698.4 404.788625)">区分实际观察</text>
+    <text style="font-size: 20px; font-family: 'Microsoft YaHei'" transform="translate(698.4 427.027)">与更宽泛的解释</text>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="pe54e912f91">
+  <clipPath id="pb80f6fe737">
    <rect x="0" y="0" width="1008" height="525.6" />
   </clipPath>
  </defs>
