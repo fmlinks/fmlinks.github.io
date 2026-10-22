@@ -49,6 +49,7 @@ remain sufficient to build and serve the complete site.
 ```powershell
 python -X utf8 bin/generative_ai/preview.py --output C:/path/out/jekyll_preview
 node bin/generative_ai/test_site.cjs C:/path/out/jekyll_preview C:/path/out/browser_qa
+node bin/generative_ai/test_navigation.cjs C:/path/out/jekyll_preview C:/path/out/navigation_qa
 ```
 
 The local Windows preview keeps responsive-image template output enabled, but

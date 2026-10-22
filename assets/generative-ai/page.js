@@ -177,6 +177,13 @@
   document.addEventListener("click", event => {
     const trigger = event.target.closest("[data-paper]");
     if (trigger) { event.preventDefault(); openPaper(trigger.dataset.paper, sequenceFor(trigger), trigger); return; }
+    if (event.target.closest('.chapter-nav a[href="#references"]')) {
+      event.preventDefault();
+      $("#references").open = true;
+      history.replaceState(null, "", "#references");
+      languageLinks();
+      $("#references").scrollIntoView({block:"start",behavior:reduced ? "instant" : "smooth"});
+    }
     const crossref = event.target.closest("a.crossref");
     if (crossref?.getAttribute("href")?.startsWith("#")) {
       const target = document.getElementById(crossref.hash.slice(1));
@@ -268,7 +275,7 @@
   const observer = new IntersectionObserver(entries => {
     entries.forEach(entry => {
       if (entry.isIntersecting) {
-        const id = entry.target.id;
+        const id = entry.target.id === "papers" ? "references" : entry.target.id;
         $$(".chapter-nav a").forEach(link => link.classList.toggle("active", link.getAttribute("href") === "#" + id));
       }
     });
@@ -289,4 +296,8 @@
   initCatalog();
   const initialPaper = params.get("paper");
   if (initialPaper) openPaper(initialPaper);
+  if (location.hash === "#references") {
+    $("#references").open = true;
+    $("#references").scrollIntoView({block:"start"});
+  }
 })();
